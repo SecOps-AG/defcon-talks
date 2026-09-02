@@ -1,0 +1,249 @@
+{
+  "villageSlug": "dcgvr-village",
+  "villageName": "DCGVR Village",
+  "eventSlug": "defcon-30",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDVeV6ukT-luoRiF5JpyxbR",
+  "description": "DCGVR (DEF CON Groups Virtual Reality) Village at DEF CON 30 connects global hacker groups with community presentations on cloud exploitation, hardware security, packet analysis, and social engineering.",
+  "talks": [
+    {
+      "youtubeId": "bzhQIQ9lSy0",
+      "slug": "dcgvr-talks-jayson-street",
+      "title": "DCGVR Village Keynote",
+      "speakers": [
+        "Jayson E. Street"
+      ],
+      "track": "community",
+      "topics": [
+        "keynote",
+        "community",
+        "social-engineering",
+        "defcon-groups",
+        "culture"
+      ],
+      "teaser": "Jayson E. Street delivers the DCGVR Village keynote, reflecting on global DEF CON Groups, community resilience, and unconventional security career paths.",
+      "summary": null,
+      "durationSeconds": 1613
+    },
+    {
+      "youtubeId": "amm6fv_1uDA",
+      "slug": "dc30-dcgvr-talks",
+      "title": "Attack Trends in 2022",
+      "speakers": [],
+      "track": "threat-intel",
+      "topics": [
+        "threat-intelligence",
+        "attack-trends",
+        "ransomware",
+        "initial-access",
+        "threat-landscape"
+      ],
+      "teaser": "An analysis of prominent cyberattack vectors, adversary tradecraft shifts, and ransomware trends observed across 2022.",
+      "summary": null,
+      "durationSeconds": 2564
+    },
+    {
+      "youtubeId": "zq9S97Jw3sk",
+      "slug": "dc30-dcgvr-talks-2",
+      "title": "Exploits & Dragons: Gamifying Infosec Education with Tabletop RPGs",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "gamification",
+        "tabletop",
+        "education",
+        "threat-modeling",
+        "community"
+      ],
+      "teaser": "Exploits & Dragons explores how tabletop roleplaying game mechanics can be used to simulate cyber attacks, incident response, and threat modeling.",
+      "summary": null,
+      "durationSeconds": 1264
+    },
+    {
+      "youtubeId": "NbB2Keq3WFw",
+      "slug": "dc30-dcgvr-how-to-start-and-run-a-def-con-group",
+      "title": "How to Start & Run a DEF CON Group (DCG)",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "defcon-groups",
+        "community",
+        "meetups",
+        "mentorship",
+        "organizing"
+      ],
+      "teaser": "A practical guide to founding, organizing, and sustaining local DEF CON Groups (DCGs) to foster community learning and technical collaboration.",
+      "summary": null,
+      "durationSeconds": 3592
+    },
+    {
+      "youtubeId": "LloLFZtMyEA",
+      "slug": "dc30-dcgvr-talks-advanced-packet-wrangling-with-tcpdump",
+      "title": "Advanced Packet Wrangling with tcpdump",
+      "speakers": [],
+      "track": "blue-team",
+      "topics": [
+        "tcpdump",
+        "pcap",
+        "bpf",
+        "packet-analysis",
+        "network-forensics"
+      ],
+      "teaser": "Mastering advanced tcpdump command-line syntax, Berkeley Packet Filters (BPF), and real-time packet carving for network troubleshooting and threat analysis.",
+      "summary": null,
+      "durationSeconds": 2288
+    },
+    {
+      "youtubeId": "empQz_ZZP9U",
+      "slug": "dc30-dcgvr-talks-ham-radio-is-not-just-for-dinosaurs",
+      "title": "Ham Radio is Not Just for Dinosaurs",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "ham-radio",
+        "amateur-radio",
+        "sdr",
+        "rf",
+        "wireless"
+      ],
+      "teaser": "Demystifying amateur radio for modern hackers, exploring digital packet radio, APRS telemetry, SDR integration, and emergency communications.",
+      "summary": null,
+      "durationSeconds": 1519
+    },
+    {
+      "youtubeId": "ums0AEVNaIs",
+      "slug": "dc30-dcgvr-talks-how-my-high-school-creative-writing-class",
+      "title": "How My High School Creative Writing Class Prepared Me for Social Engineering",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "pretexting",
+        "storytelling",
+        "psychology",
+        "human-factors"
+      ],
+      "teaser": "Exploring how storytelling, character development, and narrative pacing learned in creative writing form the foundation of compelling social engineering pretexts.",
+      "summary": null,
+      "durationSeconds": 3267
+    },
+    {
+      "youtubeId": "Z82FSqCO9U0",
+      "slug": "dc30-dcgvr-talks-fun-with-bookmarks",
+      "title": "Fun with Bookmarks: Weaponizing Bookmarklets & Browser Storage",
+      "speakers": [],
+      "track": "appsec",
+      "topics": [
+        "bookmarklets",
+        "browser-security",
+        "javascript",
+        "xss",
+        "appsec"
+      ],
+      "teaser": "Exploring the offensive and productivity utility of browser bookmarklets, demonstrating client-side automation, DOM manipulation, and security auditing tools.",
+      "summary": null,
+      "durationSeconds": 1893
+    },
+    {
+      "youtubeId": "qWJKL5xk6kU",
+      "slug": "dc30-dcgvr-talks-careful-who-you-colab-with",
+      "title": "Careful Who You Colab With: Security Risks in Google Colab & Shared Notebooks",
+      "speakers": [],
+      "track": "cloud",
+      "topics": [
+        "google-colab",
+        "jupyter",
+        "cloud-security",
+        "data-exfiltration",
+        "supply-chain"
+      ],
+      "teaser": "Auditing security boundaries in Google Colaboratory, demonstrating data exfiltration vectors, runtime sandbox escapes, and risks in shared machine learning notebooks.",
+      "summary": null,
+      "durationSeconds": 1762
+    },
+    {
+      "youtubeId": "njxybInmIX4",
+      "slug": "dc30-dcgvr-talks-how-getting-a-free-phone-got-me-to-report-criti",
+      "title": "How Getting a Free Phone Got Me to Report Critical Vulnerabilities",
+      "speakers": [],
+      "track": "mobile",
+      "topics": [
+        "mobile-security",
+        "android",
+        "bug-bounty",
+        "vulnerability-disclosure",
+        "hardware"
+      ],
+      "teaser": "The journey of reverse engineering a budget Android smartphone, uncovering pre-installed carrier bloatware vulnerabilities and navigating responsible disclosure.",
+      "summary": null,
+      "durationSeconds": 3003
+    },
+    {
+      "youtubeId": "5l1FPYiJV00",
+      "slug": "dc30-dcgvr-talks-security-concerns-of-the-medical-laboratory",
+      "title": "Security Concerns of the Medical Laboratory",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "medical-devices",
+        "healthcare",
+        "lab-equipment",
+        "critical-infrastructure",
+        "compliance"
+      ],
+      "teaser": "An inside look at vulnerabilities in clinical laboratory automation, analyzing unauthenticated analyzer instruments, legacy LIMS software, and patient data risks.",
+      "summary": null,
+      "durationSeconds": 1500
+    },
+    {
+      "youtubeId": "DkTh_Zptu-Y",
+      "slug": "dc30-dcgvr-talks-3",
+      "title": "AWS Metadata Privilege Escalation: Exploiting IMDSv1 & IAM Roles",
+      "speakers": [],
+      "track": "cloud",
+      "topics": [
+        "aws",
+        "imds",
+        "cloud-security",
+        "privilege-escalation",
+        "iam"
+      ],
+      "teaser": "Deconstructing AWS Instance Metadata Service (IMDS) exploitation, abusing SSRF to harvest temporary IAM credentials and escalate cloud permissions.",
+      "summary": null,
+      "durationSeconds": 1828
+    },
+    {
+      "youtubeId": "euOGB3GR7oo",
+      "slug": "dc30-dcgvr-talks-glitter-nail-polish-vs-the-evil-maid",
+      "title": "Glitter Nail Polish vs. The Evil Maid: Low-Cost Tamper Evident Verification",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "tamper-evidence",
+        "evil-maid",
+        "physical-security",
+        "hardware",
+        "opsec"
+      ],
+      "teaser": "Using unique optical patterns of glitter nail polish to create uncloneable, low-cost physical tamper-evident seals against Evil Maid attacks on laptops and screws.",
+      "summary": null,
+      "durationSeconds": 1917
+    },
+    {
+      "youtubeId": "BIkHLDB008g",
+      "slug": "dc30-dcgvr-talks-4",
+      "title": "When Firefox Gets Angry: Fuzzing & Exploiting Gecko Engine Internals",
+      "speakers": [],
+      "track": "appsec",
+      "topics": [
+        "firefox",
+        "browser-exploitation",
+        "fuzzing",
+        "gecko",
+        "appsec"
+      ],
+      "teaser": "Dissecting the internals of Mozilla Firefox's Gecko rendering engine, exploring DOM fuzzing methodologies and memory corruption vulnerability classes.",
+      "summary": null,
+      "durationSeconds": 5200
+    }
+  ]
+}

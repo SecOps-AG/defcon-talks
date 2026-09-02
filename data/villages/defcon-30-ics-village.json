@@ -1,0 +1,43 @@
+{
+  "villageSlug": "ics-village",
+  "villageName": "ICS Village",
+  "eventSlug": "defcon-30",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD53d1FzjtOj6oq004JbjmV",
+  "description": "ICS Village at DEF CON 30 focuses on securing industrial control systems, SCADA environments, operational technology (OT), and critical infrastructure through hands-on challenges and presentations.",
+  "talks": [
+    {
+      "youtubeId": "UsPFuBt_GOY",
+      "slug": "seatf-competition",
+      "title": "SEAtf Competition Overview",
+      "speakers": [],
+      "track": "ics-ot",
+      "topics": [
+        "ctf",
+        "competition",
+        "ics",
+        "social-engineering",
+        "ot-security"
+      ],
+      "teaser": "A competition overview and challenge breakdown from the DEF CON 30 ICS Village Social Engineering and Adversary Capture the Flag (SEAtf).",
+      "summary": null,
+      "durationSeconds": 348
+    },
+    {
+      "youtubeId": "b1VcOqaYs7c",
+      "slug": "fast-forward",
+      "title": "Fast Forward: Highlights & Future Directions in Industrial Security",
+      "speakers": [],
+      "track": "ics-ot",
+      "topics": [
+        "ics",
+        "scada",
+        "ot-security",
+        "critical-infrastructure",
+        "community"
+      ],
+      "teaser": "The ICS Village closing reflections and fast-forward overview on emerging threats and security challenges across industrial control systems.",
+      "summary": null,
+      "durationSeconds": 92
+    }
+  ]
+}

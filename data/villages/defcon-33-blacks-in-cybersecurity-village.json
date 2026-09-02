@@ -1,0 +1,276 @@
+{
+  "villageSlug": "blacks-in-cybersecurity-village",
+  "villageName": "Blacks in Cybersecurity Village",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaB-bROPaosfwOO6LsaJAwaX",
+  "description": "DEF CON 33 Blacks in Cybersecurity Village features talks, panels, and workshops highlighting career advancement, diversity, and technical tradecraft. Sessions cover reverse engineering with Ghidra, cyberbiosecurity, AI-driven phishing analysis, DNS threat intelligence, and community initiatives across the global cyber ecosystem.",
+  "talks": [
+    {
+      "youtubeId": "h9ewUS6FTFQ",
+      "slug": "bic-village-sydney-johns-re-for-the-rest-of-us-an-introduction-t",
+      "title": "RE for the Rest of Us: An Introduction to Reverse Engineering",
+      "speakers": [
+        "Sydney Johns"
+      ],
+      "track": "hardware",
+      "topics": [
+        "ghidra",
+        "arduino",
+        "reverse-engineering",
+        "microcontrollers",
+        "firmware"
+      ],
+      "teaser": "Introduces reverse engineering fundamentals using hands-on Arduino hardware and Ghidra binary analysis demos.",
+      "summary": null,
+      "durationSeconds": 2460
+    },
+    {
+      "youtubeId": "tWaBeES6b54",
+      "slug": "bic-village-from-wake-island-to-the-war-room",
+      "title": "From Wake Island to the War Room",
+      "speakers": [
+        "Nykolas Muldrow"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "leadership",
+        "culture",
+        "career",
+        "military"
+      ],
+      "teaser": "Nykolas Muldrow shares experiences navigating cybersecurity leadership and operations from remote military outposts to national defense missions.",
+      "summary": null,
+      "durationSeconds": 1553
+    },
+    {
+      "youtubeId": "mU9djJSqdBQ",
+      "slug": "bic-village-the-truth-whole-truth-and-nothing-b-t-truth-of-cyber",
+      "title": "The Truth, Whole Truth and Nothing But the Truth of Cybersecurity",
+      "speakers": [
+        "Louis Deweaver"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "culture",
+        "career",
+        "defense-in-depth",
+        "education"
+      ],
+      "teaser": "Provides an unfiltered critique of cybersecurity industry hype, vendor promises, and the necessity of practical foundational security over shiny tools.",
+      "summary": null,
+      "durationSeconds": 3420
+    },
+    {
+      "youtubeId": "qN9qduX-fFM",
+      "slug": "bic-village-cyber-game-changers-women-who-lead-secure-and-inspir",
+      "title": "Cyber Game Changers: Women Who Lead, Secure and Inspire",
+      "speakers": [
+        "BIC Women in Cyber Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "leadership",
+        "diversity",
+        "culture",
+        "career"
+      ],
+      "teaser": "A panel of women leaders in cybersecurity share real-world career journeys, technical insights, and strategies for advancing industry diversity.",
+      "summary": null,
+      "durationSeconds": 2594
+    },
+    {
+      "youtubeId": "ZqjADCvE5UQ",
+      "slug": "bic-village-petty-proteins-when-molecules-go-rogue-and-why-cyber",
+      "title": "Petty Proteins: When Molecules Go Rogue and Why Cyberbiosecurity Matters",
+      "speakers": [
+        "Tia Pope"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "biosecurity",
+        "ai",
+        "ai-security",
+        "healthcare",
+        "threat-modeling"
+      ],
+      "teaser": "Explores how AI-designed proteins and biological vulnerabilities mirror cybersecurity attack vectors, highlighting the emerging field of cyberbiosecurity.",
+      "summary": null,
+      "durationSeconds": 2461
+    },
+    {
+      "youtubeId": "IfmVPqBUAMc",
+      "slug": "bic-village-the-african-cybercrime-economy-remi-afon",
+      "title": "The African Cybercrime Economy",
+      "speakers": [
+        "Remi Afon"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "cyber-crime",
+        "threat-intelligence",
+        "africa",
+        "financial-crime",
+        "education"
+      ],
+      "teaser": "Examines the mechanics of the African cybercrime economy and highlights initiatives like GoLegit Africa that create technical training pathways away from cybercrime.",
+      "summary": null,
+      "durationSeconds": 2806
+    },
+    {
+      "youtubeId": "F_BTn1FjbHU",
+      "slug": "bic-village-following-threat-actors-rhythm-to-give-them-more-blu",
+      "title": "Following Threat Actors' Rhythm to Give Them More Blues",
+      "speakers": [
+        "Malachi Walker"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "dns",
+        "threat-intelligence",
+        "threat-hunting",
+        "blue-team",
+        "recon"
+      ],
+      "teaser": "Introduces Domain Intelligence Analysis, leveraging proactive DNS artifacts and registration telemetry to detect adversary infrastructure before public IOC disclosures.",
+      "summary": null,
+      "durationSeconds": 2231
+    },
+    {
+      "youtubeId": "7IFsoRaYYgs",
+      "slug": "bic-village-how-ai-is-revolutionizing-phishing-attacks-and-defen",
+      "title": "How AI Is Revolutionizing Phishing Attacks & Defenses",
+      "speakers": [
+        "Levone Campbell"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "ai",
+        "phishing",
+        "ai-security",
+        "social-engineering",
+        "machine-learning"
+      ],
+      "teaser": "Explores the dual role of artificial intelligence in scaling hyper-targeted phishing campaigns while powering real-time behavioral defenses.",
+      "summary": "The AI Arms Race in Phishing Attacks\n\nArtificial intelligence and large language models enable cyber adversaries to automate highly tailored, grammatically flawless spear-phishing campaigns at planetary scale, defeating traditional email reputation filters.\n\nAI-Powered Defensive Filtering and Behavioral Analysis\n\nTo counter automated threats, defenders deploy machine learning models that analyze communication context, sender behavioral anomalies, and linguistic stylometry in real time.\n\nEvaluating the Dual-Edged AI Security Landscape\n\nLevone Campbell compares offensive generation techniques against adaptive defensive filtering, providing organizations with actionable strategies to secure human communication channels.",
+      "durationSeconds": 1951
+    },
+    {
+      "youtubeId": "S4jr6k52sNU",
+      "slug": "bic-village-embedded-system-design-vs-traditional-software-desig",
+      "title": "Embedded System Design vs Traditional Software Design",
+      "speakers": [
+        "Ian G. Harris"
+      ],
+      "track": "hardware",
+      "topics": [
+        "embedded",
+        "hardware",
+        "microcontrollers",
+        "bare-metal",
+        "protocols"
+      ],
+      "teaser": "Compares embedded systems architecture with traditional software development, focusing on bare-metal programming, bus protocols, and hardware debugging.",
+      "summary": null,
+      "durationSeconds": 2986
+    },
+    {
+      "youtubeId": "OEMnm1GAYlQ",
+      "slug": "bic-village-breaking-down-bias-in-the-cyber-stack",
+      "title": "Breaking Down Bias in the Cyber Stack",
+      "speakers": [
+        "Kaleeque Pierce",
+        "Jess Hoffman"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "diversity",
+        "culture",
+        "security-controls",
+        "community"
+      ],
+      "teaser": "Identifies subtle systemic biases across technical security controls, organizational policies, and hiring pipelines, offering actionable remediation strategies.",
+      "summary": null,
+      "durationSeconds": 3631
+    },
+    {
+      "youtubeId": "98LptR2jhqM",
+      "slug": "bic-village-price-of-progress-ethical-cybersecurity-in-tech-comm",
+      "title": "Price of Progress: Ethical Cybersecurity in Tech Communities",
+      "speakers": [
+        "Joy Toney"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "ethics",
+        "policy",
+        "culture",
+        "education"
+      ],
+      "teaser": "Examines ethical challenges and community responsibilities surrounding technological progress and cybersecurity practices in tech communities.",
+      "summary": null,
+      "durationSeconds": 2639
+    },
+    {
+      "youtubeId": "XbSK6mvNL8c",
+      "slug": "bic-village-how-basketball-officiating-shaped-a-cybersec-career",
+      "title": "How Basketball Officiating Shaped a Cybersecurity Career",
+      "speakers": [
+        "Jason Brooks"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "career",
+        "soc",
+        "incident-response",
+        "culture"
+      ],
+      "teaser": "Connects real-time decision-making, conflict resolution, and rule enforcement from basketball officiating to incident response and SOC operations.",
+      "summary": null,
+      "durationSeconds": 1765
+    },
+    {
+      "youtubeId": "BczXjBh6bsM",
+      "slug": "bic-village-b-i-c-pick-def-con-33-badge-walkthrough",
+      "title": "BIC Pick: DEF CON 33 Badge Walkthrough",
+      "speakers": [
+        "Eli McRae"
+      ],
+      "track": "hardware",
+      "topics": [
+        "badge",
+        "hardware",
+        "makers",
+        "electronics",
+        "community"
+      ],
+      "teaser": "Eli McRae provides a technical walkthrough of the DEF CON 33 Blacks in Cybersecurity Village electronic badge, covering PCB schematics and SAO support.",
+      "summary": null,
+      "durationSeconds": 885
+    },
+    {
+      "youtubeId": "R_rpuLpfMZM",
+      "slug": "bic-village-lets-lose-the-shock-mystery-of-linux-a-pain-free-int",
+      "title": "Let's Lose the Shock: Mystery of Linux - A Pain Free Intro",
+      "speakers": [
+        "DJ Davis"
+      ],
+      "track": "community",
+      "topics": [
+        "linux",
+        "education",
+        "community",
+        "operating-systems",
+        "orientation"
+      ],
+      "teaser": "Demystifies the Linux operating system for beginners through relatable Windows comparisons, core architecture explanations, and command-line tips.",
+      "summary": null,
+      "durationSeconds": 3350
+    }
+  ]
+}

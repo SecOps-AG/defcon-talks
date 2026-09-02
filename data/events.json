@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "slug": "defcon-33",
+      "name": "DEF CON 33",
+      "shortName": "DC33",
+      "year": 2025,
+      "dates": "8–10 August 2025",
+      "location": "Las Vegas Convention Center"
+    },
+    {
+      "slug": "defcon-32",
+      "name": "DEF CON 32",
+      "shortName": "DC32",
+      "year": 2024,
+      "dates": "8-11 August 2024",
+      "location": "Las Vegas Convention Center"
+    },
+    {
+      "slug": "defcon-31",
+      "name": "DEF CON 31",
+      "shortName": "DC31",
+      "year": 2023,
+      "dates": "10-13 August 2023",
+      "location": "Caesars Forum, Flamingo, Harrah's, and Linq, Las Vegas"
+    },
+    {
+      "slug": "defcon-30",
+      "name": "DEF CON 30",
+      "shortName": "DC30",
+      "year": 2022,
+      "dates": "11-14 August 2022",
+      "location": "Caesars Forum, Flamingo, Harrah's, and Linq, Las Vegas"
+    },
+    {
+      "slug": "defcon-safe-mode",
+      "name": "DEF CON Safe Mode",
+      "shortName": "Safe Mode",
+      "year": 2020,
+      "dates": "6-9 August 2020",
+      "location": "Virtual (Discord and Twitch)"
+    },
+    {
+      "slug": "defcon-29",
+      "name": "DEF CON 29",
+      "shortName": "DC29",
+      "year": 2021,
+      "dates": "5-8 August 2021",
+      "location": "Paris and Bally's Hotels, Las Vegas"
+    },
+    {
+      "slug": "defcon-23",
+      "name": "DEF CON 23",
+      "shortName": "DC23",
+      "year": 2015,
+      "dates": "6-9 August 2015",
+      "location": "Paris and Bally's Hotels, Las Vegas"
+    }
+  ]
+}

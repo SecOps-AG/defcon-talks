@@ -1,0 +1,27 @@
+{
+  "villageSlug": "policy-village",
+  "villageName": "Policy Village",
+  "eventSlug": "defcon-32",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaB7a0dBUTtwxCb4V0pIQ2YR",
+  "description": "DEF CON 32 Policy Village brings together hackers, policymakers, legal scholars, and government officials to explore cybersecurity legislation, regulation, and digital rights. Sessions focus on vulnerability disclosure policies, national cyber strategy, privacy protections, and the legal implications of emerging technologies.",
+  "talks": [
+    {
+      "youtubeId": "98XKZc-X15A",
+      "slug": "policy-preview",
+      "title": "Policy Preview",
+      "speakers": [
+        "Harley Geiger"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "community",
+        "government",
+        "ai"
+      ],
+      "teaser": "Previews the schedule, major themes, and community events featured at DEF CON 32 Policy Village.",
+      "summary": null,
+      "durationSeconds": 174
+    }
+  ]
+}

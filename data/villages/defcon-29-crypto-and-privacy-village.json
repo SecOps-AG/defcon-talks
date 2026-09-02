@@ -1,0 +1,43 @@
+{
+  "villageSlug": "crypto-and-privacy-village",
+  "villageName": "Crypto and Privacy Village",
+  "eventSlug": "defcon-29",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCk4bkwYRhNbDxmOrlwtzyK",
+  "description": "Crypto and Privacy Village explores modern applied cryptography, surveillance defense, digital privacy technologies, and cryptographic protocol implementations.",
+  "talks": [
+    {
+      "youtubeId": "2tlXXuc2_H0",
+      "slug": "day-2",
+      "title": "Crypto and Privacy Village: Day 2 Proceedings",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "crypto-and-privacy-village",
+        "surveillance",
+        "defcon"
+      ],
+      "teaser": "The full recorded proceedings and technical sessions from Day 2 of the DEF CON 29 Crypto and Privacy Village in Las Vegas.",
+      "summary": null,
+      "durationSeconds": 22946
+    },
+    {
+      "youtubeId": "MQtg0qg9VoM",
+      "slug": "day-1",
+      "title": "Crypto and Privacy Village: Day 1 Proceedings",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "crypto-and-privacy-village",
+        "surveillance",
+        "defcon"
+      ],
+      "teaser": "The complete recorded proceedings and presentations from Day 1 of the DEF CON 29 Crypto and Privacy Village in Las Vegas.",
+      "summary": null,
+      "durationSeconds": 31012
+    }
+  ]
+}

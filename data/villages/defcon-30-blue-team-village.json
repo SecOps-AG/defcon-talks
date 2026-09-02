@@ -1,0 +1,466 @@
+{
+  "villageSlug": "blue-team-village",
+  "villageName": "Blue Team Village",
+  "eventSlug": "defcon-30",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDdj_DjG61x9Iz9O8mfC4mJ",
+  "description": "Blue Team Village at DEF CON 30 focuses on digital forensics, incident response, threat hunting tradecraft, malware reverse engineering, and defensive tooling.",
+  "talks": [
+    {
+      "youtubeId": "-upNhwmNGp8",
+      "slug": "saurabh-chaudhary-yara-rules-to-rule-them-all",
+      "title": "YARA Rules to Rule Them All",
+      "speakers": [
+        "Saurabh Chaudhary"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "yara",
+        "threat-hunting",
+        "malware-detection",
+        "detection-engineering",
+        "blue-team"
+      ],
+      "teaser": "Saurabh Chaudhary demonstrates crafting high-performance, modular YARA rules to detect complex malware variants and streamline threat hunting.",
+      "summary": null,
+      "durationSeconds": 1049
+    },
+    {
+      "youtubeId": "Aqk9SGPbI3c",
+      "slug": "meisam-eslahi-threat-hunt-trilogy-a-beast-in-the-shadow",
+      "title": "Threat Hunt Trilogy: A Beast in the Shadow",
+      "speakers": [
+        "Meisam Eslahi"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "threat-hunting",
+        "threat-intelligence",
+        "apt",
+        "adversary-tracking",
+        "blue-team"
+      ],
+      "teaser": "Meisam Eslahi presents advanced threat hunting tradecraft to track stealthy adversaries lurking across enterprise infrastructure.",
+      "summary": null,
+      "durationSeconds": 3293
+    },
+    {
+      "youtubeId": "M6B88CZxViE",
+      "slug": "project-obsidian-rem-phishing-in-the-morning",
+      "title": "Project Obsidian: Reverse Engineering Malware - Phishing in the Morning & Abundance of Samples",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "malware",
+      "topics": [
+        "phishing",
+        "malware-analysis",
+        "reverse-engineering",
+        "triage",
+        "blue-team"
+      ],
+      "teaser": "Project Obsidian walks through triaging and reverse engineering high volumes of malicious email attachments and phishing lures.",
+      "summary": null,
+      "durationSeconds": 2152
+    },
+    {
+      "youtubeId": "G-7XB2333hE",
+      "slug": "project-obsidian-rem-long-walks-on-the-beach-analyzing-powershel",
+      "title": "Project Obsidian: Reverse Engineering Malware - Analyzing Obfuscated PowerShell",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "malware",
+      "topics": [
+        "powershell",
+        "deobfuscation",
+        "malware-analysis",
+        "reverse-engineering",
+        "script-analysis"
+      ],
+      "teaser": "Project Obsidian explores methods for decoding and analyzing heavily obfuscated PowerShell scripts used in initial access payloads.",
+      "summary": null,
+      "durationSeconds": 2608
+    },
+    {
+      "youtubeId": "47L9tS0eORE",
+      "slug": "project-obsidian-mise-en-place-for-investigations",
+      "title": "Project Obsidian: Mise En Place for Incident Investigations",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "incident-response",
+        "forensics",
+        "investigation",
+        "workflow",
+        "blue-team"
+      ],
+      "teaser": "Project Obsidian explains forensic preparation and tooling organization to accelerate digital forensics and incident triage workflows.",
+      "summary": null,
+      "durationSeconds": 2774
+    },
+    {
+      "youtubeId": "AGr25lmSflk",
+      "slug": "filipi-pires-malware-hunting-discovering-techniques-in-pdf",
+      "title": "Malware Hunting: Discovering Evasive Techniques in PDF Documents",
+      "speakers": [
+        "Filipi Pires"
+      ],
+      "track": "malware",
+      "topics": [
+        "pdf",
+        "malware-analysis",
+        "threat-hunting",
+        "document-analysis",
+        "blue-team"
+      ],
+      "teaser": "Filipi Pires demonstrates techniques for dissecting malicious PDF documents, extracting embedded JavaScript, and uncovering hidden exploit streams.",
+      "summary": null,
+      "durationSeconds": 3099
+    },
+    {
+      "youtubeId": "2Xw-wUWGWg8",
+      "slug": "connor-morley-malicious-memory-techniques-on-windows-and-how-to",
+      "title": "Malicious Memory Techniques on Windows & How to Spot Them",
+      "speakers": [
+        "Connor Morley"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "memory-forensics",
+        "windows-internals",
+        "process-injection",
+        "volatility",
+        "blue-team"
+      ],
+      "teaser": "Connor Morley analyzes Windows in-memory injection techniques—including process hollowing and thread hijacking—and how defenders detect them.",
+      "summary": null,
+      "durationSeconds": 3574
+    },
+    {
+      "youtubeId": "mfkZZXTsBII",
+      "slug": "matt-scheurer-lend-me-your-irs",
+      "title": "Lend Me Your IRs: Effective Incident Response Triage & Telemetry",
+      "speakers": [
+        "Matt Scheurer"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "incident-response",
+        "telemetry",
+        "triage",
+        "forensics",
+        "blue-team"
+      ],
+      "teaser": "Matt Scheurer shares battle-tested incident response methodologies, telemetry sources, and fast containment strategies for enterprise defenders.",
+      "summary": null,
+      "durationSeconds": 3513
+    },
+    {
+      "youtubeId": "yn9DmRMo_so",
+      "slug": "project-obsidian-ir-ooda-an-hour-in-incident-responder-life",
+      "title": "Project Obsidian: Incident Response OODA Loop - An Hour in an Incident Responder's Life",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "incident-response",
+        "ooda-loop",
+        "decision-making",
+        "soc",
+        "blue-team"
+      ],
+      "teaser": "Project Obsidian breaks down the Observe-Orient-Decide-Act (OODA) loop applied to real-time incident triage and crisis response.",
+      "summary": null,
+      "durationSeconds": 2045
+    },
+    {
+      "youtubeId": "6R5BsxG_zSM",
+      "slug": "project-obsidian-ir-it-all-starts-here-scoping-the-incident",
+      "title": "Project Obsidian: Incident Response - Scoping the Incident from the Ground Up",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "incident-response",
+        "incident-scoping",
+        "containment",
+        "triage",
+        "blue-team"
+      ],
+      "teaser": "Project Obsidian details the critical initial phase of incident response: defining the blast radius, scoping compromised systems, and setting containment boundaries.",
+      "summary": null,
+      "durationSeconds": 2301
+    },
+    {
+      "youtubeId": "RtuKU9SNFGg",
+      "slug": "project-obsidian",
+      "title": "Project Obsidian: Incident Response - Making Final Executive Reporting Exciting",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "incident-response",
+        "reporting",
+        "executive-briefing",
+        "communication",
+        "blue-team"
+      ],
+      "teaser": "Project Obsidian shares guidelines for translating complex forensic findings into clear, impactful incident reports for leadership and stakeholders.",
+      "summary": null,
+      "durationSeconds": 1806
+    },
+    {
+      "youtubeId": "PnXG6IT3zyA",
+      "slug": "mark-morowczynski-security-posture-of-macos-and-linux-azure-ad",
+      "title": "Securing macOS and Linux Endpoints in Azure Active Directory",
+      "speakers": [
+        "Mark Morowczynski"
+      ],
+      "track": "cloud",
+      "topics": [
+        "azure-ad",
+        "macos",
+        "linux",
+        "identity",
+        "cloud-security"
+      ],
+      "teaser": "Microsoft Principal Program Manager Mark Morowczynski examines conditional access, identity integration, and posture management for macOS and Linux on Azure AD.",
+      "summary": null,
+      "durationSeconds": 3881
+    },
+    {
+      "youtubeId": "lrcAl_WD0HY",
+      "slug": "anton-ovrutsky",
+      "title": "Hunting Malicious Office Macros: VBA Deobfuscation & Detection",
+      "speakers": [
+        "Anton Ovrutsky"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "vba",
+        "office-macros",
+        "threat-hunting",
+        "malware-analysis",
+        "detection-engineering"
+      ],
+      "teaser": "Anton Ovrutsky demonstrates behavioral detection patterns, static parsing tools, and deobfuscation methods to hunt malicious Office VBA macros.",
+      "summary": null,
+      "durationSeconds": 1763
+    },
+    {
+      "youtubeId": "r6Q3zhqoboE",
+      "slug": "gilmar-esteves-filipi-peres",
+      "title": "Horusec: Open-Source Static Application Security Testing for Everyone",
+      "speakers": [
+        "Gilmar Esteves",
+        "Filipi Pires"
+      ],
+      "track": "appsec",
+      "topics": [
+        "sast",
+        "horusec",
+        "open-source",
+        "devsecops",
+        "code-analysis"
+      ],
+      "teaser": "Gilmar Esteves and Filipi Pires present Horusec, an open-source multi-language static analysis (SAST) tool designed to democratize code security scanning.",
+      "summary": null,
+      "durationSeconds": 1272
+    },
+    {
+      "youtubeId": "d4YfkoqCV_s",
+      "slug": "project-obsidian-using-chainsaw-to-identify-malicious-activity",
+      "title": "Project Obsidian: Using Chainsaw for Rapid Windows Event Log Triage",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "chainsaw",
+        "windows-event-logs",
+        "sigma",
+        "forensics",
+        "threat-hunting"
+      ],
+      "teaser": "Project Obsidian demonstrates using Chainsaw and Sigma rules to rapidly parse gigabytes of Windows event logs and identify malicious artifacts.",
+      "summary": null,
+      "durationSeconds": 1290
+    },
+    {
+      "youtubeId": "2And6u5yxLw",
+      "slug": "project-obsidian-the-importance-of-sysmon-for-investigations",
+      "title": "Project Obsidian: The Importance of Sysmon Telemetry for Investigations",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "sysmon",
+        "telemetry",
+        "endpoint-detection",
+        "windows-event-logs",
+        "blue-team"
+      ],
+      "teaser": "Project Obsidian details configuring Sysinternals Sysmon to capture critical process creation, network connection, and DLL load events for investigations.",
+      "summary": null,
+      "durationSeconds": 1242
+    },
+    {
+      "youtubeId": "t2h-Mz27iSI",
+      "slug": "project-obsidian-kill-chain-3-endpoint-forensics-walkthrough",
+      "title": "Project Obsidian: Kill Chain Endpoint Forensics Walkthrough",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "endpoint-forensics",
+        "killchain",
+        "mft",
+        "prefetch",
+        "shimcache"
+      ],
+      "teaser": "Project Obsidian walks through an end-to-end endpoint forensic investigation, reconstructing attacker actions using MFT, Prefetch, and Shimcache artifacts.",
+      "summary": null,
+      "durationSeconds": 1757
+    },
+    {
+      "youtubeId": "9CB5NmXghek",
+      "slug": "project-obsidian-2",
+      "title": "Project Obsidian: Creating Custom Velociraptor Artifact Collectors",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "velociraptor",
+        "vql",
+        "dfir",
+        "endpoint-forensics",
+        "threat-hunting"
+      ],
+      "teaser": "Project Obsidian demonstrates writing custom Velociraptor Query Language (VQL) artifacts to hunt for IOCs and collect forensic evidence across thousands of endpoints.",
+      "summary": null,
+      "durationSeconds": 1077
+    },
+    {
+      "youtubeId": "r4bdnuN84J0",
+      "slug": "sarthak-tankja-even-my-dad-is-a-threat-modeler",
+      "title": "Even My Dad is a Threat Modeler: Demystifying Threat Modeling for Everyone",
+      "speakers": [
+        "Sarthak Taneja"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-modeling",
+        "risk-assessment",
+        "security-culture",
+        "stride",
+        "education"
+      ],
+      "teaser": "Sarthak Taneja presents an accessible, real-world approach to threat modeling, showing how everyday risk intuition translates to software and architecture defense.",
+      "summary": null,
+      "durationSeconds": 1403
+    },
+    {
+      "youtubeId": "cYqToDl_W2A",
+      "slug": "project-obsidian-cti-generating-threat-intelligence-from-inciden",
+      "title": "Project Obsidian: Cyber Threat Intelligence - Generating CTI from Live Incidents",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "threat-intelligence",
+        "cti",
+        "incident-response",
+        "iocs",
+        "mitre-att-ck"
+      ],
+      "teaser": "Project Obsidian explains how to extract actionable cyber threat intelligence, TTPs, and indicator clusters from real-time incident investigations.",
+      "summary": null,
+      "durationSeconds": 1853
+    },
+    {
+      "youtubeId": "YN0dbIzWQNM",
+      "slug": "project-obsidian-cth-the-logs-are-gone",
+      "title": "Project Obsidian: Cyber Threat Hunting - When the Logs Are Gone",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-hunting",
+        "log-clearing",
+        "anti-forensics",
+        "memory-analysis",
+        "usn-journal"
+      ],
+      "teaser": "Project Obsidian shows how threat hunters investigate compromises when adversaries clear event logs, leveraging USN journals, volume shadow copies, and memory artifacts.",
+      "summary": null,
+      "durationSeconds": 2188
+    },
+    {
+      "youtubeId": "1oco6TSaVRo",
+      "slug": "project-obsidian-cth-sniffing-compromise-hunting-for-bloodhound",
+      "title": "Project Obsidian: Cyber Threat Hunting - Sniffing Out BloodHound in Active Directory",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "bloodhound",
+        "active-directory",
+        "threat-hunting",
+        "ldap",
+        "detection-engineering"
+      ],
+      "teaser": "Project Obsidian demonstrates detecting SharpHound and BloodHound reconnaissance by hunting anomalous LDAP queries and Active Directory enumeration patterns.",
+      "summary": null,
+      "durationSeconds": 2468
+    },
+    {
+      "youtubeId": "fn-Nd5MtUEA",
+      "slug": "project-obsidian-cth-hunting-for-adversarys-schedule",
+      "title": "Project Obsidian: Cyber Threat Hunting - Hunting for Adversary Scheduled Tasks & Persistence",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "scheduled-tasks",
+        "persistence",
+        "threat-hunting",
+        "windows-internals",
+        "blue-team"
+      ],
+      "teaser": "Project Obsidian details hunting for malicious scheduled tasks, cron jobs, and stealthy persistence mechanisms across enterprise endpoints.",
+      "summary": null,
+      "durationSeconds": 2975
+    },
+    {
+      "youtubeId": "Pln9ZYafKyE",
+      "slug": "blue-team-village-project-obsidian-cth-go-phish-visualizing-basi",
+      "title": "Project Obsidian: Cyber Threat Hunting - Visualizing Phishing Campaigns & Attack Graphs",
+      "speakers": [
+        "Project Obsidian"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "phishing",
+        "threat-hunting",
+        "graph-analysis",
+        "threat-intelligence",
+        "visualization"
+      ],
+      "teaser": "Project Obsidian demonstrates using graph visualization tools to map phishing infrastructure, identify sender anomalies, and correlate multi-stage campaigns.",
+      "summary": null,
+      "durationSeconds": 2466
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "villageSlug": "dcgvr-village",
+  "villageName": "DCGVR Village",
+  "eventSlug": "defcon-31",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDmXT4cYvUam-IJ7UzfvhYQ",
+  "description": "DEF CON Groups Virtuality (DCGVR) Village hosts talks and discussions on virtual reality workspaces, governance and compliance hacking, identity systems, and grassroots community organizing.",
+  "talks": [
+    {
+      "youtubeId": "oabdIS9PqAc",
+      "slug": "what-is-a-grc-hacker",
+      "title": "What Is a GRC Hacker?",
+      "speakers": [
+        "Allen Baranov"
+      ],
+      "track": "policy",
+      "topics": [
+        "grc",
+        "compliance",
+        "risk-management",
+        "governance",
+        "career"
+      ],
+      "teaser": "Allen Baranov explores how the hacker mindset can be applied to Governance, Risk, and Compliance (GRC) to improve security culture and risk assessments.",
+      "summary": null,
+      "durationSeconds": 2651
+    },
+    {
+      "youtubeId": "6ATtAmOhdE0",
+      "slug": "ghost-on-the-wire",
+      "title": "Ghost on the Wire",
+      "speakers": [
+        "hoodiepony"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "opsec",
+        "network-security",
+        "anonymity",
+        "virtual-reality"
+      ],
+      "teaser": "hoodiepony discusses digital privacy, operational security, and network footprint reduction in virtual reality and connected cyberspace.",
+      "summary": null,
+      "durationSeconds": 1744
+    },
+    {
+      "youtubeId": "u3-wQbYve3A",
+      "slug": "hey-crypto-bro",
+      "title": "Hey Crypto Bro",
+      "speakers": [
+        "Sam Colaizzi"
+      ],
+      "track": "appsec",
+      "topics": [
+        "cryptography",
+        "cryptocurrency",
+        "blockchain",
+        "web3",
+        "security-culture"
+      ],
+      "teaser": "Sam Colaizzi examines cryptocurrency hype, blockchain security pitfalls, and realistic threat models for decentralized systems.",
+      "summary": null,
+      "durationSeconds": 4434
+    },
+    {
+      "youtubeId": "1GhjlFnRnHk",
+      "slug": "gender-inclusive-health-information-systems",
+      "title": "Gender-Inclusive Health Information Systems",
+      "speakers": [
+        "Squiddy"
+      ],
+      "track": "community",
+      "topics": [
+        "healthcare",
+        "data-privacy",
+        "identity",
+        "health-it",
+        "community"
+      ],
+      "teaser": "Squiddy explores privacy and architectural considerations for designing gender-inclusive health information systems and electronic medical records.",
+      "summary": null,
+      "durationSeconds": 1561
+    },
+    {
+      "youtubeId": "5y9HhDp3MHQ",
+      "slug": "vr-workspaces",
+      "title": "VR Workspaces",
+      "speakers": [
+        "datalocaltmp"
+      ],
+      "track": "privacy",
+      "topics": [
+        "virtual-reality",
+        "vr-workspaces",
+        "spatial-computing",
+        "productivity",
+        "privacy"
+      ],
+      "teaser": "datalocaltmp evaluates the security, productivity, and privacy implications of working within virtual reality workspaces and spatial environments.",
+      "summary": null,
+      "durationSeconds": 2352
+    },
+    {
+      "youtubeId": "EFqVFnE94Yw",
+      "slug": "bootsquad",
+      "title": "Bootsquad",
+      "speakers": [
+        "Joe Mast"
+      ],
+      "track": "community",
+      "topics": [
+        "dc-groups",
+        "mentorship",
+        "education",
+        "community",
+        "volunteering"
+      ],
+      "teaser": "Joe Mast highlights grassroots organizing and community mentorship initiatives across DEF CON Groups.",
+      "summary": null,
+      "durationSeconds": 2642
+    },
+    {
+      "youtubeId": "M0kevYIclXc",
+      "slug": "the-curse-of-the-ncurses",
+      "title": "The Curse of the Ncurses",
+      "speakers": [
+        "JBO"
+      ],
+      "track": "appsec",
+      "topics": [
+        "ncurses",
+        "tui",
+        "cli",
+        "terminal",
+        "linux"
+      ],
+      "teaser": "JBO explores the quirks, historical bugs, and text user interface development challenges in ncurses.",
+      "summary": null,
+      "durationSeconds": 2700
+    },
+    {
+      "youtubeId": "fRxsKouHqPE",
+      "slug": "taking-down-applications-with-logic",
+      "title": "Taking Down Applications with Logic",
+      "speakers": [
+        "Abhijeet Singh"
+      ],
+      "track": "appsec",
+      "topics": [
+        "business-logic",
+        "web-security",
+        "appsec",
+        "vulnerability-research",
+        "authorization"
+      ],
+      "teaser": "Abhijeet Singh examines business logic flaws and authorization bypasses in web applications that defeat traditional security scanners.",
+      "summary": null,
+      "durationSeconds": 2392
+    },
+    {
+      "youtubeId": "PGxV_bmpe-E",
+      "slug": "dcgvr-village-keynote",
+      "title": "DCGVR Village Keynote",
+      "speakers": [
+        "Jayson E. Street"
+      ],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "community",
+        "culture",
+        "keynote",
+        "education"
+      ],
+      "teaser": "Jayson E. Street delivers the opening keynote for the DEF CON Groups Virtuality (DCGVR) Village.",
+      "summary": null,
+      "durationSeconds": 2199
+    }
+  ]
+}

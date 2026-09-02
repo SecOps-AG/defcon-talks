@@ -1,0 +1,294 @@
+{
+  "villageSlug": "recon-village",
+  "villageName": "Recon Village",
+  "eventSlug": "defcon-29",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBnlYLP7MgRqbEtAOaZejLe",
+  "description": "Recon Village explores open-source intelligence (OSINT), external attack surface management, passive DNS tracking, investigative OPSEC, and adversary infrastructure hunting.",
+  "talks": [
+    {
+      "youtubeId": "JaDvfAAzbhw",
+      "slug": "mauro-eldritch",
+      "title": "Venator: Hunting & Smashing Trolls on Twitter",
+      "speakers": [
+        "Mauro Eldritch"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "twitter",
+        "botnet",
+        "disinformation",
+        "social-media"
+      ],
+      "teaser": "Mauro Eldritch presents Venator, an automated OSINT tool designed to identify, map, and dismantle troll networks and bot farms on Twitter.",
+      "summary": null,
+      "durationSeconds": 2824
+    },
+    {
+      "youtubeId": "7egAj-8juK0",
+      "slug": "andy-dennis-using-passive-dns-for-gathering-business-intelligenc",
+      "title": "Using Passive DNS for Gathering Business Intelligence",
+      "speakers": [
+        "Andy Dennis"
+      ],
+      "track": "recon",
+      "topics": [
+        "passive-dns",
+        "dns",
+        "recon",
+        "business-intelligence",
+        "osint"
+      ],
+      "teaser": "Andy Dennis demonstrates leveraging passive DNS databases to uncover competitor infrastructure, corporate acquisitions, and business intelligence.",
+      "summary": null,
+      "durationSeconds": 1785
+    },
+    {
+      "youtubeId": "-cBNQGzVDeM",
+      "slug": "rae-using-osint-to-aid-in-human-trafficking-and-smuggling-cases",
+      "title": "Using OSINT to Aid in Human Trafficking and Smuggling Cases",
+      "speakers": [
+        "Rae"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "human-trafficking",
+        "investigations",
+        "law-enforcement",
+        "social-good"
+      ],
+      "teaser": "Rae shares investigative OSINT methodologies and open-source tools used to support law enforcement and NGOs in disrupting human trafficking networks.",
+      "summary": null,
+      "durationSeconds": 1818
+    },
+    {
+      "youtubeId": "YKFG4IAaTRo",
+      "slug": "tushar-verma-the-bug-hunters-recon-methodology",
+      "title": "The Bug Hunter's Recon Methodology",
+      "speakers": [
+        "Tushar Verma"
+      ],
+      "track": "recon",
+      "topics": [
+        "bug-bounty",
+        "recon",
+        "subdomain-enumeration",
+        "attack-surface",
+        "automation"
+      ],
+      "teaser": "Tushar Verma breaks down a structured reconnaissance methodology for bug bounty hunters, covering subdomain enumeration, content discovery, and asset tracking.",
+      "summary": null,
+      "durationSeconds": 938
+    },
+    {
+      "youtubeId": "daXNSvb_S3w",
+      "slug": "ritu-gil",
+      "title": "So You Want to OPSEC, Eh?",
+      "speakers": [
+        "Ritu Gill"
+      ],
+      "track": "privacy",
+      "topics": [
+        "opsec",
+        "investigations",
+        "sock-puppets",
+        "privacy",
+        "osint"
+      ],
+      "teaser": "OSINT investigator Ritu Gill outlines essential operational security principles, sock puppet management, and digital footprint hygiene for researchers.",
+      "summary": null,
+      "durationSeconds": 1390
+    },
+    {
+      "youtubeId": "v7GWqQLoWvc",
+      "slug": "mishaal-khan",
+      "title": "People Hunting: A Pentester's Perspective",
+      "speakers": [
+        "Mishaal Khan"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "osint",
+        "people-recon",
+        "red-team",
+        "profiling"
+      ],
+      "teaser": "Mishaal Khan shares red team methodologies for gathering target intelligence on executives and employees to craft high-impact social engineering pretexts.",
+      "summary": null,
+      "durationSeconds": 1695
+    },
+    {
+      "youtubeId": "Nj-FqBapY2o",
+      "slug": "kala-kinyon-osint-for-sex-workers",
+      "title": "OSINT for Sex Workers: Digital Safety and Threat Modeling",
+      "speakers": [
+        "Kala Kinyon"
+      ],
+      "track": "privacy",
+      "topics": [
+        "digital-safety",
+        "privacy",
+        "threat-modeling",
+        "opsec",
+        "community"
+      ],
+      "teaser": "Kala Kinyon provides practical OSINT defense and privacy threat modeling strategies to help vulnerable communities protect physical and digital identities.",
+      "summary": null,
+      "durationSeconds": 1383
+    },
+    {
+      "youtubeId": "HLzv8TVMQHo",
+      "slug": "nick-roy-osint-and-the-hermit-kingdom",
+      "title": "OSINT and the Hermit Kingdom",
+      "speakers": [
+        "Nick Roy"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "north-korea",
+        "geopolitics",
+        "threat-intelligence",
+        "satellite-imagery"
+      ],
+      "teaser": "Nick Roy demonstrates investigating North Korean digital infrastructure, trade evasion, and state activity using public OSINT and commercial satellite telemetry.",
+      "summary": null,
+      "durationSeconds": 2522
+    },
+    {
+      "youtubeId": "6PoroGGBt8E",
+      "slug": "ladislav-baco-how-vigilant-researchers-can-uncover-apt-attacks",
+      "title": "How Vigilant Researchers Can Uncover APT Attacks",
+      "speakers": [
+        "Ladislav Baco"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "apt",
+        "threat-hunting",
+        "threat-intelligence",
+        "yara",
+        "malware"
+      ],
+      "teaser": "Ladislav Baco demonstrates how independent threat researchers can discover nation-state APT campaigns through proactive telemetry hunting and pivoting.",
+      "summary": null,
+      "durationSeconds": 1756
+    },
+    {
+      "youtubeId": "i2ouX0js9n8",
+      "slug": "ryan-elkins-how-to-build-cloud-based-recon-automation-at-scale",
+      "title": "How to Build Cloud-Based Recon Automation at Scale",
+      "speakers": [
+        "Ryan Elkins"
+      ],
+      "track": "recon",
+      "topics": [
+        "recon-automation",
+        "cloud",
+        "serverless",
+        "attack-surface",
+        "automation"
+      ],
+      "teaser": "Ryan Elkins explains how to architect distributed, serverless cloud recon pipelines to continuously monitor enterprise attack surfaces at scale.",
+      "summary": null,
+      "durationSeconds": 2717
+    },
+    {
+      "youtubeId": "pvk4iOLKbaw",
+      "slug": "ben-s",
+      "title": "The Future of Asset Management: Attack Surface Management",
+      "speakers": [
+        "Ben S."
+      ],
+      "track": "recon",
+      "topics": [
+        "asm",
+        "asset-management",
+        "attack-surface",
+        "discovery",
+        "cloud"
+      ],
+      "teaser": "Ben S. explores modern External Attack Surface Management (EASM), shifting from static inventory spreadsheets to dynamic, continuous external discovery.",
+      "summary": null,
+      "durationSeconds": 2467
+    },
+    {
+      "youtubeId": "BlcORtyfKWk",
+      "slug": "utku-sen-finding-hidden-gems-via-url-shortener-services",
+      "title": "Finding Hidden Gems via URL Shortener Services",
+      "speakers": [
+        "Utku Sen"
+      ],
+      "track": "recon",
+      "topics": [
+        "url-shorteners",
+        "brute-force",
+        "recon",
+        "data-leakage",
+        "osint"
+      ],
+      "teaser": "Utku Sen reveals how brute forcing and analyzing short URL endpoints leaks confidential cloud documents, private tokens, and unindexed internal infrastructure.",
+      "summary": null,
+      "durationSeconds": 1156
+    },
+    {
+      "youtubeId": "Cc-Y6TmTCHM",
+      "slug": "masterchen-can-i-make-my-own-social-threat-score",
+      "title": "Can I Make My Own Social Threat Score?",
+      "speakers": [
+        "MasterChen"
+      ],
+      "track": "privacy",
+      "topics": [
+        "social-scoring",
+        "data-broker",
+        "privacy",
+        "profiling",
+        "osint"
+      ],
+      "teaser": "MasterChen reverse engineers commercial consumer threat and credit scoring algorithms, building an open OSINT pipeline to evaluate personal digital exposure.",
+      "summary": null,
+      "durationSeconds": 1742
+    },
+    {
+      "youtubeId": "6bBmxsihyRA",
+      "slug": "manabu-niseki-adversary-infrastructure-tracking-with-mihari",
+      "title": "Adversary Infrastructure Tracking with Mihari",
+      "speakers": [
+        "Manabu Niseki"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "mihari",
+        "threat-hunting",
+        "c2-tracking",
+        "osint",
+        "threat-intelligence"
+      ],
+      "teaser": "Manabu Niseki presents Mihari, an open-source framework that queries multiple threat intelligence search engines to continuously track adversary C2 infrastructure.",
+      "summary": null,
+      "durationSeconds": 1247
+    },
+    {
+      "youtubeId": "_Mo6U7_B7gs",
+      "slug": "anthony-kava-gov-doppelganger-your-hax-dollars-at-work",
+      "title": "GOV Doppelgänger: Your Häx Dollars at Work",
+      "speakers": [
+        "Anthony Kava"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "government-impersonation",
+        "typosquatting",
+        "phishing",
+        "threat-intelligence",
+        "investigations"
+      ],
+      "teaser": "Law enforcement investigator Anthony Kava uncovers widespread typosquatting and doppelgänger domains mimicking government agencies to defraud citizens.",
+      "summary": null,
+      "durationSeconds": 1791
+    }
+  ]
+}

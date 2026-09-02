@@ -1,0 +1,149 @@
+/** Shapes stored on disk under data/ and the richer shapes the app renders. */
+
+/** data/events.json — one DEF CON. */
+export type ConEvent = {
+  slug: string;
+  name: string;
+  shortName: string;
+  year: number;
+  dates: string;
+  location: string;
+};
+
+/** data/taxonomy.json */
+export type Track = {
+  slug: string;
+  name: string;
+  stance: "recon" | "offense" | "defense" | "both" | "domain";
+  blurb: string;
+};
+
+export type Taxonomy = {
+  notes: string[];
+  tracks: Track[];
+  topicLabels: Record<string, string>;
+};
+
+/** A talk exactly as authored in data/villages/<event>-<village>.json. */
+export type StoredTalk = {
+  youtubeId: string;
+  slug: string;
+  title: string;
+  speakers: string[];
+  track: string;
+  topics: string[];
+  teaser?: string;
+  summary?: string | TalkSummary | null;
+  durationSeconds?: number;
+  publishedAt?: string;
+};
+
+/** One village at one event — the unit one ingest run produces. */
+export type StoredVillageEdition = {
+  villageSlug: string;
+  villageName: string;
+  eventSlug: string;
+  playlistUrl: string;
+  description: string;
+  talks: StoredTalk[];
+};
+
+export type TalkSummary = {
+  overview?: string;
+  bullets?: string[];
+  takeaways?: string[];
+  [key: string]: unknown;
+};
+
+/** A village at one event, resolved against events.json. */
+export type VillageEdition = {
+  id: string;
+  villageSlug: string;
+  villageName: string;
+  eventSlug: string;
+  eventName: string;
+  eventShortName: string;
+  year: number;
+  dates: string;
+  location: string;
+  playlistUrl: string;
+  description: string;
+  talkCount: number;
+};
+
+/** One village across every year it appears — "Recon Village", not "DC33 / Recon Village". */
+export type VillageSeries = {
+  slug: string;
+  name: string;
+  description: string;
+  editions: VillageEdition[];
+  talkCount: number;
+  years: number[];
+};
+
+/** A talk with everything the UI needs, denormalised at load time. */
+export type Talk = StoredTalk & {
+  id: string;
+  villageId: string;
+  villageSlug: string;
+  villageName: string;
+  eventSlug: string;
+  eventName: string;
+  eventShortName: string;
+  year: number;
+  youtubeUrl: string;
+  trackName: string;
+};
+
+/**
+ * The slim record shipped to the client for search and faceting.
+ *
+ * Excludes `summary` (4-6 KB per talk) and carries no derived search string.
+ * The home page ships the whole index, so both would be dead weight on the
+ * wire; the search text is derived once on the client instead.
+ */
+export type TalkIndexEntry = {
+  id: string;
+  slug: string;
+  title: string;
+  speakers: string[];
+  youtubeId: string;
+  year: number;
+  eventSlug: string;
+  eventShortName: string;
+  villageSlug: string;
+  villageName: string;
+  track: string;
+  trackName: string;
+  topics: string[];
+  teaser: string;
+};
+
+/**
+ * Derived, never stored: villages author `speakers` as plain names, and the
+ * index groups them by slug. `name` is the spelling used by most of their
+ * talks, so two spellings of one person collapse to a single page.
+ */
+export type Speaker = {
+  slug: string;
+  name: string;
+  talkCount: number;
+};
+
+/**
+ * A wire entry plus its pre-lowercased search text. Built once on the client so
+ * filtering never rebuilds strings per keystroke, and never sent over the wire.
+ */
+export type SearchEntry = TalkIndexEntry & {
+  haystack: string;
+  speakerSlugs: string[];
+};
+
+export type ArchiveStats = {
+  talks: number;
+  villages: number;
+  events: number;
+  tracks: number;
+  topics: number;
+  speakers: number;
+};

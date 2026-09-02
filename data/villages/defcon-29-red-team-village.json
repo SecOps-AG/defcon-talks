@@ -1,0 +1,172 @@
+{
+  "villageSlug": "red-team-village",
+  "villageName": "Red Team Village",
+  "eventSlug": "defcon-29",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDGxMcDss9ErkiRbjdDHUYg",
+  "description": "Red Team Village focuses on offensive security operations, adversary emulation, AI in hacking, red team infrastructure (CyberWraith), and community CTF competitions.",
+  "talks": [
+    {
+      "youtubeId": "gv0yMVFwCM4",
+      "slug": "panel-the-future-of-ai-machine-learning-and-offensive-security",
+      "title": "The Future of AI, Machine Learning, and Offensive Security",
+      "speakers": [
+        "Bruce Schneier",
+        "Anita Nikolich",
+        "Chris Cottrell",
+        "Rich Harang",
+        "Ram Shankar",
+        "Omar Santos"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "artificial-intelligence",
+        "machine-learning",
+        "offensive-security",
+        "adversary-emulation",
+        "ai-village"
+      ],
+      "teaser": "Bruce Schneier, Omar Santos, and industry AI leaders debate the future of artificial intelligence in offensive security, automated exploitation, and red teaming.",
+      "summary": null,
+      "durationSeconds": 3614
+    },
+    {
+      "youtubeId": "cwrlwetRz8k",
+      "slug": "russ-hanneman-message-about-the-red-team-village-ctf",
+      "title": "Message About the Red Team Village CTF",
+      "speakers": [
+        "Russ Hanneman"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "red-team-village",
+        "comedy",
+        "community"
+      ],
+      "teaser": "Silicon Valley character Russ Hanneman delivers a humorous hype message for the DEF CON 29 Red Team Village CTF competition.",
+      "summary": null,
+      "durationSeconds": 40
+    },
+    {
+      "youtubeId": "LhAenkBXBjM",
+      "slug": "custom-mechanical-keyboard-build",
+      "title": "Custom Mechanical Keyboard Build",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "mechanical-keyboard",
+        "hardware",
+        "soldering",
+        "makers",
+        "hardware-hacking"
+      ],
+      "teaser": "A hands-on maker session demonstrating custom mechanical keyboard assembly, PCB soldering, key switch lubing, and firmware flashing.",
+      "summary": null,
+      "durationSeconds": 4997
+    },
+    {
+      "youtubeId": "EpeO_wJ0JCI",
+      "slug": "ctf-day-3",
+      "title": "Red Team Village CTF Day 3",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "red-team-village",
+        "competition",
+        "red-team",
+        "community"
+      ],
+      "teaser": "Daily scoreboard update, challenge walkthrough highlights, and competition standings for Day 3 of the Red Team Village CTF.",
+      "summary": null,
+      "durationSeconds": 10456
+    },
+    {
+      "youtubeId": "3vZjOtFyUY0",
+      "slug": "ctf-recap-and-upcoming-events",
+      "title": "CTF Recap and Upcoming Events",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "red-team-village",
+        "awards",
+        "red-team",
+        "community"
+      ],
+      "teaser": "The Red Team Village team recaps competition highlights, announces CTF winners, and previews upcoming community training events.",
+      "summary": null,
+      "durationSeconds": 1538
+    },
+    {
+      "youtubeId": "aYbkzPSNT5E",
+      "slug": "ctf-day-2",
+      "title": "Red Team Village CTF Day 2",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "red-team-village",
+        "competition",
+        "red-team",
+        "community"
+      ],
+      "teaser": "Daily leaderboard update and ongoing challenge progress for Day 2 of the Red Team Village CTF competition.",
+      "summary": null,
+      "durationSeconds": 16857
+    },
+    {
+      "youtubeId": "ccLKzqBLmAg",
+      "slug": "ctf-day-1",
+      "title": "Red Team Village CTF Day 1",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "red-team-village",
+        "competition",
+        "red-team",
+        "community"
+      ],
+      "teaser": "Kickoff briefing, rules of engagement, and Day 1 scoreboard update for the DEF CON 29 Red Team Village CTF.",
+      "summary": null,
+      "durationSeconds": 51
+    },
+    {
+      "youtubeId": "t1w8-_AHCGs",
+      "slug": "bruce-schneier-ai-and-red-team-village-panel",
+      "title": "AI and Offensive Security: Bruce Schneier Keynote",
+      "speakers": [
+        "Bruce Schneier"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "artificial-intelligence",
+        "machine-learning",
+        "offensive-security",
+        "adversary-emulation",
+        "policy"
+      ],
+      "teaser": "Security technologist Bruce Schneier shares perspectives on AI-driven hacking, automated vulnerability discovery, and the societal implications of machine-speed attacks.",
+      "summary": null,
+      "durationSeconds": 5789
+    },
+    {
+      "youtubeId": "HmYb9F-Npdw",
+      "slug": "a-discussion-about-the-red-team-village-cyberwraith",
+      "title": "CyberWraith: Red Team Village C2 & Infrastructure Framework",
+      "speakers": [],
+      "track": "red-team",
+      "topics": [
+        "cyberwraith",
+        "c2",
+        "red-team",
+        "infrastructure",
+        "adversary-emulation"
+      ],
+      "teaser": "An introduction and technical overview of CyberWraith, the Red Team Village's open-source command-and-control and engagement infrastructure platform.",
+      "summary": null,
+      "durationSeconds": 2285
+    }
+  ]
+}
