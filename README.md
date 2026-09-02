@@ -9,6 +9,8 @@ Dark Tangent.
 
 Live at https://defcon-talks.vercel.app/
 
+AI Generated
+
 ## Adding talks
 
 One JSON file per village per event under `data/villages/`. Drop a file in and
