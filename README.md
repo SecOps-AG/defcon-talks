@@ -3,40 +3,11 @@
 Searchable archive of DEF CON village talks — video, speakers, and a written
 summary for most talks.
 
-Coverage today: 6 events (DEF CON 23, Safe Mode, 29, 31, 32, 33), 29 villages
-across 42 village editions, 1,103 talks. `npm run validate` prints the current
-totals.
 
 Unofficial. Not affiliated with, sponsored by, or endorsed by DEF CON or the
 Dark Tangent.
 
-## Run locally
-
-```bash
-npm install
-npm run dev      # http://localhost:3000
-```
-
-```bash
-npm run validate # data/ schema check (also runs as part of build)
-npm run build
-npm start
-```
-
-## Browsing
-
-| Route | What it is |
-| --- | --- |
-| `/` | The browser itself — search, counted facets, three-up cards, pagination |
-| `/villages`, `/villages/<village>` | A village across every year it ran |
-| `/<event>`, `/<event>/<village>` | One event, and one village at that event |
-| `/tracks`, `/tracks/<track>` | Fixed category vocabulary |
-| `/topics`, `/topics/<topic>` | The long-tail tag index |
-| `/speakers`, `/speakers/<speaker>` | Everyone credited on a talk, and their talks |
-| `/talks/<slug>` | Video, teaser, summary, related talks |
-
-Filter state is stored in the URL, so a filtered view can be shared. `/talks`
-redirects to `/` with its query intact.
+Live at https://defcon-talks.vercel.app/
 
 ## Adding talks
 
