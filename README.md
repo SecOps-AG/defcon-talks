@@ -1,7 +1,7 @@
 # DEF CON Talk Archive
 
-Searchable archive of DEF CON village talks — video, speakers, and a written
-summary for most talks.
+Searchable archive of DEF CON village talks — video, speakers, and an AI
+summary.
 
 
 Unofficial. Not affiliated with, sponsored by, or endorsed by DEF CON or the
