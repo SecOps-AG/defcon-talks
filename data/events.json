@@ -49,6 +49,14 @@
       "location": "Paris and Bally's Hotels, Las Vegas"
     },
     {
+      "slug": "defcon-25",
+      "name": "DEF CON 25",
+      "shortName": "DC25",
+      "year": 2017,
+      "dates": "3-6 August 2017",
+      "location": "Mandalay Bay Hotel, Las Vegas"
+    },
+    {
       "slug": "defcon-23",
       "name": "DEF CON 23",
       "shortName": "DC23",
