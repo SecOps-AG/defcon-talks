@@ -1,0 +1,411 @@
+{
+  "villageSlug": "ai-village",
+  "villageName": "AI Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAMFXytVqYl1sfN_A14vrj7",
+  "description": "AI Village presentations from DEF CON 26 covering machine learning security, AI safety, adversarial techniques, and ethical considerations in artificial intelligence.",
+  "talks": [
+    {
+      "youtubeId": "D09MkTeQfOQ",
+      "slug": "andrew-morris-identifying-and-correlating-anomalies-in-internetw",
+      "title": "Identifying and Correlating Anomalies in Internetwide Scan",
+      "speakers": [
+        "Andrew Morris"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "anomaly-detection",
+        "machine-learning",
+        "network-scanning",
+        "pattern-recognition",
+        "internet-wide-scans"
+      ],
+      "teaser": "Identifying and correlating anomalies in internet-wide network scan data using machine learning.",
+      "summary": "Network Scanning Scale\n\nInternet-wide scanning generates massive datasets. Identifying meaningful anomalies in this data is challenging without machine learning approaches.\n\nAnomaly Detection\n\nThe presentation covers techniques for identifying anomalies in scan data and correlating them across scans. Understanding patterns in global internet scans reveals infrastructure vulnerabilities.\n\nMachine Learning Application\n\nML models trained on network scan data can identify unusual patterns, misconfigurations, and potentially vulnerable systems at scale.\n\nApplications\n\nIdentifying anomalies in internet-wide scans enables discovery of vulnerable services and infrastructure before attackers do.",
+      "durationSeconds": 1388
+    },
+    {
+      "youtubeId": "3WOKByCwViw",
+      "slug": "clarence-chio-and-panel",
+      "title": "Opening Remarks",
+      "speakers": [
+        "Clarence Chio and Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "defcon-conference",
+        "ai-village",
+        "opening-remarks"
+      ],
+      "teaser": "Opening remarks for DEF CON 26 AI Village conference track.",
+      "summary": null,
+      "durationSeconds": 194
+    },
+    {
+      "youtubeId": "V6owAidDwss",
+      "slug": "clarence-chio-and-panel-closing-notes-and-prizes",
+      "title": "Closing Notes and Prizes",
+      "speakers": [
+        "Clarence Chio and Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "defcon-conference",
+        "ai-village",
+        "closing-remarks",
+        "prize-awards"
+      ],
+      "teaser": "Closing remarks and prize announcements for DEF CON 26 AI Village.",
+      "summary": null,
+      "durationSeconds": 52
+    },
+    {
+      "youtubeId": "NuF8FnfFw8I",
+      "slug": "chris-gardner-chatting-with-your-programs-to-find-vulnerabilitie",
+      "title": "Chatting with Your Programs to Find Vulnerabilities",
+      "speakers": [
+        "Chris Gardner"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "vulnerability-discovery",
+        "chatbots",
+        "natural-language-processing",
+        "program-analysis"
+      ],
+      "teaser": "Using natural language interaction with ML to discover vulnerabilities in software programs.",
+      "summary": "AI-Assisted Vulnerability Discovery\n\nNatural language processing enables new approaches to vulnerability discovery. Instead of traditional code analysis, conversational interfaces guide the discovery process.\n\nChatbot Approach\n\nThe technique uses chatbots to interact with programs and analyze responses for vulnerability indicators. This approach simplifies complex vulnerability discovery processes.\n\nProgram Analysis\n\nChatting with programs through AI interfaces reveals vulnerabilities through interactive analysis rather than static or dynamic testing alone.\n\nApplication\n\nNatural language-driven vulnerability discovery offers new possibilities for security testing and vulnerability identification.",
+      "durationSeconds": 799
+    },
+    {
+      "youtubeId": "e0UREvVVdPk",
+      "slug": "brian-genz-generating-labeled-data-from-adversary-sims-with-mitr",
+      "title": "Generating Labeled Data From Adversary Sims with MITRE ATT&CK",
+      "speakers": [
+        "Brian Genz"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "labeled-data",
+        "mitre-att-and-ck",
+        "adversary-simulation",
+        "data-generation"
+      ],
+      "teaser": "Generating labeled datasets from adversary simulations using MITRE ATT&CK framework for ML training.",
+      "summary": "Labeled Data Challenge\n\nMachine learning for security requires labeled datasets. Generating realistic labeled data for adversarial scenarios is difficult.\n\nMITRE ATT&CK Integration\n\nUsing MITRE ATT&CK framework to simulate adversary behaviors generates labeled data for training ML models. Each simulated attack provides labeled examples.\n\nAdversary Simulation\n\nRunning adversary simulations with known attack techniques from MITRE ATT&CK generates training data with accurate labels.\n\nModel Training\n\nLabeled data from adversary simulations enables training ML models to detect attack techniques and adversary behaviors in real environments.",
+      "durationSeconds": 2305
+    },
+    {
+      "youtubeId": "WXSiExdfMKU",
+      "slug": "bodaceacat-and-panel",
+      "title": "Responsible Offensive Machine Learning",
+      "speakers": [
+        "bodaceacat and Panel"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning-adversarial",
+        "offensive-ml",
+        "responsible-disclosure",
+        "ethical-considerations",
+        "ai-safety"
+      ],
+      "teaser": "Panel discussion on responsible and ethical approaches to offensive machine learning research.",
+      "summary": "Ethical Challenges\n\nOffensive machine learning raises ethical and safety concerns. Researchers must balance innovation with responsibility.\n\nResponsible Disclosure\n\nFinding vulnerabilities in ML systems requires responsible approaches to disclosure and mitigation. Publishing exploits without vendor coordination causes harm.\n\nAI Safety Considerations\n\nOffensive ML research intersects with AI safety. Weaponizing AI requires careful ethical consideration and oversight.\n\nPanel Discussion\n\nThe panel covers ethical frameworks for offensive ML, responsible vulnerability disclosure, and balancing innovation with safety in AI security research.",
+      "durationSeconds": 2197
+    },
+    {
+      "youtubeId": "wr5EeYXA5ys",
+      "slug": "aylin-caliskan-the-great-power-of-ai-algorithmic-mirrors-of-soci",
+      "title": "The Great Power of AI Algorithmic Mirrors of Society",
+      "speakers": [
+        "Aylin Caliskan"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "ai-bias",
+        "algorithmic-fairness",
+        "machine-learning-discrimination",
+        "social-impact",
+        "bias-detection"
+      ],
+      "teaser": "Examining how AI systems and algorithms can mirror societal biases and their security implications.",
+      "summary": "Algorithmic Bias\n\nAI systems trained on historical data perpetuate and amplify societal biases. These algorithmic mirrors reflect discrimination present in training data.\n\nSecond-Order Effects\n\nBias in AI systems has security and safety implications. Biased ML models in security contexts create exploitable disparities.\n\nSocial Impact\n\nAI systems that discriminate against protected groups cause real-world harm. The security community must understand and address these issues.\n\nMitigation Approaches\n\nDetecting and mitigating bias requires understanding how training data and model architectures perpetuate discrimination. Security researchers must consider fairness in ML systems.",
+      "durationSeconds": 2137
+    },
+    {
+      "youtubeId": "UyL3yN2R7hs",
+      "slug": "ariel-herbert-voss-machine-learning-model-hardening-for-fun-and",
+      "title": "Machine Learning Model Hardening For Fun and Profit",
+      "speakers": [
+        "Ariel Herbert Voss"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "model-hardening",
+        "adversarial-training",
+        "robustness",
+        "machine-learning-security",
+        "evasion-attacks"
+      ],
+      "teaser": "Techniques for hardening machine learning models against adversarial attacks and evasion.",
+      "summary": "Model Vulnerability\n\nMachine learning models are vulnerable to adversarial attacks that cause misclassification. Hardening models improves robustness against attacks.\n\nAdversarial Training\n\nTraining models on adversarial examples improves resistance to attacks. Exposing models to attacks during training builds robustness.\n\nEvasion Resistance\n\nHardened models resist evasion attempts by adversaries. Techniques include adversarial training, input validation, and defensive distillation.\n\nPractical Hardening\n\nThe presentation covers practical methods for hardening ML models in security applications. Model hardening makes systems more resistant to attacks and manipulation.",
+      "durationSeconds": 1077
+    },
+    {
+      "youtubeId": "zLVmbOdIhIs",
+      "slug": "andy-applebaum-automated-planning-for-the-automated-red-team",
+      "title": "Automated Planning for the Automated Red Team",
+      "speakers": [
+        "Andy Applebaum"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "security-applications",
+        "model-training",
+        "defensive-ml",
+        "threat-detection"
+      ],
+      "teaser": "Using automated planning and AI to improve red team offensive operations.",
+      "summary": null,
+      "durationSeconds": 1649
+    },
+    {
+      "youtubeId": "eNpHytykSuw",
+      "slug": "alex-long-ai-devops-behind-the-scenes-of-a-global-av-company",
+      "title": "AI DevOps Behind the Scenes of a Global AV  Company",
+      "speakers": [
+        "Alex Long"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "ai-security",
+        "model-applications",
+        "defensive-systems"
+      ],
+      "teaser": "Behind-the-scenes machine learning operations at a major antivirus company.",
+      "summary": null,
+      "durationSeconds": 840
+    },
+    {
+      "youtubeId": "vpeUD0muCB0",
+      "slug": "tonton-huang-hunting-the-ethereum-smart-contract-color-inspired",
+      "title": "Hunting the Ethereum Smart Contract Color Inspired Inspection",
+      "speakers": [
+        "TonTon Huang"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "security",
+        "ai-applications",
+        "model-security"
+      ],
+      "teaser": "Machine learning applications and techniques in cybersecurity.",
+      "summary": null,
+      "durationSeconds": 1607
+    },
+    {
+      "youtubeId": "y1w2srpQ4u8",
+      "slug": "sven-cattell",
+      "title": "Adversarial Patches",
+      "speakers": [
+        "Sven Cattell"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "ai-security",
+        "deep-learning",
+        "neural-networks"
+      ],
+      "teaser": "Deep learning approaches to security threats and vulnerabilities.",
+      "summary": null,
+      "durationSeconds": 1323
+    },
+    {
+      "youtubeId": "_EM-Q4-ym54",
+      "slug": "shankar-and-kumar-towards-a-framework-to-quantitatively-assess-a",
+      "title": "Towards a Framework to Quantitatively Assess AI Safety",
+      "speakers": [
+        "Shankar and Kumar"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "adversarial-ml",
+        "model-attacks",
+        "robustness"
+      ],
+      "teaser": "Adversarial machine learning techniques and defense mechanisms.",
+      "summary": null,
+      "durationSeconds": 1890
+    },
+    {
+      "youtubeId": "R76ZN_kRn_c",
+      "slug": "rob-brandon-jmpgate-accelerating-reverse-engineering-into-hypers",
+      "title": "JMPgate Accelerating Reverse Engineering Into Hyperspace",
+      "speakers": [
+        "Rob Brandon"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "security-ai",
+        "model-evaluation",
+        "threat-modeling"
+      ],
+      "teaser": "Evaluating machine learning models for security applications.",
+      "summary": null,
+      "durationSeconds": 2114
+    },
+    {
+      "youtubeId": "lhi0CkoHGHY",
+      "slug": "raphael-norwitz-stuxnnet-practical-live-memory-attacks-on-machin",
+      "title": "StuxNNet Practical Live Memory Attacks on Machine Learning",
+      "speakers": [
+        "Raphael Norwitz"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "ai-defense",
+        "adversarial-defense",
+        "model-hardening"
+      ],
+      "teaser": "Defensive machine learning strategies against adversarial attacks.",
+      "summary": null,
+      "durationSeconds": 1196
+    },
+    {
+      "youtubeId": "hNC36piJ80Q",
+      "slug": "matt-it-is-a-beautiful-day-in-the-malware-neighborhood",
+      "title": "It is a Beautiful Day in the Malware Neighborhood",
+      "speakers": [
+        "Matt"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "neural-networks",
+        "deep-learning",
+        "ai-security"
+      ],
+      "teaser": "Neural network approaches to cybersecurity challenges.",
+      "summary": null,
+      "durationSeconds": 1647
+    },
+    {
+      "youtubeId": "_LLWBAABImE",
+      "slug": "mark-mager-rapid-anomaly-detection-via-ransom-note-file-classifi",
+      "title": "Rapid Anomaly Detection via Ransom Note File Classification",
+      "speakers": [
+        "Mark Mager"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "classification",
+        "detection",
+        "adversarial-examples"
+      ],
+      "teaser": "Malware detection using machine learning classifiers.",
+      "summary": null,
+      "durationSeconds": 2338
+    },
+    {
+      "youtubeId": "K_bAghxEXAc",
+      "slug": "kang-li-beyond-adversarial-learning-security-risks-in-ai-impleme",
+      "title": "Beyond Adversarial Learning Security Risks in AI Implementations",
+      "speakers": [
+        "Kang Li"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "ai-applications",
+        "security-systems",
+        "model-deployment"
+      ],
+      "teaser": "Deploying machine learning security systems in production.",
+      "summary": null,
+      "durationSeconds": 819
+    },
+    {
+      "youtubeId": "KOkAgRNBZmY",
+      "slug": "ivan-torroledo-deepphish-simulating-the-malicious-use-of-ai",
+      "title": "DeepPhish Simulating the Malicious Use of AI",
+      "speakers": [
+        "Ivan Torroledo"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "threat-detection",
+        "ai-security",
+        "defensive-ml"
+      ],
+      "teaser": "Threat detection using defensive machine learning techniques.",
+      "summary": null,
+      "durationSeconds": 927
+    },
+    {
+      "youtubeId": "TlAUp1S-6W0",
+      "slug": "infosecanon-the-current-state-of-adversarial-machine-learning",
+      "title": "The Current State of Adversarial Machine Learning",
+      "speakers": [
+        "infosecanon"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "adversarial-attacks",
+        "evasion",
+        "attack-techniques"
+      ],
+      "teaser": "Adversarial attack techniques against machine learning systems.",
+      "summary": null,
+      "durationSeconds": 974
+    },
+    {
+      "youtubeId": "iwE_yi2ndT4",
+      "slug": "fedor-sakharov-detecting-web-attacks-with-recurrent-neural-netwo",
+      "title": "Detecting Web Attacks with Recurrent Neural Networks",
+      "speakers": [
+        "Fedor Sakharov"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "security-research",
+        "ai-applications",
+        "model-analysis"
+      ],
+      "teaser": "Security research applications of machine learning analysis.",
+      "summary": null,
+      "durationSeconds": 1961
+    },
+    {
+      "youtubeId": "EN9_YfBDwk8",
+      "slug": "drhyrum-and-panel",
+      "title": "Malware Panel",
+      "speakers": [
+        "drhyrum and Panel"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "ai-defense",
+        "security-systems",
+        "threat-analysis"
+      ],
+      "teaser": "Threat analysis using defensive AI and machine learning.",
+      "summary": null,
+      "durationSeconds": 1516
+    }
+  ]
+}
