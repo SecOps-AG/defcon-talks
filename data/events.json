@@ -5,7 +5,7 @@
       "name": "DEF CON 33",
       "shortName": "DC33",
       "year": 2025,
-      "dates": "8–10 August 2025",
+      "dates": "8\u201310 August 2025",
       "location": "Las Vegas Convention Center"
     },
     {
@@ -47,6 +47,14 @@
       "year": 2021,
       "dates": "5-8 August 2021",
       "location": "Paris and Bally's Hotels, Las Vegas"
+    },
+    {
+      "slug": "defcon-27",
+      "name": "DEF CON 27",
+      "shortName": "DC27",
+      "year": 2019,
+      "dates": "8-11 August 2019",
+      "location": "Paris, Bally's, Flamingo, and Planet Hollywood hotels, Las Vegas"
     },
     {
       "slug": "defcon-26",
