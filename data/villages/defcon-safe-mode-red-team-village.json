@@ -1,0 +1,1041 @@
+{
+  "villageSlug": "red-team-village",
+  "villageName": "Red Team Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAjHEV1gvvUuaKDrzafx3I-",
+  "description": "Red Team Village at DEF CON Safe Mode focuses on offensive security operations, adversary emulation, evasion tradecraft, payload creation, physical implants, and purple teaming.",
+  "talks": [
+    {
+      "youtubeId": "euSsqXO53GY",
+      "slug": "safe-mode-red-team-village-vandana-sehgal-zero-trust-a-vision-fo",
+      "title": "Zero Trust: A Vision for Securing Cloud Infrastructure",
+      "speakers": [
+        "Vandana Verma Sehgal"
+      ],
+      "track": "cloud",
+      "topics": [
+        "zero-trust",
+        "cloud-security",
+        "iam",
+        "cloud-architecture",
+        "red-team"
+      ],
+      "teaser": "Vandana Verma Sehgal explores Zero Trust architectures, examining identity verification, micro-segmentation, and offensive testing in modern cloud environments.",
+      "summary": null,
+      "durationSeconds": 2308
+    },
+    {
+      "youtubeId": "Ba8XfRYOvsE",
+      "slug": "safe-mode-red-team-village-kursat-ak-nc-mert-can-coskuner-androi",
+      "title": "Android Malware Adventures: Evasion, Droppers, & Modern Mobile Tradecraft",
+      "speakers": [
+        "Kürşat Akıncı",
+        "Mert Can Coşkuner"
+      ],
+      "track": "mobile",
+      "topics": [
+        "android",
+        "mobile-malware",
+        "evasion",
+        "dropper",
+        "reverse-engineering"
+      ],
+      "teaser": "Kürşat Akıncı and Mert Can Coşkuner analyze modern Android malware techniques, from multi-stage droppers bypassing Google Play Protect to dynamic evasion.",
+      "summary": "The Evolution of Android Mobile Malware\n\nAndroid malware developers have adopted advanced evasion techniques borrowed from desktop malware, allowing malicious applications to slip past Google Play Protect and on-device antivirus scanners.\n\nMulti-Stage Droppers and Dynamic Payload Decryption\n\nKürşat Akıncı and Mert Can Coşkuner dissect mobile droppers disguised as benign utilities that decrypt and load secondary APK/DEX payloads directly into memory.\n\nBypassing Dynamic Analysis and Sandbox Emulators\n\nThe speakers demonstrate how Android malware detects emulated analysis environments (QEMU, Frida hooks, debugger presence) to conceal malicious behavior during automated sandbox runs.\n\nMobile Threat Hunting and Defensive Telemetry\n\nThe presentation provides mobile security analysts with static analysis workflows, YARA signatures, and behavioral heuristics to detect evasive Android implants.",
+      "durationSeconds": 1338
+    },
+    {
+      "youtubeId": "UbT1KRxq9GQ",
+      "slug": "safe-mode-red-team-village-kyle-benac",
+      "title": "Android Application Exploitation: Structured Assessment Methodologies",
+      "speakers": [
+        "Kyle Benac"
+      ],
+      "track": "mobile",
+      "topics": [
+        "android",
+        "mobile-pentesting",
+        "reverse-engineering",
+        "intent-injection",
+        "appsec"
+      ],
+      "teaser": "Kyle Benac presents a structured methodology for auditing Android applications, analyzing hybrid frameworks, IPC intent vulnerabilities, and insecure storage.",
+      "summary": "The Expanding Mobile Attack Surface\n\nModern Android applications frequently handle sensitive user authentication tokens, financial data, and enterprise APIs across hybrid and native codebases.\n\nIdentifying Mobile Frameworks and Architectures\n\nKyle Benac explains how to quickly identify whether an application is built with native Java/Kotlin, Flutter, React Native, or Xamarin to focus vulnerability analysis.\n\nAuditing Inter-Process Communication and Exported Components\n\nThe author demonstrates inspecting AndroidManifest.xml for exported activities, broadcast receivers, and content providers vulnerable to intent injection and data leakage.\n\nPractical Mobile Assessment Tooling and Remediation\n\nThe presentation outlines streamlined workflows using tools like jadx, Frida, and objection to accelerate mobile penetration testing.",
+      "durationSeconds": 3638
+    },
+    {
+      "youtubeId": "7ryw3A_pFGY",
+      "slug": "safe-mode-red-team-village-tim-wadhwa-brown-all-of-the-threats-i",
+      "title": "All of the Threats: Threat Intelligence Modeling Beyond ATT&CK",
+      "speakers": [
+        "Tim Wadhwa-Brown"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "threat-intelligence",
+        "threat-modeling",
+        "mitre-att-ck",
+        "adversary-emulation",
+        "threat-hunting"
+      ],
+      "teaser": "Tim Wadhwa-Brown demonstrates how to construct threat intelligence models and hypotheses from first principles when standardized ATT&CK data is missing.",
+      "summary": "The Strengths and Limitations of MITRE ATT&CK\n\nWhile MITRE ATT&CK has unified communication between red and blue teams, it relies heavily on documented adversary TTPs and struggles when facing novel threats.\n\nBuilding Threat Hypotheses from First Principles\n\nTim Wadhwa-Brown explores constructing predictive threat intelligence models by decomposing target systems, crown jewels, and feasible adversary objectives.\n\nSynthesizing Adversary Motivations with Technical Attack Paths\n\nThe speaker illustrates how to map geopolitical threat actor motivations and organizational vulnerabilities into actionable adversary emulation plans.\n\nOperationalizing Threat Models for Collaborative Defense\n\nThe presentation provides purple teams with structured methodologies for validating detection coverage against bespoke and hypothetical threat scenarios.",
+      "durationSeconds": 3061
+    },
+    {
+      "youtubeId": "C5MvdBM6Nq8",
+      "slug": "safe-mode-red-team-village-tyler-boykin",
+      "title": "50 Shades of Sudo Abuse: Linux Privilege Escalation via Sudo Misconfigurations",
+      "speakers": [
+        "Tyler Boykin"
+      ],
+      "track": "red-team",
+      "topics": [
+        "sudo",
+        "privilege-escalation",
+        "linux",
+        "gtfobins",
+        "red-team"
+      ],
+      "teaser": "Tyler Boykin reviews Linux privilege escalation vectors stemming from sudoers misconfigurations, from common GTFOBins low-hanging fruit to subtle binary abuse.",
+      "summary": "The Central Role of Sudo in Linux Access Control\n\nLinux system administrators frequently grant unprivileged users specific sudo rights to run routine maintenance utilities without providing full root access.\n\nDeconstructing Sudoers File Misconfigurations\n\nTyler Boykin analyzes common syntax oversights, wildcard abuses, and insecure environment variable preservation (`env_keep`, `LD_PRELOAD`) in `/etc/sudoers`.\n\nWeaponizing Standard Binaries for Root Shells (GTFOBins)\n\nThe speaker demonstrates abusing text editors (vim, nano), pagers (less, more), scripting runtimes (python, perl), and archive utilities to break out into interactive root shells.\n\nHardening Guidelines and Least-Privilege Sudo Policies\n\nThe presentation provides system administrators with best practices for configuring sudoers rules, command whitelists, and auditing sudo execution logs.",
+      "durationSeconds": 3467
+    },
+    {
+      "youtubeId": "rEXh3TAZTtk",
+      "slug": "safe-mode-red-team-village-chris-cottrell",
+      "title": "Guerrilla Red Team: Decentralizing Adversary Simulation Across the Enterprise",
+      "speakers": [
+        "Chris Cottrell"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "adversary-emulation",
+        "security-culture",
+        "decentralized-security",
+        "red-team",
+        "purple-team"
+      ],
+      "teaser": "Chris Cottrell introduces the Guerrilla Red Team methodology, empowering distributed engineering teams to act as trusted internal ethical hackers.",
+      "summary": "The Bottleneck of Centralized Security Teams\n\nTraditional enterprise security teams struggle to scale across massive software engineering fleets, resulting in delayed code reviews and missed vulnerability assessments.\n\nIntroducing the Guerrilla Red Team Methodology\n\nChris Cottrell proposes creating an internal mesh network of decentralized ethical hackers embedded directly within product engineering squads.\n\nUpskilling Developers with Adversarial Mindsets\n\nCottrell details training programs, micro-challenges, and capture-the-flag exercises that transform software developers into proactive internal security champions.\n\nScaling Security IQ and Continuous Adversary Emulation\n\nThe author shares organizational blueprints for managing decentralized red teaming, measuring security ROI, and fostering a resilient security culture.",
+      "durationSeconds": 3281
+    },
+    {
+      "youtubeId": "asm1GoNYObM",
+      "slug": "safe-mode-red-team-village-evan-anderson",
+      "title": "Gray Hat SSH: SSHenanigans & Advanced Tunneling Tradecraft",
+      "speakers": [
+        "Evan Anderson"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ssh",
+        "tunneling",
+        "lateral-movement",
+        "pivoting",
+        "red-team"
+      ],
+      "teaser": "Evan Anderson explores advanced SSH tunneling techniques, local/remote port forwarding, SOCKS proxies, and stealthy lateral movement strategies.",
+      "summary": "SSH as the Swiss Army Knife of Network Pivoting\n\nSecure Shell (SSH) is universally trusted and enabled across enterprise servers, making it an ideal vehicle for red team lateral movement and tunneling.\n\nMastering Dynamic Port Forwarding and Reverse SOCKS Proxies\n\nEvan Anderson demonstrates leveraging SSH's built-in `-D`, `-L`, and `-R` flags to establish multi-hop encrypted tunnels across segmented corporate enclaves.\n\nAbusing SSH ControlMaster and Agent Forwarding\n\nThe speaker explains hijacking cached SSH agent sockets (`SSH_AUTH_SOCK`) and multiplexing sessions with ControlMaster to pivot without entering credentials.\n\nBlue Team Telemetry and Hunting Anomalous SSH Tunnels\n\nThe presentation provides defenders with detection strategies to audit persistent SSH tunnels, anomalous port bindings, and suspicious client connection flags.",
+      "durationSeconds": 3055
+    },
+    {
+      "youtubeId": "QouX0zVE434",
+      "slug": "safe-mode-red-team-village-erdener-uyan-gokberk-gulgun-executing",
+      "title": "Executing Red Team Scenarios: Proactive Adversary Emulation with Machine Learning",
+      "speakers": [
+        "Erdener Uyan",
+        "Gökberk Gülgün"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "adversary-emulation",
+        "machine-learning",
+        "automation",
+        "attack-simulation",
+        "purple-team"
+      ],
+      "teaser": "Erdener Uyan and Gökberk Gülgün present an open-source machine learning framework for generating dynamic, automated red team attack scenarios.",
+      "summary": "The Complexity of Scripting Realistic Attack Scenarios\n\nManual red team engagements require extensive operational planning to orchestrate believable multi-stage attack paths mimicking specific APT behavior.\n\nDesigning a Proactive ML Attack Generation Framework\n\nErdener Uyan and Gökberk Gülgün introduce an open-source tool that uses machine learning algorithms to generate realistic decision trees for adversary simulation.\n\nAutomating Multi-Stage Lateral Movement and Execution\n\nThe authors demonstrate how the framework selects optimal exploit techniques and persistence mechanisms dynamically based on discovered host telemetry.\n\nEvaluating Blue Team Detection Coverage and Resilience\n\nThe presentation discusses measuring detection efficacy, identifying coverage gaps, and continuously training defensive response teams with automated scenarios.",
+      "durationSeconds": 2120
+    },
+    {
+      "youtubeId": "2nH3L4vlDVE",
+      "slug": "safe-mode-red-team-village-mendoza-caseres-sounds-legit-dont-tru",
+      "title": "Sounds Legit: Don't Trust That Speaker - BadUSB in Audio Peripherals",
+      "speakers": [
+        "Mendoza",
+        "Mauro Cáseres"
+      ],
+      "track": "hardware",
+      "topics": [
+        "badusb",
+        "hid",
+        "hardware-implants",
+        "physical-security",
+        "hardware"
+      ],
+      "teaser": "Mendoza and Mauro Cáseres demonstrate embedding BadUSB hardware implants inside commercial desktop speakers to silently execute keystroke injection.",
+      "summary": "The Ubiquity and Stealth of BadUSB Hardware Implants\n\nWhile BadUSB thumb drives are well-known, hiding keystroke injection microcontrollers inside common desktop peripherals bypasses physical security scrutiny.\n\nHardware Teardown and Implant Integration in Audio Speakers\n\nMendoza and Mauro Cáseres detail disassembling standard USB-powered desktop speakers and integrating programmable ATmega32U4 / Digispark microcontrollers.\n\nWeaponizing USB Enumeration and Keystroke Injection\n\nThe speakers illustrate how the modified speaker presents itself to the operating system as both an audio output device and a high-speed Human Interface Device (HID) keyboard.\n\nDefending Endpoints Against Peripheral HID Injection\n\nThe presentation reviews hardware whitelisting policies, endpoint USB device control agents, and physical security auditing to mitigate stealthy BadUSB peripherals.",
+      "durationSeconds": 2130
+    },
+    {
+      "youtubeId": "S8geErf2Sos",
+      "slug": "safe-mode-red-team-village-mauro-casere-evil-genius-why-you-shou",
+      "title": "Evil Genius: Why You Shouldn't Trust That Keyboard",
+      "speakers": [
+        "Mauro Cáseres"
+      ],
+      "track": "hardware",
+      "topics": [
+        "badusb",
+        "hardware-keylogger",
+        "physical-security",
+        "firmware",
+        "hardware"
+      ],
+      "teaser": "Mauro Cáseres explores weaponized keyboards and hardware keyloggers, demonstrating how physical peripherals can be backdoored for stealthy initial access.",
+      "summary": null,
+      "durationSeconds": 1366
+    },
+    {
+      "youtubeId": "1v8jOr3ju94",
+      "slug": "safe-mode-red-team-village-austin-marck-erpwnage-red-team-approa",
+      "title": "erpwnage: A Red Team Approach to Targeting SAP Enterprise Systems",
+      "speakers": [
+        "Austin Marck"
+      ],
+      "track": "red-team",
+      "topics": [
+        "sap",
+        "erp",
+        "enterprise-applications",
+        "privilege-escalation",
+        "red-team"
+      ],
+      "teaser": "Austin Marck demonstrates red team tradecraft for targeting SAP and ERP platforms, demonstrating protocol exploitation, RFC abuse, and business logic takeover.",
+      "summary": "SAP and ERP Systems as High-Value Crown Jewels\n\nEnterprise Resource Planning (ERP) platforms like SAP manage critical financial records, payroll, and supply chain operations, making them prime targets for threat actors.\n\nDeconstructing SAP Protocols and Communication Interfaces\n\nAustin Marck analyzes the complex communication layers of SAP architectures—including SAP GUI, RFC gateways, DIAG protocols, and web services.\n\nExecuting Remote RFC Abuse and Business Logic Takeover\n\nThe speaker demonstrates discovering unauthenticated RFC functions, abusing default service users, and escalating privileges to execute operating system commands.\n\nHardening SAP Infrastructure and Monitoring TTPs\n\nThe presentation provides enterprise defenders with SAP security baselines, network segregation patterns, and guidance for auditing sensitive transaction logs.",
+      "durationSeconds": 1434
+    },
+    {
+      "youtubeId": "xUbKyFw-lds",
+      "slug": "safe-mode-red-team-village-michael-wylie",
+      "title": "Enumerating Cloud File Storage Gems: Discovering Exposed Data Across S3, Azure, & GCP",
+      "speakers": [
+        "Michael Wylie"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud-storage",
+        "s3",
+        "azure-blob",
+        "cloud-security",
+        "recon"
+      ],
+      "teaser": "Michael Wylie details automated reconnaissance techniques to discover unauthenticated AWS S3 buckets, Azure Blob containers, and GCP storage leaks.",
+      "summary": "The Risk of Unintentional Cloud Data Exposure\n\nAs enterprises migrate terabytes of internal documents and database backups to cloud object storage, misconfigured permissions frequently expose sensitive files publicly.\n\nAutomated Cloud Bucket Reconnaissance Techniques\n\nMichael Wylie explains keyword generation heuristics, DNS permutations, and multi-cloud enumeration toolchains for finding target storage assets.\n\nSearching Across AWS S3, Azure Blobs, and Google Cloud Storage\n\nThe author demonstrates verifying bucket ACLs, listing object keys, and searching through exposed file repositories for API credentials and PII.\n\nDefensive Remediation and Continuous Storage Auditing\n\nThe presentation provides cloud administrators with policy enforcement templates (S3 Block Public Access, Azure Private Endpoints) and continuous monitoring scripts.",
+      "durationSeconds": 3169
+    },
+    {
+      "youtubeId": "cXlWY3OnjO0",
+      "slug": "safe-mode-red-team-village-adam-pennington",
+      "title": "Emulating an Adversary with Imperfect Intelligence",
+      "speakers": [
+        "Adam Pennington"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "adversary-emulation",
+        "mitre-att-ck",
+        "threat-intelligence",
+        "purple-team",
+        "red-team"
+      ],
+      "teaser": "MITRE ATT&CK lead Adam Pennington shares strategies for crafting realistic adversary emulation plans even when threat intelligence reports are incomplete or vague.",
+      "summary": "The Reality of Incomplete Threat Intelligence\n\nPublic cyber threat intelligence reports rarely contain exhaustive playbooks, often leaving gaps in specific command-line arguments, tool configurations, and timelines.\n\nBridging the Gaps in Adversary Profiles\n\nAdam Pennington demonstrates how purple team planners interpolate missing technical details by analyzing adversary objectives, tool capabilities, and analogous campaigns.\n\nStructuring Emulation Plans with MITRE ATT&CK\n\nThe author explains mapping ambiguous report text into concrete ATT&CK techniques, sub-techniques, and actionable procedural tests.\n\nMaximizing Defensive Validation and Training Value\n\nThe presentation offers practical guidance for red and blue teams to maximize the educational impact of emulation exercises despite imperfect adversary telemetry.",
+      "durationSeconds": 3445
+    },
+    {
+      "youtubeId": "iiK2vBRMMSs",
+      "slug": "safe-mode-red-team-village-gabriel-ryan-dropengine-malleable-pay",
+      "title": "dropengine: A Malleable Payload Creation Framework for EDR Evasion",
+      "speakers": [
+        "Gabriel Ryan"
+      ],
+      "track": "red-team",
+      "topics": [
+        "dropengine",
+        "dropper",
+        "shellcode-runner",
+        "edr-evasion",
+        "payload-generation"
+      ],
+      "teaser": "Gabriel Ryan introduces DropEngine, a modular framework for generating polymorphic, malleable shellcode runners designed to evade modern EDR solutions.",
+      "summary": "The High Attrition Rate of Initial Access Payloads\n\nModern Endpoint Detection and Response (EDR) solutions use automated static analysis, dynamic heuristics, and AMSI scanning to detect standard shellcode runners.\n\nIntroducing the DropEngine Modular Framework\n\nGabriel Ryan presents DropEngine, an extensible framework that decouples payload creation into swappable encrypters, decrypters, execution methods, and bypasses.\n\nImplementing Advanced Process Injection and Unhooking\n\nRyan demonstrates configuring custom payload profiles—incorporating AMSI/ETW patching, direct syscall invocations, and stealthy memory allocation routines.\n\nDetection Engineering for Polymorphic Shellcode Runners\n\nThe author discusses behavioral indicators, memory scanning heuristics, and kernel-mode telemetry necessary for defenders to catch malleable loaders.",
+      "durationSeconds": 3226
+    },
+    {
+      "youtubeId": "TelqSCdwi10",
+      "slug": "safe-mode-red-team-village-jorge-orchilles-deep-dive-into-advers",
+      "title": "Deep Dive into Adversary Emulation: Ransomware Tradecraft & Purple Teaming",
+      "speakers": [
+        "Jorge Orchilles"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "ransomware",
+        "adversary-emulation",
+        "purple-team",
+        "scythe",
+        "incident-response"
+      ],
+      "teaser": "SCYTHE CTO Jorge Orchilles details how to safely emulate multi-stage human-operated ransomware campaigns to test enterprise detection and response.",
+      "summary": "The Rising Threat of Human-Operated Ransomware\n\nModern enterprise ransomware attacks involve multi-stage campaigns combining credential theft, lateral movement, data exfiltration, and coordinated encryption.\n\nDesigning Safe Ransomware Emulation Playbooks\n\nJorge Orchilles explains how to simulate destructive ransomware behaviors—including volume shadow copy deletion, service stopping, and simulated encryption—without risking data loss.\n\nExecuting End-to-End Emulation with SCYTHE\n\nThe speaker demonstrates orchestrating realistic ransomware emulation campaigns across Windows environments to validate EDR alerts and SOC response SLAs.\n\nClosing Defensive Gaps with Collaborative Purple Teaming\n\nThe presentation provides blue teams with specific detection rules, telemetry checklists, and incident response runbooks to neutralize real-world ransomware outbreaks.",
+      "durationSeconds": 2772
+    },
+    {
+      "youtubeId": "Pc7h9S_UTac",
+      "slug": "safe-mode-red-team-village-ryan-ekins-notebooks-datasets-and-clo",
+      "title": "Notebooks, Datasets, & Clouds for Offensive Automation & Threat Analysis",
+      "speakers": [
+        "Ryan Ekins"
+      ],
+      "track": "cloud",
+      "topics": [
+        "jupyter",
+        "cloud-automation",
+        "data-science",
+        "offensive-tooling",
+        "recon"
+      ],
+      "teaser": "Ryan Ekins demonstrates leveraging cloud-hosted Jupyter notebooks, large datasets, and serverless pipelines to automate offensive reconnaissance and analysis.",
+      "summary": "The Intersection of Data Science and Offensive Security\n\nModern security operations generate massive datasets during reconnaissance and fuzzing, requiring scalable data processing pipelines.\n\nLeveraging Jupyter Notebooks for Offensive Workflows\n\nRyan Ekins illustrates using cloud-hosted Jupyter notebooks and Python data science libraries (pandas, matplotlib) to analyze network attack surfaces.\n\nBuilding Scalable Serverless Automation Pipelines\n\nThe speaker demonstrates deploying cloud functions and containers to orchestrate distributed port scans, asset discovery, and credential validation.\n\nOperationalizing Big Data for Red and Purple Teams\n\nThe presentation showcases how data-driven automation streamlines attack planning and enables repeatable security telemetry analysis.",
+      "durationSeconds": 3145
+    },
+    {
+      "youtubeId": "u5QtuuMNYFo",
+      "slug": "safe-mode-red-team-village-forrest-fuqua-what-college-kids-alway",
+      "title": "What College Kids Always Get Wrong: Lessons from CCDC Red Teaming",
+      "speakers": [
+        "Forrest Fuqua"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "ccdc",
+        "hardening",
+        "incident-response",
+        "red-team",
+        "education"
+      ],
+      "teaser": "NECCDC red teamer Forrest Fuqua breaks down common defensive blunders collegiate competitors make when trying to harden already-compromised systems.",
+      "summary": "The Pressure Cooker of Collegiate Cyber Defense (CCDC)\n\nIn collegiate cyber defense competitions, student blue teams are tasked with defending inherently vulnerable, legacy enterprise environments against active red teamers.\n\nAnalyzing Recurring Defensive Blunders\n\nForrest Fuqua reviews classic mistakes made by competitors—including attempting to patch non-critical services while default credentials and root backdoors remain active.\n\nPrioritizing Incident Triage and System Isolation\n\nThe speaker explains why establishing basic visibility, password resets, and network segmentation must take precedence over complex software configuration changes.\n\nPractical Advice for Aspiring Defenders and Educators\n\nThe presentation offers actionable defensive frameworks for cybersecurity students and competition coaches to improve incident triage under pressure.",
+      "durationSeconds": 2965
+    },
+    {
+      "youtubeId": "92O_kBDD_aw",
+      "slug": "safe-mode-red-team-village-leron-gray-bypass-python-38-audit-hoo",
+      "title": "Bypass Python 3.8 Audit Hooks or Nah? Internals & Evasion",
+      "speakers": [
+        "Leron Gray"
+      ],
+      "track": "appsec",
+      "topics": [
+        "python",
+        "audit-hooks",
+        "pep-578",
+        "runtime-security",
+        "evasion"
+      ],
+      "teaser": "Leron Gray dives into Python 3.8's PEP 578 audit hooks (sys.addaudithook), exploring their architectural design, runtime inspection capabilities, and bypasses.",
+      "summary": "The Introduction of Python Audit Hooks (PEP 578)\n\nPython 3.8 introduced audit hooks to provide security tools and system administrators with runtime visibility into sensitive operations like code compilation, network sockets, and dynamic imports.\n\nDeconstructing Python Runtime Security Architecture\n\nLeron Gray explains the CPython internal implementation of `sys.addaudithook` and `PySys_Audit`, examining what system events are logged.\n\nEvaluating Bypass Vectors and Memory Manipulation\n\nThe author explores techniques for tampering with runtime structures in memory—including ctypes abuse, hooking C-level function pointers, and disabling callback arrays.\n\nDesigning Robust Python Runtime Defenses\n\nThe presentation discusses how application developers can effectively implement audit hooks and what limitations defenders must anticipate.",
+      "durationSeconds": 2413
+    },
+    {
+      "youtubeId": "-JPevbBHIOY",
+      "slug": "safe-mode-red-team-village-corey-ham-matt-eidelberg-breaking-the",
+      "title": "Breaking the Attack Chain: Exploiting Structural Blindspots in Modern IT Operations",
+      "speakers": [
+        "Corey Ham",
+        "Matt Eidelberg"
+      ],
+      "track": "red-team",
+      "topics": [
+        "killchain",
+        "lateral-movement",
+        "active-directory",
+        "it-operations",
+        "red-team"
+      ],
+      "teaser": "Corey Ham and Matt Eidelberg analyze why targeted attack chains succeed, exploiting systemic blindspots between IT operations and security monitoring.",
+      "summary": "The Friction Between IT Administration and Security Controls\n\nEven in mature enterprise environments, operational compromises made for business convenience create structural blindspots that red teams routinely exploit.\n\nDissecting Realistic Attack Chains from Initial Access to Domain Takeover\n\nCorey Ham and Matt Eidelberg walk through full attack chains—abusing service accounts, shared local administrator passwords, and unmonitored legacy subnets.\n\nExploiting Administrative Tooling for Living-Off-The-Land\n\nThe speakers illustrate how adversaries turn legitimate management tools (PowerShell remoting, WMI, PsExec) into covert lateral movement vectors.\n\nActionable Strategies for Breaking the Attack Chain\n\nThe authors present practical architectural reforms—including Tiered Administration, privileged access workstations, and focused telemetry auditing.",
+      "durationSeconds": 3502
+    },
+    {
+      "youtubeId": "1RvzPtwy_tQ",
+      "slug": "safe-mode-red-team-village-chris-wysopal-red-teaming-born-from-t",
+      "title": "Red Teaming: Born from the Hacking Community",
+      "speakers": [
+        "Chris Wysopal"
+      ],
+      "track": "community",
+      "topics": [
+        "history",
+        "l0pht",
+        "culture",
+        "red-team",
+        "community"
+      ],
+      "teaser": "L0pht Heavy Industries co-founder Chris Wysopal (Weld Pond) reflects on the historical origins of red teaming and its evolution from grassroots hacker culture.",
+      "summary": null,
+      "durationSeconds": 1807
+    },
+    {
+      "youtubeId": "UoEBtwk-_a0",
+      "slug": "safe-mode-red-team-village-noa-novogroder-back-to-the-future-com",
+      "title": "Back to the Future: Computer Science, System Biology, & Molecular Code Injection",
+      "speakers": [
+        "Noa Novogroder"
+      ],
+      "track": "community",
+      "topics": [
+        "biology",
+        "code-injection",
+        "genetics",
+        "philosophy",
+        "malware"
+      ],
+      "teaser": "Noa Novogroder explores parallels between computer science and molecular biology, showing how viruses executed code injection in biological cells 1.5 billion years ago.",
+      "summary": "The Interdisciplinary Parallels of Computation and Biology\n\nBiological cellular systems and computer architectures both execute stored algorithmic instructions, parse information sequences, and defend against malicious injection.\n\nBiological Code Injection: Viruses and Retroviruses\n\nNoa Novogroder examines how biological viruses inject foreign genetic bytecode into host cellular machinery, operating as nature's original living-off-the-land malware.\n\nDecoding Mechanisms in Molecular Gene Expression\n\nThe author compares ribosome decoding pipelines and error correction mechanisms to compiler parsing, instruction interpreters, and system integrity verification.\n\nLessons for Cyber Defense from Biological Evolution\n\nThe presentation inspires cybersecurity researchers to study immune systems and biological resilience when architecting next-generation adaptive defenses.",
+      "durationSeconds": 3847
+    },
+    {
+      "youtubeId": "HnKh1-nyaTg",
+      "slug": "safe-mode-red-team-village-ankur-chowdhary",
+      "title": "Autonomous Security Analysis & Penetration Testing Frameworks",
+      "speakers": [
+        "Ankur Chowdhary"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "automated-pentesting",
+        "ai-security",
+        "attack-graphs",
+        "reinforcement-learning",
+        "red-team"
+      ],
+      "teaser": "Dr. Ankur Chowdhary discusses autonomous penetration testing frameworks using attack graphs and reinforcement learning to plan and execute attack paths.",
+      "summary": "The Human Bottleneck in Penetration Testing\n\nManual penetration testing requires extensive human expertise and time, making comprehensive, frequent assessments across expanding enterprise networks difficult.\n\nDeveloping Autonomous Penetration Testing Engines\n\nDr. Ankur Chowdhary explores using attack graphs and Markov Decision Processes (MDPs) to model network state transitions and automate exploit planning.\n\nApplying Reinforcement Learning for Adaptive Attack Paths\n\nThe speaker demonstrates how autonomous agents learn optimal multi-step attack strategies by probing simulated networks and adapting to defensive responses.\n\nEvaluating the Future of Automated Cyber Defense and Offense\n\nThe presentation discusses the integration of autonomous testing tools into continuous purple teaming and security validation pipelines.",
+      "durationSeconds": 2893
+    },
+    {
+      "youtubeId": "jE_Lak6xrg0",
+      "slug": "safe-mode-red-team-village-apurv-gautam-automatingthreat-hunting",
+      "title": "Automating Threat Hunting on the Dark Web: Tor Scraping & Credential Harvesting",
+      "speakers": [
+        "Apurv Gautam"
+      ],
+      "track": "osint",
+      "topics": [
+        "dark-web",
+        "tor",
+        "threat-hunting",
+        "osint",
+        "threat-intelligence"
+      ],
+      "teaser": "Apurv Gautam demonstrates building automated crawlers and threat intelligence collectors to monitor Tor darknet markets and paste sites for leaked corporate data.",
+      "summary": "The Value of Dark Web Telemetry in Enterprise Threat Intelligence\n\nUnderground cybercrime forums, paste sites, and darknet leak platforms serve as early indicators of compromised employee credentials and corporate breach data.\n\nArchitecting Automated Tor Crawlers and Scrapers\n\nApurv Gautam details building resilient automated scraping frameworks in Python using Tor proxies, rotating user agents, and CAPTCHA handling.\n\nExtracting, Parsing, and Normalizing Leaked Indicators\n\nThe speaker shows how to extract email domains, hashed credentials, and proprietary code snippets from unstructured forum posts and indexed onion pages.\n\nOperationalizing Dark Web Feeds for Threat Hunting\n\nThe presentation provides incident responders with methodologies for integrating darknet intelligence into automated SIEM alerting and proactive credential resets.",
+      "durationSeconds": 2732
+    },
+    {
+      "youtubeId": "0lE5oHqZV0s",
+      "slug": "safe-mode-red-team-village-pablo-gonzalez",
+      "title": "ATTPwn: An Open-Source Framework for Adversarial Emulation",
+      "speakers": [
+        "Pablo González"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "attpwn",
+        "adversary-emulation",
+        "mitre-att-ck",
+        "purple-team",
+        "red-team"
+      ],
+      "teaser": "Pablo González presents ATTPwn, an open-source adversary emulation framework designed to automate MITRE ATT&CK techniques and validate defensive controls.",
+      "summary": "The Need for Accessible Adversary Emulation Tooling\n\nValidating security control efficacy requires automated tooling that accurately simulates real-world threat actor techniques without complex commercial licensing.\n\nArchitecture of the ATTPwn Framework\n\nPablo González introduces ATTPwn, an open-source platform that structures adversary emulation campaigns around mapped MITRE ATT&CK techniques.\n\nExecuting Dynamic Attack Plans and Evaluating Telemetry\n\nThe author demonstrates orchestrating automated multi-step attack simulations—including credential dumping, persistence, and discovery—across endpoint fleets.\n\nImproving SOC Detection Engineering with Empirical Data\n\nThe presentation shows how purple teams leverage ATTPwn execution logs to identify detection gaps and refine SIEM/EDR alert rules.",
+      "durationSeconds": 2757
+    },
+    {
+      "youtubeId": "GhfiNTsxqxA",
+      "slug": "safe-mode-red-team-village-anthony-rose-jake-krasnov",
+      "title": "APTs Love PowerShell, You Should Too: Modern Offensive PowerShell Tradecraft",
+      "speakers": [
+        "Anthony Rose",
+        "Jake Krasnov"
+      ],
+      "track": "red-team",
+      "topics": [
+        "powershell",
+        "obfuscation",
+        "amsi-bypass",
+        "living-off-the-land",
+        "red-team"
+      ],
+      "teaser": "Anthony Rose and Jake Krasnov debunk the myth that PowerShell is dead for red teams, showing how modern adversaries weaponize PowerShell while evading AMSI and logging.",
+      "summary": "The Misconception of PowerShell's Demise\n\nDespite the rise of C# and Go tooling, advanced persistent threat (APT) actors continue to heavily utilize PowerShell due to its native deep integration with Windows internals.\n\nDeconstructing Modern PowerShell Security Controls\n\nAnthony Rose and Jake Krasnov analyze Script Block Logging, Constrained Language Mode (CLM), and the Antimalware Scan Interface (AMSI).\n\nBypassing AMSI and Logging Protections in Memory\n\nThe speakers demonstrate practical in-memory patching techniques to disable AMSI scanning and blind Script Block Logging without administrative privileges.\n\nOffensive Automation and Living-Off-The-Land Techniques\n\nThe authors showcase weaponizing native cmdlets for Active Directory reconnaissance, credential harvesting, and lateral movement.",
+      "durationSeconds": 3577
+    },
+    {
+      "youtubeId": "l5Y-laZRDPs",
+      "slug": "safe-mode-red-team-village-eduardo-arriols",
+      "title": "Catch Me If You Can: Stealthy Backdoor Deployment & Enterprise Persistence",
+      "speakers": [
+        "Eduardo Arriols"
+      ],
+      "track": "red-team",
+      "topics": [
+        "persistence",
+        "backdoor",
+        "c2",
+        "edr-evasion",
+        "red-team"
+      ],
+      "teaser": "Eduardo Arriols breaks down stealthy backdoor deployment and persistent access techniques across enterprise Windows networks, evading blue team hunts.",
+      "summary": "The Critical Challenge of Long-Term Persistence\n\nMaintaining reliable, covert access during extended red team engagements requires deploying diverse persistence mechanisms that withstand reboots and blue team remediation.\n\nCategorizing Modern Enterprise Persistence Mechanisms\n\nEduardo Arriols examines various persistence locations—including scheduled tasks, WMI event subscriptions, service creation, and registry run keys.\n\nImplementing Stealthy C2 Channels and Fallback Implants\n\nThe author demonstrates configuring redundant, low-and-slow command and control (C2) implants that wake up periodically to avoid behavioral detection.\n\nBlue Team Threat Hunting and Persistence Auditing\n\nThe presentation provides defenders with telemetry inspection checklists, AutoRuns analysis workflows, and detection heuristics to root out hidden implants.",
+      "durationSeconds": 3609
+    },
+    {
+      "youtubeId": "cXZHtMM8JYw",
+      "slug": "safe-mode-red-team-village-justin-hutchens",
+      "title": "Bypassing Multi-Factor Authentication with Real-Time Session Replay Proxies",
+      "speakers": [
+        "Justin Hutchens"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "mfa-bypass",
+        "reverse-proxy",
+        "phishing",
+        "evilginx",
+        "social-engineering"
+      ],
+      "teaser": "Justin Hutchens demonstrates bypassing Multi-Factor Authentication (MFA) using real-time adversary-in-the-middle reverse proxies to capture authenticated session tokens.",
+      "summary": "The Evolution of Phishing Beyond Password Harvesting\n\nWith organizations broadly enforcing Multi-Factor Authentication (MFA), traditional credential harvesting phishing landing pages are no longer sufficient for initial access.\n\nArchitecture of Adversary-in-the-Middle (AiTM) Proxies\n\nJustin Hutchens breaks down how reverse-proxy frameworks (e.g., Evilginx) intercept live authentication traffic between victims and legitimate identity providers.\n\nStealing Authenticated Session Cookies and Tokens in Real Time\n\nThe speaker illustrates how proxying legitimate MFA prompts allows attackers to harvest post-authentication session cookies, bypassing TOTP and push notifications.\n\nDefensive Countermeasures: FIDO2 and Conditional Access\n\nThe presentation explores robust defensive mitigations—including hardware-bound FIDO2/WebAuthn keys, certificate-based authentication, and continuous token evaluation.",
+      "durationSeconds": 2570
+    },
+    {
+      "youtubeId": "ASS4GlpwuGA",
+      "slug": "safe-mode-red-team-village-ali-abdollahi-bypassing-in-mobile-net",
+      "title": "Bypassing Security Controls in Mobile Networks from a Red Team Perspective",
+      "speakers": [
+        "Ali Abdollahi"
+      ],
+      "track": "wireless",
+      "topics": [
+        "cellular",
+        "mobile-security",
+        "lte",
+        "telecom",
+        "red-team"
+      ],
+      "teaser": "Ali Abdollahi analyzes cellular core network security mechanisms, reviewing IMSI catchers, diameter routing flaws, and protocol bypasses from a red team perspective.",
+      "summary": "The Expanding Core Architecture of Mobile Networks\n\nModern 4G LTE and 5G mobile networks implement complex cryptographic handshakes and mutual authentication protocols to secure subscriber traffic.\n\nAnalyzing Telecom Protocols and Signaling Boundaries\n\nAli Abdollahi investigates signaling protocols (SS7, Diameter, GTP), identifying how perimeter interconnection nodes leak location telemetry and subscriber identifiers.\n\nSimulating Cellular Attacks and Perimeter Bypasses\n\nThe author demonstrates practical adversary techniques—including rogue base station interaction, IMSI harvesting, and data interception across unencrypted backhaul links.\n\nCarrier Hardening and Telemetry Monitoring\n\nThe presentation provides telecom operators with recommendations for deploying signaling firewalls, protocol sanitization, and subscriber privacy enhancements.",
+      "durationSeconds": 1403
+    },
+    {
+      "youtubeId": "hs2Md7407c0",
+      "slug": "safe-mode-red-team-village-mathy-vanhoef-protecting-wifi-beacons",
+      "title": "Protecting Wi-Fi Beacons from Outside Forgeries: Beacon Protection & Dragonblood",
+      "speakers": [
+        "Mathy Vanhoef"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wifi",
+        "beacon-spoofing",
+        "wpa3",
+        "wireless",
+        "dragonblood"
+      ],
+      "teaser": "Security researcher Mathy Vanhoef demonstrates attacks possible via spoofed Wi-Fi beacons and explores emerging beacon protection standards in WPA3.",
+      "summary": "The Vulnerability of Unauthenticated 802.11 Beacons\n\nWi-Fi access points periodically broadcast unencrypted beacon frames to announce network capabilities, SSIDs, operating channels, and cryptographic ciphers.\n\nDemonstrating Beacon Spoofing and Channel Confusion Attacks\n\nMathy Vanhoef illustrates how rogue actors inject forged beacon frames to manipulate victim power-save modes, downgrade cipher suites, and force rogue network roaming.\n\nAnalyzing WPA3 Beacon Protection Standards (802.11w / 802.11mc)\n\nThe author explores cryptographic beacon protection mechanisms designed to sign management frames and authenticate beacon contents.\n\nImplementing Robust Wireless Defenses\n\nThe presentation outlines how operating systems and wireless access points can deploy beacon integrity verification to block rogue AP attacks.",
+      "durationSeconds": 1211
+    },
+    {
+      "youtubeId": "_bYDbr853Uw",
+      "slug": "safe-mode-red-team-village-travis-palmer",
+      "title": "Password Cracking Beyond 15 Characters on a Budget Under $500",
+      "speakers": [
+        "Travis Palmer"
+      ],
+      "track": "red-team",
+      "topics": [
+        "password-cracking",
+        "hashcat",
+        "passphrases",
+        "mask-attacks",
+        "red-team"
+      ],
+      "teaser": "Travis Palmer demonstrates advanced password cracking strategies tailored against 15+ character enterprise passphrase policies using sub-$500 GPU rigs.",
+      "summary": "The Shifting Paradigm of Password Length Requirements\n\nAs organizations increase minimum password length policies to 15 or more characters, traditional brute-force and short mask attacks become computationally infeasible.\n\nBuilding a Cost-Effective GPU Cracking Rig Under $500\n\nTravis Palmer shares hardware blueprints for assembling high-throughput, affordable password cracking hardware using consumer GPUs and second-hand components.\n\nDesigning Targeted Passphrase and Grammar Mask Attacks\n\nPalmer details modeling human passphrase generation habits, combining wordlists, grammar templates, and combinatorial rules (Hashcat/John the Ripper) to crack long passphrases.\n\nRevising Enterprise Authentication Guidelines\n\nThe presentation provides guidance for security teams on evaluating password entropy and migrating to multi-factor authentication and passkeys.",
+      "durationSeconds": 2538
+    },
+    {
+      "youtubeId": "qUbDWzqhA4Y",
+      "slug": "safe-mode-red-team-village-petros-koutrompis",
+      "title": "OU Having a Laugh: Abusing Organizational Unit DACLs in Active Directory",
+      "speakers": [
+        "Petros Koutrompis"
+      ],
+      "track": "red-team",
+      "topics": [
+        "active-directory",
+        "bloodhound",
+        "ou-permissions",
+        "dacl-abuse",
+        "privilege-escalation"
+      ],
+      "teaser": "Petros Koutrompis analyzes newly added BloodHound edges targeting Active Directory Organizational Units (OUs), demonstrating subtle ACL takeover paths.",
+      "summary": "The Power of Active Directory Attack Path Graphing\n\nBloodHound has transformed enterprise assessments by mapping complex graph relationships and hidden discretionary access control lists (DACLs) across Active Directory.\n\nAnalyzing Organizational Unit (OU) Permission Structures\n\nPetros Koutrompis dissects how generic write permissions and object creation rights over OUs can be weaponized to seize control of child objects.\n\nChaining OU DACL Abuse into Domain Escalation\n\nThe speaker demonstrates real-world attack paths where low-privilege users manipulate OU permissions to move computer accounts, force GPO updates, and compromise administrators.\n\nDefensive Auditing and DACL Hygiene\n\nThe author provides remediation queries and auditing scripts to identify and remove dangerous inherited permissions on Active Directory containers.",
+      "durationSeconds": 1817
+    },
+    {
+      "youtubeId": "pL0w-dECE1I",
+      "slug": "safe-mode-red-team-village-kaustubh",
+      "title": "Offensive Embedded Exploitation: From Hardware Interfaces to Root Shells",
+      "speakers": [
+        "Kaustubh"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "embedded-security",
+        "uart",
+        "jtag",
+        "firmware-reverse-engineering"
+      ],
+      "teaser": "Kaustubh provides a comprehensive walkthrough of offensive embedded IoT device exploitation, covering UART/JTAG probing, firmware extraction, and memory corruption.",
+      "summary": "The Proliferation of Connected Embedded Devices\n\nSmart consumer appliances, industrial gateways, and medical IoT devices integrate embedded Linux microcontrollers that frequently lack basic physical and software protections.\n\nHardware Interface Probing: UART, JTAG, and SPI\n\nKaustubh demonstrates identifying physical debug interfaces on printed circuit boards, connecting logic analyzers, and dumping SPI flash memory chips.\n\nFirmware Reverse Engineering and Root Filesystem Extraction\n\nThe author walks through unpacking proprietary firmware images using binwalk, analyzing squashfs filesystems, and discovering hardcoded root credentials and backdoors.\n\nMemory Corruption and Service Exploitation\n\nThe presentation details finding buffer overflows in embedded HTTP and Telnet daemons, cross-compiling payloads, and spawning interactive root shells.",
+      "durationSeconds": 3976
+    },
+    {
+      "youtubeId": "POrREdNw7j8",
+      "slug": "safe-mode-red-team-village-sajal-thomas",
+      "title": "Modern Red Team Tradecraft: Bridging the Gap with Real-World Espionage",
+      "speakers": [
+        "Sajal Thomas"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "tradecraft",
+        "c2",
+        "lateral-movement",
+        "adversary-emulation"
+      ],
+      "teaser": "Sajal Thomas examines the technical gap between commercial red teams and state-sponsored APT groups, sharing advanced tradecraft to elevate offensive testing.",
+      "summary": "The Evolving Landscape of Threat Actor Sophistication\n\nNation-state cyber espionage groups operate with patience, bespoke infrastructure, and zero-day tooling that traditional penetration tests rarely replicate.\n\nBridging the Methodology Gap in Red Teaming\n\nSajal Thomas analyzes advanced operational concepts—including domain fronting alternatives, long-dwell in-memory persistence, and operational risk mitigation.\n\nExecuting Covert Lateral Movement and Data Staging\n\nThe speaker demonstrates navigating complex enterprise networks using living-off-the-land techniques without generating anomalous endpoint security telemetry.\n\nElevating Enterprise Resilience Through Realistic Simulations\n\nThe presentation encourages red teams to shift from speed-based pwning to realistic, objective-driven adversary emulation that truly tests detection engineering.",
+      "durationSeconds": 3601
+    },
+    {
+      "youtubeId": "L_qoz2_Qyhk",
+      "slug": "safe-mode-red-team-village-daniel-miessler",
+      "title": "Mechanizing Methodology: Automating Attack Surface Discovery & Reconnaissance",
+      "speakers": [
+        "Daniel Miessler"
+      ],
+      "track": "recon",
+      "topics": [
+        "recon",
+        "attack-surface-management",
+        "automation",
+        "osint",
+        "asset-discovery"
+      ],
+      "teaser": "Daniel Miessler presents strategies for mechanizing security methodologies, automating continuous asset discovery and attack surface management.",
+      "summary": "The Human Bottleneck in Attack Surface Discovery\n\nWhile hundreds of specialized reconnaissance tools exist, executing a rigorous security methodology consistently across massive target domains is mentally exhausting.\n\nIntroducing Methodological Mechanization\n\nDaniel Miessler outlines frameworks for translating human discovery heuristics and checklists into automated, modular execution pipelines.\n\nContinuous Asset Monitoring and Differential Alerting\n\nThe author demonstrates chaining DNS enumeration, port scanning, web screenshotting, and technology fingerprinting into continuous background discovery engines.\n\nMaximizing Security Analyst Efficiency\n\nThe presentation shares open-source tooling concepts and architectural guidance to help bug hunters and red teamers automate repetitive reconnaissance.",
+      "durationSeconds": 1181
+    },
+    {
+      "youtubeId": "aEaSZJRbnTo",
+      "slug": "safe-mode-red-team-village-madhu-akula",
+      "title": "Kubernetes Goat: A Vulnerable by Design Cluster for Learning Cloud Native Security",
+      "speakers": [
+        "Madhu Akula"
+      ],
+      "track": "cloud",
+      "topics": [
+        "kubernetes",
+        "k8s",
+        "cloud-security",
+        "container-security",
+        "vulnerable-by-design"
+      ],
+      "teaser": "Madhu Akula introduces Kubernetes Goat, an intentionally vulnerable cluster environment designed to learn Kubernetes security, RBAC misconfigurations, and container escapes.",
+      "summary": "The Complexity of Cloud Native Security\n\nKubernetes orchestrates enterprise container workloads worldwide, but its vast API surface, complex RBAC controls, and network policies create severe security challenges.\n\nIntroducing the Kubernetes Goat Playground\n\nMadhu Akula presents Kubernetes Goat, an open-source vulnerable-by-design environment mapping real-world cloud native security misconfigurations.\n\nHands-On Attack Scenarios and Cluster Compromise\n\nAkula walks through practical attack scenarios—including SSRF in containerized web apps, exposed Docker/Kubelet sockets, RBAC token privilege escalation, and host breakout.\n\nHardening Best Practices for Cloud Native Infrastructure\n\nThe author provides defensive teams with admission controller policies, network segmentation rules, and least-privilege RBAC templates.",
+      "durationSeconds": 3421
+    },
+    {
+      "youtubeId": "A2FQNBwBwD8",
+      "slug": "safe-mode-red-team-village-shay-nehmad-making-breach-and-attack",
+      "title": "Making Breach & Attack Simulation Accessible: Open-Source Automation with infection_monkey",
+      "speakers": [
+        "Shay Nehmad"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "infection-monkey",
+        "bas",
+        "breach-and-attack-simulation",
+        "zero-trust",
+        "purple-team"
+      ],
+      "teaser": "Shay Nehmad demonstrates how open-source Breach and Attack Simulation (BAS) tools like Infection Monkey make automated security validation accessible to any organization.",
+      "summary": "The Challenge of Communicating Enterprise Security Posture\n\nSecurity leaders often struggle to objectively demonstrate how resilient their networks are against real-world lateral movement and ransomware propagation.\n\nDemocratizing Breach and Attack Simulation (BAS)\n\nShay Nehmad explores open-source BAS platforms—such as Infection Monkey—that automate safe, controlled adversary emulation inside internal networks.\n\nMapping Lateral Movement and Zero Trust Violations\n\nNehmad illustrates how the simulation agent identifies weak credentials, unpatched vulnerabilities, and missing network segmentation across hybrid environments.\n\nGenerating Actionable Telemetry and Executive Reports\n\nThe presentation demonstrates how BAS reports provide engineers and CISOs with concrete remediation roadmaps to achieve Zero Trust resilience.",
+      "durationSeconds": 3079
+    },
+    {
+      "youtubeId": "bWtGC6-tqDs",
+      "slug": "safe-mode-red-team-village-nahamsec-barnes-knock-knock-identifyi",
+      "title": "Knock Knock: Identifying Cloud Assets & Hidden Attack Surfaces",
+      "speakers": [
+        "Ben Sadeghipour",
+        "Michael Barnes"
+      ],
+      "track": "recon",
+      "topics": [
+        "cloud-recon",
+        "asset-discovery",
+        "recon",
+        "bug-bounty",
+        "osint"
+      ],
+      "teaser": "NahamSec (Ben Sadeghipour) and Michael Barnes explore modern cloud reconnaissance techniques, discovering ephemeral cloud assets and hidden enterprise infrastructure.",
+      "summary": "The Fast-Paced Race of Asset Discovery\n\nIn bug bounty hunting and red team engagements, discovering newly deployed cloud assets before others is critical to finding unpatched vulnerabilities.\n\nTechniques for Cloud Asset Identification\n\nBen Sadeghipour (NahamSec) and Michael Barnes share proven methodologies for resolving cloud IP ranges, TLS certificate transparency logs, and DNS records.\n\nAutomating Cloud Surface Mapping\n\nThe speakers demonstrate writing lightweight enumeration scripts to continuously discover exposed web services, APIs, and administrative portals across AWS, Azure, and GCP.\n\nOperational Workflows for Bug Hunters and Red Teams\n\nThe presentation provides actionable tips for prioritizing targets and avoiding common reconnaissance pitfalls.",
+      "durationSeconds": 3546
+    },
+    {
+      "youtubeId": "k8-G6oCHNHM",
+      "slug": "safe-mode-red-team-village-phillip-wylie-inside-the-mind-of-a-th",
+      "title": "Inside the Mind of a Threat Actor: Red Team vs. Penetration Testing Disciplines",
+      "speakers": [
+        "Phillip Wylie"
+      ],
+      "track": "community",
+      "topics": [
+        "red-team",
+        "pentesting",
+        "career-development",
+        "adversary-mindset",
+        "education"
+      ],
+      "teaser": "Phillip Wylie demystifies offensive security disciplines, exploring the strategic differences between vulnerability assessments, penetration testing, and true red teaming.",
+      "summary": "Clarifying Offensive Security Terminology\n\nThe cybersecurity industry frequently conflates vulnerability scanning, penetration testing, and red teaming, causing confusion for organizations and practitioners.\n\nDeconstructing the Core Offensive Disciplines\n\nPhillip Wylie breaks down the distinct objectives, scoping rules, and timelines separating broad vulnerability assessments from goal-oriented adversary simulations.\n\nAdopting the Mindset of an Advanced Threat Actor\n\nThe speaker explores how true red team operators focus on stealth, long-term persistence, and business-impact objectives rather than finding every flaw.\n\nCareer Pathways in Offensive Security\n\nThe author offers guidance for aspiring security professionals on developing offensive skills, obtaining relevant certifications, and choosing specialization paths.",
+      "durationSeconds": 2307
+    },
+    {
+      "youtubeId": "xxPe2X_hbOY",
+      "slug": "safe-mode-red-team-village-walter-cuestas",
+      "title": "Initial Compromise Through Web Side: Alternative Vectors Beyond Simple RCE",
+      "speakers": [
+        "Walter Cuestas"
+      ],
+      "track": "appsec",
+      "topics": [
+        "initial-access",
+        "web-security",
+        "ssrf",
+        "xxe",
+        "red-team"
+      ],
+      "teaser": "Walter Cuestas demonstrates three real-world case studies of achieving initial enterprise access through web vulnerabilities without relying on direct RCE.",
+      "summary": "Web Applications as Primary Initial Access Vectors\n\nWhile phishing and client-side attacks are prevalent, web-facing applications remain an indispensable gateway for red teams targeting corporate perimeters.\n\nExploring Complex Web Vulnerability Chains\n\nWalter Cuestas details three real-world attack scenarios where subtle web flaws were chained to breach internal networks without classic unauthenticated RCE.\n\nWeaponizing SSRF, XXE, and Deserialization Flaws\n\nThe speaker illustrates exploiting Server-Side Request Forgery (SSRF) to access cloud metadata and abusing XML External Entity (XXE) injection for internal port scanning.\n\nBridging Web Compromise to Internal Network Pivoting\n\nThe presentation provides red and blue teams with insights into how web flaws translate into internal network footholds and lateral movement.",
+      "durationSeconds": 2463
+    },
+    {
+      "youtubeId": "7WUDnFleC5Y",
+      "slug": "safe-mode-red-team-village-ch33r10-indicators-of-emulation-spicy",
+      "title": "Indicators of Emulation: Spicy Adversary Emulation & CTI Translation",
+      "speakers": [
+        "Ch33r10"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "adversary-emulation",
+        "cti",
+        "threat-intelligence",
+        "purple-team",
+        "red-team"
+      ],
+      "teaser": "Ch33r10 explains how to transform cyber threat intelligence (CTI) from static indicators of compromise into dynamic 'Indicators of Emulation' for red teams.",
+      "summary": "The Evolution of Cyber Threat Intelligence (CTI)\n\nHistorically, CTI focused on extracting static Indicators of Compromise (IOCs) for reactive blocklists and post-incident digital forensics.\n\nIntroducing Indicators of Emulation (IOEs)\n\nCh33r10 proposes shifting CTI consumption toward generating actionable Indicators of Emulation (IOEs) that offensive teams execute to test defenses.\n\nDeconstructing Threat Actor Procedures and Tool Configurations\n\nThe author demonstrates extracting specific procedural behaviors, command execution patterns, and timing characteristics from raw intelligence reports.\n\nOperationalizing Intelligence for Purple Team Exercises\n\nThe presentation illustrates how purple teams use IOEs to validate detection rules, tune SIEM alerts, and verify defensive resilience against specific adversaries.",
+      "durationSeconds": 2706
+    },
+    {
+      "youtubeId": "BrDXfmQF1Ec",
+      "slug": "safe-mode-red-team-village-rod-soto-have-my-keys-been-pwned-api",
+      "title": "Have My Keys Been Pwned? API Edition: Hunting Leaked Credentials in Public Repos",
+      "speakers": [
+        "Rod Soto"
+      ],
+      "track": "cloud",
+      "topics": [
+        "credential-leakage",
+        "api-keys",
+        "git-recon",
+        "devops",
+        "cloud-security"
+      ],
+      "teaser": "Rod Soto explores how developers inadvertently leak cloud API keys and SSH secrets in public repositories, demonstrating automated hunting and abuse vectors.",
+      "summary": "The Proliferation of Hardcoded Secrets in DevOps\n\nRapid CI/CD release cycles and distributed developer workflows frequently lead to hardcoded API keys, database credentials, and cloud tokens committed to code repositories.\n\nAutomated Git Reconnaissance and Secret Scraping\n\nRod Soto demonstrates how attackers and threat hunting bots scan public GitHub repositories, commit histories, and gists in real time for cryptographic secrets.\n\nWeaponizing Leaked Cloud API Keys for Tenant Takeover\n\nThe speaker illustrates how leaked AWS access keys and cloud service tokens allow attackers to escalate privileges and access sensitive backend databases.\n\nPreventative Controls and Automated Secret Scanning\n\nThe presentation provides DevOps and security engineers with pre-commit secret detection hooks, secret rotation policies, and cloud secret management best practices.",
+      "durationSeconds": 2545
+    },
+    {
+      "youtubeId": "MrIuEDjp94o",
+      "slug": "safe-mode-red-team-village-lee-wangenheim-modern-password-cracki",
+      "title": "Modern Password Cracking as a Methodology: Beyond Standard Wordlists",
+      "speakers": [
+        "Lee Wangenheim"
+      ],
+      "track": "red-team",
+      "topics": [
+        "password-cracking",
+        "hashcat",
+        "gpu-cracking",
+        "rule-based-attacks",
+        "red-team"
+      ],
+      "teaser": "Lee Wangenheim presents a structured methodology for modern password cracking, leveraging GPU clusters, targeted rule generation, and behavioral wordlists.",
+      "summary": "The Explosion of GPU-Accelerated Password Cracking\n\nWith massive parallel GPU clusters capable of computing billions of NTLM and SHA hashes per second, password cracking has evolved into a disciplined methodology.\n\nStructuring a Multi-Stage Cracking Workflow\n\nLee Wangenheim outlines a progressive cracking methodology—progressing from small high-probability lists to complex combinatorial and rule-based attacks.\n\nDeveloping Contextual and Targeted Wordlists\n\nThe author demonstrates scraping target company terminology, geographic locations, and industry jargon to build highly targeted attack lists.\n\nEnterprise Password Hygiene and Mitigation Strategies\n\nThe presentation discusses how organizations can detect weak passwords in Active Directory and enforce robust, non-predictable passphrase standards.",
+      "durationSeconds": 3050
+    },
+    {
+      "youtubeId": "sKDbcwHTrWA",
+      "slug": "safe-mode-red-team-village-mazin-ahmed-hacking-zoom-a-hackers-jo",
+      "title": "Hacking Zoom: A Hacker's Journey into Zoom Infrastructure & Client Security",
+      "speakers": [
+        "Mazin Ahmed"
+      ],
+      "track": "appsec",
+      "topics": [
+        "zoom",
+        "reverse-engineering",
+        "appsec",
+        "privacy",
+        "vulnerability-research"
+      ],
+      "teaser": "Mazin Ahmed shares the research journey of auditing Zoom during the 2020 pandemic, uncovering security vulnerabilities and reverse engineering client protocols.",
+      "summary": "The Unprecedented Growth of Video Conferencing\n\nDuring the early months of the COVID-19 pandemic, Zoom became a critical communication utility for hundreds of millions of daily corporate and educational users.\n\nReverse Engineering Zoom Desktop Clients and Web APIs\n\nMazin Ahmed explores the Zoom client architecture, examining undocumented network protocols, local web servers, and cryptographic encryption handshakes.\n\nDiscovering Vulnerabilities in Meeting Privacy and Access Controls\n\nThe author details finding vulnerabilities affecting meeting privacy, URL scheme handling, and unauthenticated API endpoints.\n\nCoordinated Disclosure and Lessons in Rapid Platform Hardening\n\nThe presentation reviews Zoom's comprehensive 90-day security transformation and shares takeaways for securing high-growth consumer communication platforms.",
+      "durationSeconds": 3172
+    },
+    {
+      "youtubeId": "ksq7e6UUDag",
+      "slug": "safe-mode-red-team-village-ray-doyle",
+      "title": "Weaponized XSS: Moving Beyond Alert(1) to Full Client-Side Takeover",
+      "speakers": [
+        "Ray Doyle"
+      ],
+      "track": "appsec",
+      "topics": [
+        "xss",
+        "cross-site-scripting",
+        "weaponization",
+        "session-hijacking",
+        "appsec"
+      ],
+      "teaser": "Ray Doyle demonstrates weaponizing Cross-Site Scripting (XSS) beyond simple alert boxes, achieving full client-side exploitation, session theft, and DOM persistence.",
+      "summary": null,
+      "durationSeconds": 2322
+    },
+    {
+      "youtubeId": "99Ugm92xW2E",
+      "slug": "safe-mode-red-team-village-allie-mellen",
+      "title": "Trust But Verify: Maintaining Democracy Against Cyber Influence Operations",
+      "speakers": [
+        "Allie Mellen"
+      ],
+      "track": "policy",
+      "topics": [
+        "elections",
+        "disinformation",
+        "nation-state",
+        "democracy",
+        "policy"
+      ],
+      "teaser": "Allie Mellen analyzes nation-state cyber operations and digital influence campaigns targeting democratic elections worldwide, and how countries defend.",
+      "summary": "The Weaponization of Cyberspace in Democratic Elections\n\nNation-state adversaries increasingly deploy multi-pronged cyber operations—including spear-phishing, document leaks, and coordinated social media disinformation.\n\nAnalyzing Historical Election Interference Operations\n\nAllie Mellen examines real-world case studies of foreign state-sponsored influence campaigns targeting election infrastructure and public perception.\n\nThe Structural Asymmetry of Information Warfare\n\nThe author explores the asymmetric advantage attackers possess when amplifying domestic divisions compared to the challenges democratic governments face in defense.\n\nBuilding Resilient Democratic Defenses\n\nThe presentation highlights multi-stakeholder defense strategies—including threat intelligence sharing, election infrastructure hardening, and digital media literacy.",
+      "durationSeconds": 2149
+    },
+    {
+      "youtubeId": "ZxKLbij9XCM",
+      "slug": "safe-mode-red-team-village-alvaro-ruedo",
+      "title": "Total E(A)gression: Covert Data Exfiltration & C2 Egress Techniques",
+      "speakers": [
+        "Álvaro Rueda"
+      ],
+      "track": "red-team",
+      "topics": [
+        "egress",
+        "c2",
+        "data-exfiltration",
+        "tunneling",
+        "red-team"
+      ],
+      "teaser": "Álvaro Rueda explores covert egress techniques and data exfiltration channels designed to bypass strict enterprise perimeter firewalls and DLP sensors.",
+      "summary": "The Tightening Perimeter of Enterprise Egress Controls\n\nAs organizations deploy strict egress filtering, deep packet inspection (DPI), and TLS interception proxies, traditional outbound C2 connections are frequently blocked.\n\nCategorizing Covert Network Egress Channels\n\nÁlvaro Rueda analyzes non-standard outbound communication channels—including DNS tunneling, ICMP payload encapsulation, and HTTPS domain fronting.\n\nAbusing Legitimate Cloud Services for Covert Exfiltration\n\nThe speaker illustrates using trusted SaaS platforms (e.g., Slack, Telegram, Microsoft Graph, GitHub) as living-off-the-land command and control backends.\n\nBlue Team Egress Telemetry and Anomaly Detection\n\nThe presentation provides defenders with detection engineering strategies to identify high-entropy DNS queries, anomalous beacon intervals, and suspicious TLS handshakes.",
+      "durationSeconds": 1350
+    },
+    {
+      "youtubeId": "qPlpN4BVnRY",
+      "slug": "safe-mode-red-team-village-jason-haddix-the-bug-hunters-methodol",
+      "title": "The Bug Hunter's Methodology: Advanced Reconnaissance & Vulnerability Discovery",
+      "speakers": [
+        "Jason Haddix"
+      ],
+      "track": "recon",
+      "topics": [
+        "bug-bounty",
+        "recon",
+        "methodology",
+        "web-security",
+        "automation"
+      ],
+      "teaser": "Jason Haddix presents an updated edition of The Bug Hunter's Methodology, sharing advanced asset discovery toolchains, port scanning, and web fuzzing workflows.",
+      "summary": "The Evolution of Modern Web Bug Hunting\n\nWith expanding digital attack surfaces and crowded bug bounty programs, finding high-impact security vulnerabilities requires a comprehensive, repeatable methodology.\n\nAdvanced Asset Discovery and Subdomain Enumeration\n\nJason Haddix details multi-stage reconnaissance workflows combining certificate transparency logs, ASN mapping, DNS bruteforcing, and permutation engines.\n\nAutomated Port Scanning and Web Technology Profiling\n\nThe author demonstrates rapid service discovery using tools like masscan, naabu, httpx, and Nuclei to fingerprint running services and exposed endpoints.\n\nFuzzing and Identifying High-Impact Vulnerability Primitives\n\nThe presentation provides actionable techniques for discovering Server-Side Request Forgery (SSRF), parameter tampering, and broken access control flaws.",
+      "durationSeconds": 4561
+    },
+    {
+      "youtubeId": "GHs7ZBMlPZs",
+      "slug": "safe-mode-red-team-village-chloe-messdaghi-the-art-of-balancing",
+      "title": "The Art of Balancing: Addressing Burnout & Mental Health in Infosec",
+      "speakers": [
+        "Chloe Messdaghi"
+      ],
+      "track": "community",
+      "topics": [
+        "mental-health",
+        "burnout",
+        "workplace",
+        "community",
+        "culture"
+      ],
+      "teaser": "Chloe Messdaghi examines burnout, imposter syndrome, and mental health in cybersecurity, sharing strategies for individuals and leaders to build sustainable careers.",
+      "summary": "The Pervasive Crisis of Burnout in Cybersecurity\n\nThe continuous 24/7 pressure of responding to cyber incidents, critical vulnerabilities, and remote work fatigue leads to alarming rates of burnout across infosec.\n\nIdentifying the Warning Signs of Chronic Exhaustion\n\nChloe Messdaghi outlines the psychological and physical manifestations of burnout, including cynicism, cognitive fatigue, and persistent imposter syndrome.\n\nSetting Boundaries and Cultivating Personal Resilience\n\nThe author shares practical coping mechanisms—including strict work-life boundaries, time management strategies, and seeking mental health support.\n\nCreating Healthy, Supportive Organizational Cultures\n\nThe presentation challenges security leaders to reform workplace practices, normalize mental health discussions, and support sustainable practitioner workloads.",
+      "durationSeconds": 3118
+    },
+    {
+      "youtubeId": "UsBMPasl7eQ",
+      "slug": "safe-mode-red-team-village-guillermo-buendia-swift-spid-spei-bas",
+      "title": "SWIFT, SPID, & SPEI: Deconstructing the 2018 Mexican Financial Cyber Heist",
+      "speakers": [
+        "Guillermo Buendía"
+      ],
+      "track": "threat-intel",
+      "topics": [
+        "swift",
+        "spei",
+        "financial-crime",
+        "banking",
+        "threat-intelligence"
+      ],
+      "teaser": "Guillermo Buendía analyzes the 2018 Mexican interbank payment system (SPEI) cyber heist, breaking down how the 'Bandidos' hacker team stolen hundreds of millions.",
+      "summary": "The Landmark 2018 Mexican Banking Cyberattack\n\nIn early 2018, Mexican financial institutions suffered one of the largest cyber heists in Latin American history, resulting in hundreds of millions of pesos stolen from SPEI.\n\nDeconstructing Interbank Payment Systems (SWIFT, SPID, SPEI)\n\nGuillermo Buendía explains the technical architecture and settlement mechanisms used by interbank electronic payment networks.\n\nAnalyzing Attack Vectors and Fraudulent Transfer Injection\n\nThe author details how the threat actors compromised bank perimeter systems, developed custom software to forge transaction requests, and coordinated physical cash-out operations.\n\nFinancial Sector Hardening and Telemetry Auditing\n\nThe presentation provides recommendations for financial security teams on isolating payment messaging gateways and enforcing multi-tier transaction verification.",
+      "durationSeconds": 1469
+    },
+    {
+      "youtubeId": "V4hti6UlCf0",
+      "slug": "safe-mode-red-team-village-jonathan-helmus-student-roadmap-to-be",
+      "title": "Student Roadmap to Becoming a Penetration Tester: Bridging Academia & Industry",
+      "speakers": [
+        "Jonathan Helmus"
+      ],
+      "track": "community",
+      "topics": [
+        "career-development",
+        "pentesting",
+        "certification",
+        "education",
+        "community"
+      ],
+      "teaser": "Jonathan Helmus provides a comprehensive roadmap for students and career switchers to transition from academic theory to hands-on penetration testing.",
+      "summary": "The Divide Between Academic Curricula and Industry Realities\n\nMany university cybersecurity programs focus heavily on theoretical concepts and policy, leaving students unprepared for hands-on offensive security assessments.\n\nDesigning a Pragmatic Skill-Building Roadmap\n\nJonathan Helmus outlines essential technical foundations—including Linux internals, networking protocols, programming, and web application architecture.\n\nSelecting Industry Certifications and Practical Labs\n\nThe speaker evaluates valuable certifications (OSCP, PNPT, eJPT) and practical learning platforms (HackTheBox, TryHackMe) to build a demonstrable portfolio.\n\nNetworking, Resume Building, and Interview Preparation\n\nThe presentation offers practical guidance on engaging with the security community, publishing write-ups, and acing technical penetration testing interviews.",
+      "durationSeconds": 3645
+    },
+    {
+      "youtubeId": "kYfVc1y94jA",
+      "slug": "safe-mode-red-team-village-kat-fitzgerald-securing-and-pentestin",
+      "title": "Securing and Pentesting the Kubernetes Monster: Hardening Cloud Native Clusters",
+      "speakers": [
+        "Kat Fitzgerald"
+      ],
+      "track": "cloud",
+      "topics": [
+        "kubernetes",
+        "k8s",
+        "cluster-security",
+        "cloud-pentesting",
+        "rbac"
+      ],
+      "teaser": "Kat Fitzgerald breaks down Kubernetes architecture, demonstrating practical cluster penetration testing techniques and hardening controls.",
+      "summary": "Demystifying the Kubernetes Architecture\n\nWhile Kubernetes can appear overwhelming with its myriad interconnected components (etcd, kube-apiserver, kubelet, kube-proxy), its security fundamentals follow clear principles.\n\nAttacking Insecure Cluster Configurations\n\nKat Fitzgerald walks through common Kubernetes attack vectors—including anonymous API access, default service account token abuse, and unauthenticated etcd access.\n\nDemonstrating Container Escapes to Host Nodes\n\nThe speaker illustrates exploiting privileged containers and host volume mounts to break out of pod isolation and seize underlying node controls.\n\nEssential Kubernetes Hardening Strategies\n\nThe presentation provides DevOps and security teams with practical checklists—enforcing strict RBAC policies, NetworkPolicies, pod security standards, and TLS encryption.",
+      "durationSeconds": 3151
+    },
+    {
+      "youtubeId": "Pk9o7FtUXeM",
+      "slug": "safe-mode-red-team-village-mert-coskuner-redteamops-managing-red",
+      "title": "RedTeamOps: Automating and Managing Red Team Infrastructure as Code",
+      "speakers": [
+        "Mert Can Coşkuner"
+      ],
+      "track": "red-team",
+      "topics": [
+        "infrastructure-as-code",
+        "terraform",
+        "c2-infrastructure",
+        "red-team",
+        "automation"
+      ],
+      "teaser": "Mert Can Coşkuner demonstrates automating resilient, disposable red team infrastructure using Infrastructure as Code (Terraform, Ansible), and redirectors.",
+      "summary": "The Overhead of Managing Red Team Infrastructure\n\nDeploying and maintaining multi-tiered redirectors, payload delivery servers, and command and control (C2) hosts manually is time-consuming and error-prone.\n\nApplying Infrastructure as Code (IaC) to Red Teaming\n\nMert Can Coşkuner details using Terraform and Ansible to provision modular, disposable offensive cloud infrastructure across multiple providers in minutes.\n\nConfiguring Stealthy Multi-Tiered Redirectors\n\nThe author shows how to set up Apache/Nginx reverse proxy redirectors with customized mod_rewrite rules to filter incident response analysts and sandboxes.\n\nAutomating Infrastructure Takedown and Ephemeral Operations\n\nThe presentation discusses operational security best practices for rotating infrastructure rapidly and leaving minimal forensic footprint.",
+      "durationSeconds": 1426
+    },
+    {
+      "youtubeId": "O9WR2YEs0Zk",
+      "slug": "safe-mode-red-team-village-nicolas-mattiocco",
+      "title": "The Red Flavour of SOC Automation: Adversary Emulation for Automated Defense",
+      "speakers": [
+        "Nicolas Mattiocco"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "soc-automation",
+        "soar",
+        "adversary-emulation",
+        "purple-team",
+        "detection-engineering"
+      ],
+      "teaser": "Nicolas Mattiocco explores how automated adversary emulation feeds directly into Security Operations Center (SOC) playbooks and SOAR detection engineering.",
+      "summary": "The Expanding Challenge of Modern SOC Operations\n\nSecurity Operations Centers face massive alert volumes and complex attack surfaces, necessitating automated orchestration and continuous validation of security playbooks.\n\nIntegrating Red Team Emulation with SOAR Platforms\n\nNicolas Mattiocco demonstrates triggering automated attack simulations to test Security Orchestration, Automation, and Response (SOAR) playbooks in real time.\n\nMeasuring Detection Latency and Response Efficacy\n\nThe author explains how synthetic attack telemetry allows SOC engineering teams to evaluate mean time to detect (MTTD) and refine automated containment actions.\n\nFostering Continuous Purple Team Collaboration\n\nThe presentation provides frameworks for automating detection validation and aligning defensive automation with mapped MITRE ATT&CK techniques.",
+      "durationSeconds": 2706
+    },
+    {
+      "youtubeId": "JHrrOGjHiXQ",
+      "slug": "safe-mode-red-team-village-chris-kubecka-pwn-the-world",
+      "title": "Pwn the World: Industrial IoT & Critical Infrastructure Exploitation Basics",
+      "speakers": [
+        "Chris Kubecka"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics",
+        "iiot",
+        "scada",
+        "critical-infrastructure",
+        "hardware"
+      ],
+      "teaser": "Chris Kubecka covers the basics of hacking industrial IoT, SCADA networks, and critical infrastructure, demonstrating protocol weaknesses and physical impacts.",
+      "summary": "The Vulnerable Foundation of Modern Infrastructure\n\nCritical utilities, maritime operations, and manufacturing plants rely on connected industrial IoT and legacy SCADA systems designed before modern cyber threats existed.\n\nDiscovering and Fingerprinting Exposed Industrial Devices\n\nChris Kubecka demonstrates using specialized search engines (Shodan, Censys) to locate exposed PLCs, building automation systems, and satellite communication terminals.\n\nExploiting Insecure Industrial Protocols (Modbus, BACnet, DNP3)\n\nThe speaker illustrates how cleartext industrial protocols lacking authentication allow remote attackers to inject control commands and alter sensor telemetry.\n\nBridging the Gap Between Engineering Safety and Cyber Defense\n\nThe presentation emphasizes the urgent need for OT-specific security controls, air-gapping verification, and collaborative engineering safety standards.",
+      "durationSeconds": 3446
+    }
+  ]
+}
