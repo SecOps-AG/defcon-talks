@@ -1,0 +1,398 @@
+{
+  "villageSlug": "crypto-and-privacy-village",
+  "villageName": "Crypto and Privacy Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDXo9oH29fEtw4zdft4HDWq",
+  "description": "Crypto and Privacy Village presentations from DEF CON 26 covering cryptography, privacy technologies, and secure communication methods.",
+  "talks": [
+    {
+      "youtubeId": "auADZBYcG1M",
+      "slug": "yueting-lee-cats-a-tale-of-scalable-authentication",
+      "title": "CATs   A Tale of Scalable Authentication",
+      "speakers": [
+        "Yueting Lee"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1245
+    },
+    {
+      "youtubeId": "nfQG7GOCL-g",
+      "slug": "wendy-knox-everette-green-locks-for-you-and-me",
+      "title": "Green Locks for You and Me",
+      "speakers": [
+        "Wendy Knox Everette"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1216
+    },
+    {
+      "youtubeId": "xo8rfF6o-Gw",
+      "slug": "wall-frederickson",
+      "title": "Library 4 Pairing-based TransformCrypto",
+      "speakers": [
+        "Wall, Frederickson"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2669
+    },
+    {
+      "youtubeId": "rj8y6sQavRE",
+      "slug": "tess-schrodinger-cryptography-codes-and-secret-writing",
+      "title": "Cryptography Codes and Secret Writing",
+      "speakers": [
+        "Tess Schrodinger"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 4681
+    },
+    {
+      "youtubeId": "qo5RPvL2UuQ",
+      "slug": "shi-and-cai-building-a-cryptographic-backdoor-in-openssl",
+      "title": "Building a Cryptographic Backdoor in OpenSSL",
+      "speakers": [
+        "Shi and Cai"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 757
+    },
+    {
+      "youtubeId": "RijGNytjbOI",
+      "slug": "scott-arciszewski-no-way-jose-designing-cryptography",
+      "title": "No Way JOSE! Designing Cryptography",
+      "speakers": [
+        "Scott Arciszewski"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1752
+    },
+    {
+      "youtubeId": "kpntbgFbEcs",
+      "slug": "reyes-elazari-on-wont-somebody-think-of-the-children",
+      "title": "Reyes, Elazari, On Wont Somebody Think of the Children",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1437
+    },
+    {
+      "youtubeId": "RcPpbWurw4U",
+      "slug": "pigeon",
+      "title": "Jailed by a Google Search",
+      "speakers": [
+        "Pigeon"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1100
+    },
+    {
+      "youtubeId": "sVU4k2gRe_Y",
+      "slug": "nox-cicada-what-puzzles-can-teach-us-about-cryptography",
+      "title": "Cicada What Puzzles Can Teach Us About Cryptography",
+      "speakers": [
+        "Nox"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2070
+    },
+    {
+      "youtubeId": "ySl2ywGiFkw",
+      "slug": "nicholas-doiron-geolocation-and-homomorphic-encryption",
+      "title": "Geolocation and Homomorphic Encryption",
+      "speakers": [
+        "Nicholas Doiron"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1238
+    },
+    {
+      "youtubeId": "pPu15-rYQw8",
+      "slug": "urquhart-hiding-in-plain-sight-disguising-https-traffic",
+      "title": "Hiding in plain sight Disguising HTTPS traffic",
+      "speakers": [
+        "Urquhart"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2137
+    },
+    {
+      "youtubeId": "rB8CyUYRE9g",
+      "slug": "matt-cheung",
+      "title": "Prototyping Cryptographic Protocols",
+      "speakers": [
+        "Matt Cheung"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2834
+    },
+    {
+      "youtubeId": "7q4Bi8SJmSE",
+      "slug": "marie-fromm-cloud-encryption-how-to-not-suck",
+      "title": "Cloud Encryption How to not suck",
+      "speakers": [
+        "Marie Fromm"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2750
+    },
+    {
+      "youtubeId": "tEQgkSuxNk4",
+      "slug": "mahrud-sayrafi",
+      "title": "Opportunistic Onion",
+      "speakers": [
+        "Mahrud Sayrafi"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1166
+    },
+    {
+      "youtubeId": "udybyX0Vht4",
+      "slug": "jeff-kosseff",
+      "title": "Hamiltons Private Key American Exceptionalism",
+      "speakers": [
+        "Jeff Kosseff"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 3154
+    },
+    {
+      "youtubeId": "7-Z1HF4W90M",
+      "slug": "hardin-and-dalsen",
+      "title": "Rethinking Digital Privacy Education",
+      "speakers": [
+        "Hardin and Dalsen"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1002
+    },
+    {
+      "youtubeId": "HVKHvndazbU",
+      "slug": "adam-everspaugh-revolutionizing-auth-with-oblivious-crypto",
+      "title": "Revolutionizing Auth with Oblivious Crypto",
+      "speakers": [
+        "Adam Everspaugh"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1609
+    },
+    {
+      "youtubeId": "i8Hj9TpFpjY",
+      "slug": "cowley-and-taggart",
+      "title": "Two Steps to Owning MFA",
+      "speakers": [
+        "Cowley and Taggart"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2868
+    },
+    {
+      "youtubeId": "SCdaYAFx7hw",
+      "slug": "christian-paquin",
+      "title": "Integrating Post Quantum Crypto",
+      "speakers": [
+        "Christian Paquin"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2806
+    },
+    {
+      "youtubeId": "SYUBOLIbxPE",
+      "slug": "caudill-hornby-announcing-the-underhanded-crypto-contest",
+      "title": "Announcing the Underhanded Crypto Contest",
+      "speakers": [
+        "Caudill,  Hornby"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 714
+    },
+    {
+      "youtubeId": "Eblwm-h9sWs",
+      "slug": "catarineu-and-modi",
+      "title": "Anonymous Rate Limiting in Services",
+      "speakers": [
+        "Catarineu and Modi"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 1666
+    },
+    {
+      "youtubeId": "iY1lu3ak27U",
+      "slug": "brendan-oconnor-probably-an-irreverent-overview-of-gdpr",
+      "title": "Probably an Irreverent Overview of  GDPR",
+      "speakers": [
+        "Brendan OConnor"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 3160
+    },
+    {
+      "youtubeId": "Obz_FHriEnw",
+      "slug": "barnhart-magen-and-caltum",
+      "title": "JARVIS never saw it coming",
+      "speakers": [
+        "Barnhart Magen and Caltum"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Presentation on cryptography and privacy technologies.",
+      "summary": null,
+      "durationSeconds": 2748
+    }
+  ]
+}
