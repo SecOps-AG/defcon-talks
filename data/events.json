@@ -49,6 +49,14 @@
       "location": "Paris and Bally's Hotels, Las Vegas"
     },
     {
+      "slug": "defcon-26",
+      "name": "DEF CON 26",
+      "shortName": "DC26",
+      "year": 2018,
+      "dates": "9-12 August 2018",
+      "location": "Caesars Palace, Flamingo, Linq, Las Vegas"
+    },
+    {
       "slug": "defcon-25",
       "name": "DEF CON 25",
       "shortName": "DC25",
