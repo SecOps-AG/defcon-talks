@@ -1,0 +1,320 @@
+{
+  "villageSlug": "social-engineering-village",
+  "villageName": "Social Engineering Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaA_Wd3dSrA8WWdUrQm3k2Ix",
+  "description": "Social Engineering Village at DEF CON 27 covers the human aspects of security, from reconnaissance and pretexting to insider threats and organizational culture. The 18 talks explore both attack techniques and defensive awareness.",
+  "talks": [
+    {
+      "youtubeId": "9awwtHVLbfI",
+      "slug": "r-paul-wilson-r-paul-wilson-def-con-27-social-engineering-villag",
+      "title": "R Paul Wilson",
+      "speakers": [
+        "R Paul Wilson"
+      ],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "defense"
+      ],
+      "teaser": "DEF CON 27 Social Engineering Village",
+      "summary": null,
+      "durationSeconds": 1925
+    },
+    {
+      "youtubeId": "IJ0MuyzaaaY",
+      "slug": "wayne-ronaldson-red-teaming-from-down-under-def-con-27-social-en",
+      "title": "RED TEAMING FROM DOWN UNDER",
+      "speakers": [
+        "Wayne Ronaldson"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-teaming",
+        "social-engineering",
+        "defense"
+      ],
+      "teaser": "Presentation from DEF CON 27 Social Engineering Village",
+      "summary": null,
+      "durationSeconds": 2038
+    },
+    {
+      "youtubeId": "BhoSQyVTsa4",
+      "slug": "robin-dreeke-the-sepodcast-ep-120-live-guest-robin-dreeke-def-co",
+      "title": "The SEPodcast Ep 120 Live Guest Robin Dreeke",
+      "speakers": [
+        "Robin Dreeke"
+      ],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "defense"
+      ],
+      "teaser": "The SEPodcast Ep 120 Live Guest Robin Dreeke",
+      "summary": null,
+      "durationSeconds": 4423
+    },
+    {
+      "youtubeId": "DSEGmdzs9Kg",
+      "slug": "ryan-macdougall-osint-in-the-real-world-def-con-27-social-engine",
+      "title": "OSINT in the Real World",
+      "speakers": [
+        "Ryan MacDougall"
+      ],
+      "track": "red-team",
+      "topics": [
+        "osint",
+        "social-engineering",
+        "career",
+        "defense"
+      ],
+      "teaser": "Practical OSINT techniques are not just applicable in a day-to-day infosec job but can also benefit every aspect of your life. Expressed through personal stories and walk-throughs of real investigations I will show yo...",
+      "summary": null,
+      "durationSeconds": 1761
+    },
+    {
+      "youtubeId": "XWZZDCnCRXs",
+      "slug": "shane-mccombs-why-vigilantism-doesnt-work-def-con-27-social-engi",
+      "title": "Why vigilantism doesnt work",
+      "speakers": [
+        "Shane McCombs"
+      ],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "rapport",
+        "defense"
+      ],
+      "teaser": "Fighting child abuse is dirty work. Does getting dirty justify the ends? Join our new COO as he discusses the very important topic.",
+      "summary": null,
+      "durationSeconds": 1815
+    },
+    {
+      "youtubeId": "fLmgP2h5O8s",
+      "slug": "marcus-liotta-leveraging-the-insider-threat-def-con-27-social-en",
+      "title": "Leveraging the Insider Threat",
+      "speakers": [
+        "Marcus Liotta"
+      ],
+      "track": "red-team",
+      "topics": [
+        "insider-threat",
+        "social-engineering",
+        "psychology"
+      ],
+      "teaser": "Countless tactics exist in exploiting corporate infrastructure; stealing equipment, data, or committing rampant sabotage. In the aftermath these can decimate an enterprise in numerous ways.You cannot allow such disast...",
+      "summary": null,
+      "durationSeconds": 1870
+    },
+    {
+      "youtubeId": "TGzMR9GfnIs",
+      "slug": "micah-zenko-red-teaming-insights-and-examples-from-beyond-def-co",
+      "title": "Red Teaming Insights and Examples from Beyond",
+      "speakers": [
+        "Micah Zenko"
+      ],
+      "track": "red-team",
+      "topics": [
+        "social-engineering",
+        "red-teaming",
+        "defense"
+      ],
+      "teaser": "Red Teaming isn\u2019t just pen testing. Red team approaches and techniques are widely used in the military, intelligence community, and throughout the private sector. Every institution, from the Marines Corps to pharmaceu...",
+      "summary": null,
+      "durationSeconds": 1791
+    },
+    {
+      "youtubeId": "5IraysvK38A",
+      "slug": "perry-carpenter-the-aspies-guide-to-social-engineering-def-con-2",
+      "title": "The Aspies Guide to Social Engineering",
+      "speakers": [
+        "Perry Carpenter"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "social-engineering",
+        "security-awareness",
+        "career",
+        "defense"
+      ],
+      "teaser": "Perry Carpenter is the author of, \u201cTransformational Security Awareness: What Neuroscientists, Storytellers, and Marketers Can Teach Us About Driving Secure Behaviors\u201d from Wiley Publishing, and he currently serves as ...",
+      "summary": null,
+      "durationSeconds": 1910
+    },
+    {
+      "youtubeId": "D0w-R7Q9a0Y",
+      "slug": "rebecca-long-hacking-your-career-thru-social-engineering-def-con",
+      "title": "Hacking Your Career Thru Social Engineering",
+      "speakers": [
+        "Rebecca Long"
+      ],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "security-awareness",
+        "career",
+        "defense"
+      ],
+      "teaser": "Social engineering is a special form of hacking that bridges our technical skills with a deep understanding of human behavior. Many of us use this special blend of techniques to assist in our various colors of hacking...",
+      "summary": null,
+      "durationSeconds": 1674
+    },
+    {
+      "youtubeId": "H3XR4QrJyxA",
+      "slug": "robin-dreeke-sizing-people-up-def-con-27-social-engineering-vill",
+      "title": "Sizing People Up",
+      "speakers": [
+        "Robin Dreeke"
+      ],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "security-awareness",
+        "rapport"
+      ],
+      "teaser": "You learned how to build rapport from Robin. Then you learned about the code of trust\u2026 but blending all of it together to now master \u2013 SIZING PEOPLE UP.",
+      "summary": null,
+      "durationSeconds": 3228
+    },
+    {
+      "youtubeId": "uIhQhAu7EYk",
+      "slug": "billy-boatright-swing-away-conquer-impostor-syndrome-def-con-27",
+      "title": "Swing Away  Conquer Impostor Syndrome",
+      "speakers": [
+        "Billy Boatright"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "social-engineering",
+        "security-awareness",
+        "career",
+        "defense"
+      ],
+      "teaser": "\u201cIt is estimated that nearly 70% of people will experience signs or symptoms of Impostor Syndrome.\u201d Too many people get stuck in a self-doubt loop. This is when feelings of being an impostor creep in. Billy Boatright ...",
+      "summary": null,
+      "durationSeconds": 1596
+    },
+    {
+      "youtubeId": "b8hrjSef0E8",
+      "slug": "chris-hadnagy-sevillage-10-year-anniversary-a-look-back-def-con",
+      "title": "SEVillage 10 Year Anniversary a Look Back",
+      "speakers": [
+        "Chris Hadnagy"
+      ],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "defense"
+      ],
+      "teaser": "t was 10 years ago it all started in a tiny little squalid room. Hundreds of people packed in to see a new type of event \u2013 one that made headlines and scared the world. 10 years later \u2013 what has changed, where are we?...",
+      "summary": null,
+      "durationSeconds": 3098
+    },
+    {
+      "youtubeId": "BCxBkBzQrzs",
+      "slug": "chris-kirsch-psychic-cold-reading-techniques-def-con-27-social-e",
+      "title": "Psychic Cold Reading Techniques",
+      "speakers": [
+        "Chris Kirsch"
+      ],
+      "track": "red-team",
+      "topics": [
+        "osint",
+        "insider-threat",
+        "social-engineering",
+        "cold-reading",
+        "rapport"
+      ],
+      "teaser": "Cold reading is a technique to make others believe that you have psychic powers. After reading everything I could find on cold reading, I ran a two-day experiment during the Veracode Hackathon, where I gave psychic re...",
+      "summary": null,
+      "durationSeconds": 1929
+    },
+    {
+      "youtubeId": "tCRT3QFzwm8",
+      "slug": "chris-pritchard-the-basics-of-social-engineering-def-con-27-soci",
+      "title": "The Basics of Social Engineering",
+      "speakers": [
+        "Chris Pritchard"
+      ],
+      "track": "red-team",
+      "topics": [
+        "pretexting",
+        "social-engineering",
+        "physical-security",
+        "defense"
+      ],
+      "teaser": "Ever wanted to get into Social Engineering (SE), but thought you needed to know body language, facial expressions, be charming, and outgoing to succeed? This is a common misconception and you don\u2019t need to know or be ...",
+      "summary": null,
+      "durationSeconds": 1477
+    },
+    {
+      "youtubeId": "3ngeKL06Ph4",
+      "slug": "daniel-isler-the-voice-told-me-to-do-it-def-con-27-social-engine",
+      "title": "The Voice Told Me To Do It",
+      "speakers": [
+        "Daniel Isler"
+      ],
+      "track": "red-team",
+      "topics": [
+        "social-engineering",
+        "rapport",
+        "physical-security",
+        "defense"
+      ],
+      "teaser": "Corporate colors and logos characteristic of a brand are easily and freely accessed on the network. As consumers we have been advised to distrust an email with these identities.",
+      "summary": null,
+      "durationSeconds": 1667
+    },
+    {
+      "youtubeId": "ozQXIMbuUG8",
+      "slug": "edward-miro-rideshare-osint-carbased-se-for-fun-and-profit-def-c",
+      "title": "Edward Miro\u00a0- Rideshare OSINT CarBased SE For Fun and Profit",
+      "speakers": [
+        "Edward Miro\u00a0- Rideshare OSINT CarBased SE For Fun and Profit"
+      ],
+      "track": "red-team",
+      "topics": [
+        "osint",
+        "social-engineering",
+        "physical-security",
+        "defense"
+      ],
+      "teaser": "Have you considered the social engineering implications of ride share(Uber/Lyft) interactions? Want to get better at social skills and get comfortable with people? In this talk I will explain the potential to use ride...",
+      "summary": null,
+      "durationSeconds": 1708
+    },
+    {
+      "youtubeId": "D5kg3jZ0Kcw",
+      "slug": "jayson-street-i-pwn-thee-i-pwn-thee-not-def-con-27-social-engine",
+      "title": "I PWN thee I PWN thee not",
+      "speakers": [
+        "Jayson Street"
+      ],
+      "track": "red-team",
+      "topics": [
+        "social-engineering",
+        "insider-threat",
+        "defense"
+      ],
+      "teaser": "Attackers love it when defenses fail. Implementing defenses without properly understanding the risks and threats is usually a waste of money and resources. This is a frank discussion of what control failures an attack...",
+      "summary": null,
+      "durationSeconds": 3013
+    },
+    {
+      "youtubeId": "4LdwU71Gpi4",
+      "slug": "andrew-nicholson-hacking-hollywood-def-con-27-social-engineering",
+      "title": "Hacking Hollywood",
+      "speakers": [
+        "Andrew Nicholson"
+      ],
+      "track": "red-team",
+      "topics": [
+        "social-engineering",
+        "defense"
+      ],
+      "teaser": "The Sony hack proved that content producers are unprepared for attacks and unaware of the damage that can be caused to their IPs. Hacking Hollywood is a glimpse into the filmmaking process from a security minded and s...",
+      "summary": null,
+      "durationSeconds": 1762
+    }
+  ]
+}
