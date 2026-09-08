@@ -1,0 +1,64 @@
+{
+  "villageSlug": "rogues-village",
+  "villageName": "Rogues Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBUR4GajKRO4ySD7uz0ao4Z",
+  "description": "Rogues Village focuses on deception tradecraft, psychological misdirection, magician linguistics, street cons, pickpocket mechanics, and geospatial telemetry manipulation.",
+  "talks": [
+    {
+      "youtubeId": "OfiolrXZirE",
+      "slug": "google-maps-hacks",
+      "title": "Google Maps Hacks",
+      "speakers": [
+        "Simon Weckert"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "gps",
+        "spoofing",
+        "mobile",
+        "deception",
+        "social-engineering"
+      ],
+      "teaser": "Artist Simon Weckert explains how wheeling 99 smartphones in a handcart generated virtual traffic jams in Google Maps.",
+      "summary": null,
+      "durationSeconds": 1940
+    },
+    {
+      "youtubeId": "9rS8emBPz6I",
+      "slug": "pickpocketing-at-home",
+      "title": "Pickpocketing at Home",
+      "speakers": [
+        "James Harrison"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "physical-security",
+        "deception",
+        "psychology"
+      ],
+      "teaser": "Explores the psychological mechanics of theatrical pickpocketing, misdirection cues, and physical spatial awareness.",
+      "summary": null,
+      "durationSeconds": 2038
+    },
+    {
+      "youtubeId": "Br0bkfRmWFQ",
+      "slug": "outs-forces-and-equivoque-how-magicians-speak",
+      "title": "Outs, Forces, and Equivoque: How Magicians Speak",
+      "speakers": [
+        "0x90"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "deception",
+        "psychology",
+        "community"
+      ],
+      "teaser": "Deconstructs linguistic deception, magician outs, psychological forces, and equivoque techniques used to steer human choice.",
+      "summary": null,
+      "durationSeconds": 3453
+    }
+  ]
+}
