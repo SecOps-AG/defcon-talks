@@ -1,0 +1,190 @@
+{
+  "villageSlug": "presentations-panels",
+  "villageName": "Presentations Panels",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBMRdMygLaGMJTHORj6Qh8o",
+  "description": "Presentations Panels at DEF CON 23 features expert panel discussions, Q&A sessions, and keynote debates covering policy, digital rights, cryptography, hardware firmware attacks, and security community culture.",
+  "talks": [
+    {
+      "youtubeId": "xBd6p-Lz3kE",
+      "slug": "panel-whymi-so-sexy-wmi-attacks-real-time-defense-and-advanced-f",
+      "title": "Panel - WhyMI so Sexy: WMI Attacks - Real Time Defense and Advanced Forensics",
+      "speakers": [],
+      "track": "blue-team",
+      "topics": [
+        "windows",
+        "forensics",
+        "blue-team",
+        "incident-response"
+      ],
+      "teaser": "A deep dive into Windows Management Instrumentation (WMI) persistence, offensive abuse, real-time detection telemetry, and forensics.",
+      "summary": null,
+      "durationSeconds": 6326
+    },
+    {
+      "youtubeId": "LNvYeUxwmTw",
+      "slug": "panel-thunderstrike-2-sith-strike",
+      "title": "Panel - ThunderStrike 2: Sith Strike",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "firmware",
+        "hardware",
+        "bootkit",
+        "vulnerability-research"
+      ],
+      "teaser": "Presenting Thunderstrike 2, the first proof-of-concept firmware worm targeting Apple EFI firmware via Thunderbolt option ROMs.",
+      "summary": null,
+      "durationSeconds": 2686
+    },
+    {
+      "youtubeId": "yaY3rtA37Uc",
+      "slug": "panel-5",
+      "title": "Panel",
+      "speakers": [
+        "Switches Get Stitches"
+      ],
+      "track": "red-team",
+      "topics": [
+        "network-security",
+        "hardware",
+        "protocols",
+        "red-team"
+      ],
+      "teaser": "Exploring layer 2 network protocol vulnerabilities, VLAN hopping, trunking exploits, and switch configuration weaknesses.",
+      "summary": null,
+      "durationSeconds": 2623
+    },
+    {
+      "youtubeId": "9TdJOM5p--w",
+      "slug": "panel-licensed-to-pwn-weaponization-and-regulation-of-security-r",
+      "title": "Panel - Licensed to Pwn: Weaponization and Regulation of Security Research",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "regulation",
+        "vulnerability-research",
+        "legal"
+      ],
+      "teaser": "Legal and policy experts debate the Wassenaar Arrangement, export control regulations, and the impact of exploit rules on researchers.",
+      "summary": null,
+      "durationSeconds": 6356
+    },
+    {
+      "youtubeId": "Ya6t8nMclos",
+      "slug": "panel-lets-encrypt-minting-free-certs-to-encrypt-the-entire-web",
+      "title": "Panel - Lets Encrypt Minting Free Certs to Encrypt the Entire Web",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "pki",
+        "tls",
+        "encryption",
+        "certificates"
+      ],
+      "teaser": "The team behind Let's Encrypt discusses automated certificate authority architecture, ACME protocols, and free HTTPS for the web.",
+      "summary": null,
+      "durationSeconds": 3155
+    },
+    {
+      "youtubeId": "H_Kp7Bul4I0",
+      "slug": "panel-guests-n-goblins-exposing-wi-fi-exfiltration-risks-and-mit",
+      "title": "Panel - Guests N Goblins: Exposing Wi Fi Exfiltration Risks and Mitigation",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "wifi",
+        "wireless",
+        "covert-channel",
+        "data-exfiltration"
+      ],
+      "teaser": "Analyzing data exfiltration risks over corporate guest Wi-Fi networks, captive portal bypasses, and wireless isolation defenses.",
+      "summary": null,
+      "durationSeconds": 1999
+    },
+    {
+      "youtubeId": "XA1h8L5S9I4",
+      "slug": "panel-6",
+      "title": "Panel",
+      "speakers": [
+        "DEF CON Comedy Inception"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "culture",
+        "entertainment"
+      ],
+      "teaser": "A comedy panel session at DEF CON 23 featuring hacker culture satire, jokes, and storytelling from community veterans.",
+      "summary": null,
+      "durationSeconds": 5965
+    },
+    {
+      "youtubeId": "8gRJs8jcyWc",
+      "slug": "panel-def-con-101-the-panel",
+      "title": "Panel - DEF CON 101: The Panel",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "culture",
+        "defcon-culture",
+        "education"
+      ],
+      "teaser": "The DEF CON 101 panel welcomes first-time attendees, providing survival tips, contest overviews, and community traditions.",
+      "summary": null,
+      "durationSeconds": 4888
+    },
+    {
+      "youtubeId": "UfdGrkDp3TA",
+      "slug": "panel-ask-the-eff-the-year-in-digital-civil-liberties",
+      "title": "Panel - Ask the EFF: The Year in Digital Civil Liberties",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "eff",
+        "policy",
+        "digital-rights",
+        "privacy"
+      ],
+      "teaser": "Attorneys and activists from the Electronic Frontier Foundation review the year in digital civil liberties, surveillance, and hacker legal defense.",
+      "summary": null,
+      "durationSeconds": 5949
+    },
+    {
+      "youtubeId": "JUt9PiMyRsA",
+      "slug": "panel-7",
+      "title": "Panel",
+      "speakers": [
+        "Abusing Adobe Readers JavaScript APIs"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "reverse-engineering",
+        "javascript",
+        "vulnerability-research"
+      ],
+      "teaser": "Security researchers demonstrate attack surfaces in Adobe Reader's JavaScript engine, dissecting sandbox escapes and exploitation techniques.",
+      "summary": null,
+      "durationSeconds": 2218
+    },
+    {
+      "youtubeId": "bjopJ-_vAUE",
+      "slug": "bruce-schneier-questions-and-answers",
+      "title": "Bruce Schneier - Questions and Answers",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "policy",
+        "surveillance"
+      ],
+      "teaser": "Renowned security technologist Bruce Schneier answers questions on encryption policy, mass surveillance, cyberwar, and threat modeling.",
+      "summary": null,
+      "durationSeconds": 2794
+    }
+  ]
+}
