@@ -1,0 +1,111 @@
+{
+  "villageSlug": "ethics-village",
+  "villageName": "Ethics Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqcVuHJTxTaJvvEOs4KhEq",
+  "description": "Ethics Village at DEF CON 26 covers ethical considerations in security, responsible disclosure, and the role of ethics in technology. The talks explore disclosure practices, cyber nationalism, humanitarian technology, security ethics, and accountability in the digital age.",
+  "talks": [
+    {
+      "youtubeId": "oogQ1OwC05M",
+      "slug": "responsible-disclosure-panel",
+      "title": "Responsible Disclosure Panel",
+      "speakers": [
+        "Panel"
+      ],
+      "track": "policy",
+      "topics": [
+        "security-policy",
+        "ethics",
+        "policy"
+      ],
+      "teaser": "Responsible Disclosure Panel",
+      "summary": null,
+      "durationSeconds": 2770
+    },
+    {
+      "youtubeId": "dLXsL1Fx9U4",
+      "slug": "nations-and-nationalism-and-cyber-security",
+      "title": "Nations and Nationalism and Cyber Security",
+      "speakers": [
+        "Ethics Village"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "ethics",
+        "community"
+      ],
+      "teaser": "Nations and Nationalism and Cyber Security",
+      "summary": null,
+      "durationSeconds": 5306
+    },
+    {
+      "youtubeId": "DWr6ou_7514",
+      "slug": "ethics-of-technology-in-humanitarian-and-disaster-response",
+      "title": "Ethics of Technology in Humanitarian and Disaster Response",
+      "speakers": [
+        "Ethics Village"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics",
+        "community",
+        "policy"
+      ],
+      "teaser": "Ethics of Technology in Humanitarian and Disaster Response",
+      "summary": null,
+      "durationSeconds": 3712
+    },
+    {
+      "youtubeId": "bmqstIIna4o",
+      "slug": "ethics-for-security-practitioners",
+      "title": "Ethics for Security Practitioners",
+      "speakers": [
+        "Ethics Village"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics",
+        "policy",
+        "community"
+      ],
+      "teaser": "Ethics for Security Practitioners",
+      "summary": null,
+      "durationSeconds": 3169
+    },
+    {
+      "youtubeId": "6XkwY_F-9ko",
+      "slug": "ethical-disclosure-and-the-reduction-of-harm",
+      "title": "Ethical Disclosure and the Reduction of Harm",
+      "speakers": [
+        "Ethics Village"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics",
+        "security-policy",
+        "community"
+      ],
+      "teaser": "Ethical Disclosure and the Reduction of Harm",
+      "summary": null,
+      "durationSeconds": 2208
+    },
+    {
+      "youtubeId": "JHE8DTFzBP0",
+      "slug": "accountability-w-o-accountability-a-censorship-measurement-case",
+      "title": "Accountability w/o accountability  A censorship measurement case study",
+      "speakers": [
+        "Ethics Village"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "ethics",
+        "community"
+      ],
+      "teaser": "Accountability w/o accountability  A censorship measurement case study",
+      "summary": null,
+      "durationSeconds": 2093
+    }
+  ]
+}
