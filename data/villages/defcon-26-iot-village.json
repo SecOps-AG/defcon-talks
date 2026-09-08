@@ -1,0 +1,196 @@
+{
+  "villageSlug": "iot-village",
+  "villageName": "IoT Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCOIh7HE6xkE0-pVv6JzyrS",
+  "description": "IoT Village at DEF CON 26 covers IoT security vulnerabilities, firmware hacking, and device exploitation. The 11 talks explore attacks on smart home devices, medical implants, wireless speakers, smart locks, FPGAs, door locks, irrigation systems, and the legal landscape of IoT security research.",
+  "talks": [
+    {
+      "youtubeId": "vZLD6pUtqQM",
+      "slug": "veronica-schmitt-internet-of-medicine-the-ultimate-key-to-rootin",
+      "title": "Internet of Medicine The ultimate key to Rooting the hum",
+      "speakers": [
+        "Veronica Schmitt"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "medical-devices",
+        "wireless"
+      ],
+      "teaser": "There are advancements made on a daily basis, with regards to medical implantable devices. These devices offer life extensions when organic systems fail. Are these systems secured? There are shocking amounts of vulner...",
+      "summary": null,
+      "durationSeconds": 2489
+    },
+    {
+      "youtubeId": "zzgmWlCfCRU",
+      "slug": "stephen-hilt-the-sound-of-a-targeted-attack-attacking-iot-speake",
+      "title": "The Sound of a Targeted Attack  Attacking IoT Speakers",
+      "speakers": [
+        "Stephen Hilt"
+      ],
+      "track": "policy",
+      "topics": [
+        "iot",
+        "firmware-analysis",
+        "device-hacking",
+        "wireless"
+      ],
+      "teaser": "IoT connected devices are being released at a staggering rate. According to Gartner it\u2019s speculated that by the end of 2018, there will be 11.2 billion IoT devices currently connected at any given time. A large part o...",
+      "summary": null,
+      "durationSeconds": 1763
+    },
+    {
+      "youtubeId": "04v2Us5eTLU",
+      "slug": "ramgattie-and-holcomb-keynote-the-road-to-sohopelessly-broken",
+      "title": "IoT Village Keynote The Road To SOHOpelessly Broken",
+      "speakers": [
+        "Ramgattie and Holcomb"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "smart-home"
+      ],
+      "teaser": "The origins of the SOHOpelessly broken research and some of the new research from our new research lab.",
+      "summary": null,
+      "durationSeconds": 1645
+    },
+    {
+      "youtubeId": "SrVeLNGcbBE",
+      "slug": "matt-wixey-worms-that-fight-back-nematodes-as-an-antidote-for-io",
+      "title": "Worms that fight back Nematodes as an antidote for IoT malware",
+      "speakers": [
+        "Matt Wixey"
+      ],
+      "track": "policy",
+      "topics": [
+        "iot",
+        "exploitation",
+        "botnet",
+        "wireless"
+      ],
+      "teaser": "Nematodes, often called \u201canti-worms\u201d or \u201cbeneficial worms\u201d, are a controversial topic. They involve exploiting the same vulnerabilities used by malicious worms, but, rather than installing malware or being used to for...",
+      "summary": null,
+      "durationSeconds": 2249
+    },
+    {
+      "youtubeId": "po_NeAECffA",
+      "slug": "lee-and-park-exploiting-the-iot-hub-what-happened-to-my-home",
+      "title": "Exploiting the IoT hub What happened to my home",
+      "speakers": [
+        "Lee and Park"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "exploitation",
+        "device-hacking",
+        "smart-home"
+      ],
+      "teaser": "In the home IoT service, the IoT hub is an important device that links users and various things in the house.",
+      "summary": null,
+      "durationSeconds": 2098
+    },
+    {
+      "youtubeId": "Rjd3DP5W8Z0",
+      "slug": "john-dunlap-fpgas-a-new-attack-surface-for-embedded-adversaries",
+      "title": "FPGAs a new attack surface for embedded adversaries",
+      "speakers": [
+        "John Dunlap"
+      ],
+      "track": "red-team",
+      "topics": [
+        "firmware-analysis",
+        "exploitation"
+      ],
+      "teaser": "In this talk, reverse engineer and security expert John Dunlap will present security hazards concerning the ever expanding use of Field Programmable Gate Array systems. FPGA\u2019s are reconfigurable computers that allow p...",
+      "summary": null,
+      "durationSeconds": 1754
+    },
+    {
+      "youtubeId": "-YnxRe_Y_bo",
+      "slug": "erez-yalon-your-smart-scale-is-leaking-more-than-your-weight",
+      "title": "Your Smart Scale is Leaking More than Your Weight",
+      "speakers": [
+        "Erez Yalon"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "device-hacking",
+        "privacy"
+      ],
+      "teaser": "Cheaper devices that consume less power - What more can you ask for? SECURITY!. Based on multiple tests we have done across a variety of devices, we can conclude that there are still many vendors who lack the security...",
+      "summary": null,
+      "durationSeconds": 1837
+    },
+    {
+      "youtubeId": "Qvxa6o2oNS0",
+      "slug": "dennis-giese-how-to-modify-arm-cortex-m-based-firmware-a-step-by",
+      "title": "How to modify ARM Cortex M based firmware A step by step app",
+      "speakers": [
+        "Dennis Giese"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "firmware-analysis",
+        "smart-home",
+        "privacy"
+      ],
+      "teaser": "Many IoT devices use an ARM Cortex-M based MCU and run some kind of RTOS/\"bare metal\" OS. In comparison to Linux-based firmwares it is a lot more difficult to modify the firmware. If you want to change the functionali...",
+      "summary": null,
+      "durationSeconds": 2824
+    },
+    {
+      "youtubeId": "SwOy0zRW5Dk",
+      "slug": "david-tomaschik-im-the-one-who-doesnt-knock-unlocking-doors-from",
+      "title": "Im the One Who Doesnt Knock Unlocking Doors from Network",
+      "speakers": [
+        "David Tomaschik"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "exploitation",
+        "device-hacking"
+      ],
+      "teaser": "In 2017, I discovered that a popular IP-based door access control system (badge reader and door lock controller) used poorly-implemented cryptography. Through binary analysis and live testing against a functional devi...",
+      "summary": null,
+      "durationSeconds": 2292
+    },
+    {
+      "youtubeId": "M5S2-PdvGc4",
+      "slug": "ben-nassi",
+      "title": "Attacking Commercial Smart Irrigation Systems",
+      "speakers": [
+        "Ben Nassi"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "exploitation",
+        "privacy"
+      ],
+      "teaser": "Smart irrigation systems, a new IoT device which is aimed at saving water and money, have already been adopted by smart cities (e.g., Barcelona), agriculture, and the private sector around the world and will replace e...",
+      "summary": null,
+      "durationSeconds": 2365
+    },
+    {
+      "youtubeId": "dFvICfeLueU",
+      "slug": "amit-elazari-internet-of-laws-navigating-to-iot-hacking-legal-la",
+      "title": "Internet of Laws Navigating to IoT Hacking Legal Landscape",
+      "speakers": [
+        "Amit Elazari"
+      ],
+      "track": "policy",
+      "topics": [
+        "iot"
+      ],
+      "teaser": "The world might be getting more connected but not less risky to hack. This talk will give IoT hackers a quick intro to the variety of legal pitfalls that govern IoT hacking, from the notorious Computer Fraud and Abuse...",
+      "summary": null,
+      "durationSeconds": 2204
+    }
+  ]
+}
