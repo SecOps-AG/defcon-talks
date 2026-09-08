@@ -1,0 +1,270 @@
+{
+  "villageSlug": "iot-village",
+  "villageName": "IoT Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBr7bKS6F3J1H4i_uIMpLHL",
+  "description": "IoT Village at DEF CON 25 explores security vulnerabilities in connected devices and emerging threats from botnets to medical devices. The 15 talks cover IoT attack vectors, defensive techniques, policy implications, and hardware security research.",
+  "talks": [
+    {
+      "youtubeId": "qMQwENS30pg",
+      "slug": "steinthor-bjarnason-jason-jones-the-call-is-coming-from-inside-t",
+      "title": "The call is coming from inside the house",
+      "speakers": [
+        "Steinthor Bjarnason, Jason Jones"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "botnet"
+      ],
+      "teaser": "The second half of 2016 saw the rise of a new generation of IoT botnets consisting of webcams and other IoT devices. These botnets were then subsequently used to launch DDoS attacks on an unprecedented scale against O...",
+      "summary": null,
+      "durationSeconds": 2112
+    },
+    {
+      "youtubeId": "BufzX-zeZvQ",
+      "slug": "sarah-zatko-citl-and-the-digital-standard-a-year-later",
+      "title": "CITL and the Digital Standard: A Year Later",
+      "speakers": [
+        "Sarah Zatko"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "vulnerabilities",
+        "iot"
+      ],
+      "teaser": "A year ago, Mudge and I introduced the non-profit Cyber ITL at DEF CON and its approach to automated software safety analysis. Now, we'll be covering highlights from the past year's research findings, including our in...",
+      "summary": null,
+      "durationSeconds": 2253
+    },
+    {
+      "youtubeId": "ClDO4PyMI-g",
+      "slug": "zenofex-0x00string-cj-000-maximus64-all-your-things-are-belong-t",
+      "title": "All Your Things Are Belong To Us",
+      "speakers": [
+        "Zenofex, 0x00string, CJ 000, Maximus64"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "cryptography"
+      ],
+      "teaser": "Get out your rollerblades, plug in your camo keyboard, and fire up your BLT drive. It's 25 years later and we're still hacking the planet. The Exploitee.rs are back with new 0day, new exploits and more fun. Celebratin...",
+      "summary": null,
+      "durationSeconds": 3584
+    },
+    {
+      "youtubeId": "LXFnyDihdl0",
+      "slug": "francis-brown-david-latimer-putting-the-emerging-drone-defense-m",
+      "title": "Putting the Emerging Drone Defense Market to the Test",
+      "speakers": [
+        "Francis Brown, David Latimer"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "wireless"
+      ],
+      "teaser": "When you learned that military and law enforcement agencies had trained screaming eagles to pluck drones from the sky, did you too find yourself asking: \"I wonder if I could throw these eagles off my tail, maybe by de...",
+      "summary": null,
+      "durationSeconds": 2557
+    },
+    {
+      "youtubeId": "jNqo3uAYsBk",
+      "slug": "andrew-tierney-ken-munro-iot-from-dvrs-to-dildos",
+      "title": "IoT  From DVRs to Dildos",
+      "speakers": [
+        "Andrew Tierney, Ken Munro"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "firmware-analysis",
+        "botnet",
+        "wireless",
+        "weak-credentials"
+      ],
+      "teaser": "What Mirai missed:",
+      "summary": null,
+      "durationSeconds": 2216
+    },
+    {
+      "youtubeId": "UpxNkBvejf8",
+      "slug": "alex-jay-balan-iot-the-gift-that-keeps-on-giving",
+      "title": "IoT: The Gift That Keeps on Giving",
+      "speakers": [
+        "Alex Jay Balan"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "botnet",
+        "weak-credentials"
+      ],
+      "teaser": "Currently, all known IoT botnets harvest zombies through telnet with hardcoded or weak credentials. Once this bubble bursts, the next step will be exploiting other, more evolved vulnerabilities that can provide contro...",
+      "summary": null,
+      "durationSeconds": 2527
+    },
+    {
+      "youtubeId": "SCCdlFHrj38",
+      "slug": "aaron-guzman-2",
+      "title": "Hide Yo Keys,  Hide Yo Car",
+      "speakers": [
+        "Aaron Guzman"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "automotive",
+        "cryptography"
+      ],
+      "teaser": "Today, most vehicle manufacturers in the US connect their vehicles to a type of network and delegate controls to mobile or web applications upon vehicle purchasing. Thankfully, security research for consumer devices a...",
+      "summary": null,
+      "durationSeconds": 2115
+    },
+    {
+      "youtubeId": "VeiVYob-ioM",
+      "slug": "aaron-alva-mark-eichorn-iot-updates-to-help-protect-consumers",
+      "title": "IoT Updates to Help Protect Consumers",
+      "speakers": [
+        "Aaron Alva, Mark Eichorn"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "vulnerabilities",
+        "iot"
+      ],
+      "teaser": "The FTC recently conducted a challenge competition aimed at facilitating security updates to home IoT devices. We'll share what we've learned from the challenge, and we hope to announce the winner. We will also give a...",
+      "summary": null,
+      "durationSeconds": 1517
+    },
+    {
+      "youtubeId": "uhYLfhXNlUc",
+      "slug": "deral-heiland-the-internet-of-vulnerabilities",
+      "title": "The Internet of Vulnerabilities",
+      "speakers": [
+        "Deral Heiland"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "iot",
+        "vulnerabilities"
+      ],
+      "teaser": "The \u201cInternet of Things\u201d (IoT) is taking over our lives, so we should be constantly questioning the security and integrity of these technologies. As an IoT researcher, this is precisely what I do. During this presenta...",
+      "summary": null,
+      "durationSeconds": 2901
+    },
+    {
+      "youtubeId": "w4sChnS4DrI",
+      "slug": "dan-regalado-inside-the-alaris-infusion-pump-not-too-much-medici",
+      "title": "Inside the Alaris Infusion Pump, not too much medicine, plz",
+      "speakers": [
+        "Dan Regalado"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "vulnerabilities",
+        "iot",
+        "firmware-analysis",
+        "medical-devices"
+      ],
+      "teaser": "The Infusion Pumps Market is expected to be worth $10.84 Billion USD by 2021 per \"Market and Markets\" forecast. The Infusion Pump is a costly and sensitive medical device used to deliver fluids, medications, blood and...",
+      "summary": null,
+      "durationSeconds": 1906
+    },
+    {
+      "youtubeId": "oeKm2qkarak",
+      "slug": "brian-knopf-redesigning-pki-for-iot-because-crypto-is-hard",
+      "title": "Redesigning PKI For IoT Because Crypto is Hard",
+      "speakers": [
+        "Brian Knopf"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "cryptography",
+        "weak-credentials"
+      ],
+      "teaser": "As the previous Director of Security at companies like Linksys, Belkin, and Wink, I learned hard lessons about the pitfalls of PKI. This was especially true on IoT devices, where the responsibility was on consumers or...",
+      "summary": null,
+      "durationSeconds": 2711
+    },
+    {
+      "youtubeId": "cJcRDKN61rY",
+      "slug": "vladimir-dashchenko-sergey-temnikov-pwning-the-industrial-iot",
+      "title": "Pwning the Industrial IoT",
+      "speakers": [
+        "Vladimir Dashchenko, Sergey Temnikov"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "industrial-iot"
+      ],
+      "teaser": "This topic covers researches made by Critical Infrastructure Defense Team, Kaspersky Lab regarding vast variety of different serious vulnerabilities in popular wanna-be-smart industrial control systems. We found 80+ 0...",
+      "summary": null,
+      "durationSeconds": 1370
+    },
+    {
+      "youtubeId": "zRkgfS0bkys",
+      "slug": "vivek-ramachandran-nishant-sharma-ashish-bhangale-iids-ids-for-i",
+      "title": "IIDS: IDS FOR IOT",
+      "speakers": [
+        "Vivek Ramachandran,  Nishant Sharma, Ashish Bhangale"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "industrial-iot"
+      ],
+      "teaser": "We all know how vulnerable IoT devices are - but do we know if our home or industrial IoT devices are being attacked or already compromised? This talk focuses on creating an Intrusion Detection System for IoT devices ...",
+      "summary": null,
+      "durationSeconds": 2475
+    },
+    {
+      "youtubeId": "IFHshxqGgXk",
+      "slug": "rick-ramgattie-rethinking-the-researcher-vendor-relationshipe",
+      "title": "Rethinking the Researcher-Vendor Relationshipe",
+      "speakers": [
+        "Rick Ramgattie"
+      ],
+      "track": "policy",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "automotive",
+        "industrial-iot",
+        "cryptography"
+      ],
+      "teaser": "Disclosing vulnerabilities to a vendor, especially one that doesn't seem to prioritize security the same way we do, can be a source of pain. We may even find ourselves viewing the product vendor as an enemy during thi...",
+      "summary": null,
+      "durationSeconds": 1457
+    },
+    {
+      "youtubeId": "qhuhJ9Oe9vA",
+      "slug": "caleb-madrigal-controlling-iot-devices-with-crafted-radio-signal",
+      "title": "Controlling IoT devices with crafted radio signals",
+      "speakers": [
+        "Caleb Madrigal"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot",
+        "vulnerabilities",
+        "wireless"
+      ],
+      "teaser": "In this talk, we'll be exploring how wireless communication works. We'll capture digital data live (with Software-Defined Radio), and see how the actual bits are transmitted. From here, we'll see how to view, listen t...",
+      "summary": null,
+      "durationSeconds": 1973
+    }
+  ]
+}
