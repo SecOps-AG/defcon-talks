@@ -1,0 +1,257 @@
+{
+  "villageSlug": "monero-village",
+  "villageName": "Monero Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDde2rs7jtUAX_5buc6bWIa",
+  "description": "Monero Village focuses on financial privacy, decentralized systems, cryptocurrency cryptography, and censorship resistance. Talks cover cross-chain atomic swaps, off-grid mesh networks, electronic badge hacking, and blockchain economics.",
+  "talks": [
+    {
+      "youtubeId": "rhwD4c86CfI",
+      "slug": "open-office-qa",
+      "title": "Open Office Q&A",
+      "speakers": [
+        "Sarang"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "cryptography",
+        "privacy",
+        "qa"
+      ],
+      "teaser": "Dr. Sarang of the Monero Research Lab answers community questions about Monero cryptography, research, and privacy.",
+      "summary": null,
+      "durationSeconds": 3177
+    },
+    {
+      "youtubeId": "NSFDlF95GhI",
+      "slug": "decentralization-in-a-centralized-world",
+      "title": "Decentralization in a Centralized World",
+      "speakers": [
+        "rehrar"
+      ],
+      "track": "privacy",
+      "topics": [
+        "decentralization",
+        "monero",
+        "privacy",
+        "censorship-resistance"
+      ],
+      "teaser": "Explores the importance of preserving decentralization and financial privacy within an increasingly centralized digital world.",
+      "summary": null,
+      "durationSeconds": 1895
+    },
+    {
+      "youtubeId": "eM0mq30DQdc",
+      "slug": "monero-trivia",
+      "title": "Monero Trivia",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "trivia",
+        "monero",
+        "community",
+        "contest"
+      ],
+      "teaser": "Interactive Monero community trivia contest covering privacy technology, cryptocurrency history, and meme culture.",
+      "summary": null,
+      "durationSeconds": 2178
+    },
+    {
+      "youtubeId": "rADsW7_TCo0",
+      "slug": "badge-clinic",
+      "title": "Badge Clinic",
+      "speakers": [
+        "Michael Schloh von Bennewitz"
+      ],
+      "track": "hardware",
+      "topics": [
+        "electronic-badges",
+        "hardware",
+        "soldering",
+        "monero"
+      ],
+      "teaser": "Walks through the assembly, troubleshooting, and programming of the DEF CON Safe Mode Monero electronic badge.",
+      "summary": null,
+      "durationSeconds": 3405
+    },
+    {
+      "youtubeId": "cqsDml_A9LU",
+      "slug": "meme-competition",
+      "title": "Meme Competition",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "memes",
+        "community",
+        "contest",
+        "monero"
+      ],
+      "teaser": "Community meme competition showcasing creative and satirical artwork celebrating cryptocurrency and digital privacy.",
+      "summary": null,
+      "durationSeconds": 4976
+    },
+    {
+      "youtubeId": "QdPgAl3nBH8",
+      "slug": "bitcoin-monero-atomic-swaps",
+      "title": "Bitcoin Monero Atomic Swaps",
+      "speakers": [
+        "zkao"
+      ],
+      "track": "privacy",
+      "topics": [
+        "atomic-swaps",
+        "bitcoin",
+        "monero",
+        "cryptography"
+      ],
+      "teaser": "Explains the cryptographic protocol and implementation details behind trustless cross-chain Bitcoin-Monero atomic swaps.",
+      "summary": null,
+      "durationSeconds": 1746
+    },
+    {
+      "youtubeId": "64t7Z5p3yIo",
+      "slug": "youre-not-the-money-printer-coinbase-outputs",
+      "title": "You're Not the Money Printer: Coinbase Outputs",
+      "speakers": [
+        "sgp"
+      ],
+      "track": "privacy",
+      "topics": [
+        "coinbase-transactions",
+        "monero",
+        "mining",
+        "blockchain"
+      ],
+      "teaser": "Analyzes Monero coinbase transaction outputs, mining reward distributions, and their implications for on-chain privacy.",
+      "summary": null,
+      "durationSeconds": 1540
+    },
+    {
+      "youtubeId": "gb1TJjg_gJg",
+      "slug": "zcoin-competition",
+      "title": "Zcoin Competition",
+      "speakers": [
+        "Reuben"
+      ],
+      "track": "privacy",
+      "topics": [
+        "zcoin",
+        "privacy",
+        "cryptocurrency",
+        "contest"
+      ],
+      "teaser": "Overview and results of the Zcoin privacy challenge and cross-community privacy technology competition.",
+      "summary": null,
+      "durationSeconds": 1586
+    },
+    {
+      "youtubeId": "i5UHDpNReVw",
+      "slug": "welcome-talk",
+      "title": "Welcome Talk",
+      "speakers": [
+        "rehrar"
+      ],
+      "track": "community",
+      "topics": [
+        "monero",
+        "community",
+        "privacy",
+        "welcome"
+      ],
+      "teaser": "Welcomes attendees to DEF CON Safe Mode Monero Village and outlines the village schedule, talks, and workshops.",
+      "summary": null,
+      "durationSeconds": 298
+    },
+    {
+      "youtubeId": "U5PyZT0VUwU",
+      "slug": "monero-wallet-basics",
+      "title": "Monero Wallet Basics",
+      "speakers": [
+        "rehrar"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "wallets",
+        "opsec",
+        "privacy"
+      ],
+      "teaser": "Guides beginners through setting up, securing, and backing up Monero wallets for private, anonymous transactions.",
+      "summary": null,
+      "durationSeconds": 1784
+    },
+    {
+      "youtubeId": "m9G0tQZhQDI",
+      "slug": "locha-mesh-monero-off-the-grid",
+      "title": "Locha Mesh: Monero Off the Grid",
+      "speakers": [
+        "Randy Brito"
+      ],
+      "track": "wireless",
+      "topics": [
+        "mesh-network",
+        "off-grid",
+        "monero",
+        "radio"
+      ],
+      "teaser": "Presents Locha Mesh, an open-source decentralized radio mesh networking device for transmitting Monero transactions offline.",
+      "summary": null,
+      "durationSeconds": 1367
+    },
+    {
+      "youtubeId": "kKqTs5qXjjk",
+      "slug": "badge-clinic-2",
+      "title": "Badge Clinic 2",
+      "speakers": [
+        "Michael Schloh von Bennewitz"
+      ],
+      "track": "hardware",
+      "topics": [
+        "electronic-badges",
+        "hardware",
+        "firmware",
+        "monero"
+      ],
+      "teaser": "Continues hands-on debugging, firmware flashing, and hardware troubleshooting for the Monero electronic badge.",
+      "summary": null,
+      "durationSeconds": 3529
+    },
+    {
+      "youtubeId": "mc-BHxjmu2U",
+      "slug": "closing-talk",
+      "title": "Closing Talk",
+      "speakers": [
+        "rehrar"
+      ],
+      "track": "community",
+      "topics": [
+        "monero",
+        "community",
+        "wrap-up",
+        "privacy"
+      ],
+      "teaser": "Concludes DEF CON Safe Mode Monero Village with a recap of events, contests, and future community initiatives.",
+      "summary": null,
+      "durationSeconds": 338
+    },
+    {
+      "youtubeId": "a206226v9zY",
+      "slug": "transaction-capacity-and-fees",
+      "title": "Transaction Capacity and Fees",
+      "speakers": [
+        "ArticMine"
+      ],
+      "track": "privacy",
+      "topics": [
+        "transaction-fees",
+        "scalability",
+        "monero",
+        "block-size"
+      ],
+      "teaser": "Examines Monero's dynamic block size algorithm, transaction scaling capacity, and long-term fee economics.",
+      "summary": null,
+      "durationSeconds": 1626
+    }
+  ]
+}
