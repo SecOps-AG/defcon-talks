@@ -1,0 +1,144 @@
+{
+  "villageSlug": "appsec-village",
+  "villageName": "AppSec Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAhMTXgUcQv9aRrJUh4p1xp",
+  "description": "AppSec Village at DEF CON 27 covers application security practices, testing strategies, and vulnerability detection. The talks explore CI/CD security, purple team strategies, cryptographic failures, hidden vulnerabilities, and the history of application security.",
+  "talks": [
+    {
+      "youtubeId": "nVX33Cs5f2c",
+      "slug": "yanyan-wang-automate-pen-testing-in-dockerized-ci-cd-environment",
+      "title": "Automate Pen Testing in Dockerized CI CD Environment",
+      "speakers": [
+        "YanYan Wang"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "threat-intel"
+      ],
+      "teaser": "Automate Pen Testing in Dockerized CI CD Environment",
+      "summary": null,
+      "durationSeconds": 2609
+    },
+    {
+      "youtubeId": "4URlmEIQau4",
+      "slug": "rafael-santos-huskyci-finding-flaws-in-ci-before-deploying-them",
+      "title": "huskyCI Finding  Flaws in CI Before Deploying Them",
+      "speakers": [
+        "Rafael Santos"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "huskyCI Finding  Flaws in CI Before Deploying Them",
+      "summary": null,
+      "durationSeconds": 1774
+    },
+    {
+      "youtubeId": "8TnV0-zGsKU",
+      "slug": "joe-schottman-purple-team-strategies-for-application-security",
+      "title": "Purple Team Strategies for Application Security",
+      "speakers": [
+        "Joe Schottman"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Purple Team Strategies for Application Security",
+      "summary": null,
+      "durationSeconds": 1427
+    },
+    {
+      "youtubeId": "66hGSCE5hcw",
+      "slug": "jim-manico-keynote-the-unabridged-history-of-application-securit",
+      "title": "Keynote The Unabridged History of Application Security",
+      "speakers": [
+        "Jim Manico"
+      ],
+      "track": "appsec",
+      "topics": [
+        "community",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Keynote The Unabridged History of Application Security",
+      "summary": null,
+      "durationSeconds": 3362
+    },
+    {
+      "youtubeId": "NoAIb4iCb9w",
+      "slug": "jillian-ratliff-vulnerabilities-that-hide-from-your-tools",
+      "title": "Vulnerabilities that Hide from Your Tools",
+      "speakers": [
+        "Jillian Ratliff"
+      ],
+      "track": "appsec",
+      "topics": [
+        "threat-intel",
+        "appsec",
+        "community"
+      ],
+      "teaser": "Vulnerabilities that Hide from Your Tools",
+      "summary": null,
+      "durationSeconds": 1914
+    },
+    {
+      "youtubeId": "OX5-bqM61QI",
+      "slug": "guy-barnhart-magen-crypto-failures-and-how-to-avoid-them",
+      "title": "Crypto Failures and how to avoid them",
+      "speakers": [
+        "Guy Barnhart Magen"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Crypto Failures and how to avoid them",
+      "summary": null,
+      "durationSeconds": 2517
+    },
+    {
+      "youtubeId": "0IAyPq81JFg",
+      "slug": "anthony-kava-how-bad-could-it-be-inside-law-enforcement",
+      "title": "How bad could it be Inside Law Enforcement",
+      "speakers": [
+        "Anthony Kava"
+      ],
+      "track": "appsec",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "How bad could it be Inside Law Enforcement",
+      "summary": null,
+      "durationSeconds": 2516
+    },
+    {
+      "youtubeId": "DHPluvRxogw",
+      "slug": "erez-yalon-welcome-and-introductions",
+      "title": "Welcome and Introductions",
+      "speakers": [
+        "Erez Yalon"
+      ],
+      "track": "appsec",
+      "topics": [
+        "community",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Welcome and Introductions",
+      "summary": null,
+      "durationSeconds": 98
+    }
+  ]
+}
