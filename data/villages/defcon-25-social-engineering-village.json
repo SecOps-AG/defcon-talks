@@ -1,0 +1,223 @@
+{
+  "villageSlug": "social-engineering-village",
+  "villageName": "Social Engineering Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCuXj22HWZrNcMiXPH8fkSS",
+  "description": "Social Engineering Village at DEF CON 25 covers human-layer security, manipulation techniques, and defensive strategies. The 12 talks explore phishing, psychological manipulation, red team operations, and building organizational resilience.",
+  "talks": [
+    {
+      "youtubeId": "e_TQTDrRyWI",
+      "slug": "se-village-billy-boatright-nor-lose-the-common-touch",
+      "title": "Nor Lose The Common Touch",
+      "speakers": [
+        "Billy Boatright"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "persuasion",
+        "security-research"
+      ],
+      "teaser": "Building rapport is essential in life, and critical in Social Engineering.",
+      "summary": null,
+      "durationSeconds": 1872
+    },
+    {
+      "youtubeId": "VeXlppLn5H4",
+      "slug": "se-village-fahey-owens-beyond-phishing",
+      "title": "Beyond Phishing \u2013 Building & Sustaining a Corporate SE Program",
+      "speakers": [
+        "Fahey Owens"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "phishing",
+        "red-teaming",
+        "culture"
+      ],
+      "teaser": "Just think, 10 years ago, most organizations didn\u2019t have an ethical hacking, red team or even a fully funded Infosec team.",
+      "summary": null,
+      "durationSeconds": 1849
+    },
+    {
+      "youtubeId": "Rw0aJQnYXq0",
+      "slug": "se-village-robert-wood",
+      "title": "Thematic Social Engineering",
+      "speakers": [
+        "Robert Wood"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "security-research"
+      ],
+      "teaser": "Social engineering tests are typically performed in a point-in-time fashion, targeting specific people at particular points in their day or their workflow.",
+      "summary": null,
+      "durationSeconds": 2351
+    },
+    {
+      "youtubeId": "mxI_2On_fG8",
+      "slug": "se-village-yaiza-rubio-felix-brezo-heavy-diving-for-credentials",
+      "title": "Heavy Diving For Credentials",
+      "speakers": [
+        "Yaiza Rubio, Fe\u0301lix Brezo"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "phishing",
+        "red-teaming",
+        "authentication",
+        "privacy"
+      ],
+      "teaser": "Online phishing campaigns are one of the most typical social engineering exercises that can be",
+      "summary": null,
+      "durationSeconds": 1843
+    },
+    {
+      "youtubeId": "3bb87rb70jU",
+      "slug": "se-village-tyler-rosonke-social-engineering-with-web-analytics",
+      "title": "Social Engineering With Web Analytics",
+      "speakers": [
+        "Tyler Rosonke"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "red-teaming",
+        "web"
+      ],
+      "teaser": "Do you run web analytics on your websites, such as Google Analytics? If you were viewing your web analytics and noticed lots of traffic being referred to your website from an interesting domain, would you investigate?...",
+      "summary": null,
+      "durationSeconds": 1974
+    },
+    {
+      "youtubeId": "iLPI0EGs6kY",
+      "slug": "se-village-jayson-street-strategies-on-securing-your-banks-and-e",
+      "title": "Strategies on Securing Your Banks and Enterprises",
+      "speakers": [
+        "Jayson Street"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "red-teaming",
+        "defense",
+        "osint"
+      ],
+      "teaser": "Most people who work on the defensive side of computer security only see the landscape from that perspective! In this talk Jayson will show how an attacker views your website & employees, then uses them against you.",
+      "summary": null,
+      "durationSeconds": 3380
+    },
+    {
+      "youtubeId": "TTx7mHzyX8c",
+      "slug": "se-village-helen-thackray-hackers-gonna-hack-but-do-they-know-wh",
+      "title": "Hackers Gonna Hack , But Do They Know Why?",
+      "speakers": [
+        "Helen Thackray"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "psychology",
+        "persuasion",
+        "security-research"
+      ],
+      "teaser": "Hackers gonna hack \u2013 But do they know why? Previous academic studies have investigated the psychological aspects of information security, but the focus has been on social engineering or attempts to define hacker chara...",
+      "summary": null,
+      "durationSeconds": 3030
+    },
+    {
+      "youtubeId": "PNuPkpLuaws",
+      "slug": "se-village-chris-hadnagy-se-vs-predator-using-se-in-ways-i-never",
+      "title": "SE vs Predator: Using SE In Ways I Never Thought",
+      "speakers": [
+        "Chris Hadnagy"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "red-teaming",
+        "privacy",
+        "threat-intelligence"
+      ],
+      "teaser": "When I started my path down becoming a professional social engineer my vision was something like a modern day version of Sneakers.",
+      "summary": null,
+      "durationSeconds": 3135
+    },
+    {
+      "youtubeId": "yJCq8ajdd0U",
+      "slug": "se-village-brent-white-tim-roberts-skills-for-a-red-teamer",
+      "title": "Skills For A Red Teamer",
+      "speakers": [
+        "Brent White, Tim Roberts"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "red-teaming",
+        "privacy",
+        "culture"
+      ],
+      "teaser": "Want to incorporate hybrid security assessments into your testing methodology? What does going above and beyond look like for these types of assessments? How do you provide the best value with the resources and scope ...",
+      "summary": null,
+      "durationSeconds": 3068
+    },
+    {
+      "youtubeId": "MgXhjUzi_I0",
+      "slug": "se-village-john-nye-the-human-factor-why-are-we-so-bad-at-securi",
+      "title": "John Nye -The Human Factor  Why Are We So Bad at Security",
+      "speakers": [
+        "John Nye -The Human Factor  Why Are We So Bad at Security"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "psychology",
+        "persuasion",
+        "privacy",
+        "culture",
+        "security-research"
+      ],
+      "teaser": "How does the science of human perception and decision making influence the security sector? How can we use information about how people make decisions to create more successful security professionals? In the 1970s, \u201cf...",
+      "summary": null,
+      "durationSeconds": 2905
+    },
+    {
+      "youtubeId": "AZw8WugNyIQ",
+      "slug": "se-village-michele-fincher-are-you-killing-your-security-program",
+      "title": "Are You Killing Your Security Program?",
+      "speakers": [
+        "Michele Fincher"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "security-research"
+      ],
+      "teaser": "Michele Fincher is the Chief Influencing Agent of Social-Engineer, LLC, possessing over 20 years experience as a behavioral scientist, researcher, and information security professional.",
+      "summary": null,
+      "durationSeconds": 1761
+    },
+    {
+      "youtubeId": "mYRXlCGMP0Q",
+      "slug": "se-village-keith-conway-cameron-craig-change-agents-how-to-affec",
+      "title": "Change Agents  How to Affect  Corp. Culture",
+      "speakers": [
+        "Keith Conway, Cameron Craig"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "red-teaming",
+        "persuasion",
+        "privacy",
+        "culture"
+      ],
+      "teaser": "It\u2019s no secret that trying to change corporate culture is hard.",
+      "summary": null,
+      "durationSeconds": 2773
+    }
+  ]
+}
