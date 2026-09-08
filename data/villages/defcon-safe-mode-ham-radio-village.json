@@ -1,0 +1,151 @@
+{
+  "villageSlug": "ham-radio-village",
+  "villageName": "Ham Radio Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCeRgtuXJTrs5wMBD_aLY3b",
+  "description": "Ham Radio Village explores amateur radio communications, emergency packet radio networks, satellite tracking, Software Defined Radio (SDR) signal processing, and mobile RF operations.",
+  "talks": [
+    {
+      "youtubeId": "-3ehROEVXmw",
+      "slug": "the-ostrwerk-initiative",
+      "title": "The OSTRWERK Initiative",
+      "speakers": [
+        "Swissninja"
+      ],
+      "track": "wireless",
+      "topics": [
+        "amateur-radio",
+        "rf",
+        "open-source",
+        "wireless"
+      ],
+      "teaser": "Introduces the OSTRWERK open-source hardware initiative providing accessible RF tooling and equipment for amateur radio operators.",
+      "summary": null,
+      "durationSeconds": 2768
+    },
+    {
+      "youtubeId": "tMT28NXbKW0",
+      "slug": "what-makes-a-good-operator",
+      "title": "What Makes a Good Operator",
+      "speakers": [
+        "Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "ham-radio",
+        "operating-practices",
+        "community",
+        "ethics"
+      ],
+      "teaser": "Experienced amateur radio operators discuss essential operational discipline, on-air etiquette, and community mentoring.",
+      "summary": null,
+      "durationSeconds": 1840
+    },
+    {
+      "youtubeId": "wDMsh7TJuqw",
+      "slug": "so-you-have-an-sdr",
+      "title": "So You Have an SDR",
+      "speakers": [
+        "Pancake"
+      ],
+      "track": "wireless",
+      "topics": [
+        "sdr",
+        "software-defined-radio",
+        "rf",
+        "signal-analysis"
+      ],
+      "teaser": "A hands-on guide for beginners on setting up and exploring radio spectrum using low-cost Software Defined Radio dongles.",
+      "summary": null,
+      "durationSeconds": 3071
+    },
+    {
+      "youtubeId": "XyrmdDVQN_A",
+      "slug": "eric-escobar-talking-to-satellites",
+      "title": "Talking to Satellites",
+      "speakers": [
+        "Eric Escobar"
+      ],
+      "track": "wireless",
+      "topics": [
+        "satellite",
+        "amateur-radio",
+        "antennas",
+        "doppler-shift"
+      ],
+      "teaser": "Explains how to track amateur satellites, calculate Doppler shift, and establish two-way voice and packet contacts.",
+      "summary": null,
+      "durationSeconds": 3030
+    },
+    {
+      "youtubeId": "pR_0ZA-nsdA",
+      "slug": "single-board-computers-in-amateur-radio",
+      "title": "Single Board Computers in Amateur Radio",
+      "speakers": [
+        "Tyler Gardner"
+      ],
+      "track": "wireless",
+      "topics": [
+        "raspberry-pi",
+        "single-board-computers",
+        "ham-radio",
+        "digital-modes"
+      ],
+      "teaser": "Demonstrates deploying Raspberry Pi and single-board computers for digital amateur radio modes, APRS gateways, and remote control.",
+      "summary": null,
+      "durationSeconds": 2707
+    },
+    {
+      "youtubeId": "y7MX6-I3Stc",
+      "slug": "the-k0bak-news-van-part-2",
+      "title": "The K0BAK News Van: Part 2",
+      "speakers": [
+        "K0BAK"
+      ],
+      "track": "wireless",
+      "topics": [
+        "mobile-radio",
+        "van-build",
+        "ham-radio",
+        "antennas"
+      ],
+      "teaser": "Walks through the mobile RF installation, power distribution, and antenna arrays in a converted news broadcast van.",
+      "summary": null,
+      "durationSeconds": 764
+    },
+    {
+      "youtubeId": "1wAdJOFS6Vg",
+      "slug": "ham-radio-snail-mail-nts-and-the-radiogram-format",
+      "title": "Ham Radio Snail Mail: NTS and the Radiogram Format",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "nts",
+        "radiogram",
+        "emergency-communications",
+        "amateur-radio"
+      ],
+      "teaser": "Breaks down the National Traffic System (NTS) radiogram message format and relay protocols for emergency communications.",
+      "summary": null,
+      "durationSeconds": 5758
+    },
+    {
+      "youtubeId": "fBj-HI7uyho",
+      "slug": "aprs-demo",
+      "title": "APRS Demo",
+      "speakers": [
+        "Baloo"
+      ],
+      "track": "wireless",
+      "topics": [
+        "aprs",
+        "packet-radio",
+        "telemetry",
+        "ham-radio"
+      ],
+      "teaser": "Demonstrates the Automatic Packet Reporting System (APRS) protocol for transmitting GPS telemetry and tactical messages over VHF.",
+      "summary": null,
+      "durationSeconds": 2288
+    }
+  ]
+}
