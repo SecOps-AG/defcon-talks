@@ -1,0 +1,94 @@
+{
+  "villageSlug": "hardware-hacking-village",
+  "villageName": "Hardware Hacking Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDzSS6HhxaY72Pp08qRY0QM",
+  "description": "Hardware Hacking Village at DEF CON 26 covers hands-on hardware security and reverse engineering with 5 talks on NFC payments, RF hacking, WiFi exploitation, drone building, firmware analysis, and retro computing.",
+  "talks": [
+    {
+      "youtubeId": "MVU3gbPnk0g",
+      "slug": "salvador-mendoza-nfc-payments-the-art-of-relay-and-replay",
+      "title": "NFC Payments The Art of Relay & Replay",
+      "speakers": [
+        "Salvador Mendoza"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "reverse-engineering",
+        "iot"
+      ],
+      "teaser": "NFC Payments The Art of Relay & Replay",
+      "summary": null,
+      "durationSeconds": 1598
+    },
+    {
+      "youtubeId": "4Gw7l0DBR0g",
+      "slug": "mike-davis-hacking-your-hackrf",
+      "title": "Hacking your HackRF",
+      "speakers": [
+        "Mike Davis"
+      ],
+      "track": "hardware",
+      "topics": [
+        "radio-frequency",
+        "reverse-engineering",
+        "iot"
+      ],
+      "teaser": "Hacking your HackRF",
+      "summary": null,
+      "durationSeconds": 1192
+    },
+    {
+      "youtubeId": "1XoxtcBGga0",
+      "slug": "john-aho-wifi-beacons-will-give-you-up",
+      "title": "WiFi Beacons will give you up",
+      "speakers": [
+        "John Aho"
+      ],
+      "track": "hardware",
+      "topics": [
+        "wireless",
+        "reverse-engineering",
+        "iot"
+      ],
+      "teaser": "WiFi Beacons will give you up",
+      "summary": null,
+      "durationSeconds": 1633
+    },
+    {
+      "youtubeId": "5GSxa_VgOvk",
+      "slug": "david-melendez-cano-building-drones-the-hard-way",
+      "title": "Building Drones the Hard Way",
+      "speakers": [
+        "David Melendez Cano"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "reverse-engineering",
+        "iot"
+      ],
+      "teaser": "Building Drones the Hard Way",
+      "summary": null,
+      "durationSeconds": 2112
+    },
+    {
+      "youtubeId": "ZlyHcgpL5aw",
+      "slug": "commodore-z-the-cactus-6502-blinkenlights-40-years-late",
+      "title": "The Cactus 6502 Blinkenlights 40 Years Late",
+      "speakers": [
+        "Commodore Z"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "reverse-engineering",
+        "iot"
+      ],
+      "teaser": "The Cactus 6502 Blinkenlights 40 Years Late",
+      "summary": null,
+      "durationSeconds": 3009
+    }
+  ]
+}
