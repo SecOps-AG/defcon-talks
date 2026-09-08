@@ -1,0 +1,434 @@
+{
+  "villageSlug": "transporthax",
+  "villageName": "Transporthax",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCyfI31Gr40BpWmQbj0uvI0",
+  "description": "Transporthax at DEF CON 27 focuses on aviation, transportation security, and related infrastructure. The talks cover aircraft systems, pilot training security, aviation cybersecurity, and transportation technology vulnerabilities.",
+  "talks": [
+    {
+      "youtubeId": "xyvmux45860",
+      "slug": "tarah-wheeler-common-online-security-fails-in-pilot-training",
+      "title": "Common Online Security Fails In Pilot Training -",
+      "speakers": [
+        "Tarah Wheeler"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Common Online Security Fails In Pilot Training -",
+      "summary": null,
+      "durationSeconds": 1536
+    },
+    {
+      "youtubeId": "IgKsH6BzQWY",
+      "slug": "zoltan-madarassy-behind-the-scenes-of-hacking-airplanes",
+      "title": "Behind the scenes of hacking airplanes -",
+      "speakers": [
+        "Zoltan Madarassy"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Behind the scenes of hacking airplanes -",
+      "summary": null,
+      "durationSeconds": 2076
+    },
+    {
+      "youtubeId": "bydy7lbFyFU",
+      "slug": "patrick-kiley-can-bus-in-aviation-investigating-can-bus-in-avion",
+      "title": "CAN Bus in Aviation Investigating CAN Bus in Avionics -",
+      "speakers": [
+        "Patrick Kiley"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "CAN Bus in Aviation Investigating CAN Bus in Avionics -",
+      "summary": null,
+      "durationSeconds": 698
+    },
+    {
+      "youtubeId": "EjLcbHlKSGw",
+      "slug": "panel-the-long-haul-the-state-of-aviation-policy",
+      "title": "The Long Haul The State of Aviation Policy -",
+      "speakers": [
+        "Panel"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "The Long Haul The State of Aviation Policy -",
+      "summary": null,
+      "durationSeconds": 2986
+    },
+    {
+      "youtubeId": "1KauHqfTGwc",
+      "slug": "exploding-lemur-in-the-air-and-on-the-air-aviation-radio-systems",
+      "title": "In The Air And On The Air Aviation Radio Systems -",
+      "speakers": [
+        "Exploding Lemur"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "In The Air And On The Air Aviation Radio Systems -",
+      "summary": null,
+      "durationSeconds": 1694
+    },
+    {
+      "youtubeId": "2Q_bTXeExUo",
+      "slug": "harshad-sathaye-wireless-attacks-on-aircraft-ils",
+      "title": "Wireless Attacks on Aircraft ILS -",
+      "speakers": [
+        "Harshad Sathaye"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Wireless Attacks on Aircraft ILS -",
+      "summary": null,
+      "durationSeconds": 1873
+    },
+    {
+      "youtubeId": "qnfPwevnCoo",
+      "slug": "karl-koscher-an-introduction-to-the-arinc-standards",
+      "title": "An Introduction to the ARINC standards -",
+      "speakers": [
+        "Karl Koscher"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "An Introduction to the ARINC standards -",
+      "summary": null,
+      "durationSeconds": 1384
+    },
+    {
+      "youtubeId": "n9MnloQhw9Q",
+      "slug": "ken-and-alex-a-hackers-first-solo-airplane-avionics-security-101",
+      "title": "A Hackers First Solo Airplane Avionics Security 101 -",
+      "speakers": [
+        "Ken and Alex"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "A Hackers First Solo Airplane Avionics Security 101 -",
+      "summary": null,
+      "durationSeconds": 2674
+    },
+    {
+      "youtubeId": "nb1TOtXfwbA",
+      "slug": "art-manion-ideas-whose-time-has-come-cvd-sbom-and-sota",
+      "title": "Ideas whose time has come CVD SBOM and SOTA -",
+      "speakers": [
+        "Art Manion"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Ideas whose time has come CVD SBOM and SOTA -",
+      "summary": null,
+      "durationSeconds": 1753
+    },
+    {
+      "youtubeId": "BK1FaV3toR8",
+      "slug": "dr-will-roper-hacking-the-airforce-and-beyond",
+      "title": "Hacking the airforce and beyond -",
+      "speakers": [
+        "Dr Will Roper"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Hacking the airforce and beyond -",
+      "summary": null,
+      "durationSeconds": 1414
+    },
+    {
+      "youtubeId": "2NUhMuWo9H4",
+      "slug": "rotem-bar-hacking-into-automotive-clouds-def-con-27-car-hacking",
+      "title": "Hacking into Automotive Clouds - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Rotem Bar"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Hacking into Automotive Clouds - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 2183
+    },
+    {
+      "youtubeId": "4EkXYD76Quk",
+      "slug": "neiko-rivera-infotainment-hacking-def-con-27-car-hacking-village",
+      "title": "Infotainment Hacking - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Neiko Rivera"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Infotainment Hacking - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 1038
+    },
+    {
+      "youtubeId": "ZBbX8iyAa-I",
+      "slug": "ken-munro-lojackd-pwning-car-alarms-vehicle-trackers-def-con-27",
+      "title": "Lojackd pwning car alarms vehicle trackers - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Ken Munro"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Lojackd pwning car alarms vehicle trackers - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 1199
+    },
+    {
+      "youtubeId": "tFUdQJkKsLU",
+      "slug": "lennert-wouters-passive-keyless-entry-and-start-systems-def-con",
+      "title": "Passive Keyless Entry and Start Systems - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Lennert Wouters"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Passive Keyless Entry and Start Systems - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 1493
+    },
+    {
+      "youtubeId": "fXV3b_QpMt8",
+      "slug": "elijah-roberts-tell-me-lies-automotive-lidar-and-low-tech-def-co",
+      "title": "Tell Me Lies Automotive LIDAR and Low Tech - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Elijah Roberts"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Tell Me Lies Automotive LIDAR and Low Tech - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 1583
+    },
+    {
+      "youtubeId": "nb1v8MrV9tM",
+      "slug": "greg-hogan-reverse-engineering-and-flashing-ecu-firmware-updates",
+      "title": "Reverse Engineering and Flashing ECU Firmware Updates - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Greg Hogan"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Reverse Engineering and Flashing ECU Firmware Updates - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 2544
+    },
+    {
+      "youtubeId": "REpUPwHLYvk",
+      "slug": "aaron-cornelius-intro-to-uds-video-def-con-27-car-hacking-villag",
+      "title": "Intro to UDS video - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Aaron Cornelius"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Intro to UDS video - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 1773
+    },
+    {
+      "youtubeId": "CiKhrmrRNU4",
+      "slug": "victor-murray-legal-over-the-air-spoofing-of-gnss-and-its-effect",
+      "title": "Legal Over the Air Spoofing of GNSS and its Effects - DEF CON 27 Car Hacking Village",
+      "speakers": [
+        "Victor Murray"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Legal Over the Air Spoofing of GNSS and its Effects - DEF CON 27 Car Hacking Village",
+      "summary": null,
+      "durationSeconds": 1087
+    },
+    {
+      "youtubeId": "JoJ6uzIsQNs",
+      "slug": "andrew-tierney-pwning-a-mobile-drilling-rig-hacking-an-oil-rig-d",
+      "title": "Pwning a mobile drilling rig Hacking an oil rig - DEF CON 27 Hack the Sea Village",
+      "speakers": [
+        "Andrew Tierney"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Pwning a mobile drilling rig Hacking an oil rig - DEF CON 27 Hack the Sea Village",
+      "summary": null,
+      "durationSeconds": 1664
+    },
+    {
+      "youtubeId": "WonKnDVpmQ8",
+      "slug": "brian-satira-opening-remarks-def-con-27-hack-the-sea-village",
+      "title": "Opening Remarks - DEF CON 27 Hack the Sea Village",
+      "speakers": [
+        "Brian Satira"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Opening Remarks - DEF CON 27 Hack the Sea Village",
+      "summary": null,
+      "durationSeconds": 368
+    },
+    {
+      "youtubeId": "PemUvR1-iAo",
+      "slug": "cris-dewitt-maritime-cyber-policy-panel-def-con-27-hack-the-sea",
+      "title": "Maritime Cyber Policy Panel - DEF CON 27 Hack the Sea Village",
+      "speakers": [
+        "Cris DeWitt"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Maritime Cyber Policy Panel - DEF CON 27 Hack the Sea Village",
+      "summary": null,
+      "durationSeconds": 2553
+    },
+    {
+      "youtubeId": "Iw2gA4MOW7s",
+      "slug": "josh-steinman-nsc-and-special-assistant-for-cyber-def-con-27-hac",
+      "title": "NSC and Special Assistant for Cyber - DEF CON 27 Hack the Sea Village",
+      "speakers": [
+        "Josh Steinman"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "NSC and Special Assistant for Cyber - DEF CON 27 Hack the Sea Village",
+      "summary": null,
+      "durationSeconds": 1076
+    },
+    {
+      "youtubeId": "wRWh6FVIFeo",
+      "slug": "julian-blanco-c2-over-maritime-ais-and-commercial-aggregation-de",
+      "title": "C2 over Maritime AIS and commercial aggregation - DEF CON 27 Hack the Sea Village",
+      "speakers": [
+        "Julian Blanco"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "C2 over Maritime AIS and commercial aggregation - DEF CON 27 Hack the Sea Village",
+      "summary": null,
+      "durationSeconds": 1001
+    },
+    {
+      "youtubeId": "vt2t75RoCDY",
+      "slug": "stephan-gerling-yacht-hacking-from-satcom-to-engine-control-def",
+      "title": "Yacht Hacking from SatCOM to engine control - DEF CON 27 Hack the Sea Village",
+      "speakers": [
+        "Stephan Gerling"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "Yacht Hacking from SatCOM to engine control - DEF CON 27 Hack the Sea Village",
+      "summary": null,
+      "durationSeconds": 3493
+    },
+    {
+      "youtubeId": "xvSfM_Ex7uE",
+      "slug": "weston-hecker-pentesting-how-to-get-into-the-field-explained-def",
+      "title": "PENTESTING How to Get into the Field Explained - DEF CON 27 Hack the Sea Village",
+      "speakers": [
+        "Weston Hecker"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aviation",
+        "transportation",
+        "ics-ot"
+      ],
+      "teaser": "PENTESTING How to Get into the Field Explained - DEF CON 27 Hack the Sea Village",
+      "summary": null,
+      "durationSeconds": 1458
+    }
+  ]
+}
