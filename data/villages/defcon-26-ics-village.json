@@ -1,0 +1,162 @@
+{
+  "villageSlug": "ics-village",
+  "villageName": "ICS Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBkNldV0b-mDsWp7JMbjc-f",
+  "description": "ICS Village at DEF CON 26 covers Industrial Control Systems security and critical infrastructure protection. The talks explore ICS/IoT defense mechanisms, firmware security, side-channel attacks, VPN vulnerabilities, behavioral defense systems, and practical security training for industrial environments.",
+  "talks": [
+    {
+      "youtubeId": "I_npMq0o480",
+      "slug": "ica-village-thomas-vannorman-a-soc-in-the-sandbox",
+      "title": "A SOC in the Sandbox",
+      "speakers": [
+        "Thomas VanNorman"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "blue-team",
+        "threat-intel",
+        "defense"
+      ],
+      "teaser": "A SOC in the Sandbox",
+      "summary": null,
+      "durationSeconds": 792
+    },
+    {
+      "youtubeId": "CYfNAG9MFY0",
+      "slug": "ica-village-monta-elkins-disassembly-and-hacking-of-firmware-whe",
+      "title": "Disassembly and Hacking of Firmware Where You Least Expect",
+      "speakers": [
+        "Monta Elkins"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "malware",
+        "threat-intel",
+        "blue-team"
+      ],
+      "teaser": "Disassembly and Hacking of Firmware Where You Least Expect",
+      "summary": null,
+      "durationSeconds": 2135
+    },
+    {
+      "youtubeId": "w6Ng8OEnI3g",
+      "slug": "ica-village-mike-godfrey-how-we-cost-our-client-1-point-2m-with",
+      "title": "How We Cost Our Client 1 point 2M with 4 lines of code",
+      "speakers": [
+        "Mike Godfrey"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "threat-intel",
+        "blue-team",
+        "defense"
+      ],
+      "teaser": "How We Cost Our Client 1 point 2M with 4 lines of code",
+      "summary": null,
+      "durationSeconds": 1688
+    },
+    {
+      "youtubeId": "Dx3fFpYwokU",
+      "slug": "ica-village-keiser-and-barenz-how-can-industrial-iot-be-protecte",
+      "title": "How can industrial IoT be protected",
+      "speakers": [
+        "Keiser and Barenz"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "defense",
+        "threat-intel"
+      ],
+      "teaser": "How can industrial IoT be protected",
+      "summary": null,
+      "durationSeconds": 1224
+    },
+    {
+      "youtubeId": "iFOGPZazgFI",
+      "slug": "ica-village-joe-slowik-behavior-based-defense-in-ics-environment",
+      "title": "Behavior Based Defense in ICS Environments",
+      "speakers": [
+        "Joe Slowik"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "defense",
+        "threat-intel"
+      ],
+      "teaser": "Behavior Based Defense in ICS Environments",
+      "summary": null,
+      "durationSeconds": 2136
+    },
+    {
+      "youtubeId": "hI93jhqXB0U",
+      "slug": "ica-village-harris-and-aguayo-securing-critical-infrastructure-t",
+      "title": "Securing Critical Infrastructure through Side Channel",
+      "speakers": [
+        "Harris and Aguayo"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "defense",
+        "threat-intel"
+      ],
+      "teaser": "Securing Critical Infrastructure through Side Channel",
+      "summary": null,
+      "durationSeconds": 1720
+    },
+    {
+      "youtubeId": "2ds0yDzuLhs",
+      "slug": "ica-village-desantis-and-pacho",
+      "title": "Analyzing VPNFilters Modbus Module",
+      "speakers": [
+        "DeSantis and Pacho"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "threat-intel",
+        "blue-team",
+        "defense"
+      ],
+      "teaser": "Analyzing VPNFilters Modbus Module",
+      "summary": null,
+      "durationSeconds": 2515
+    },
+    {
+      "youtubeId": "KD0ZvYB72jQ",
+      "slug": "ica-village-bryson-bort-tor-for-the-iot-aka-tort-reform",
+      "title": "TOR for The IOT aka TORT Reform",
+      "speakers": [
+        "Bryson Bort"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "privacy",
+        "threat-intel"
+      ],
+      "teaser": "TOR for The IOT aka TORT Reform",
+      "summary": null,
+      "durationSeconds": 1801
+    },
+    {
+      "youtubeId": "QnbjqTv9zto",
+      "slug": "ica-village-brandon-workentin",
+      "title": "A CTF That Teaches",
+      "speakers": [
+        "Brandon Workentin"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "blue-team"
+      ],
+      "teaser": "A CTF That Teaches",
+      "summary": null,
+      "durationSeconds": 1789
+    }
+  ]
+}
