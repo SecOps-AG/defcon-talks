@@ -1,0 +1,181 @@
+{
+  "villageSlug": "biohacking-village",
+  "villageName": "Biohacking Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAf6e9Aj-uc2fCVjfMgNSqc",
+  "description": "Biohacking Village at DEF CON 26 explores the intersection of biology, genetics, and security. The 11 talks cover medical device vulnerabilities, genetic engineering, DNA security, pacemakers, in utero genetic treatment, immune system exploitation, and the ethics of biohacking.",
+  "talks": [
+    {
+      "youtubeId": "fZKAQ_HCvSI",
+      "slug": "bio-hacking-village-vlad-gostomelsky-jumping-the-epidermal-barri",
+      "title": "Jumping the Epidermal Barrier",
+      "speakers": [
+        "Vlad Gostomelsky"
+      ],
+      "track": "red-team",
+      "topics": [
+        "medical-devices",
+        "privacy"
+      ],
+      "teaser": "This talk will focus on consumer grade glucose monitors - primarily continuous glucose monitors that are implantable or attach to the skin for extended length of time and provide readings via bluetooth low energy or h...",
+      "summary": null,
+      "durationSeconds": 1127
+    },
+    {
+      "youtubeId": "skUydi_4bIA",
+      "slug": "bio-hacking-village-vee",
+      "title": "PWN to Own My Heart",
+      "speakers": [
+        "Vee"
+      ],
+      "track": "red-team",
+      "topics": [
+        "medical-devices"
+      ],
+      "teaser": "The increase of pace in the technology field has left the race for manufacturers to increase the security in medical devices. There is the theoretically possibility that your heart can be pwned. Pacemakers have become...",
+      "summary": null,
+      "durationSeconds": 2735
+    },
+    {
+      "youtubeId": "FzqEJM8B0h4",
+      "slug": "bio-hacking-village-michael-laufer-the-four-thieves-vinegar-coll",
+      "title": "The Four Thieves Vinegar Collective",
+      "speakers": [
+        "Michael Laufer"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "The Four Thieves Vinegar Collective",
+      "summary": null,
+      "durationSeconds": 3113
+    },
+    {
+      "youtubeId": "Nm4n-XhqERY",
+      "slug": "bio-hacking-village-joel-murphy",
+      "title": "Biohacking Village Microfluidics Badge",
+      "speakers": [
+        "Joel Murphy"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "Joel will talk about how the DEF CON Biohacking Village came together in all its wonderful glory",
+      "summary": null,
+      "durationSeconds": 878
+    },
+    {
+      "youtubeId": "MYxBIy0hB18",
+      "slug": "bio-hacking-village-guy-propper-exploiting-immune-defenses-can-m",
+      "title": "Exploiting Immune Defenses Can Malware Learn from Bio",
+      "speakers": [
+        "Guy Propper"
+      ],
+      "track": "red-team",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "Biological viruses have existed and evolved for millions of years, maliciously exploiting host cells for survival. How have they done this, and what can we learn from it? Extremely advanced mechanisms for privilege es...",
+      "summary": null,
+      "durationSeconds": 1324
+    },
+    {
+      "youtubeId": "Zj7DR7JoPnU",
+      "slug": "bio-hacking-village-gerald-r-scott-workplace-accommodation-for-a",
+      "title": "Workplace Accommodation for Autisics",
+      "speakers": [
+        "Gerald R Scott"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "Workplace Accommodation for Autisics",
+      "summary": null,
+      "durationSeconds": 2061
+    },
+    {
+      "youtubeId": "u8TYdVN3CZE",
+      "slug": "bio-hacking-village-erin-foster-hefley",
+      "title": "Hacking Human Fetuses",
+      "speakers": [
+        "Erin Foster Hefley"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking",
+        "medical-devices",
+        "genetic-engineering",
+        "bioethics"
+      ],
+      "teaser": "\"As prenatal testing and ultrasound technology have greatly improved, so has our ability to diagnose birth defects and genetic diseases earlier and earlier in pregnancy. Until recently, our only available options were...",
+      "summary": null,
+      "durationSeconds": 2235
+    },
+    {
+      "youtubeId": "uDxVS8ok4Iw",
+      "slug": "bio-hacking-village",
+      "title": "DAY ONE",
+      "speakers": [
+        "DAY ONE"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "DAY ONE",
+      "summary": null,
+      "durationSeconds": 8494
+    },
+    {
+      "youtubeId": "9JnX1Ra0bLQ",
+      "slug": "bio-hacking-village-chris-roberts-our-evolutionary-path-in-45-mi",
+      "title": "Our Evolutionary Path in 45 Minutes",
+      "speakers": [
+        "Chris Roberts"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "Our Evolutionary Path in 45 Minutes",
+      "summary": null,
+      "durationSeconds": 2037
+    },
+    {
+      "youtubeId": "AZ9uRYzTLOI",
+      "slug": "bio-hacking-village-biascilab-waterbot-the-hackable-plant-contro",
+      "title": "WaterBot The Hackable Plant Control System",
+      "speakers": [
+        "BiaSciLab"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "The WaterBot is designed to dispense liquid (water, plant food, MS Media) and report how much and when it was administered. Designed, engineered and programed by 11 yr. old BiaSciLab, the WaterBot is open source and s...",
+      "summary": null,
+      "durationSeconds": 1161
+    },
+    {
+      "youtubeId": "Jni4o947OjA",
+      "slug": "bio-hacking-village-anne-kim",
+      "title": "Selfie or Mugshot",
+      "speakers": [
+        "Anne Kim"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking",
+        "genetic-engineering",
+        "dna-security",
+        "privacy"
+      ],
+      "teaser": "Thanks to the use of DNA in criminal investigations, hundreds of innocent people have been exonerated from crimes they did not commit. DNA has also been used to used to arrest suspects in cold cases! In my presentatio...",
+      "summary": null,
+      "durationSeconds": 2235
+    }
+  ]
+}
