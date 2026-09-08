@@ -1,0 +1,332 @@
+{
+  "villageSlug": "crypto-and-privacy-village",
+  "villageName": "Crypto and Privacy Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCnlC3NQR6j7pwvlg5gKJsr",
+  "description": "Crypto and Privacy Village at DEF CON 27 showcases cryptography, privacy protection, and secure communication techniques. The 19 talks cover encryption, privacy tools, digital rights, secure messaging, and cryptanalysis.",
+  "talks": [
+    {
+      "youtubeId": "YG33kAaFs6Q",
+      "slug": "chris-hanlon-tls-decryption-attacks-and-back-doors-def-con-27-cr",
+      "title": "TLS decryption attacks and back doors -",
+      "speakers": [
+        "Chris Hanlon"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "TLS decryption attacks and back doors -",
+      "summary": null,
+      "durationSeconds": 1856
+    },
+    {
+      "youtubeId": "sOKh7WQgwpw",
+      "slug": "cathie-yun-implementing-a-zero-knowledge-proof-def-con-27-crypto",
+      "title": "Implementing a Zero Knowledge Proof -",
+      "speakers": [
+        "Cathie Yun"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Implementing a Zero Knowledge Proof -",
+      "summary": null,
+      "durationSeconds": 2286
+    },
+    {
+      "youtubeId": "IqCw19bKE6c",
+      "slug": "christian-paquin-migrating-to-quantum-safe-crypto-def-con-27-cry",
+      "title": "Migrating to quantum safe crypto -",
+      "speakers": [
+        "Christian Paquin"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Migrating to quantum safe crypto -",
+      "summary": null,
+      "durationSeconds": 1534
+    },
+    {
+      "youtubeId": "75dATldR3Yg",
+      "slug": "ethan-dodge-scrubber-an-oss-compilation-to-protect-sources-def-c",
+      "title": "Scrubber An OSS compilation to protect sources -",
+      "speakers": [
+        "Ethan Dodge"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Scrubber An OSS compilation to protect sources -",
+      "summary": null,
+      "durationSeconds": 1110
+    },
+    {
+      "youtubeId": "trFQj6fEic4",
+      "slug": "harlo-holmes-tiplines-today-def-con-27-crypto-and-privacy-villag",
+      "title": "Tiplines Today -",
+      "speakers": [
+        "Harlo Holmes"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Tiplines Today -",
+      "summary": null,
+      "durationSeconds": 3255
+    },
+    {
+      "youtubeId": "axid9LMWExM",
+      "slug": "karl-koscher-enabling-https-for-home-network-devices-def-con-27",
+      "title": "Enabling HTTPS for home network devices -",
+      "speakers": [
+        "Karl Koscher"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Enabling HTTPS for home network devices -",
+      "summary": null,
+      "durationSeconds": 1231
+    },
+    {
+      "youtubeId": "jVcGZ_Ak4NI",
+      "slug": "kate-rose-adversarial-fashion-sartorial-hacking-def-con-27-crypt",
+      "title": "Adversarial Fashion Sartorial Hacking -",
+      "speakers": [
+        "Kate Rose"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Adversarial Fashion Sartorial Hacking -",
+      "summary": null,
+      "durationSeconds": 2987
+    },
+    {
+      "youtubeId": "R1LaCiK6Q90",
+      "slug": "katelyn-bowden-fighting-non-consensual-pornography-def-con-27-cr",
+      "title": "Fighting non consensual pornography -",
+      "speakers": [
+        "Katelyn Bowden"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Fighting non consensual pornography -",
+      "summary": null,
+      "durationSeconds": 2869
+    },
+    {
+      "youtubeId": "rH0X6-lxygk",
+      "slug": "mark-b-cooper-pki-and-shaken-stir-will-fix-robocalls-def-con-27",
+      "title": "PKI and SHAKEN STIR Will Fix Robocalls -",
+      "speakers": [
+        "Mark B Cooper"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "PKI and SHAKEN STIR Will Fix Robocalls -",
+      "summary": null,
+      "durationSeconds": 3336
+    },
+    {
+      "youtubeId": "U1wb4_bIVbc",
+      "slug": "mike-kiser-ensuring-privacy-through-obfuscation-def-con-27-crypt",
+      "title": "Ensuring Privacy through Obfuscation -",
+      "speakers": [
+        "Mike Kiser"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Ensuring Privacy through Obfuscation -",
+      "summary": null,
+      "durationSeconds": 2971
+    },
+    {
+      "youtubeId": "1NF99lSdKCE",
+      "slug": "riana-pfefferkorn-compelled-device-decryption-and-5a-def-con-27",
+      "title": "Compelled Device Decryption and 5A -",
+      "speakers": [
+        "Riana Pfefferkorn"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Compelled Device Decryption and 5A -",
+      "summary": null,
+      "durationSeconds": 1704
+    },
+    {
+      "youtubeId": "eblBo40VlRs",
+      "slug": "sarah-mccarthy-quantum-safe-instantaneous-vehicle-comms-def-con",
+      "title": "Quantum Safe Instantaneous Vehicle Comms -",
+      "speakers": [
+        "Sarah McCarthy"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Quantum Safe Instantaneous Vehicle Comms -",
+      "summary": null,
+      "durationSeconds": 908
+    },
+    {
+      "youtubeId": "28SM5ILpHEE",
+      "slug": "steve-thomas-easy-pake-oven-def-con-27-crypto-and-privacy-villag",
+      "title": "Easy PAKE Oven -",
+      "speakers": [
+        "Steve Thomas"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Easy PAKE Oven -",
+      "summary": null,
+      "durationSeconds": 2620
+    },
+    {
+      "youtubeId": "NSuII5D76kI",
+      "slug": "suchismita-pahi-how-to-integrate-privacy-legal-security-def-con",
+      "title": "How to Integrate Privacy Legal Security -",
+      "speakers": [
+        "Suchismita Pahi"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "How to Integrate Privacy Legal Security -",
+      "summary": null,
+      "durationSeconds": 2708
+    },
+    {
+      "youtubeId": "bxbazQ6wJlU",
+      "slug": "tiffany-li-facial-recognition-dna-and-biometric-privacy-def-con",
+      "title": "Facial Recognition DNA and Biometric Privacy -",
+      "speakers": [
+        "Tiffany Li"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Facial Recognition DNA and Biometric Privacy -",
+      "summary": null,
+      "durationSeconds": 1611
+    },
+    {
+      "youtubeId": "Or-RN4MoE3U",
+      "slug": "tyler-kell-towards-usable-dining-crypto-networks-w-howl-def-con",
+      "title": "Towards Usable Dining Crypto Networks w Howl -",
+      "speakers": [
+        "Tyler Kell"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Towards Usable Dining Crypto Networks w Howl -",
+      "summary": null,
+      "durationSeconds": 1159
+    },
+    {
+      "youtubeId": "8BmZBnS30As",
+      "slug": "vitor-ventura-snoop-all-telegram-messages-def-con-27-crypto-and",
+      "title": "Snoop all Telegram messages -",
+      "speakers": [
+        "Vitor Ventura"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Snoop all Telegram messages -",
+      "summary": null,
+      "durationSeconds": 1561
+    },
+    {
+      "youtubeId": "uhbKB_5u6jE",
+      "slug": "ben-brecht-mitm-mixed-mode-butterfly-key-privacy-attack-def-con",
+      "title": "MITM mixed mode butterfly key privacy attack -",
+      "speakers": [
+        "Ben Brecht"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "MITM mixed mode butterfly key privacy attack -",
+      "summary": null,
+      "durationSeconds": 1974
+    },
+    {
+      "youtubeId": "Gg0M0BjWvE0",
+      "slug": "cat-murdock-black-mirror-you-are-yr-own-privacy-nightmare-def-co",
+      "title": "Black Mirror You are yr own privacy nightmare -",
+      "speakers": [
+        "Cat Murdock"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Black Mirror You are yr own privacy nightmare -",
+      "summary": null,
+      "durationSeconds": 3210
+    }
+  ]
+}
