@@ -1,0 +1,223 @@
+{
+  "villageSlug": "iot-village",
+  "villageName": "IoT Village",
+  "eventSlug": "defcon-24",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDiJ6_JGFA-vjNcpzX5xeET",
+  "description": "IoT Village at DEF CON 24 explores security research, vulnerability disclosure, and exploitation techniques across embedded devices, wireless protocols, and connected hardware.",
+  "talks": [
+    {
+      "youtubeId": "v1d0Xa2njVg",
+      "slug": "goldfisk-follower-breaking-the-internet-of-vibrating-things",
+      "title": "goldfisk, follower - Breaking the Internet of Vibrating Things",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "hardware",
+        "wireless",
+        "reverse-engineering"
+      ],
+      "teaser": "A technical examination of security vulnerabilities, reverse engineering, and protocol exploitation in connected consumer IoT devices.",
+      "summary": null,
+      "durationSeconds": 1206
+    },
+    {
+      "youtubeId": "bU6bosBN5D0",
+      "slug": "elie-bursztein-celine-bursztein",
+      "title": "Elie Bursztein, Celine Bursztein,",
+      "speakers": [
+        "Cheating at Poker"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "reverse-engineering",
+        "rfid",
+        "physical-security"
+      ],
+      "teaser": "An analysis of electronic cheating devices used at poker tables, exploring covert cameras, RFID readers, and countermeasure testing.",
+      "summary": null,
+      "durationSeconds": 1693
+    },
+    {
+      "youtubeId": "5Nk6iDryW0Y",
+      "slug": "dr-phil-mouse-jiggler-offense-and-defense",
+      "title": "Dr Phil - Mouse Jiggler: Offense and Defense",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "physical-security",
+        "blue-team",
+        "usb"
+      ],
+      "teaser": "Exploring hardware mouse jigglers from both offensive evasion and defensive detection perspectives in enterprise environments.",
+      "summary": null,
+      "durationSeconds": 2719
+    },
+    {
+      "youtubeId": "KrOReHwjCKI",
+      "slug": "anthony-rose-ben-ramsey-picking-bluetooth-low-energy-locks-a-qua",
+      "title": "Anthony Rose, Ben Ramsey - Picking Bluetooth Low Energy Locks a Quarter Mille Away",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "bluetooth",
+        "wireless",
+        "physical-security",
+        "iot"
+      ],
+      "teaser": "Demonstrating remote exploitation of Bluetooth Low Energy (BLE) smart locks from a distance using custom antennas and protocol replay.",
+      "summary": null,
+      "durationSeconds": 2543
+    },
+    {
+      "youtubeId": "zvP2FEfOSsk",
+      "slug": "ang-cui-a-monitor-darkly-reversing-and-exploiting-ubiquitous-osd",
+      "title": "Ang Cui - A Monitor Darkly: Reversing and Exploiting Ubiquitous OSD Controllers",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "firmware",
+        "hardware",
+        "reverse-engineering",
+        "vulnerability-research"
+      ],
+      "teaser": "Reversing on-screen display (OSD) monitor controllers to achieve arbitrary code execution and covert pixel manipulation directly on displays.",
+      "summary": null,
+      "durationSeconds": 2049
+    },
+    {
+      "youtubeId": "R6RZ5KqSVcg",
+      "slug": "conference-aaron-luo-drones-hijacking-multidimensional-attack-ve",
+      "title": "Conference - Aaron Luo - Drones Hijacking: Multidimensional attack vectors and countermea",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "drones",
+        "wireless",
+        "rf",
+        "hardware"
+      ],
+      "teaser": "Analyzing multidimensional RF and network attack vectors against commercial drones, alongside practical defensive countermeasures.",
+      "summary": null,
+      "durationSeconds": 2739
+    },
+    {
+      "youtubeId": "TgXh22RlrZo",
+      "slug": "zero-chaos-and-granolocks-realtime-bluetooth-device-detection-bl",
+      "title": "Zero Chaos and Granolocks - Realtime bluetooth device detection Blue Hydra",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "bluetooth",
+        "recon",
+        "wireless",
+        "open-source"
+      ],
+      "teaser": "Introducing Blue Hydra, an open-source tool for tracking, discovering, and fingerprinting nearby Bluetooth and BLE devices in real time.",
+      "summary": null,
+      "durationSeconds": 1882
+    },
+    {
+      "youtubeId": "lXFpCV646E0",
+      "slug": "plore-side-channel-attacks-on-high-security-electronic-safe-lock",
+      "title": "Plore - Side channel attacks on high security electronic safe locks",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "side-channel",
+        "hardware",
+        "physical-security",
+        "reverse-engineering"
+      ],
+      "teaser": "Demonstrating power analysis and timing side-channel attacks against high-security electronic commercial safe locks.",
+      "summary": null,
+      "durationSeconds": 1199
+    },
+    {
+      "youtubeId": "h6TRYcx74qs",
+      "slug": "conference-mike-use-their-machines-against-them-loading-code-wit",
+      "title": "Conference Mike Use Their Machines Against Them Loading Code with a Copier",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "embedded",
+        "printers",
+        "reverse-engineering"
+      ],
+      "teaser": "Demonstrating how multi-function office copiers and printers can be exploited to achieve code execution and persist in enterprise networks.",
+      "summary": null,
+      "durationSeconds": 1827
+    },
+    {
+      "youtubeId": "M9u_8OUMtSU",
+      "slug": "internet-of-things-village-panel",
+      "title": "Internet of Things Village - Panel",
+      "speakers": [
+        "FTC."
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "iot",
+        "regulation",
+        "privacy"
+      ],
+      "teaser": "Federal Trade Commission representatives and security researchers discuss regulatory oversight, disclosure practices, and consumer IoT safety.",
+      "summary": null,
+      "durationSeconds": 2548
+    },
+    {
+      "youtubeId": "r4XntiyXMnA",
+      "slug": "internet-of-things-village-elvis-collado-reversing-and-exploitin",
+      "title": "Internet of Things Village - Elvis Collado - Reversing and Exploiting Embedded Devices",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "embedded",
+        "reverse-engineering",
+        "firmware",
+        "hardware"
+      ],
+      "teaser": "A practical guide to extracting firmware, identifying debug ports, and discovering zero-day vulnerabilities in consumer embedded devices.",
+      "summary": null,
+      "durationSeconds": 2841
+    },
+    {
+      "youtubeId": "67LwoFsSdiA",
+      "slug": "internet-of-things-village-jeff-kitson",
+      "title": "Internet of Things Village - Jeff Kitson",
+      "speakers": [
+        "Tranewreck"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "hardware",
+        "vulnerability-research",
+        "firmware"
+      ],
+      "teaser": "Analyzing hardware vulnerabilities and firmware flaws discovered in connected smart home thermostats and HVAC controllers.",
+      "summary": null,
+      "durationSeconds": 3124
+    },
+    {
+      "youtubeId": "lcn07TclnS0",
+      "slug": "internet-of-things-village-damien-cauquil-btlejuice-the-bluetoot",
+      "title": "Internet of Things Village Damien Cauquil Btlejuice The Bluetooth Smart Mitm Framewor",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "bluetooth",
+        "mitm",
+        "wireless",
+        "open-source"
+      ],
+      "teaser": "Presenting Btlejuice, an open-source framework for intercepting, modifying, and proxying Bluetooth Smart (BLE) communications via MITM.",
+      "summary": null,
+      "durationSeconds": 4162
+    }
+  ]
+}

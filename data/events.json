@@ -73,6 +73,14 @@
       "location": "Mandalay Bay Hotel, Las Vegas"
     },
     {
+      "slug": "defcon-24",
+      "name": "DEF CON 24",
+      "shortName": "DC24",
+      "year": 2016,
+      "dates": "4\u20137 August 2016",
+      "location": "Paris and Bally's Hotels, Las Vegas"
+    },
+    {
       "slug": "defcon-23",
       "name": "DEF CON 23",
       "shortName": "DC23",
