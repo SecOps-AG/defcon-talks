@@ -8,7 +8,7 @@
     {
       "youtubeId": "4AtmC7P0vzc",
       "slug": "utku-sen-personalized-wordlists-with-nlp-by-analyzing-tweets-def",
-      "title": "Personalized Wordlists With NLP by Analyzing Tweets -",
+      "title": "Personalized Wordlists With NLP by Analyzing Tweets",
       "speakers": [
         "Utku Sen"
       ],
@@ -17,14 +17,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Personalized Wordlists With NLP by Analyzing Tweets -",
+      "teaser": "Personalized Wordlists With NLP by Analyzing Tweets",
       "summary": null,
       "durationSeconds": 1484
     },
     {
       "youtubeId": "ajMwvsJTz58",
       "slug": "winnona-desombre-bestsellers-in-the-underground-economy-def-con",
-      "title": "Bestsellers in the Underground Economy -",
+      "title": "Bestsellers in the Underground Economy",
       "speakers": [
         "Winnona DeSombre"
       ],
@@ -33,14 +33,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Bestsellers in the Underground Economy -",
+      "teaser": "Bestsellers in the Underground Economy",
       "summary": null,
       "durationSeconds": 1504
     },
     {
       "youtubeId": "jM4wKCGvbp0",
       "slug": "travis-palmer-first-try-dns-cache-poisoning-with-ipv4-and-ipv6-d",
-      "title": "First Try DNS Cache Poisoning with IPv4 and IPv6 -",
+      "title": "First Try DNS Cache Poisoning with IPv4 and IPv6",
       "speakers": [
         "Travis Palmer"
       ],
@@ -49,14 +49,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "First Try DNS Cache Poisoning with IPv4 and IPv6 -",
+      "teaser": "First Try DNS Cache Poisoning with IPv4 and IPv6",
       "summary": null,
       "durationSeconds": 2894
     },
     {
       "youtubeId": "W_tX2dhXm5s",
       "slug": "tom-kopchak-lessons-learned-running-a-pentesting-competition-def",
-      "title": "Lessons Learned Running a  Pentesting Competition -",
+      "title": "Lessons Learned Running a  Pentesting Competition",
       "speakers": [
         "Tom Kopchak"
       ],
@@ -65,14 +65,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Lessons Learned Running a  Pentesting Competition -",
+      "teaser": "Lessons Learned Running a  Pentesting Competition",
       "summary": null,
       "durationSeconds": 3403
     },
     {
       "youtubeId": "1pqCqz3JzXE",
       "slug": "sam-erb-hunting-certificates-and-servers-def-con-27-packet-hacki",
-      "title": "Hunting Certificates and Servers -",
+      "title": "Hunting Certificates and Servers",
       "speakers": [
         "Sam Erb"
       ],
@@ -81,14 +81,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Hunting Certificates and Servers -",
+      "teaser": "Hunting Certificates and Servers",
       "summary": null,
       "durationSeconds": 1011
     },
     {
       "youtubeId": "6NuaZjO-VVs",
       "slug": "russell-butturini-phishing-freakonomics-def-con-27-packet-hackin",
-      "title": "Phishing Freakonomics -",
+      "title": "Phishing Freakonomics",
       "speakers": [
         "Russell Butturini"
       ],
@@ -97,14 +97,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Phishing Freakonomics -",
+      "teaser": "Phishing Freakonomics",
       "summary": null,
       "durationSeconds": 3263
     },
     {
       "youtubeId": "SS6v3g87nos",
       "slug": "mike-raggo-stegoaugmented-malware-def-con-27-packet-hacking-vill",
-      "title": "StegoAugmented Malware -",
+      "title": "StegoAugmented Malware",
       "speakers": [
         "Mike Raggo"
       ],
@@ -113,14 +113,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "StegoAugmented Malware -",
+      "teaser": "StegoAugmented Malware",
       "summary": null,
       "durationSeconds": 2511
     },
     {
       "youtubeId": "bWfDNcibdIY",
       "slug": "matt-nash-head-in-the-clouds-def-con-27-packet-hacking-village",
-      "title": "Head in the Clouds -",
+      "title": "Head in the Clouds",
       "speakers": [
         "Matt Nash"
       ],
@@ -129,14 +129,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Head in the Clouds -",
+      "teaser": "Head in the Clouds",
       "summary": null,
       "durationSeconds": 2262
     },
     {
       "youtubeId": "BitqDHxlxYc",
       "slug": "jeff-man-rethinking-security-given-the-spectre-of-a-meltdown-def",
-      "title": "Rethinking Security Given the Spectre of a Meltdown  -",
+      "title": "Rethinking Security Given the Spectre of a Meltdown",
       "speakers": [
         "Jeff Man"
       ],
@@ -145,30 +145,30 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Rethinking Security Given the Spectre of a Meltdown  -",
+      "teaser": "Rethinking Security Given the Spectre of a Meltdown",
       "summary": null,
       "durationSeconds": 3217
     },
     {
       "youtubeId": "oP6Ch4gLcV0",
       "slug": "joseph-muniz-old-tech-vs-new-adversaries-round-1-def-con-27-pack",
-      "title": "DEF CON 27",
+      "title": "Old Tech vs New Adversaries Round 1",
       "speakers": [
-        "Joseph Muniz-  Old Tech vs New Adversaries Round 1"
+        "Joseph Muniz"
       ],
       "track": "osint",
       "topics": [
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "DEF CON 27",
+      "teaser": "Old Tech vs New Adversaries Round 1",
       "summary": null,
       "durationSeconds": 1919
     },
     {
       "youtubeId": "68-sFqv4FJE",
       "slug": "jay-dimartino-the-art-of-detection-def-con-27-packet-hacking-vil",
-      "title": "The Art of Detection -",
+      "title": "The Art of Detection",
       "speakers": [
         "Jay Dimartino"
       ],
@@ -177,14 +177,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "The Art of Detection -",
+      "teaser": "The Art of Detection",
       "summary": null,
       "durationSeconds": 2638
     },
     {
       "youtubeId": "2fmAuR3rnBo",
       "slug": "jay-beale-attacking-and-defending-kubernetes-def-con-27-packet-h",
-      "title": "Attacking and Defending Kubernetes -",
+      "title": "Attacking and Defending Kubernetes",
       "speakers": [
         "Jay Beale"
       ],
@@ -193,14 +193,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Attacking and Defending Kubernetes -",
+      "teaser": "Attacking and Defending Kubernetes",
       "summary": null,
       "durationSeconds": 3291
     },
     {
       "youtubeId": "GJAsALPHnkY",
       "slug": "gleb-esman-solving-crimes-with-wireless-geofencing-def-con-27-pa",
-      "title": "Solving Crimes with Wireless GeoFencing -",
+      "title": "Solving Crimes with Wireless GeoFencing",
       "speakers": [
         "Gleb Esman"
       ],
@@ -209,14 +209,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Solving Crimes with Wireless GeoFencing -",
+      "teaser": "Solving Crimes with Wireless GeoFencing",
       "summary": null,
       "durationSeconds": 2950
     },
     {
       "youtubeId": "G-ZRdMpVuWY",
       "slug": "emilio-couto-circo-cisco-implant-raspberry-controlled-ops-def-co",
-      "title": "CIRCO Cisco Implant Raspberry Controlled Ops -",
+      "title": "CIRCO Cisco Implant Raspberry Controlled Ops",
       "speakers": [
         "Emilio Couto"
       ],
@@ -225,14 +225,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "CIRCO Cisco Implant Raspberry Controlled Ops -",
+      "teaser": "CIRCO Cisco Implant Raspberry Controlled Ops",
       "summary": null,
       "durationSeconds": 3010
     },
     {
       "youtubeId": "JsyEHGepP7w",
       "slug": "d9-hacking-corporate-org-socialization-def-con-27-packet-hacking",
-      "title": "Hacking Corporate Org Socialization -",
+      "title": "Hacking Corporate Org Socialization",
       "speakers": [
         "D9"
       ],
@@ -241,14 +241,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Hacking Corporate Org Socialization -",
+      "teaser": "Hacking Corporate Org Socialization",
       "summary": null,
       "durationSeconds": 3110
     },
     {
       "youtubeId": "8VrzovOrho8",
       "slug": "cheryl-biswas-patching-it-is-complicated-def-con-27-packet-hacki",
-      "title": "Patching It is Complicated -",
+      "title": "Patching It is Complicated",
       "speakers": [
         "Cheryl Biswas"
       ],
@@ -257,14 +257,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Patching It is Complicated -",
+      "teaser": "Patching It is Complicated",
       "summary": null,
       "durationSeconds": 2215
     },
     {
       "youtubeId": "8LfcgPWtV78",
       "slug": "adam-security-to-make-the-cfo-happy-def-con-27-packet-hacking-vi",
-      "title": "Security to Make the CFO Happy -",
+      "title": "Security to Make the CFO Happy",
       "speakers": [
         "Adam"
       ],
@@ -273,14 +273,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Security to Make the CFO Happy -",
+      "teaser": "Security to Make the CFO Happy",
       "summary": null,
       "durationSeconds": 1135
     },
     {
       "youtubeId": "pfkConx9j-s",
       "slug": "besim-altinok-wi-fi-threat-modeling-and-monitoring-def-con-27-pa",
-      "title": "Wi Fi Threat Modeling and Monitoring -",
+      "title": "Wi Fi Threat Modeling and Monitoring",
       "speakers": [
         "Besim Altinok"
       ],
@@ -289,14 +289,14 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Wi Fi Threat Modeling and Monitoring -",
+      "teaser": "Wi Fi Threat Modeling and Monitoring",
       "summary": null,
       "durationSeconds": 2631
     },
     {
       "youtubeId": "rwEUY2p7WOI",
       "slug": "cesare-pizzi-sandbox-creative-usage-for-fun-and-problems-def-con",
-      "title": "Sandbox Creative Usage For Fun and Problems -",
+      "title": "Sandbox Creative Usage For Fun and Problems",
       "speakers": [
         "Cesare Pizzi"
       ],
@@ -305,7 +305,7 @@
         "packet-analysis",
         "network-security"
       ],
-      "teaser": "Sandbox Creative Usage For Fun and Problems -",
+      "teaser": "Sandbox Creative Usage For Fun and Problems",
       "summary": null,
       "durationSeconds": 1270
     }
