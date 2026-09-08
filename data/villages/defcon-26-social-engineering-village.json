@@ -1,0 +1,172 @@
+{
+  "villageSlug": "social-engineering-village",
+  "villageName": "Social Engineering Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDdpnt8S6FGLCoDmNTxn3kc",
+  "description": "Social Engineering Village at DEF CON 26 covers manipulation techniques, psychological tactics, and defensive strategies. The 10 talks explore phishing, vishing, pretexting, OSINT, red team operations, and using social engineering for positive purposes including child safety.",
+  "talks": [
+    {
+      "youtubeId": "vgKAxd_4s0A",
+      "slug": "se-village-silvers-and-banks-on-the-hunt-hacking-the-hunt-group",
+      "title": "On the Hunt Hacking the Hunt Group",
+      "speakers": [
+        "Silvers and Banks"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "phishing",
+        "osint",
+        "culture"
+      ],
+      "teaser": "Dynamic duo DEF CON SECTF black badge winner Chris Silvers and ACE Hackware founder Taylor Banks return to the stage to take audiences on a hunt \u00e2\u20ac\u201d of the hunt group, that is.",
+      "summary": null,
+      "durationSeconds": 3055
+    },
+    {
+      "youtubeId": "CHv3HwVMRg8",
+      "slug": "se-village-ryan-macdougall-from-introvert-to-se-the-journey",
+      "title": "From Introvert to SE The Journey",
+      "speakers": [
+        "Ryan MacDougall"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "psychology"
+      ],
+      "teaser": "In 20 years I learned how to step outside my introverted personality to explore the world in a more successful way, but not without bumps and bruises which taught me valuable lessons.",
+      "summary": null,
+      "durationSeconds": 2363
+    },
+    {
+      "youtubeId": "bPTymsk1I_E",
+      "slug": "se-village-pongolyn-swarm-intelligence-and-augmented-reality-gam",
+      "title": "Swarm Intelligence and Augmented Reality Gaming",
+      "speakers": [
+        "Pongolyn"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "red-teaming",
+        "persuasion",
+        "psychology"
+      ],
+      "teaser": "What do a flock of starlings, a colony of warrior ants, and a hundred-person flash mob all have in common with the red team? Swarm intelligence, the collective behavior of individuals acting autonomously, is a concept...",
+      "summary": null,
+      "durationSeconds": 1851
+    },
+    {
+      "youtubeId": "cVx5Y1OE-KE",
+      "slug": "se-village-neil-fallon-mister-sinatra-will-hack-you-now",
+      "title": "MIster Sinatra Will Hack You Now",
+      "speakers": [
+        "Neil Fallon"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "persuasion"
+      ],
+      "teaser": "Across the globe for millennia upon millennia, a cabal of social engineers have been working to manipulate realities, collective and singular.  They influence decision making processes in a matter of minutes and leave...",
+      "summary": null,
+      "durationSeconds": 3058
+    },
+    {
+      "youtubeId": "F1sbd7hFFy4",
+      "slug": "se-village-kathleen-mullin-social-engineering-from-a-cisos-persp",
+      "title": "Social Engineering From a CISOs Perspective",
+      "speakers": [
+        "Kathleen Mullin"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "phishing",
+        "osint",
+        "culture"
+      ],
+      "teaser": "Social Engineering is a powerful tool. With the weapons gathered through Open Source Intelligence (OSINT) gathering and well crafted vishing or phishing a Social Engineer wields incredible power to do good.",
+      "summary": null,
+      "durationSeconds": 1866
+    },
+    {
+      "youtubeId": "xyF7VyFRqjY",
+      "slug": "se-village-hannah-silvers-my-stripper-name-is-bubbles-sunset",
+      "title": "My Stripper Name Is Bubbles Sunset",
+      "speakers": [
+        "Hannah Silvers"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering"
+      ],
+      "teaser": "You\u2019re mindlessly scrolling through Facebook when you see your friend share a post and comment, \u201cMine is Bubbles Sunset!\u201d",
+      "summary": null,
+      "durationSeconds": 1688
+    },
+    {
+      "youtubeId": "YAuRghpZyto",
+      "slug": "se-village-chris-roberts-welcome-to-2018-full-speed-to-the-edge",
+      "title": "Welcome to 2018   Full Speed to the Edge of the Abyss",
+      "speakers": [
+        "Chris Roberts"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "psychology"
+      ],
+      "teaser": "As humans we have four evolutionary paths:",
+      "summary": null,
+      "durationSeconds": 3026
+    },
+    {
+      "youtubeId": "9XTUbgaDBFg",
+      "slug": "se-village-chris-hadnagy-and-panel",
+      "title": "Hunting Predators SE Style",
+      "speakers": [
+        "Chris Hadnagy and Panel"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "It was just about 1 year ago that Chris announced the launching of The Innocent Lives Foundation. What has happened in the last year? What have we accomplished? What are our challenges? What is next in the future? Thi...",
+      "summary": null,
+      "durationSeconds": 3041
+    },
+    {
+      "youtubeId": "YJHR2XUGrpg",
+      "slug": "se-village-billy-boatright-in-n-out-thats-what-its-all-about",
+      "title": "In-N-Out \u2013 That\u2019s What It\u2019s All About",
+      "speakers": [
+        "Billy Boatright"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering"
+      ],
+      "teaser": "Without the right tools the engagement can be over before it begins, as upfront resistance can prevent you from entering with your tools. Billy Boatright demonstrates and discusses how to use social engineering tactic...",
+      "summary": null,
+      "durationSeconds": 2162
+    },
+    {
+      "youtubeId": "zp5FxnuFg7g",
+      "slug": "se-village-aunshul-rege-social-engineering-course-projects-for-u",
+      "title": "Social Engineering Course Projects for Undergrads",
+      "speakers": [
+        "Aunshul Rege"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "psychology",
+        "security-research"
+      ],
+      "teaser": "The hard science disciplines (computer science, electrical and computer engineering) have already started investing heavily in cybersecurity education. Security experts, however, note that cybersecurity is a wider dis...",
+      "summary": null,
+      "durationSeconds": 3046
+    }
+  ]
+}
