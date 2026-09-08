@@ -1,0 +1,375 @@
+{
+  "villageSlug": "ai-village",
+  "villageName": "AI Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ",
+  "description": "AI Village at DEF CON 27 showcases the intersection of artificial intelligence and security. The 22 talks cover machine learning security, deepfakes, adversarial attacks, malware detection, biometrics, AI regulation, and practical applications of AI in cybersecurity.",
+  "talks": [
+    {
+      "youtubeId": "XOBUeyzop5E",
+      "slug": "machine-learning-privacy-problem",
+      "title": "Machine Learning's Privacy Problem",
+      "speakers": [
+        "Jason Mancuso"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "privacy",
+        "neural-networks",
+        "data-protection"
+      ],
+      "teaser": "Privacy risks and implications of machine learning models trained on sensitive data.",
+      "summary": null,
+      "durationSeconds": 2555
+    },
+    {
+      "youtubeId": "pNsMz0zWZi0",
+      "slug": "competitions-in-infosec-ml",
+      "title": "Competitions in Infosec ML",
+      "speakers": [
+        "Hyrum Anderson"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "malware-detection",
+        "competition",
+        "adversarial-attacks"
+      ],
+      "teaser": "Machine learning competitions focused on cybersecurity and infosec applications.",
+      "summary": null,
+      "durationSeconds": 760
+    },
+    {
+      "youtubeId": "-i28TAglM04",
+      "slug": "improving-malware-detectors-loss-functions",
+      "title": "Loss Is More: Improving Malware Detectors",
+      "speakers": [
+        "Dr. Ethan Rudd"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "malware-detection",
+        "machine-learning",
+        "neural-networks",
+        "loss-functions"
+      ],
+      "teaser": "Improving malware detection systems through advanced loss function design in machine learning models.",
+      "summary": null,
+      "durationSeconds": 2455
+    },
+    {
+      "youtubeId": "NHSYYwr7gX0",
+      "slug": "misinformation-keynote",
+      "title": "Misinformation Keynote",
+      "speakers": [
+        "Bob Lord"
+      ],
+      "track": "policy",
+      "topics": [
+        "misinformation",
+        "disinformation",
+        "deepfakes"
+      ],
+      "teaser": "Keynote on misinformation and the role of AI in spreading false information.",
+      "summary": null,
+      "durationSeconds": 1617
+    },
+    {
+      "youtubeId": "yudsZy37qFI",
+      "slug": "barton-rhodes-securing-your-kubeflow-clusters",
+      "title": "Securing your Kubeflow Clusters",
+      "speakers": [
+        "Barton Rhodes"
+      ],
+      "track": "cloud",
+      "topics": [
+        "kubernetes",
+        "machine-learning",
+        "security"
+      ],
+      "teaser": "Securing your Kubeflow Clusters.",
+      "summary": null,
+      "durationSeconds": 1911
+    },
+    {
+      "youtubeId": "BlS-inTxnp8",
+      "slug": "anna-skelton-analyzing-the-effects-of-deepfakes-on-market-manipu",
+      "title": "Analyzing the Effects of Deepfakes on Market Manipulation",
+      "speakers": [
+        "Anna Skelton"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "deepfakes",
+        "fraud",
+        "detection"
+      ],
+      "teaser": "Analyzing the Effects of Deepfakes on Market Manipulation.",
+      "summary": null,
+      "durationSeconds": 1837
+    },
+    {
+      "youtubeId": "nj0pwxqWDr4",
+      "slug": "angelo-oliveira-fighting-malware-with-deep-learning-video",
+      "title": "Fighting Malware with Deep Learning",
+      "speakers": [
+        "Angelo Oliveira"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "malware-detection",
+        "deep-learning"
+      ],
+      "teaser": "Fighting Malware with Deep Learning.",
+      "summary": null,
+      "durationSeconds": 1637
+    },
+    {
+      "youtubeId": "YVv512UJjaY",
+      "slug": "organizers-opening-remarks",
+      "title": "Opening Remarks",
+      "speakers": [
+        "AI Village Organizers"
+      ],
+      "track": "community",
+      "topics": [
+        "orientation"
+      ],
+      "teaser": "Opening Remarks.",
+      "summary": null,
+      "durationSeconds": 58
+    },
+    {
+      "youtubeId": "0NaFrxpSq7A",
+      "slug": "jesus-solano-behavioral-biometrics-and-context-analytics",
+      "title": "Behavioral Biometrics and Context Analytics",
+      "speakers": [
+        "Jesus Solano"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "biometrics",
+        "authentication"
+      ],
+      "teaser": "Behavioral Biometrics and Context Analytics.",
+      "summary": null,
+      "durationSeconds": 1901
+    },
+    {
+      "youtubeId": "exbstC2Myqg",
+      "slug": "jon-hawes-a-buyers-guide-to-the-market-promise-of-automagic-ai",
+      "title": "A Buyer's Guide to the Market Promise of Automagic AI",
+      "speakers": [
+        "Jon Hawes"
+      ],
+      "track": "community",
+      "topics": [
+        "machine-learning",
+        "business"
+      ],
+      "teaser": "A Buyer's Guide to the Market Promise of Automagic AI.",
+      "summary": null,
+      "durationSeconds": 2656
+    },
+    {
+      "youtubeId": "K40_Z84JGjY",
+      "slug": "kenya-yoshimura-clairvoyance-concurrent-lip-reading-for-smart-ma",
+      "title": "Clairvoyance: Concurrent Lip Reading for Smart Masses",
+      "speakers": [
+        "Kenya Yoshimura"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "deepfakes",
+        "facial-recognition"
+      ],
+      "teaser": "Clairvoyance: Concurrent Lip Reading for Smart Masses.",
+      "summary": null,
+      "durationSeconds": 1441
+    },
+    {
+      "youtubeId": "4EbDWUZmgTM",
+      "slug": "lauren-putvin-exploratory-data-analysis-why-and-how-in-python",
+      "title": "Exploratory Data Analysis: Why and How in Python",
+      "speakers": [
+        "Lauren Putvin"
+      ],
+      "track": "community",
+      "topics": [
+        "data-analysis",
+        "python",
+        "education"
+      ],
+      "teaser": "Exploratory Data Analysis: Why and How in Python.",
+      "summary": null,
+      "durationSeconds": 2010
+    },
+    {
+      "youtubeId": "BUYMh1edqdg",
+      "slug": "laurin-weissinger-regulating-ai-and-algorithms-lessons",
+      "title": "Regulating AI and Algorithms: Lessons",
+      "speakers": [
+        "Laurin Weissinger"
+      ],
+      "track": "policy",
+      "topics": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
+      "teaser": "Regulating AI and Algorithms: Lessons.",
+      "summary": null,
+      "durationSeconds": 1419
+    },
+    {
+      "youtubeId": "TYVLH1tLIDY",
+      "slug": "rand-waltzman-disinformation-its-the-thought-that-counts",
+      "title": "Disinformation: It's the Thought that Counts",
+      "speakers": [
+        "Rand Waltzman"
+      ],
+      "track": "policy",
+      "topics": [
+        "disinformation",
+        "misinformation"
+      ],
+      "teaser": "Disinformation: It's the Thought that Counts.",
+      "summary": null,
+      "durationSeconds": 2777
+    },
+    {
+      "youtubeId": "b-lkYtprgVw",
+      "slug": "richard-harang-a-tutorial-on-hacking-facial-recognition-systems",
+      "title": "A Tutorial on Hacking Facial Recognition Systems",
+      "speakers": [
+        "Richard Harang"
+      ],
+      "track": "red-team",
+      "topics": [
+        "facial-recognition",
+        "adversarial-attacks"
+      ],
+      "teaser": "A Tutorial on Hacking Facial Recognition Systems.",
+      "summary": null,
+      "durationSeconds": 2012
+    },
+    {
+      "youtubeId": "RkdEbXFw49s",
+      "slug": "roei-amit-how-to-get-over-your-malicious-extensions-using-deep-l",
+      "title": "How to Get over your Malicious Extensions using Deep Learning",
+      "speakers": [
+        "Roei Amit"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "malware",
+        "browser-extensions",
+        "deep-learning"
+      ],
+      "teaser": "How to Get over your Malicious Extensions using Deep Learning.",
+      "summary": null,
+      "durationSeconds": 1437
+    },
+    {
+      "youtubeId": "0u-KkEKMjo8",
+      "slug": "ryan-kovar-datasciencery-by-the-splunk-field",
+      "title": "Datasciencery by the Splunk Field",
+      "speakers": [
+        "Ryan Kovar"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "machine-learning",
+        "security-analytics"
+      ],
+      "teaser": "Datasciencery by the Splunk Field.",
+      "summary": null,
+      "durationSeconds": 1759
+    },
+    {
+      "youtubeId": "s-Y25x9bkyg",
+      "slug": "samantha-cole-deep-fakes-panel",
+      "title": "Deep Fakes Panel",
+      "speakers": [
+        "Samantha Cole"
+      ],
+      "track": "community",
+      "topics": [
+        "deepfakes",
+        "q-and-a"
+      ],
+      "teaser": "Deep Fakes Panel.",
+      "summary": null,
+      "durationSeconds": 3451
+    },
+    {
+      "youtubeId": "7uHR-BSRMQQ",
+      "slug": "siwei-lyu-seeing-is-deceiving-the-rise-of-ai-synthesized-fake-me",
+      "title": "Seeing is Deceiving: The Rise of AI Synthesized Fake Media",
+      "speakers": [
+        "Siwei Lyu"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "deepfakes",
+        "synthetic-media",
+        "detection"
+      ],
+      "teaser": "Seeing is Deceiving: The Rise of AI Synthesized Fake Media.",
+      "summary": null,
+      "durationSeconds": 2298
+    },
+    {
+      "youtubeId": "oMZLugScH8M",
+      "slug": "tal-leibovich-from-noisy-distorted-data-sets-to-excellent-predic",
+      "title": "From Noisy Distorted Datasets to Excellent Prediction Model",
+      "speakers": [
+        "Tal Leibovich"
+      ],
+      "track": "community",
+      "topics": [
+        "machine-learning",
+        "data-quality"
+      ],
+      "teaser": "From Noisy Distorted Datasets to Excellent Prediction Model.",
+      "summary": null,
+      "durationSeconds": 2820
+    },
+    {
+      "youtubeId": "Yt3AW46145A",
+      "slug": "yisroel-mirsky-automated-injection-and-removal-of-medical-eviden",
+      "title": "Automated Injection and Removal of Medical Evidence in CT",
+      "speakers": [
+        "Yisroel Mirsky"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "medical-imaging",
+        "adversarial-attacks",
+        "healthcare"
+      ],
+      "teaser": "Automated Injection and Removal of Medical Evidence in CT.",
+      "summary": null,
+      "durationSeconds": 1521
+    },
+    {
+      "youtubeId": "iBiioJIwPBg",
+      "slug": "walter-scheirer-backdooring-convolutional-neural-networks",
+      "title": "Backdooring Convolutional Neural Networks",
+      "speakers": [
+        "Walter Scheirer"
+      ],
+      "track": "red-team",
+      "topics": [
+        "neural-networks",
+        "backdoor",
+        "adversarial-attacks"
+      ],
+      "teaser": "Backdooring Convolutional Neural Networks.",
+      "summary": null,
+      "durationSeconds": 1392
+    }
+  ]
+}
