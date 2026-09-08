@@ -1,0 +1,250 @@
+{
+  "villageSlug": "blue-team-village",
+  "villageName": "Blue Team Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCcSaZJVJoNBlyNZ9EBGSdg",
+  "description": "Blue Team Village at DEF CON 27 covers defensive security practices and incident response. The 14 talks explore malware analysis, threat hunting, detection engineering, log analysis, incident response, SOC operations, and defensive strategies.",
+  "talks": [
+    {
+      "youtubeId": "yf6J8XO_wpY",
+      "slug": "shawn-thomas-an-introduction-to-malware-analysis-video-def-con-2",
+      "title": "An Introduction To Malware Analysis video",
+      "speakers": [
+        "Shawn Thomas"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "malware-analysis"
+      ],
+      "teaser": "A mostly live demo of base concepts of malware analysis using a multitude of tools on a Dridex sample pulled from a phishing campaign from PDF attachment to executable installation. The main point is to show people so...",
+      "summary": null,
+      "durationSeconds": 2431
+    },
+    {
+      "youtubeId": "JGsrRROEhkk",
+      "slug": "scoubi-bloodhound-from-red-to-blue-1-point-5-def-con-27-blue-tea",
+      "title": "BloodHound From Red to Blue 1 point 5",
+      "speakers": [
+        "Scoubi"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "active-directory",
+        "threat-detection",
+        "threat-intelligence"
+      ],
+      "teaser": "BloodHound was originally built for Pentesters to easily identify highly complex attack paths but it can also be used to improve the overall security posture of your Active Directory. We will start with a short introd...",
+      "summary": null,
+      "durationSeconds": 2444
+    },
+    {
+      "youtubeId": "GBTu1hk4_VQ",
+      "slug": "siyu-zhu-evaded-microsoft-ata-def-con-27-blue-team-village",
+      "title": "Evaded Microsoft ATA",
+      "speakers": [
+        "Siyu Zhu"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "malware-analysis",
+        "active-directory",
+        "threat-detection",
+        "log-analysis",
+        "persistence",
+        "ics-monitoring"
+      ],
+      "teaser": "Due to internal environment of Windows domains is always too tolerant, and enterprises are more concerned about border defenses than internal security, the penetration behavior based on Windows Active Directory has be...",
+      "summary": null,
+      "durationSeconds": 2214
+    },
+    {
+      "youtubeId": "G98vBP7wTuE",
+      "slug": "lacie-fan-killsuit-how-the-equation-group-remained-out-of-sight",
+      "title": "Killsuit How The Equation Group Remained Out Of Sight",
+      "speakers": [
+        "Lacie Fan"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "malware-analysis",
+        "persistence"
+      ],
+      "teaser": "When the shadow brokers released a large number of Equation Group tools in 2017, many researchers jumped on the analysis of EternalBlue, FuzzBunch etc. The exploits of the leak have now been thoroughly analysed and mo...",
+      "summary": null,
+      "durationSeconds": 1563
+    },
+    {
+      "youtubeId": "BE4xBwJOjkU",
+      "slug": "lak-shmi-sudheer-who-dis-who-dis-the-right-way-to-authenticate-d",
+      "title": "Who Dis Who Dis The Right Way To Authenticate",
+      "speakers": [
+        "Lak Shmi Sudheer"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "authentication",
+        "incident-analysis",
+        "cloud-security",
+        "threat-intelligence"
+      ],
+      "teaser": "In today's ecosystem, verification of identity is no longer applicable just to the user; extending to microservices, cloud providers, IoT devices and many other emerging systems as well. 81% of discovered breaches are...",
+      "summary": null,
+      "durationSeconds": 2900
+    },
+    {
+      "youtubeId": "hM6pa_aW0f4",
+      "slug": "norman-lundt-extending-zeek-for-ics-defense-def-con-27-blue-team",
+      "title": "Extending Zeek For ICS Defense",
+      "speakers": [
+        "Norman Lundt"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-detection",
+        "log-analysis",
+        "ics-monitoring",
+        "threat-intelligence"
+      ],
+      "teaser": "Industrial Control System(ICS) protocols are often neglected in the realm of network security monitoring. Detecting, parsing, and finding malicious activity can be frustrating and time consuming. In this session we wi...",
+      "summary": null,
+      "durationSeconds": 1146
+    },
+    {
+      "youtubeId": "hOyUU4FIkTg",
+      "slug": "mark-orlando-when-a-plan-comes-together-building-a-soc-a-team-de",
+      "title": "When A Plan Comes Together Building a SOC A Team",
+      "speakers": [
+        "Mark Orlando"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "soc-operations"
+      ],
+      "teaser": "The security industry is facing a severe talent shortage, but the threats are growing in number and sophistication. Finding talent, honing it to meet your specific mission, and retaining it have become immense challen...",
+      "summary": null,
+      "durationSeconds": 1004
+    },
+    {
+      "youtubeId": "dD_X_u8wi8w",
+      "slug": "christine-le-blue-team-guide-for-fresh-eyes-def-con-27-blue-team",
+      "title": "Blue Team Guide For Fresh Eyes",
+      "speakers": [
+        "Christine Le"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "log-analysis",
+        "soc-operations",
+        "incident-analysis",
+        "cloud-security"
+      ],
+      "teaser": "The life of a blue-teamer is daunting. There are logs to sift through, tasks to automate, incidents to triage, vulnerabilities to manage, meetings to attend, coffee to drink, etc. Scenarios have moving parts, procedur...",
+      "summary": null,
+      "durationSeconds": 1298
+    },
+    {
+      "youtubeId": "IebyD9q-G0E",
+      "slug": "claushoumann-security-strategy-for-small-medium-business-def-con",
+      "title": "Security Strategy for Small Medium Business",
+      "speakers": [
+        "claushoumann"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "soc-operations"
+      ],
+      "teaser": "Security Strategy for Small Medium Business",
+      "summary": null,
+      "durationSeconds": 2655
+    },
+    {
+      "youtubeId": "lQvwdbZQNlc",
+      "slug": "dumby-anatomy-of-a-megabreach-equifax-report-def-con-27-blue-tea",
+      "title": "Anatomy Of A Megabreach Equifax Report",
+      "speakers": [
+        "dumby"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "incident-analysis",
+        "threat-intelligence"
+      ],
+      "teaser": "Following testimony in Congress and a lengthy investigation of the Equifax breach in 2016, U.S. House of Representatives drafted a report. The report is AMAZING! It includes details of Equifax corporate structure, IT ...",
+      "summary": null,
+      "durationSeconds": 2709
+    },
+    {
+      "youtubeId": "JbwpZYJHdVk",
+      "slug": "georgios-kapoglis-serverless-log-analysis-on-aws-def-con-27-blue",
+      "title": "Serverless Log Analysis On AWS",
+      "speakers": [
+        "Georgios Kapoglis"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "malware-analysis",
+        "log-analysis",
+        "cloud-security",
+        "threat-hunting"
+      ],
+      "teaser": "In this talk we will go over traditional log analysis methods for AWS Cloudtrail logs and why we needed to find a better way of performing such investigations. We will then dive into AWS Athena which is essentially a ...",
+      "summary": null,
+      "durationSeconds": 1830
+    },
+    {
+      "youtubeId": "udM6dm8iSW0",
+      "slug": "carlos-garay-memhunter-automated-hunting-of-memory-resident-malw",
+      "title": "Memhunter Automated Hunting Of Memory Resident Malware",
+      "speakers": [
+        "Carlos Garay"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "malware-analysis",
+        "threat-detection",
+        "log-analysis",
+        "ics-monitoring",
+        "threat-hunting",
+        "threat-intelligence"
+      ],
+      "teaser": "Memhunter is an endpoint sensor tool specialized in detecting memory-resident malware.  The detection process is performed through a combination of endpoint data collection and memory inspection scanners. Memhunter au...",
+      "summary": null,
+      "durationSeconds": 2634
+    },
+    {
+      "youtubeId": "PLcnadbB6tE",
+      "slug": "cathy-ullman-a-theme-of-fear-hacking-the-paradigm-def-con-27-blu",
+      "title": "A Theme Of Fear Hacking The Paradigm",
+      "speakers": [
+        "Cathy Ullman"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-intelligence"
+      ],
+      "teaser": "The InfoSec industry was born out of fear. Initially it was fear from virus infections and later, external attacks. We capitalized on that fear to build more secure environments. But fear is hard to manage: too much f...",
+      "summary": null,
+      "durationSeconds": 2470
+    },
+    {
+      "youtubeId": "gb1ZAuj4RHY",
+      "slug": "ch33r10-the-cyber-threat-intelligence-mindset-def-con-27-blue-te",
+      "title": "The Cyber Threat Intelligence Mindset",
+      "speakers": [
+        "ch33r10"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "malware-analysis",
+        "threat-detection",
+        "log-analysis",
+        "soc-operations",
+        "cloud-security",
+        "threat-intelligence"
+      ],
+      "teaser": "What if I told you that it is possible for blue teamers to practice CTI everyday?! With minimal guidance and insight, blue teamers can learn how to see things through the eyes of a cyber threat intel analyst. We\u2019ll st...",
+      "summary": null,
+      "durationSeconds": 1561
+    }
+  ]
+}
