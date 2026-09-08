@@ -1,0 +1,206 @@
+{
+  "villageSlug": "r00tz",
+  "villageName": "R00tz",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBTPuGFADabC4l9KQf9SGT_",
+  "description": "R00tz at DEF CON 25 covers hacker culture, security research, privacy, and emerging technologies. The 13 talks explore cryptography, drone security, policy, and ethical hacking practices.",
+  "talks": [
+    {
+      "youtubeId": "gUhqA2PRtw0",
+      "slug": "def-con-25-rootz-asylum-tarah-how-to-explain-crypto-to-pract",
+      "title": "How To Explain Crypto To Practically Anyone",
+      "speakers": [
+        "Tarah"
+      ],
+      "track": "red-team",
+      "topics": [
+        "cryptography"
+      ],
+      "teaser": "How To Explain Crypto To Practically Anyone",
+      "summary": null,
+      "durationSeconds": 628
+    },
+    {
+      "youtubeId": "zPjgUqeQbVA",
+      "slug": "def-con-25-rootz-asylum-rsnake-robert-hansen-searching-the-i",
+      "title": "Searching The Invisible Internet",
+      "speakers": [
+        "Rsnake Robert Hansen"
+      ],
+      "track": "red-team",
+      "topics": [
+        "osint"
+      ],
+      "teaser": "Searching The Invisible Internet",
+      "summary": null,
+      "durationSeconds": 478
+    },
+    {
+      "youtubeId": "fAo3_Jl74j4",
+      "slug": "def-con-25-rootz-asylum-patrick-mccanna-tips-for-internet-pr",
+      "title": "Tips for Internet Privacy at College",
+      "speakers": [
+        "Patrick McCanna"
+      ],
+      "track": "red-team",
+      "topics": [
+        "privacy",
+        "osint"
+      ],
+      "teaser": "Tips for Internet Privacy at College",
+      "summary": null,
+      "durationSeconds": 925
+    },
+    {
+      "youtubeId": "FTOPI-YAmao",
+      "slug": "def-con-25-rootz-asylum-leonard-bailey-everything-you-need-t",
+      "title": "Everything You Need To Know About The US Dept of Justice",
+      "speakers": [
+        "Leonard Bailey"
+      ],
+      "track": "red-team",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "Everything You Need To Know About The US Dept of Justice",
+      "summary": null,
+      "durationSeconds": 889
+    },
+    {
+      "youtubeId": "f8PCzwxmEAo",
+      "slug": "def-con-25-rootz-asylum-erin-owens-drone-wars",
+      "title": "Drone Wars",
+      "speakers": [
+        "Erin Owens"
+      ],
+      "track": "red-team",
+      "topics": [
+        "drones"
+      ],
+      "teaser": "Drone Wars",
+      "summary": null,
+      "durationSeconds": 1323
+    },
+    {
+      "youtubeId": "6wM5Q31zXKM",
+      "slug": "def-con-25-rootz-asylum-erin-owens-hacking-robotics-v2-point",
+      "title": "Hacking & Robotics v2 point 0",
+      "speakers": [
+        "Erin Owens"
+      ],
+      "track": "red-team",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "Hacking & Robotics v2 point 0",
+      "summary": null,
+      "durationSeconds": 845
+    },
+    {
+      "youtubeId": "OIVvRP9-b4M",
+      "slug": "def-con-25-rootz-asylum-eff-nic0-opening-ceremoniesa-place-w",
+      "title": "Opening Ceremonies:A Place Where Kids Learn White Hat Hacking",
+      "speakers": [
+        "EFF, Nic0"
+      ],
+      "track": "policy",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "Opening Ceremonies:A Place Where Kids Learn White Hat Hacking",
+      "summary": null,
+      "durationSeconds": 589
+    },
+    {
+      "youtubeId": "Pb026p1igoY",
+      "slug": "def-con-25-rootz-asylum-deviant-home-depot-and-a-plan-of-att",
+      "title": "Home Depot and A Plan of Attack for Hackers",
+      "speakers": [
+        "Deviant"
+      ],
+      "track": "red-team",
+      "topics": [
+        "physical-security",
+        "hacker-culture"
+      ],
+      "teaser": "Home Depot and A Plan of Attack for Hackers",
+      "summary": null,
+      "durationSeconds": 797
+    },
+    {
+      "youtubeId": "x-LRfh_-IGI",
+      "slug": "introduction-to-cheat-engine",
+      "title": "Introduction To Cheat Engine",
+      "speakers": [
+        "David Weinman"
+      ],
+      "track": "red-team",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "Introduction To Cheat Engine",
+      "summary": null,
+      "durationSeconds": 1312
+    },
+    {
+      "youtubeId": "c5Sen9CBCu0",
+      "slug": "you-are-not-a-digital-native-and-thats-ok",
+      "title": "You are not a Digital Native and that's OK",
+      "speakers": [
+        "Cory Doctorow"
+      ],
+      "track": "red-team",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "You are not a Digital Native and that's OK",
+      "summary": null,
+      "durationSeconds": 1229
+    },
+    {
+      "youtubeId": "4o9nKWI0lXM",
+      "slug": "arm-mounted-weaponized-platform-and-anime-viewer",
+      "title": "Arm Mounted Weaponized Platform and Anime Viewer",
+      "speakers": [
+        "Corban Villa"
+      ],
+      "track": "red-team",
+      "topics": [
+        "hardware-hacking"
+      ],
+      "teaser": "Arm Mounted Weaponized Platform and Anime Viewer",
+      "summary": null,
+      "durationSeconds": 431
+    },
+    {
+      "youtubeId": "z9QgSU1r0ek",
+      "slug": "def-con-25-rootz-asylum-aron-rosenberg-aaron-standridge-hack",
+      "title": "Hacking an Insecure WiFi Camera",
+      "speakers": [
+        "Aron Rosenberg, Aaron Standridge"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless"
+      ],
+      "teaser": "Hacking an Insecure WiFi Camera",
+      "summary": null,
+      "durationSeconds": 703
+    },
+    {
+      "youtubeId": "NB4fPiCc-jc",
+      "slug": "def-con-25-rootz-asylum-alex-stamos-cso-facebook-keynote",
+      "title": "Keynote",
+      "speakers": [
+        "Alex Stamos, CSO  Facebook"
+      ],
+      "track": "red-team",
+      "topics": [
+        "security-research"
+      ],
+      "teaser": "Keynote",
+      "summary": null,
+      "durationSeconds": 866
+    }
+  ]
+}
