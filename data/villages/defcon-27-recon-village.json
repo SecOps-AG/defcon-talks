@@ -1,0 +1,325 @@
+{
+  "villageSlug": "recon-village",
+  "villageName": "Recon Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCkpP6XOD4uCQB6NpGrbujo",
+  "description": "Recon Village at DEF CON 27 covers reconnaissance and OSINT techniques used in information gathering and asset discovery. The 17 talks explore social media analysis, phishing, fingerprinting, automated reconnaissance, and operational security.",
+  "talks": [
+    {
+      "youtubeId": "yDvcBeP5ekI",
+      "slug": "william-suthers-pie-hw-based-prebellico-intel-exfiltration-botne",
+      "title": "PIE  HW based Prebellico Intel Exfiltration Botnet",
+      "speakers": [
+        "William Suthers"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "PIE  HW based Prebellico Intel Exfiltration Botnet",
+      "summary": null,
+      "durationSeconds": 2920
+    },
+    {
+      "youtubeId": "9FnE3Y9YMJs",
+      "slug": "wicked-clown-finding-the-needle-in-the-twitter-haystack",
+      "title": "Finding the needle in the Twitter haystack",
+      "speakers": [
+        "Wicked Clown"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "social-media",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Finding the needle in the Twitter haystack",
+      "summary": null,
+      "durationSeconds": 769
+    },
+    {
+      "youtubeId": "R3XuI9JUFDA",
+      "slug": "utku-sen-generating-personalized-wordlists-by-analyzing-targets",
+      "title": "Generating Personalized Wordlists by Analyzing Targets Tweets",
+      "speakers": [
+        "Utku Sen"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "wordlist-generation",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Generating Personalized Wordlists by Analyzing Targets Tweets",
+      "summary": null,
+      "durationSeconds": 1176
+    },
+    {
+      "youtubeId": "zCHHAnPK3DE",
+      "slug": "susan-social-media-the-new-court-of-public-opinion",
+      "title": "Social Media The New Court of Public opinion",
+      "speakers": [
+        "Susan"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "social-media",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Social Media The New Court of Public opinion",
+      "summary": null,
+      "durationSeconds": 1238
+    },
+    {
+      "youtubeId": "bI5jTobouW4",
+      "slug": "seyfullah-kilic-osint-approach-in-big-data",
+      "title": "OSINT Approach in Big Data",
+      "speakers": [
+        "Seyfullah KILI\u00c7"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "big-data",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "OSINT Approach in Big Data",
+      "summary": null,
+      "durationSeconds": 1486
+    },
+    {
+      "youtubeId": "RWh4RH5XkkE",
+      "slug": "robert-sell-hack-the-planet-hackers-influencing-positive-change",
+      "title": "Hack the Planet Hackers Influencing Positive Change",
+      "speakers": [
+        "Robert Sell"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Hack the Planet Hackers Influencing Positive Change",
+      "summary": null,
+      "durationSeconds": 1765
+    },
+    {
+      "youtubeId": "nB6XFIYGg5o",
+      "slug": "joe-gray-decepticon-opsec-to-slow-the-osint-video",
+      "title": "Joe Gray- DECEPTICON OPSEC to Slow the OSINT video",
+      "speakers": [
+        "Joe Gray- DECEPTICON OPSEC to Slow the OSINT video"
+      ],
+      "track": "red-team",
+      "topics": [
+        "osint",
+        "opsec",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Joe Gray- DECEPTICON OPSEC to Slow the OSINT video",
+      "summary": null,
+      "durationSeconds": 2444
+    },
+    {
+      "youtubeId": "ypV1jAw7xzg",
+      "slug": "kala-kinyon-use-responsibly-recon-like-an-insider-threat-for-bes",
+      "title": "Use Responsibly Recon Like an insider threat for Best User",
+      "speakers": [
+        "Kala Kinyon"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Use Responsibly Recon Like an insider threat for Best User",
+      "summary": null,
+      "durationSeconds": 1300
+    },
+    {
+      "youtubeId": "13gPxMUKYPE",
+      "slug": "martin-vigo-from-email-address-to-phone-number",
+      "title": "From Email Address to Phone Number",
+      "speakers": [
+        "Martin Vigo"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "contact-discovery",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "From Email Address to Phone Number",
+      "summary": null,
+      "durationSeconds": 1493
+    },
+    {
+      "youtubeId": "DEbnP0bmq3Y",
+      "slug": "master-chen-a-url-shortened-by-any-other-name-video",
+      "title": "A URL Shortened By Any Other Name video",
+      "speakers": [
+        "Master Chen"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "url-analysis",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "A URL Shortened By Any Other Name video",
+      "summary": null,
+      "durationSeconds": 1443
+    },
+    {
+      "youtubeId": "2rS7E5ObCmk",
+      "slug": "mitchell-parker-building-osint-and-recon-program-to-address-heal",
+      "title": "Building OSINT and Recon Program to address Healthcare",
+      "speakers": [
+        "Mitchell Parker"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Building OSINT and Recon Program to address Healthcare",
+      "summary": null,
+      "durationSeconds": 2423
+    },
+    {
+      "youtubeId": "Srbl8AvN5Wo",
+      "slug": "richard-gold-asset-discovery-making-sense-of-the-ocean-of-osint",
+      "title": "Asset Discovery Making Sense of the Ocean of OSINT",
+      "speakers": [
+        "Richard Gold"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "asset-discovery",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Asset Discovery Making Sense of the Ocean of OSINT",
+      "summary": null,
+      "durationSeconds": 2345
+    },
+    {
+      "youtubeId": "apooENo_riY",
+      "slug": "anthony-rose-hack-to-basics-adapting-exploit-frameworks-to-evade",
+      "title": "Hack to Basics Adapting Exploit Frameworks to Evade Micros",
+      "speakers": [
+        "Anthony Rose"
+      ],
+      "track": "red-team",
+      "topics": [
+        "osint",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Hack to Basics Adapting Exploit Frameworks to Evade Micros",
+      "summary": null,
+      "durationSeconds": 1841
+    },
+    {
+      "youtubeId": "zj50_lMV-pI",
+      "slug": "bug-crowd-lets-get-technical-and-hunt-harder-video",
+      "title": "Lets get technical and hunt harder video",
+      "speakers": [
+        "Bug Crowd"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Lets get technical and hunt harder video",
+      "summary": null,
+      "durationSeconds": 1889
+    },
+    {
+      "youtubeId": "psxxT00KavM",
+      "slug": "jaime-sanchez-derevolutionizing-os-fingerprinting-cat-and-mouse",
+      "title": "Derevolutionizing OS Fingerprinting  cat and mouse game",
+      "speakers": [
+        "Jaime Sanchez"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "os-fingerprinting",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Derevolutionizing OS Fingerprinting  cat and mouse game",
+      "summary": null,
+      "durationSeconds": 1961
+    },
+    {
+      "youtubeId": "CZwm3PcxDOs",
+      "slug": "alina-dorina-using-cloud-services-for-dial-in-reconnaissance-aut",
+      "title": "Using Cloud Services for Dial In Reconnaissance Automation",
+      "speakers": [
+        "Alina Dorina"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "automation",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "Using Cloud Services for Dial In Reconnaissance Automation",
+      "summary": null,
+      "durationSeconds": 1318
+    },
+    {
+      "youtubeId": "nH3b7lNcl2E",
+      "slug": "adrian-korn-the-osint-space-is-growing-are-we-ready-video",
+      "title": "The OSINT space is Growing Are we Ready video",
+      "speakers": [
+        "Adrian Korn"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "information-gathering",
+        "recon",
+        "security-research"
+      ],
+      "teaser": "The OSINT space is Growing Are we Ready video",
+      "summary": null,
+      "durationSeconds": 1724
+    }
+  ]
+}
