@@ -1,0 +1,146 @@
+{
+  "villageSlug": "ethics-village",
+  "villageName": "Ethics Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAXCSKlZzxdCRbbb2Ii9Nbc",
+  "description": "Ethics Village at DEF CON 27 covers responsible disclosure, ethical hacking practices, and societal implications of security research. The talks explore privacy in health apps, pentesting ethics, autonomous weapon systems, legal considerations, disclosure strategies, right-to-repair issues, and cyber attribution ethics.",
+  "talks": [
+    {
+      "youtubeId": "7O3d6YaDa88",
+      "slug": "wendy-edwards-who-is-tracking-your-body-health-apps-and-your-pri",
+      "title": "Who is Tracking Your Body Health Apps and Your Privacy",
+      "speakers": [
+        "Wendy Edwards"
+      ],
+      "track": "policy",
+      "topics": [
+        "privacy"
+      ],
+      "teaser": "Who is Tracking Your Body Health Apps and Your Privacy",
+      "summary": null,
+      "durationSeconds": 3160
+    },
+    {
+      "youtubeId": "Mgu9KEMXN4U",
+      "slug": "tom-kopchak-teaching-consulting-pentesting-and-ethics",
+      "title": "Teaching Consulting Pentesting and Ethics",
+      "speakers": [
+        "Tom Kopchak"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics",
+        "red-teaming"
+      ],
+      "teaser": "Teaching Consulting Pentesting and Ethics",
+      "summary": null,
+      "durationSeconds": 6745
+    },
+    {
+      "youtubeId": "XWbQvAWmfU8",
+      "slug": "liz-osullivan-is-it-ethical-to-work-on-autonomous-weapon-systems",
+      "title": "Is It Ethical to Work On Autonomous Weapon Systems",
+      "speakers": [
+        "Liz OSullivan"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics"
+      ],
+      "teaser": "Is It Ethical to Work On Autonomous Weapon Systems",
+      "summary": null,
+      "durationSeconds": 6024
+    },
+    {
+      "youtubeId": "zaYcUo5qrYg",
+      "slug": "panel-law-professor-round-robin",
+      "title": "Law Professor Round Robin",
+      "speakers": [
+        "Panel"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics"
+      ],
+      "teaser": "Law Professor Round Robin",
+      "summary": null,
+      "durationSeconds": 3064
+    },
+    {
+      "youtubeId": "G2kZ5kzyKqU",
+      "slug": "renderman-rant-on-disclosure",
+      "title": "Rant on Disclosure",
+      "speakers": [
+        "Renderman"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics"
+      ],
+      "teaser": "Rant on Disclosure",
+      "summary": null,
+      "durationSeconds": 6719
+    },
+    {
+      "youtubeId": "ChIMk-c9ogI",
+      "slug": "dr-suzanne-schwartz-fda-coffee-talk",
+      "title": "Coffee Talk",
+      "speakers": [
+        "Dr Suzanne Schwartz FDA"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics"
+      ],
+      "teaser": "Coffee Talk",
+      "summary": null,
+      "durationSeconds": 2932
+    },
+    {
+      "youtubeId": "VJB_91g_p-w",
+      "slug": "jake-williams-ethical-issues-in-cyber-attribution",
+      "title": "Ethical Issues in Cyber Attribution",
+      "speakers": [
+        "Jake Williams"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics",
+        "threat-intelligence"
+      ],
+      "teaser": "Ethical Issues in Cyber Attribution",
+      "summary": null,
+      "durationSeconds": 6642
+    },
+    {
+      "youtubeId": "K0WtgFPHA04",
+      "slug": "kyle-wiens-void-if-removed-securing-our-right-to-repair",
+      "title": "Void If Removed Securing Our Right to Repair",
+      "speakers": [
+        "Kyle Wiens"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics"
+      ],
+      "teaser": "Void If Removed Securing Our Right to Repair",
+      "summary": null,
+      "durationSeconds": 6935
+    },
+    {
+      "youtubeId": "XI7Wg54C24A",
+      "slug": "anthony-ferrante-coffee-talk",
+      "title": "Coffee Talk",
+      "speakers": [
+        "Anthony Ferrante"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics"
+      ],
+      "teaser": "Coffee Talk",
+      "summary": null,
+      "durationSeconds": 2740
+    }
+  ]
+}
