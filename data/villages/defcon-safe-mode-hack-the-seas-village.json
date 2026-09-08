@@ -1,0 +1,156 @@
+{
+  "villageSlug": "hack-the-seas-village",
+  "villageName": "Hack the Seas Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDSIMlIXevbaD1r3yVK1quF",
+  "description": "Hack the Seas Village explores maritime cybersecurity, vessel navigation systems, Automatic Identification System (AIS) RF security, and autonomous underwater vehicle operations.",
+  "talks": [
+    {
+      "youtubeId": "fLuQIY7HlvY",
+      "slug": "build-a-raspberry-ais",
+      "title": "Build a Raspberry AIS",
+      "speakers": [
+        "Gary Kessler"
+      ],
+      "track": "wireless",
+      "topics": [
+        "ais",
+        "raspberry-pi",
+        "maritime",
+        "rf"
+      ],
+      "teaser": "Demonstrates how to build an affordable Automatic Identification System (AIS) tracking station using a Raspberry Pi and RTL-SDR.",
+      "summary": null,
+      "durationSeconds": 4431
+    },
+    {
+      "youtubeId": "uZ3TQRrplT4",
+      "slug": "hacker-challenge-single-point-prediction",
+      "title": "Hacker Challenge: Single Point Prediction",
+      "speakers": [
+        "Gary Kessler"
+      ],
+      "track": "wireless",
+      "topics": [
+        "ais",
+        "maritime",
+        "tracking",
+        "challenge"
+      ],
+      "teaser": "Presents a maritime tracking challenge on analyzing vessel paths and predicting single-point coordinates from RF telemetry.",
+      "summary": null,
+      "durationSeconds": 922
+    },
+    {
+      "youtubeId": "XNtS0wQIyjY",
+      "slug": "ais-spoofing-attacks-and-some-tools",
+      "title": "AIS Spoofing Attacks and Some Tools",
+      "speakers": [
+        "Gary Kessler"
+      ],
+      "track": "wireless",
+      "topics": [
+        "ais",
+        "rf-spoofing",
+        "maritime",
+        "wireless"
+      ],
+      "teaser": "Explores vulnerability vectors in unauthenticated maritime AIS protocols and demonstrates tools for detecting and simulating RF spoofing.",
+      "summary": null,
+      "durationSeconds": 3798
+    },
+    {
+      "youtubeId": "jKrrD0Ue7Kk",
+      "slug": "speed-2-the-poseidon-adventure",
+      "title": "Speed 2: The Poseidon Adventure",
+      "speakers": [
+        "Andrew Tierney"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "maritime",
+        "ship-security",
+        "navigation",
+        "embedded"
+      ],
+      "teaser": "Examines real-world cyber attack surfaces across cruise ships, maritime navigation systems, and onboard industrial controls.",
+      "summary": null,
+      "durationSeconds": 1657
+    },
+    {
+      "youtubeId": "ThoizEv4QV0",
+      "slug": "build-an-ais-receiver-with-a-raspberry-pi",
+      "title": "Build an AIS Receiver with a Raspberry Pi",
+      "speakers": [
+        "Gary Kessler"
+      ],
+      "track": "wireless",
+      "topics": [
+        "ais",
+        "raspberry-pi",
+        "sdr",
+        "maritime"
+      ],
+      "teaser": "A step-by-step workshop on assembling and configuring a dedicated Raspberry Pi VHF receiver for tracking ship movements.",
+      "summary": null,
+      "durationSeconds": 3253
+    },
+    {
+      "youtubeId": "pERP151VFY0",
+      "slug": "yacht-pwned",
+      "title": "Yacht Pwned",
+      "speakers": [
+        "Stephen Gerling"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "maritime",
+        "yacht",
+        "nmea",
+        "embedded",
+        "satellite"
+      ],
+      "teaser": "Uncovers vulnerabilities in luxury yacht automation systems, NMEA 2000 marine networks, and satellite telematics.",
+      "summary": null,
+      "durationSeconds": 2935
+    },
+    {
+      "youtubeId": "PCgRO1qtIPg",
+      "slug": "40000-leagues-uuv-death-match",
+      "title": "40,000 Leagues UUV Death Match",
+      "speakers": [
+        "Nina Kollars"
+      ],
+      "track": "hardware",
+      "topics": [
+        "uuv",
+        "maritime",
+        "autonomous-systems",
+        "underwater",
+        "defense"
+      ],
+      "teaser": "Analyzes the operational cybersecurity challenges, communication constraints, and vulnerability landscapes of unmanned underwater vehicles.",
+      "summary": null,
+      "durationSeconds": 3415
+    },
+    {
+      "youtubeId": "VirhO41bYs0",
+      "slug": "hacking-the-seapod",
+      "title": "Hacking the SeaPod",
+      "speakers": [
+        "Grant Romundt"
+      ],
+      "track": "hardware",
+      "topics": [
+        "seapod",
+        "maritime",
+        "iot",
+        "smart-home",
+        "floating-home"
+      ],
+      "teaser": "Examines the IoT architecture, autonomous life support systems, and smart home security challenges in aquatic SeaPod dwellings.",
+      "summary": null,
+      "durationSeconds": 3481
+    }
+  ]
+}
