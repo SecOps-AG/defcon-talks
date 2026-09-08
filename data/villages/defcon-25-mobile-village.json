@@ -1,0 +1,79 @@
+{
+  "villageSlug": "mobile-village",
+  "villageName": "Mobile Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDBU7ZtcHPBtsFFITsXpigB",
+  "description": "Mobile Village at DEF CON 25 covers mobile security and wireless exploitation with 4 talks on LTE impersonation, GPS spoofing, NFC vulnerabilities, and Android reverse engineering.",
+  "talks": [
+    {
+      "youtubeId": "nZI2W94vYLA",
+      "slug": "yuwue-zheng-lin-huang-ghost-telephonist-impersonates-you-through",
+      "title": "Ghost Telephonist Impersonates You Through LTE CSF",
+      "speakers": [
+        "Yuwue Zheng",
+        "Lin Huang"
+      ],
+      "track": "appsec",
+      "topics": [
+        "wireless",
+        "reverse-engineering",
+        "appsec"
+      ],
+      "teaser": "Ghost Telephonist Impersonates You Through LTE CSF",
+      "summary": null,
+      "durationSeconds": 2528
+    },
+    {
+      "youtubeId": "isiuTNh5P34",
+      "slug": "david-robinson-using-gps-spoofing-to-control-time",
+      "title": "Using GPS Spoofing to control time",
+      "speakers": [
+        "David Robinson"
+      ],
+      "track": "appsec",
+      "topics": [
+        "wireless",
+        "reverse-engineering",
+        "appsec"
+      ],
+      "teaser": "Using GPS Spoofing to control time",
+      "summary": null,
+      "durationSeconds": 2123
+    },
+    {
+      "youtubeId": "pXmmNe5uo-4",
+      "slug": "haoqi-shan-jian-yuan-man-in-the-nfc",
+      "title": "Man in the NFC",
+      "speakers": [
+        "Haoqi Shan",
+        "Jian Yuan"
+      ],
+      "track": "appsec",
+      "topics": [
+        "wireless",
+        "reverse-engineering",
+        "appsec"
+      ],
+      "teaser": "Man in the NFC",
+      "summary": null,
+      "durationSeconds": 2059
+    },
+    {
+      "youtubeId": "ohjTWylMGEA",
+      "slug": "chaosdata-ghost-in-the-droid-possessing-android-applications-wit",
+      "title": "Ghost in the Droid: Possessing Android Applications with ParaSpectre",
+      "speakers": [
+        "Chaosdata"
+      ],
+      "track": "appsec",
+      "topics": [
+        "reverse-engineering",
+        "appsec",
+        "wireless"
+      ],
+      "teaser": "Ghost in the Droid: Possessing Android Applications with ParaSpectre",
+      "summary": null,
+      "durationSeconds": 1108
+    }
+  ]
+}
