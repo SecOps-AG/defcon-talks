@@ -1,0 +1,64 @@
+{
+  "villageSlug": "car-hacking-village",
+  "villageName": "Car Hacking Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAnZetsXs_-H7YzAvETvqF6",
+  "description": "Car Hacking Village focuses on automotive cybersecurity, vehicle network architectures, Controller Area Network (CAN) security, and heavy vehicle protocols. Talks examine CAN bus bit-level manipulation, hardware tooling, and legacy vehicle communication standards.",
+  "talks": [
+    {
+      "youtubeId": "-rwXSVT7kNo",
+      "slug": "chupacarbrah",
+      "title": "ChupaCarBrah",
+      "speakers": [
+        "Marcelo Sacchetin"
+      ],
+      "track": "hardware",
+      "topics": [
+        "can-bus",
+        "automotive",
+        "hardware",
+        "car-hacking"
+      ],
+      "teaser": "Introduces ChupaCarBrah, an open-source hardware and software platform for automotive CAN bus testing and exploration.",
+      "summary": null,
+      "durationSeconds": 2495
+    },
+    {
+      "youtubeId": "_DDJbY2-2A0",
+      "slug": "can-be-super-secure-bit-smashing-ftw",
+      "title": "CAN Be Super Secure: Bit Smashing FTW",
+      "speakers": [
+        "Brent Stone"
+      ],
+      "track": "hardware",
+      "topics": [
+        "can-bus",
+        "bit-smashing",
+        "automotive",
+        "hardware"
+      ],
+      "teaser": "Explores bit-level manipulation, error frame exploitation, and defensive hardening on Controller Area Networks.",
+      "summary": null,
+      "durationSeconds": 1243
+    },
+    {
+      "youtubeId": "arRTd-0hq30",
+      "slug": "before-j1939",
+      "title": "Before J1939",
+      "speakers": [
+        "Dan Salloum",
+        "Thomas Hayes"
+      ],
+      "track": "hardware",
+      "topics": [
+        "j1939",
+        "heavy-vehicle",
+        "automotive",
+        "can-bus"
+      ],
+      "teaser": "Examines the history, protocols, and diagnostic standards that preceded SAE J1939 in heavy-duty commercial vehicle networks.",
+      "summary": null,
+      "durationSeconds": 1533
+    }
+  ]
+}
