@@ -1,0 +1,246 @@
+{
+  "villageSlug": "lock-picking-village",
+  "villageName": "Lock Picking Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCsT1_uEubn7gS3crzxVTVo",
+  "description": "Lock Picking Village focuses on mechanical lock analysis, non-destructive entry, key duplication, safe manipulation, bypass tools, and physical security assessment.",
+  "talks": [
+    {
+      "youtubeId": "Fp4uLGeyIpQ",
+      "slug": "key-duplication-not-just-for-the-movies",
+      "title": "Key Duplication: Not Just for the Movies",
+      "speakers": [
+        "Tony Virelli"
+      ],
+      "track": "hardware",
+      "topics": [
+        "lockpicking",
+        "locks",
+        "physical-security",
+        "hardware"
+      ],
+      "teaser": "Demonstrates practical key duplication techniques, casting, optical decoding, and physical replication tools.",
+      "summary": null,
+      "durationSeconds": 2936
+    },
+    {
+      "youtubeId": "qR-SguTPAp0",
+      "slug": "hybrid-physec-tools",
+      "title": "Hybrid PhySec Tools",
+      "speakers": [
+        "d1dymu5"
+      ],
+      "track": "hardware",
+      "topics": [
+        "physical-security",
+        "lockpicking",
+        "bypass",
+        "hardware",
+        "red-team"
+      ],
+      "teaser": "Showcases multi-functional physical security tools designed for bypass, lock manipulation, and covert entry.",
+      "summary": null,
+      "durationSeconds": 1747
+    },
+    {
+      "youtubeId": "8e3oOE0HQ1I",
+      "slug": "doors-cameras-and-mantraps-dylan-the-magician",
+      "title": "Doors, Cameras, and Mantraps, Oh My!",
+      "speakers": [
+        "Dylan The Magician"
+      ],
+      "track": "hardware",
+      "topics": [
+        "physical-security",
+        "access-control-bypass",
+        "locks",
+        "red-team"
+      ],
+      "teaser": "Examines building perimeter access controls, mantrap bypasses, sensor blind spots, and optical monitoring vulnerabilities.",
+      "summary": null,
+      "durationSeconds": 1377
+    },
+    {
+      "youtubeId": "FxaQw4CUaP8",
+      "slug": "high-security-wafer-locks-an-oxymoron",
+      "title": "High Security Wafer Locks: An Oxymoron",
+      "speakers": [
+        "zeefeene"
+      ],
+      "track": "hardware",
+      "topics": [
+        "lockpicking",
+        "high-security-locks",
+        "locks",
+        "hardware"
+      ],
+      "teaser": "Analyzes the internal mechanical mechanisms of wafer locks and tests whether claims of high security hold up against picking.",
+      "summary": null,
+      "durationSeconds": 2941
+    },
+    {
+      "youtubeId": "HGg9mypLcH0",
+      "slug": "law-school-for-lockpickers",
+      "title": "Law School for Lockpickers",
+      "speakers": [
+        "Preston Thomas"
+      ],
+      "track": "policy",
+      "topics": [
+        "law",
+        "policy",
+        "lockpicking",
+        "locksport",
+        "legal"
+      ],
+      "teaser": "An attorney and locksport enthusiast breaks down state and federal laws governing lockpick possession and covert entry tools.",
+      "summary": null,
+      "durationSeconds": 1708
+    },
+    {
+      "youtubeId": "Y34oVq5juQ4",
+      "slug": "bobby-pins-more-effective-than-lockpicks",
+      "title": "Bobby Pins: More Effective Than Lockpicks",
+      "speakers": [
+        "John the Greek"
+      ],
+      "track": "hardware",
+      "topics": [
+        "lockpicking",
+        "locks",
+        "bypass",
+        "physical-security"
+      ],
+      "teaser": "Demonstrates improvised lock picking using modified bobby pins and everyday materials to defeat common pin-tumbler locks.",
+      "summary": null,
+      "durationSeconds": 1420
+    },
+    {
+      "youtubeId": "XLCO_Ev6e_4",
+      "slug": "intro-to-high-security-locks-and-lockpicking",
+      "title": "Intro to High Security Locks and Lockpicking",
+      "speakers": [
+        "N∅thing"
+      ],
+      "track": "hardware",
+      "topics": [
+        "high-security-locks",
+        "lockpicking",
+        "locks",
+        "hardware",
+        "locksport"
+      ],
+      "teaser": "Covers the principles, sidebars, interactive elements, and specialized picks required to defeat high-security lock cylinders.",
+      "summary": null,
+      "durationSeconds": 3539
+    },
+    {
+      "youtubeId": "hjT-H_S2XAE",
+      "slug": "safecracking-for-everyone-jared-dygart",
+      "title": "Safecracking for Everyone",
+      "speakers": [
+        "Jared Dygart"
+      ],
+      "track": "hardware",
+      "topics": [
+        "safe-cracking",
+        "locks",
+        "physical-security",
+        "hardware"
+      ],
+      "teaser": "Introduces mechanical safe lock operation, wheel packs, contact points, and manipulation techniques to open safes without damage.",
+      "summary": null,
+      "durationSeconds": 2345
+    },
+    {
+      "youtubeId": "CN-oeROUYnk",
+      "slug": "keystone-to-the-kingdom",
+      "title": "Keystone to the Kingdom",
+      "speakers": [
+        "Austin Marck"
+      ],
+      "track": "hardware",
+      "topics": [
+        "master-keys",
+        "locks",
+        "physical-security",
+        "lockpicking"
+      ],
+      "teaser": "Explores master key system architecture, key bitting matrices, and progression attacks to decode entire facility master keys.",
+      "summary": null,
+      "durationSeconds": 1607
+    },
+    {
+      "youtubeId": "wHpXsmnd-XA",
+      "slug": "how-i-defeated-the-western-electric-30c",
+      "title": "How I Defeated the Western Electric 30C",
+      "speakers": [
+        "N∅thing"
+      ],
+      "track": "hardware",
+      "topics": [
+        "locks",
+        "lockpicking",
+        "hardware",
+        "reverse-engineering"
+      ],
+      "teaser": "A case study in defeating the vintage Western Electric 30C vault lock through custom tool fabrication and precision picking.",
+      "summary": null,
+      "durationSeconds": 2910
+    },
+    {
+      "youtubeId": "oZe7uvVmG7c",
+      "slug": "intro-to-lockpicking-preston-thomas",
+      "title": "Intro to Lockpicking",
+      "speakers": [
+        "Preston Thomas"
+      ],
+      "track": "hardware",
+      "topics": [
+        "lockpicking",
+        "locksport",
+        "locks",
+        "physical-security"
+      ],
+      "teaser": "A beginner-friendly introduction to pin-tumbler lock mechanics, shear lines, binding order, and single-pin picking.",
+      "summary": null,
+      "durationSeconds": 1354
+    },
+    {
+      "youtubeId": "bgENH9EBqq8",
+      "slug": "osint-of-facilities-by-physical-recon",
+      "title": "OSINT of Facilities by Physical Recon",
+      "speakers": [
+        "Bill Graydon"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "recon",
+        "physical-security",
+        "access-control"
+      ],
+      "teaser": "Explains how to gather intelligence on target facilities using physical reconnaissance, satellite imagery, and architectural permits.",
+      "summary": null,
+      "durationSeconds": 1928
+    },
+    {
+      "youtubeId": "i_e4anGal1w",
+      "slug": "cuff-stuff",
+      "title": "Cuff Stuff",
+      "speakers": [
+        "Steven Collins"
+      ],
+      "track": "hardware",
+      "topics": [
+        "physical-security",
+        "bypass",
+        "hardware",
+        "access-control-bypass"
+      ],
+      "teaser": "Demonstrates the mechanics of standard ratcheting handcuffs, double-locking systems, and bypass techniques using shims and picks.",
+      "summary": null,
+      "durationSeconds": 478
+    }
+  ]
+}
