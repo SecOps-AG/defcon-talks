@@ -1,0 +1,265 @@
+{
+  "villageSlug": "wireless-village",
+  "villageName": "Wireless Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAKl_BhOwzeWlGe6yJMk-b0",
+  "description": "Wireless Village at DEF CON 27 covers wireless security, WiFi attacks, RF protocols, and wireless pentesting techniques. The 15 talks explore WPA3 vulnerabilities, SDR applications, vehicle key fob hacking, access point security, and wireless defense systems.",
+  "talks": [
+    {
+      "youtubeId": "3eSo5v35rpw",
+      "slug": "the-ricks-wctf-gear-talk",
+      "title": "WCTF Gear Talk",
+      "speakers": [
+        "The Ricks"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless"
+      ],
+      "teaser": "Gear Talk",
+      "summary": null,
+      "durationSeconds": 7847
+    },
+    {
+      "youtubeId": "9gfg8gk3lVw",
+      "slug": "woody-the-ford-hack-raptor-captor-video",
+      "title": "The Ford Hack Raptor Captor video",
+      "speakers": [
+        "Woody"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "automotive",
+        "sdr",
+        "wireless-tools"
+      ],
+      "teaser": "\"This talk will show flaws with development of security protocols in New Ford key fobs. This will exploit several areas. The ability for a denial of service to the keyfob WITHOUT jamming. How to trick the vehicle into...",
+      "summary": null,
+      "durationSeconds": 3516
+    },
+    {
+      "youtubeId": "_XlIKCMy3AM",
+      "slug": "ted-are-you-interested-in-kismet",
+      "title": "Are you inteRESTed in Kismet?",
+      "speakers": [
+        "Ted"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wireless-tools"
+      ],
+      "teaser": "An overview of the new REST API capabilities in Kismet with example use cases",
+      "summary": null,
+      "durationSeconds": 1089
+    },
+    {
+      "youtubeId": "xo_iUfbCyN4",
+      "slug": "s0lst1c3-war-never-changes-attacks-against-wpa3s-enhanced-open",
+      "title": "War Never Changes Attacks Against WPA3s Enhanced Open",
+      "speakers": [
+        "s0lst1c3"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "wifi"
+      ],
+      "teaser": "In this presentation we will introduce working proof-of-concept attacks that can be used against wireless networks that use Opportunity Wireless Encryption (OWE), which is better known as WPA3\u2019s \u201cEnhanced Open.\u201d We\u2019ll...",
+      "summary": null,
+      "durationSeconds": 2450
+    },
+    {
+      "youtubeId": "36NBthgdN-c",
+      "slug": "nishant-sharma-developing-wifi-access-point",
+      "title": "Developing Wifi Access Point",
+      "speakers": [
+        "Nishant Sharma"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "wireless-tools"
+      ],
+      "teaser": "WiFi access point (AP) security is one of the most important aspect when it comes to securing networks. The compromise of a WiFI AP (which mostly also double-up as router in SOHO environments) can lead to several seco...",
+      "summary": null,
+      "durationSeconds": 2912
+    },
+    {
+      "youtubeId": "oTcitUA9mhg",
+      "slug": "m1n1-hunting-mobile-rogue-access-points-with-wireless-mesh-impla",
+      "title": "Hunting Mobile Rogue Access Points with Wireless Mesh Implants",
+      "speakers": [
+        "m1n1"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "sdr",
+        "wireless-tools",
+        "mesh-networks",
+        "physical-security"
+      ],
+      "teaser": "We performed a case study with the most basic attack profile: the bad BSSID is known and the blue team is searching for the physical device, which is on the move. The theater was the DEFCON 26 wireless CTF. Since we d...",
+      "summary": null,
+      "durationSeconds": 2762
+    },
+    {
+      "youtubeId": "HUX5vA6VGLs",
+      "slug": "lennart-koopmann-nzyme-a-new-wifi-defense-system",
+      "title": "nzyme - A New WiFi Defense System",
+      "speakers": [
+        "Lennart Koopmann"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "sdr",
+        "wireless-tools"
+      ],
+      "teaser": "In this talk, I am explaining and releasing v1.0.0 of nzyme after 2 years of work. Nzyme is a new and Open Source WiFi IDS that addresses challenges of wireless security by employing deception techniques, fingerprinti...",
+      "summary": null,
+      "durationSeconds": 2282
+    },
+    {
+      "youtubeId": "gj6DnxkjuIM",
+      "slug": "hak5crew-introducing-new-hak5-gear",
+      "title": "Introducing new Hak5 gear",
+      "speakers": [
+        "Hak5Crew"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "wireless-tools"
+      ],
+      "teaser": "Unlike the cheese, the WiFi Pineapple does not stand alone. Learn all about the latest Hak5 tools dropping - the brand new Signal Owl, Screen Crab and Shark Jack - as well as updates to the entire arsenal and a cloud ...",
+      "summary": null,
+      "durationSeconds": 2962
+    },
+    {
+      "youtubeId": "vaQYt7KcVDQ",
+      "slug": "kent-britain-wa5vjb-antennas-for-surveillance",
+      "title": "Antennas for Surveillance",
+      "speakers": [
+        "Kent Britain/WA5VJB"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "automotive",
+        "sdr"
+      ],
+      "teaser": "Care and feeding of Software Defined Radios We will cover the various kinds of antennas available to optimized your SDR radio for different types of spectrum monitoring. We will also explain why RF filters are necessa...",
+      "summary": null,
+      "durationSeconds": 1690
+    },
+    {
+      "youtubeId": "q5vf_BJj52g",
+      "slug": "andres-blanco-love-is-in-the-air-video",
+      "title": "Love is in the Air video",
+      "speakers": [
+        "Andres Blanco"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "sdr",
+        "wireless-tools"
+      ],
+      "teaser": "Today Wi-Fi is everywhere and is one of the most widely used wireless networking protocols. Wi-Fi devices extend the network boundaries exposing also the network to anyone who is nearby. Reconnaissance is the first an...",
+      "summary": null,
+      "durationSeconds": 1475
+    },
+    {
+      "youtubeId": "LS5OQHUJaJE",
+      "slug": "babak-javadi-basics-of-hacking-physical-access-control-systems",
+      "title": "Basics of Hacking Physical Access Control Systems",
+      "speakers": [
+        "Babak Javadi"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "automotive",
+        "wireless-tools",
+        "physical-security"
+      ],
+      "teaser": "Do you fear the PACS-man? Do Physical Access Control Systems seem equal parts simple and confounding? Do you lie awake at night atop your nest of ethernet cables, pondering grand questions of access control? Is Wiegan...",
+      "summary": null,
+      "durationSeconds": 3773
+    },
+    {
+      "youtubeId": "tfF9sCr9Cec",
+      "slug": "besim-altinok-edu-driving",
+      "title": "edu driving",
+      "speakers": [
+        "Besim ALTINOK"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "enterprise-wifi"
+      ],
+      "teaser": "eduroam networks are designed to provide wireless access to researchers and lecturers around the world. However, it is known that there are now 10,000 eduroam hotspots in 100 countries around the world. eduroam users ...",
+      "summary": null,
+      "durationSeconds": 1768
+    },
+    {
+      "youtubeId": "73q3kVKzBmc",
+      "slug": "eric-johnson-wi-fi-6-deep-dive",
+      "title": "Wi Fi 6 Deep Dive",
+      "speakers": [
+        "Eric Johnson"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "sdr"
+      ],
+      "teaser": "802.11ax (Wi-Fi 6). Discussion of Antenna and Modulation techniques used with Wi-Fi and new radio features used with Wi-Fi 6",
+      "summary": null,
+      "durationSeconds": 4577
+    },
+    {
+      "youtubeId": "AJHfl6Dmo7g",
+      "slug": "eric-reuter-reversing-wireless-model-railroad-control-system",
+      "title": "Reversing Wireless model railroad control system",
+      "speakers": [
+        "Eric Reuter"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "iot-protocols"
+      ],
+      "teaser": "AirWire is a popular wireless control system for large scale model railroad locomotives and accessories. A handheld transmitter is used to control train speed, lights, sound, and trackside accessories. Analysis of thi...",
+      "summary": null,
+      "durationSeconds": 1075
+    },
+    {
+      "youtubeId": "4a_f23Me1Qg",
+      "slug": "guillemo-pilleux-hacking-wi-fi",
+      "title": "Hacking Wi Fi",
+      "speakers": [
+        "Guillemo Pilleux"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "sdr",
+        "wireless-tools"
+      ],
+      "teaser": "Wireless Networks (Wifi) are the most used type of network nowadays and most people don't know really how vulnerable they are, even WPA/WPA2 Enterprise. In this workshop we will cover most wifi encryptions being used ...",
+      "summary": null,
+      "durationSeconds": 3103
+    }
+  ]
+}
