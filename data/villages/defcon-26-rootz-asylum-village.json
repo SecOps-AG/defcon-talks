@@ -1,0 +1,37 @@
+{
+  "villageSlug": "rootz-asylum-village",
+  "villageName": "Rootz Asylum Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaB6aB8ywxqDdXaMHfk92BIs",
+  "description": "Rootz Asylum Village at DEF CON 26 features community talks and discussions on hacking and security culture with 2 sessions.",
+  "talks": [
+    {
+      "youtubeId": "-wcUTMqb8as",
+      "slug": "r00tz-asylum-village",
+      "title": "Day 2",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "hacker-culture",
+        "social-engineering"
+      ],
+      "teaser": "Day 2",
+      "summary": null,
+      "durationSeconds": 6210
+    },
+    {
+      "youtubeId": "EDJGuJVIoZY",
+      "slug": "r00tz-asylum-village-2",
+      "title": "Day 1",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "hacker-culture",
+        "social-engineering"
+      ],
+      "teaser": "Day 1",
+      "summary": null,
+      "durationSeconds": 5866
+    }
+  ]
+}
