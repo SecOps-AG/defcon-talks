@@ -1,0 +1,110 @@
+{
+  "villageSlug": "red-team-village",
+  "villageName": "Red Team Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaChXmQKpp1YO19Gw-6SxBDs",
+  "description": "Red Team Village at DEF CON 27 covers offensive security techniques, red team tactics, and adversarial operations. The talks explore implant automation, red team frameworks, detection evasion, data center attacks, and adversarial DevOps practices.",
+  "talks": [
+    {
+      "youtubeId": "1D1HiV4Afpg",
+      "slug": "alvaro-folgado-siestatime-automation-fr-long-term-implants-def-c",
+      "title": "SiestaTime Automation fr Long term implants",
+      "speakers": [
+        "Alvaro Folgado"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "malware",
+        "threat-intel"
+      ],
+      "teaser": "SiestaTime Automation fr Long term implants",
+      "summary": null,
+      "durationSeconds": 2012
+    },
+    {
+      "youtubeId": "4yYGtUkNgJI",
+      "slug": "adrian-sanabria-red-team-framework-rtf-def-con-27-red-team-offen",
+      "title": "Red Team Framework RTF",
+      "speakers": [
+        "Adrian Sanabria"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "threat-intel"
+      ],
+      "teaser": "Red Team Framework RTF",
+      "summary": null,
+      "durationSeconds": 4206
+    },
+    {
+      "youtubeId": "_e_iz7iwr-4",
+      "slug": "charles-herring-breaking-nbad-and-ueba-detection-def-con-27-red",
+      "title": "Breaking NBAD and UEBA Detection",
+      "speakers": [
+        "Charles Herring"
+      ],
+      "track": "red-team",
+      "topics": [
+        "threat-intel",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "Breaking NBAD and UEBA Detection",
+      "summary": null,
+      "durationSeconds": 1926
+    },
+    {
+      "youtubeId": "G-heFh4t-Pk",
+      "slug": "chris-mccoy-through-the-looking-glass-own-the-data-center-def-co",
+      "title": "Through the Looking Glass Own the Data Center",
+      "speakers": [
+        "Chris McCoy"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Through the Looking Glass Own the Data Center",
+      "summary": null,
+      "durationSeconds": 2484
+    },
+    {
+      "youtubeId": "tarNIQwo4Es",
+      "slug": "nathan-sweaney-casting-with-the-pros-tips-and-tricks-def-con-27",
+      "title": "Casting with the Pros Tips and Tricks",
+      "speakers": [
+        "Nathan Sweaney"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Casting with the Pros Tips and Tricks",
+      "summary": null,
+      "durationSeconds": 2453
+    },
+    {
+      "youtubeId": "ioBAK7hGZi4",
+      "slug": "casey-erdmann-badsalt-adversarial-devops-def-con-27-red-team-off",
+      "title": "BadSalt Adversarial DevOps",
+      "speakers": [
+        "Casey Erdmann"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "BadSalt Adversarial DevOps",
+      "summary": null,
+      "durationSeconds": 2405
+    }
+  ]
+}
