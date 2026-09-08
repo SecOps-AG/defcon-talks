@@ -1,0 +1,191 @@
+{
+  "villageSlug": "social-engineering-village",
+  "villageName": "Social Engineering Village",
+  "eventSlug": "defcon-24",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBgh8PZgxzgG1Coj-ocPQ7t",
+  "description": "Social Engineering Village at DEF CON 24 explores the human elements of security, psychological manipulation, pretexting tradecraft, vishing, and interpersonal deception.",
+  "talks": [
+    {
+      "youtubeId": "qoTUYQd3RvU",
+      "slug": "se-village-tomohisa-ishikawa",
+      "title": "SE Village - Tomohisa Ishikawa",
+      "speakers": [
+        "Cultural Differences in SE"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "culture",
+        "pretexting",
+        "psychology"
+      ],
+      "teaser": "Exploring how cultural nuances, language habits, and regional social norms impact the effectiveness of social engineering techniques.",
+      "summary": null,
+      "durationSeconds": 3004
+    },
+    {
+      "youtubeId": "7BmBiWbQO2o",
+      "slug": "se-village-steven-zani-how-to-un-work-your-job",
+      "title": "SE Village - Steven Zani - How to Un Work Your Job",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "culture",
+        "community",
+        "workplace"
+      ],
+      "teaser": "Examining workplace dynamics, institutional bureaucracy, and interpersonal influence tactics to hack everyday corporate workflows.",
+      "summary": null,
+      "durationSeconds": 1783
+    },
+    {
+      "youtubeId": "G_lmXqBUtZc",
+      "slug": "se-village-robert-anderson-us-interrogation-techniques-and-se",
+      "title": "SE Village - Robert Anderson - US Interrogation Techniques and SE",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "elicitation",
+        "psychology",
+        "deception"
+      ],
+      "teaser": "Comparing formal government interrogation methodologies with offensive social engineering and human intelligence elicitation tactics.",
+      "summary": null,
+      "durationSeconds": 3144
+    },
+    {
+      "youtubeId": "CzoDDE6S3p0",
+      "slug": "se-village-panel-the-live-se-podcast-84",
+      "title": "SE Village - Panel - The Live SE Podcast 84",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "community",
+        "culture",
+        "education"
+      ],
+      "teaser": "A live recording of The Social-Engineer Podcast at DEF CON 24 featuring practitioner roundtables, stories, and audience Q&A.",
+      "summary": null,
+      "durationSeconds": 3584
+    },
+    {
+      "youtubeId": "1zTsfs4Q6IY",
+      "slug": "se-village-mattias-borg-scam-call-call-dropped",
+      "title": "SE Village - Mattias Borg - SCAM CALL : Call Dropped",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "phishing",
+        "fraud",
+        "deception"
+      ],
+      "teaser": "Dissecting phone scams and social engineering call flows, analyzing caller techniques, victim psychological triggers, and defense strategies.",
+      "summary": null,
+      "durationSeconds": 1225
+    },
+    {
+      "youtubeId": "l1OFH_H8PjQ",
+      "slug": "se-village-jayson-street-total-fail-and-bad-mistakes-ive-made-a",
+      "title": "SE Village - Jayson Street - Total Fail: and Bad Mistakes, I've Made a Few",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "physical-security",
+        "red-team",
+        "culture"
+      ],
+      "teaser": "Jayson Street shares candid war stories, critical missteps, and key operational lessons learned from physical security engagements.",
+      "summary": null,
+      "durationSeconds": 3080
+    },
+    {
+      "youtubeId": "hL-6uRfoGvU",
+      "slug": "se-village-james-powell",
+      "title": "SE Village - James Powell",
+      "speakers": [
+        "You Are Being Manipulated"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "psychology",
+        "manipulation",
+        "cognitive-bias"
+      ],
+      "teaser": "Deconstructing cognitive biases, emotional vulnerabilities, and influence techniques used to manipulate individuals in everyday life.",
+      "summary": null,
+      "durationSeconds": 2108
+    },
+    {
+      "youtubeId": "zYw8tDLJOxg",
+      "slug": "se-village-fadli-sidek-advanced-se-techniques-and-the-rise-of-cy",
+      "title": "SE Village - Fadli Sidek - Advanced SE Techniques and The Rise of cyber scams",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "phishing",
+        "fraud",
+        "deception"
+      ],
+      "teaser": "Analyzing advanced psychological manipulation and modern online fraud syndicates exploiting digital communications platforms.",
+      "summary": null,
+      "durationSeconds": 3054
+    },
+    {
+      "youtubeId": "4uN44YfsQPk",
+      "slug": "se-village-david-kennedy-the-wizard-of-oz",
+      "title": "SE Village - David Kennedy -The Wizard of Oz",
+      "speakers": [
+        "Painting a Reality Through Deception"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "pretexting",
+        "red-team",
+        "adversary-emulation"
+      ],
+      "teaser": "David Kennedy demonstrates the art of creating believable deceptive realities and immersive pretexts during red team operations.",
+      "summary": null,
+      "durationSeconds": 3078
+    },
+    {
+      "youtubeId": "fHDxu2sgGMQ",
+      "slug": "se-village-cyni-winegard-bethany-ward-human-hacking-you-are-the",
+      "title": "SE Village - Cyni Winegard, Bethany Ward - Human Hacking: You ARE the Weak Link",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "security-awareness",
+        "human-factors",
+        "defense"
+      ],
+      "teaser": "Examining why people remain the most vulnerable target in security perimeters, and how organizations can cultivate proactive defense.",
+      "summary": null,
+      "durationSeconds": 3104
+    },
+    {
+      "youtubeId": "VFnCRVWBISY",
+      "slug": "se-village-chris-hadnagy-7-jedi-mind-tricks-influence-your-targe",
+      "title": "SE Village - Chris Hadnagy - 7 Jedi Mind Tricks: Influence Your Target without a Word",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "psychology",
+        "persuasion",
+        "deception"
+      ],
+      "teaser": "Chris Hadnagy reveals nonverbal influence, body language cues, and psychological rapport-building tactics for social engineering.",
+      "summary": null,
+      "durationSeconds": 3087
+    }
+  ]
+}
