@@ -1,0 +1,298 @@
+{
+  "villageSlug": "crypto-and-privacy-village",
+  "villageName": "Crypto and Privacy Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBzKPAhNBGbeLcRQbC7M59x",
+  "description": "Crypto and Privacy Village at DEF CON 25 showcases cryptography, privacy protection, and secure communication techniques. The 17 talks cover encryption, privacy tools, digital rights, secure messaging, and cryptanalysis.",
+  "talks": [
+    {
+      "youtubeId": "foeFGczCun8",
+      "slug": "trey-forgety",
+      "title": "Protecting Users' Privacy",
+      "speakers": [
+        "Trey Forgety"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Protecting Users' Privacy",
+      "summary": null,
+      "durationSeconds": 3006
+    },
+    {
+      "youtubeId": "hvGyog57gwI",
+      "slug": "tomas-susanka-security-analysis-of-the-telegram-im",
+      "title": "Security Analysis of the Telegram IM",
+      "speakers": [
+        "Tomas Susanka"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Security Analysis of the Telegram IM",
+      "summary": null,
+      "durationSeconds": 1233
+    },
+    {
+      "youtubeId": "Gda4QVGHFOk",
+      "slug": "shea-nangle-operational-security-lessons-from-the-dark-web",
+      "title": "Operational Security Lessons From The Dark Web",
+      "speakers": [
+        "Shea Nangle"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Operational Security Lessons From The Dark Web",
+      "summary": null,
+      "durationSeconds": 1688
+    },
+    {
+      "youtubeId": "26j5lLymitM",
+      "slug": "punky-duero-the-key-management-facility-of-the-root-dnssec",
+      "title": "The Key Management Facility of The Root DNSSEC",
+      "speakers": [
+        "Punky Duero"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "The Key Management Facility of The Root DNSSEC",
+      "summary": null,
+      "durationSeconds": 1504
+    },
+    {
+      "youtubeId": "AfWRDgOBMQU",
+      "slug": "matt-cheung-2",
+      "title": "Hacking on MultiParty Computation",
+      "speakers": [
+        "Matt Cheung"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Hacking on MultiParty Computation",
+      "summary": null,
+      "durationSeconds": 1514
+    },
+    {
+      "youtubeId": "0TF9NLsGCHA",
+      "slug": "mark-mager-cryptanalysis-in-the-time-of-ransomware",
+      "title": "Cryptanalysis in the Time of Ransomware",
+      "speakers": [
+        "Mark Mager"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Cryptanalysis in the Time of Ransomware",
+      "summary": null,
+      "durationSeconds": 2493
+    },
+    {
+      "youtubeId": "RT6VqSkQQtI",
+      "slug": "lee-brotherston",
+      "title": "Blue Team TLS Hugs",
+      "speakers": [
+        "Lee Brotherston"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Blue Team TLS Hugs",
+      "summary": null,
+      "durationSeconds": 1539
+    },
+    {
+      "youtubeId": "OYxI43Zb-Fs",
+      "slug": "lauren-rucker-have-you-seen-my-naked-selfies-neither-has-m",
+      "title": "Have You Seen My Naked Selfies Neither Has M",
+      "speakers": [
+        "Lauren Rucker"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Have You Seen My Naked Selfies Neither Has M",
+      "summary": null,
+      "durationSeconds": 2546
+    },
+    {
+      "youtubeId": "KwilB5FmGeo",
+      "slug": "kenneth-geers",
+      "title": "Traffic Analysis in Cyberspace",
+      "speakers": [
+        "Kenneth Geers"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Traffic Analysis in Cyberspace",
+      "summary": null,
+      "durationSeconds": 1447
+    },
+    {
+      "youtubeId": "SsHLEuiyPI8",
+      "slug": "joseph-birr-pixton",
+      "title": "Rustls   Modern Fast Safer TLS",
+      "speakers": [
+        "Joseph Birr Pixton"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Rustls   Modern Fast Safer TLS",
+      "summary": null,
+      "durationSeconds": 1867
+    },
+    {
+      "youtubeId": "kLU1f34UmpU",
+      "slug": "joel-wallenstrom-robby-mook",
+      "title": "A New Political Era",
+      "speakers": [
+        "Joel Wallenstrom, Robby Mook"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "A New Political Era",
+      "summary": null,
+      "durationSeconds": 3324
+    },
+    {
+      "youtubeId": "cepMMRPuzvU",
+      "slug": "jake-williams-the-symantec-ssl-debacle-lessons-learned",
+      "title": "The Symantec SSL Debacle Lessons Learned",
+      "speakers": [
+        "Jake Williams"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "The Symantec SSL Debacle Lessons Learned",
+      "summary": null,
+      "durationSeconds": 3153
+    },
+    {
+      "youtubeId": "BJnjAF2cz48",
+      "slug": "david-wong-sha-3-vs-the-world",
+      "title": "SHA 3 vs The World",
+      "speakers": [
+        "David Wong"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "SHA 3 vs The World",
+      "summary": null,
+      "durationSeconds": 3423
+    },
+    {
+      "youtubeId": "eCEWUtrAsCw",
+      "slug": "david-huerta-alice-and-bob-are-slightly-less-confused",
+      "title": "Alice and Bob are Slightly Less Confused",
+      "speakers": [
+        "David Huerta"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Alice and Bob are Slightly Less Confused",
+      "summary": null,
+      "durationSeconds": 1812
+    },
+    {
+      "youtubeId": "CKfm414YsjU",
+      "slug": "andrew-brandt-ssl-visibility-revisted-a-year-in-privacy-i",
+      "title": "SSL Visibility Revisted: A Year In Privacy I",
+      "speakers": [
+        "Andrew Brandt"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "SSL Visibility Revisted: A Year In Privacy I",
+      "summary": null,
+      "durationSeconds": 2843
+    },
+    {
+      "youtubeId": "nVx7BMYypy8",
+      "slug": "alisha-kloc-privacy-is-not-an-add-on-designing-for-privacy",
+      "title": "Privacy is Not An Add On:Designing for Privacy",
+      "speakers": [
+        "Alisha Kloc"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Privacy is Not An Add On:Designing for Privacy",
+      "summary": null,
+      "durationSeconds": 1920
+    },
+    {
+      "youtubeId": "hn5VN72ZjDE",
+      "slug": "crypto-village-j0n-j4rv1s-surveillance-capitalism-will-continue",
+      "title": "Surveillance Capitalism Will Continue til Morale Improves",
+      "speakers": [
+        "J0n J4rv1s"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "encryption"
+      ],
+      "teaser": "Surveillance Capitalism Will Continue til Morale Improves",
+      "summary": null,
+      "durationSeconds": 3992
+    }
+  ]
+}
