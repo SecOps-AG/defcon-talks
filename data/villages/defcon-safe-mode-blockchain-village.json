@@ -1,0 +1,189 @@
+{
+  "villageSlug": "blockchain-village",
+  "villageName": "Blockchain Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBdXIvjSR4LwCHUe2LPzIov",
+  "description": "Blockchain Village focuses on smart contract vulnerability analysis, decentralized finance (DeFi) exploits, consensus protocol security, crypto wallet auditing, and blockchain node defense.",
+  "talks": [
+    {
+      "youtubeId": "oJaNiXVvE88",
+      "slug": "exploit-insecure-crypto-wallet",
+      "title": "Exploit Insecure Crypto Wallet (Presentation)",
+      "speakers": [
+        "Peiyu Wang"
+      ],
+      "track": "appsec",
+      "topics": [
+        "cryptocurrency",
+        "blockchain",
+        "wallets",
+        "appsec"
+      ],
+      "teaser": "Demonstrates vulnerability discovery and exploitation techniques targeting insecure cryptocurrency software wallets.",
+      "summary": null,
+      "durationSeconds": 1856
+    },
+    {
+      "youtubeId": "KtPR8Dno60E",
+      "slug": "blockchain-for-cyber-defense",
+      "title": "Blockchain for Cyber Defense",
+      "speakers": [
+        "Suhyeon Lee"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "blockchain",
+        "blue-team",
+        "threat-intel",
+        "cryptocurrency"
+      ],
+      "teaser": "Explores applying decentralized ledger technology and smart contracts to strengthen cybersecurity defense and telemetry integrity.",
+      "summary": null,
+      "durationSeconds": 2598
+    },
+    {
+      "youtubeId": "Fb6os7noZiA",
+      "slug": "is-defi-ready-for-prime-time",
+      "title": "Is DeFi Ready for Prime Time?",
+      "speakers": [
+        "Ryan Rubin"
+      ],
+      "track": "appsec",
+      "topics": [
+        "defi",
+        "smart-contracts",
+        "blockchain",
+        "cryptocurrency"
+      ],
+      "teaser": "Assesses the maturity, security postures, flash loan risks, and protocol vulnerabilities in decentralized finance (DeFi).",
+      "summary": null,
+      "durationSeconds": 3440
+    },
+    {
+      "youtubeId": "B_TX4J4lZlI",
+      "slug": "is-defi-ready-for-prime-time-qa",
+      "title": "Is DeFi Ready for Prime Time? Q&A",
+      "speakers": [
+        "Ryan Rubin"
+      ],
+      "track": "appsec",
+      "topics": [
+        "defi",
+        "smart-contracts",
+        "blockchain",
+        "community"
+      ],
+      "teaser": "Ryan Rubin answers audience questions on decentralized finance architecture, systemic risks, and protocol auditing.",
+      "summary": null,
+      "durationSeconds": 363
+    },
+    {
+      "youtubeId": "Blc5CsXkQmg",
+      "slug": "securing-the-cosmos",
+      "title": "Securing the Cosmos",
+      "speakers": [
+        "Ron Stoner"
+      ],
+      "track": "appsec",
+      "topics": [
+        "blockchain",
+        "cryptocurrency",
+        "appsec",
+        "consensus"
+      ],
+      "teaser": "Covers architectural security patterns, Tendermint consensus auditing, and threat vectors across the Cosmos blockchain ecosystem.",
+      "summary": null,
+      "durationSeconds": 3133
+    },
+    {
+      "youtubeId": "OoIaTQhUi8E",
+      "slug": "verifiable-delay-functions-preventing-ddos",
+      "title": "Verifiable Delay Functions: Preventing DDoS",
+      "speakers": [
+        "Rastogi Gokul"
+      ],
+      "track": "appsec",
+      "topics": [
+        "cryptography",
+        "ddos",
+        "blockchain",
+        "appsec"
+      ],
+      "teaser": "Explains how Verifiable Delay Functions (VDFs) can be deployed as cryptographic proof-of-time barriers to mitigate DDoS attacks.",
+      "summary": null,
+      "durationSeconds": 3454
+    },
+    {
+      "youtubeId": "ht-oztt7kns",
+      "slug": "attacking-and-defending-blockchain-nodes",
+      "title": "Attacking & Defending Blockchain Nodes",
+      "speakers": [
+        "Peter Kacherginsky"
+      ],
+      "track": "appsec",
+      "topics": [
+        "blockchain",
+        "appsec",
+        "blue-team",
+        "p2p"
+      ],
+      "teaser": "Analyzes attack vectors against blockchain peer-to-peer nodes and RPC endpoints, and details hardening configurations for node operators.",
+      "summary": null,
+      "durationSeconds": 2712
+    },
+    {
+      "youtubeId": "zuO-Y_aum0I",
+      "slug": "exploit-insecure-crypto-wallet-stream",
+      "title": "Exploit Insecure Crypto Wallet (Stream Session)",
+      "speakers": [
+        "Peiyu Wang"
+      ],
+      "track": "appsec",
+      "topics": [
+        "cryptocurrency",
+        "blockchain",
+        "wallets",
+        "appsec"
+      ],
+      "teaser": "A live walkthrough demonstrating vulnerability identification, reverse engineering, and exploitation of flawed crypto wallet applications.",
+      "summary": null,
+      "durationSeconds": 1856
+    },
+    {
+      "youtubeId": "gGUOjtri4n8",
+      "slug": "7-phases-of-smart-contract-hacking",
+      "title": "7 Phases of Smart Contract Hacking",
+      "speakers": [
+        "Martin Abbatemarco"
+      ],
+      "track": "appsec",
+      "topics": [
+        "smart-contracts",
+        "appsec",
+        "blockchain",
+        "ethereum"
+      ],
+      "teaser": "Presents a structured seven-phase methodology for auditing and attacking smart contracts, from reconnaissance to post-exploitation.",
+      "summary": null,
+      "durationSeconds": 1848
+    },
+    {
+      "youtubeId": "JIe63nm5aNo",
+      "slug": "chaintuts-bitcoin-address-generator",
+      "title": "Chaintuts: Bitcoin Address Generator",
+      "speakers": [
+        "Josh McIntyre"
+      ],
+      "track": "appsec",
+      "topics": [
+        "bitcoin",
+        "cryptocurrency",
+        "cryptography",
+        "blockchain"
+      ],
+      "teaser": "Deconstructs the elliptic curve cryptography, hashing pipelines, and Base58Check encoding used to generate Bitcoin addresses.",
+      "summary": null,
+      "durationSeconds": 1718
+    }
+  ]
+}
