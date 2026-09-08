@@ -1,0 +1,181 @@
+{
+  "villageSlug": "ics-village",
+  "villageName": "ICS Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaC1Yc1tNmJrE2ZRPPlI71YV",
+  "description": "ICS Village at DEF CON 27 covers critical infrastructure security, industrial control systems vulnerabilities, and attacks on operational technology. The 11 talks explore SCADA systems, supply chain attacks, IT/OT convergence, smart building security, and defensive strategies for industrial networks.",
+  "talks": [
+    {
+      "youtubeId": "lggrDCYsVpw",
+      "slug": "sharon-brizinov-changium-ipiosa-magical-change-ip-packets-in-the",
+      "title": "Changium IPiosa  magical change IP packets in the wild",
+      "speakers": [
+        "Sharon Brizinov"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics"
+      ],
+      "teaser": "Changium IPiosa  magical change IP packets in the wild",
+      "summary": null,
+      "durationSeconds": 1535
+    },
+    {
+      "youtubeId": "mgJSwcaqzJs",
+      "slug": "ryan-leirvik-pin-the-tail-on-the-cyber-owner",
+      "title": "Pin the tail on the cyber owner",
+      "speakers": [
+        "Ryan Leirvik"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics"
+      ],
+      "teaser": "Pin the tail on the cyber owner",
+      "summary": null,
+      "durationSeconds": 1376
+    },
+    {
+      "youtubeId": "zFxoxxbwA4o",
+      "slug": "monta-elkins-nation-state-supply-chain-attacks-for-dummies",
+      "title": "Nation State Supply Chain Attacks for Dummies",
+      "speakers": [
+        "Monta Elkins"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics",
+        "supply-chain"
+      ],
+      "teaser": "Nation State Supply Chain Attacks for Dummies",
+      "summary": null,
+      "durationSeconds": 1752
+    },
+    {
+      "youtubeId": "zXcRM9C5csQ",
+      "slug": "austin-scott-purple-teaming-ics-networks",
+      "title": "Purple Teaming ICS Networks",
+      "speakers": [
+        "Austin Scott"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics",
+        "red-teaming"
+      ],
+      "teaser": "Purple Teaming ICS Networks",
+      "summary": null,
+      "durationSeconds": 1639
+    },
+    {
+      "youtubeId": "1MkOGP6WM8M",
+      "slug": "bryson-bort-ics-iot-threat-landscape",
+      "title": "ICS IOT Threat Landscape",
+      "speakers": [
+        "Bryson Bort"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics",
+        "iot",
+        "threat-intelligence"
+      ],
+      "teaser": "ICS IOT Threat Landscape",
+      "summary": null,
+      "durationSeconds": 1451
+    },
+    {
+      "youtubeId": "MMFIGJ8__ak",
+      "slug": "chris-kubecka-hack-the-world-and-galaxy-with-osint",
+      "title": "Hack the World and Galaxy with OSINT",
+      "speakers": [
+        "Chris Kubecka"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics",
+        "osint"
+      ],
+      "teaser": "Hack the World and Galaxy with OSINT",
+      "summary": null,
+      "durationSeconds": 1780
+    },
+    {
+      "youtubeId": "c1H-UV1v2W0",
+      "slug": "daniel-dos-santos-abusing-the-iot-in-smart-building",
+      "title": "Abusing the IoT in Smart Building",
+      "speakers": [
+        "Daniel dos Santos"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot"
+      ],
+      "teaser": "Abusing the IoT in Smart Building",
+      "summary": null,
+      "durationSeconds": 1686
+    },
+    {
+      "youtubeId": "96mpTFWWO7I",
+      "slug": "douglas-mckee-hvacking-the-difference-between-security-and-reali",
+      "title": "HVACking The difference Between Security and Reality",
+      "speakers": [
+        "Douglas McKee"
+      ],
+      "track": "red-team",
+      "topics": [
+        "iot"
+      ],
+      "teaser": "HVACking The difference Between Security and Reality",
+      "summary": null,
+      "durationSeconds": 1622
+    },
+    {
+      "youtubeId": "M4Ek5r8gWPg",
+      "slug": "jack-oden-it-ot-convergence-are-we-there-yet",
+      "title": "IT OT Convergence Are We There Yet",
+      "speakers": [
+        "Jack Oden"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics"
+      ],
+      "teaser": "IT OT Convergence Are We There Yet",
+      "summary": null,
+      "durationSeconds": 1483
+    },
+    {
+      "youtubeId": "JH3rC8psnSc",
+      "slug": "joe-slowik-crashoverride-assessing-the-2016-ukraine-electric-pow",
+      "title": "CRASHOVERRIDE Assessing the 2016 Ukraine Electric Power Event",
+      "speakers": [
+        "Joe Slowik"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics",
+        "security-research"
+      ],
+      "teaser": "CRASHOVERRIDE Assessing the 2016 Ukraine Electric Power Event",
+      "summary": null,
+      "durationSeconds": 1833
+    },
+    {
+      "youtubeId": "0pFCTKX8Q8E",
+      "slug": "joseph-bingham-what-the-next-stuxnet-will-look-like-and-how-to-p",
+      "title": "What the next Stuxnet will look like and how to prevent it",
+      "speakers": [
+        "Joseph Bingham"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics",
+        "security-research"
+      ],
+      "teaser": "What the next Stuxnet will look like and how to prevent it",
+      "summary": null,
+      "durationSeconds": 1499
+    }
+  ]
+}
