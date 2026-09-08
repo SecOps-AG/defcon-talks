@@ -1,0 +1,111 @@
+{
+  "villageSlug": "ics-village",
+  "villageName": "ICS Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAynYayYaIC8busZYn5-kIv",
+  "description": "ICS Village at DEF CON 25 covers Industrial Control Systems security and critical infrastructure protection. The talks explore Modbus vulnerabilities, industrial wireless security, grid insecurity, DFIR for ICS, device-level security, and building automation security.",
+  "talks": [
+    {
+      "youtubeId": "A_B69Rifu1g",
+      "slug": "arnaud-soullie-fun-with-modbus-0x5a-nothing-new-still-relevant",
+      "title": "Fun with Modbus 0x5a   Nothing New  Still Relevant?",
+      "speakers": [
+        "Arnaud Soullie\u0301"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "threat-intel",
+        "appsec",
+        "blue-team"
+      ],
+      "teaser": "Fun with Modbus 0x5a   Nothing New  Still Relevant?",
+      "summary": null,
+      "durationSeconds": 1451
+    },
+    {
+      "youtubeId": "I-TCfl0Jm2M",
+      "slug": "blake-johnson-dissecting-industrial-wireless-implementations",
+      "title": "Dissecting Industrial Wireless Implementations",
+      "speakers": [
+        "Blake Johnson"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Dissecting Industrial Wireless Implementations",
+      "summary": null,
+      "durationSeconds": 1908
+    },
+    {
+      "youtubeId": "y0fHJiDWLPs",
+      "slug": "bryson-bort-atlas-grid-insecurity-and-how-to-really-fix-this-shi",
+      "title": "Grid Insecurity and How to Really Fix This Shit",
+      "speakers": [
+        "Bryson Bort, Atlas"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Grid Insecurity and How to Really Fix This Shit",
+      "summary": null,
+      "durationSeconds": 1891
+    },
+    {
+      "youtubeId": "BHL8HbgXoT8",
+      "slug": "chris-sistrunk-whats-the-dfirence-for-ics",
+      "title": "What's the DFIRence for ICS",
+      "speakers": [
+        "Chris Sistrunk"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "blue-team",
+        "threat-intel"
+      ],
+      "teaser": "What's the DFIRence for ICS",
+      "summary": null,
+      "durationSeconds": 1815
+    },
+    {
+      "youtubeId": "UgvVaniZhsk",
+      "slug": "joe-weiss-cyber-security-issues-with-level-0-through-1-devices",
+      "title": "Cyber Security Issues with Level 0 through 1 Devices",
+      "speakers": [
+        "Joe Weiss"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "threat-intel",
+        "appsec",
+        "blue-team"
+      ],
+      "teaser": "Cyber Security Issues with Level 0 through 1 Devices",
+      "summary": null,
+      "durationSeconds": 2206
+    },
+    {
+      "youtubeId": "G9ESeUWfYbs",
+      "slug": "thomas-brandsetter",
+      "title": "InSecurity in Building Automation",
+      "speakers": [
+        "Thomas Brandsetter"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "threat-intel",
+        "ics-ot",
+        "appsec"
+      ],
+      "teaser": "InSecurity in Building Automation",
+      "summary": null,
+      "durationSeconds": 1805
+    }
+  ]
+}
