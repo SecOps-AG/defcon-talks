@@ -1,0 +1,111 @@
+{
+  "villageSlug": "afk",
+  "villageName": "AFK",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCY7ExCkHnLDPuKjhYC2euI",
+  "description": "AFK at DEF CON 25 is an assorted collection of 6 talks from various villages and tracks covering diverse security topics including reconnaissance, cryptography, healthcare security, program analysis, AI, and privacy.",
+  "talks": [
+    {
+      "youtubeId": "uBy2N0NmS2o",
+      "slug": "recon-village-rhett-greenhagen-skip-tracing-for-fun-and-profit",
+      "title": "Skip Tracing For Fun and Profit",
+      "speakers": [
+        "Rhett Greenhagen"
+      ],
+      "track": "recon",
+      "topics": [
+        "recon",
+        "threat-intel",
+        "privacy"
+      ],
+      "teaser": "Skip Tracing For Fun and Profit",
+      "summary": null,
+      "durationSeconds": 2602
+    },
+    {
+      "youtubeId": "49KU9NDcCgI",
+      "slug": "gus-fritschie-evan-teitelman-backdooring-the-lottery-and-other-s",
+      "title": "Backdooring the Lottery and Other Security Tales",
+      "speakers": [
+        "Gus Fritschie, Evan Teitelman"
+      ],
+      "track": "red-team",
+      "topics": [
+        "threat-intel",
+        "privacy",
+        "appsec"
+      ],
+      "teaser": "Backdooring the Lottery and Other Security Tales",
+      "summary": null,
+      "durationSeconds": 2254
+    },
+    {
+      "youtubeId": "1nvYGi7-Lxo",
+      "slug": "svea-eckert-andreas-dewes",
+      "title": "Dark Data",
+      "speakers": [
+        "Svea Eckert, Andreas Dewes"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Dark Data",
+      "summary": null,
+      "durationSeconds": 2336
+    },
+    {
+      "youtubeId": "XL9kWQ3YpLo",
+      "slug": "yan-shoshitaishvili",
+      "title": "25 Years of Program Analysis",
+      "speakers": [
+        "Yan Shoshitaishvili"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "ai-security",
+        "threat-intel"
+      ],
+      "teaser": "25 Years of Program Analysis",
+      "summary": null,
+      "durationSeconds": 2985
+    },
+    {
+      "youtubeId": "g5Hx86H3-mc",
+      "slug": "chris-sumner-rage-against-the-weaponized-ai-propaganda-machine",
+      "title": "Rage Against the Weaponized AI Propaganda Machine",
+      "speakers": [
+        "Chris Sumner"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "ai-security",
+        "threat-intel",
+        "privacy"
+      ],
+      "teaser": "Rage Against the Weaponized AI Propaganda Machine",
+      "summary": null,
+      "durationSeconds": 2646
+    },
+    {
+      "youtubeId": "l0q37IJi-CQ",
+      "slug": "crypto-village-ryan-lackey",
+      "title": "Cypherpunks History",
+      "speakers": [
+        "Ryan Lackey"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Cypherpunks History",
+      "summary": null,
+      "durationSeconds": 1532
+    }
+  ]
+}
