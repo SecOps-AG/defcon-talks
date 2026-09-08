@@ -1,0 +1,59 @@
+{
+  "villageSlug": "presentations-internet-of-things",
+  "villageName": "Presentations Internet of Things",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBAmA0G2oEptwL0tpCAZJ_b",
+  "description": "Presentations on the Internet of Things at DEF CON 23 explores security vulnerabilities in connected consumer hardware, embedded Linux appliances, smart home protocols, and ZigBee wireless networks.",
+  "talks": [
+    {
+      "youtubeId": "PEpuEprQ5VU",
+      "slug": "runa-sandvik-michael-auger",
+      "title": "Runa Sandvik, Michael Auger",
+      "speakers": [
+        "Hacking a Linux-Powered Rifle"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "embedded-linux",
+        "hardware",
+        "wifi"
+      ],
+      "teaser": "Runa Sandvik and Michael Auger demonstrate how they compromised a Linux-powered TrackingPoint smart rifle over Wi-Fi, altering target calculations.",
+      "summary": null,
+      "durationSeconds": 2448
+    },
+    {
+      "youtubeId": "xgNT05l6Jlw",
+      "slug": "qing-yang-im-a-newbie-yet-i-can-hack-zigbee",
+      "title": "Qing Yang - Im A Newbie Yet I Can Hack ZigBee",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "zigbee",
+        "wireless",
+        "iot",
+        "rf"
+      ],
+      "teaser": "A beginner-accessible exploration of ZigBee radio communication, sniffing packet traffic, and exploiting vulnerabilities in smart lighting.",
+      "summary": null,
+      "durationSeconds": 1297
+    },
+    {
+      "youtubeId": "majPZcqlVjI",
+      "slug": "iot-village-wesley-wineberg-cameras-thermostats-and-home-automat",
+      "title": "IoT Village - Wesley Wineberg - Cameras Thermostats and Home Automation Controllers",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "hardware",
+        "vulnerability-research",
+        "embedded"
+      ],
+      "teaser": "Wesley Wineberg analyzes attack surfaces across popular consumer IoT devices, detailing privilege escalation and remote exploit primitives.",
+      "summary": null,
+      "durationSeconds": 3592
+    }
+  ]
+}
