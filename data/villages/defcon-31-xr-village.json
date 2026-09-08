@@ -1,0 +1,85 @@
+{
+  "villageSlug": "xr-village",
+  "villageName": "XR Village",
+  "eventSlug": "defcon-31",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCVFfcQhcs7hz30aMPwGOgD",
+  "description": "XR Village focuses on extended reality security, immersive spatial computing, virtual and augmented reality sensor privacy, and digital twin simulation.",
+  "talks": [
+    {
+      "youtubeId": "Nnwa_45AQbs",
+      "slug": "xr-village-fireside-chat-brittan-heller",
+      "title": "XR Village Fireside Chat",
+      "speakers": [
+        "Brittan Heller"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "policy",
+        "biometrics",
+        "human-rights",
+        "virtual-reality"
+      ],
+      "teaser": "Human rights attorney Brittan Heller discusses biometric privacy, spatial computing ethics, and civil liberties in immersive environments.",
+      "summary": null,
+      "durationSeconds": 2955
+    },
+    {
+      "youtubeId": "O1xhxAie7ac",
+      "slug": "the-history-of-xr-from-fiction-to-reality",
+      "title": "The History of XR: From Fiction to Reality",
+      "speakers": [
+        "Starr Brown",
+        "Bob Gourley"
+      ],
+      "track": "community",
+      "topics": [
+        "virtual-reality",
+        "history",
+        "virtualization",
+        "community"
+      ],
+      "teaser": "Traces the evolution of extended reality from sci-fi concepts into practical spatial computing hardware and platforms.",
+      "summary": null,
+      "durationSeconds": 945
+    },
+    {
+      "youtubeId": "Gc56q16RAGg",
+      "slug": "push-all-the-buttons-digital-twinning-w-idaho-national-labs",
+      "title": "Push All the Buttons: Digital Twinning with Idaho National Laboratory",
+      "speakers": [
+        "Kolton Heaps"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "critical-infrastructure",
+        "ics-ot",
+        "simulation",
+        "virtualization",
+        "hardware"
+      ],
+      "teaser": "Details how Idaho National Laboratory uses XR digital twins to model, simulate, and stress-test critical infrastructure control systems.",
+      "summary": null,
+      "durationSeconds": 1922
+    },
+    {
+      "youtubeId": "Xu8pR8DaO0o",
+      "slug": "augmented-reality-and-implications-on-mobile-security",
+      "title": "Augmented Reality and Implications on Mobile Security",
+      "speakers": [
+        "Whitney Phillips"
+      ],
+      "track": "mobile",
+      "topics": [
+        "mobile",
+        "mobile-security",
+        "virtual-reality",
+        "privacy",
+        "appsec"
+      ],
+      "teaser": "Examines the security and privacy implications of augmented reality sensor frameworks and camera feeds on mobile operating systems.",
+      "summary": null,
+      "durationSeconds": 1676
+    }
+  ]
+}
