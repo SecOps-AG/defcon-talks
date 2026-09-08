@@ -1,0 +1,825 @@
+{
+  "villageSlug": "village-interviews",
+  "villageName": "Village Interviews",
+  "eventSlug": "defcon-30",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCj0jM-glrb2s4SyK2wragX",
+  "description": "Village Interviews at DEF CON 30 showcases village organizers, interactive demos, hardware badges, and community contests across the convention.",
+  "talks": [
+    {
+      "youtubeId": "U-I_SxVCmKE",
+      "slug": "aerospace-village-interview",
+      "title": "Aerospace Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "aerospace",
+        "aviation",
+        "community",
+        "interviews"
+      ],
+      "teaser": "An interview with Aerospace Village organizers discussing aviation cybersecurity challenges, satellite research, and flight system defense.",
+      "summary": null,
+      "durationSeconds": 108
+    },
+    {
+      "youtubeId": "X-vgG5zAd9M",
+      "slug": "red-team-village-interview",
+      "title": "Red Team Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "red-team",
+        "community",
+        "interviews"
+      ],
+      "teaser": "A walkthrough and interview covering offensive operations, adversary emulation workshops, and CTF challenges in the Red Team Village.",
+      "summary": null,
+      "durationSeconds": 206
+    },
+    {
+      "youtubeId": "mTnclPn-diQ",
+      "slug": "girls-hack-village-interview",
+      "title": "Girls Hack Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "diversity",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Organizers discuss initiatives to foster gender diversity, youth education, and mentorship within the cybersecurity community.",
+      "summary": null,
+      "durationSeconds": 177
+    },
+    {
+      "youtubeId": "slsw68EnsH8",
+      "slug": "packet-hacking-village-interview",
+      "title": "Packet Hacking Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Explores network monitoring, packet forensics challenges, and Packet Hacking Village operations at DEF CON 30.",
+      "summary": null,
+      "durationSeconds": 60
+    },
+    {
+      "youtubeId": "BfmXTxf_4Xo",
+      "slug": "voting-machine-village-interview",
+      "title": "Voting Machine Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "voting-village",
+        "election-security",
+        "community",
+        "interviews"
+      ],
+      "teaser": "An interview on voting machine security audits, election integrity research, and hands-on voting equipment testing.",
+      "summary": null,
+      "durationSeconds": 113
+    },
+    {
+      "youtubeId": "V83A3qNV9Io",
+      "slug": "car-hacking-village-vol-1",
+      "title": "Car Hacking Village Vol. 1",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "car-hacking",
+        "automotive",
+        "community",
+        "interviews"
+      ],
+      "teaser": "A tour of CAN bus test benches, ECU exploitation rigs, and vehicle security research at Car Hacking Village.",
+      "summary": null,
+      "durationSeconds": 203
+    },
+    {
+      "youtubeId": "o0ms3NrCpNw",
+      "slug": "crypto-and-privacy-village-walkthrough",
+      "title": "Crypto and Privacy Village Walkthrough",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "cryptography",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Highlights cryptographic workshops, surveillance self-defense tools, and privacy research at DEF CON 30.",
+      "summary": null,
+      "durationSeconds": 195
+    },
+    {
+      "youtubeId": "ZS2cemvD00U",
+      "slug": "app-sec-village-interview",
+      "title": "AppSec Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "appsec",
+        "community",
+        "interviews"
+      ],
+      "teaser": "AppSec Village leaders discuss application defense, secure code development, and API security auditing.",
+      "summary": null,
+      "durationSeconds": 61
+    },
+    {
+      "youtubeId": "MOM87FWMrMY",
+      "slug": "gamer-hat",
+      "title": "Gamer Hat",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "game-hacking",
+        "culture",
+        "community"
+      ],
+      "teaser": "An exploration of gaming hardware mods, gaming culture, and interactive entertainment at DEF CON.",
+      "summary": null,
+      "durationSeconds": 57
+    },
+    {
+      "youtubeId": "4wbjzXwMBc0",
+      "slug": "rogues-village-interview",
+      "title": "Rogues Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "social-engineering",
+        "deception",
+        "community",
+        "interviews"
+      ],
+      "teaser": "A discussion on prestidigitation, deception tradecraft, street cons, and physical social engineering at Rogues Village.",
+      "summary": null,
+      "durationSeconds": 354
+    },
+    {
+      "youtubeId": "wiPhvC_2oY0",
+      "slug": "behind-the-ctf",
+      "title": "Behind the CTF",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "contest",
+        "community",
+        "interviews"
+      ],
+      "teaser": "A behind-the-scenes look at the infrastructure engineering and challenge design powering DEF CON Capture the Flag.",
+      "summary": null,
+      "durationSeconds": 210
+    },
+    {
+      "youtubeId": "8NL--ilPm5A",
+      "slug": "physical-security-village-interview",
+      "title": "Physical Security Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "physical-security",
+        "lockpicking",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Interviews with physical security researchers covering covert entry tools, barrier bypasses, and access control evaluations.",
+      "summary": null,
+      "durationSeconds": 375
+    },
+    {
+      "youtubeId": "DhaIKxOpjxo",
+      "slug": "misinformation-village-interview",
+      "title": "Misinformation Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "disinformation",
+        "osint",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Organizers highlight research into disinformation campaigns, deepfakes, and public influence operations.",
+      "summary": null,
+      "durationSeconds": 135
+    },
+    {
+      "youtubeId": "PGfaBQ9sRm4",
+      "slug": "lockpick-village-interview",
+      "title": "Lockpick Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "lockpicking",
+        "physical-security",
+        "community",
+        "interviews"
+      ],
+      "teaser": "A visit to the Lockpick Village covering hands-on picking tables, locksport culture, and mechanical bypass techniques.",
+      "summary": null,
+      "durationSeconds": 226
+    },
+    {
+      "youtubeId": "i-qhx2-dyyk",
+      "slug": "car-hacking-village-interview",
+      "title": "Car Hacking Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "car-hacking",
+        "automotive",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Car Hacking Village contributors discuss heavy vehicle security, telematics hacking, and automotive cybersecurity careers.",
+      "summary": null,
+      "durationSeconds": 279
+    },
+    {
+      "youtubeId": "2IGEhg1bptE",
+      "slug": "ham-radio-village-interview-2",
+      "title": "Ham Radio Village Interview (Part 2)",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ham-radio",
+        "wireless",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Ham Radio Village operators discuss emergency communications, amateur radio licensing, and RF fox hunting.",
+      "summary": null,
+      "durationSeconds": 363
+    },
+    {
+      "youtubeId": "s3Dy5lDLb18",
+      "slug": "a-random-walk-around-def-con",
+      "title": "A Random Walk Around DEF CON",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "culture",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "A roaming visual walkthrough exploring the bustling convention floor, attendee interactions, and atmosphere of DEF CON 30.",
+      "summary": null,
+      "durationSeconds": 129
+    },
+    {
+      "youtubeId": "lyY3bO1knSY",
+      "slug": "crypto-and-privacy-interview-with-silk",
+      "title": "Crypto and Privacy Interview with Silk",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "cryptography",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Silk interviews Crypto and Privacy Village coordinators on emerging cryptographic standards and digital surveillance threats.",
+      "summary": null,
+      "durationSeconds": 247
+    },
+    {
+      "youtubeId": "TJn07pY_UwU",
+      "slug": "hardware-hacking-village-interview",
+      "title": "Hardware Hacking Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "hardware",
+        "reverse-engineering",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Highlights soldering workshops, JTAG reverse engineering benches, and open hardware design at Hardware Hacking Village.",
+      "summary": null,
+      "durationSeconds": 535
+    },
+    {
+      "youtubeId": "8MYOOj7LpLU",
+      "slug": "cloud-village-interview",
+      "title": "Cloud Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cloud",
+        "cloud-security",
+        "community",
+        "interviews"
+      ],
+      "teaser": "A discussion with Cloud Village leaders on multi-cloud security posture, container escapes, and IAM auditing.",
+      "summary": null,
+      "durationSeconds": 235
+    },
+    {
+      "youtubeId": "ZyC4_R4qtYs",
+      "slug": "blue-team-village-interview",
+      "title": "Blue Team Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "blue-team",
+        "threat-hunting",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Coordinators outline detection engineering workshops, defense operations, and Project WARPATH at Blue Team Village.",
+      "summary": null,
+      "durationSeconds": 551
+    },
+    {
+      "youtubeId": "MGcSj5BKIz8",
+      "slug": "perimeter-breached-hacking-an-access-control-system",
+      "title": "Perimeter Breached! Hacking an Access Control System",
+      "speakers": [
+        "Sam Quinn",
+        "Steve Povolny"
+      ],
+      "track": "community",
+      "topics": [
+        "access-control",
+        "physical-security",
+        "hardware",
+        "appsec"
+      ],
+      "teaser": "Researchers demonstrate firmware reverse engineering and physical hardware bypasses targeting enterprise access control systems.",
+      "summary": null,
+      "durationSeconds": 150
+    },
+    {
+      "youtubeId": "yL3yYk2UOEo",
+      "slug": "voting-machine-village-interview-2",
+      "title": "Voting Machine Village Interview (Part 2)",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "voting-village",
+        "election-security",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Further discussions on electronic voting machine hardware, ballot-marking devices, and poll book security research.",
+      "summary": null,
+      "durationSeconds": 595
+    },
+    {
+      "youtubeId": "1sI_NkAimmE",
+      "slug": "hak5-collaboration-showcase",
+      "title": "Hak5 Collaboration Showcase",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "hardware",
+        "community",
+        "culture"
+      ],
+      "teaser": "Highlights collaborative hardware development and penetration testing tools produced by DEF CON and Hak5.",
+      "summary": null,
+      "durationSeconds": 1771
+    },
+    {
+      "youtubeId": "3HH1UibUBC4",
+      "slug": "silk-vs-the-noc",
+      "title": "Silk vs. the NOC",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "network-security",
+        "monitoring",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Silk tours the DEF CON Network Operations Center (NOC) to inspect network architecture, traffic volume, and WiFi defense.",
+      "summary": null,
+      "durationSeconds": 280
+    },
+    {
+      "youtubeId": "mY7D1Kb-LIs",
+      "slug": "ics-village-interview",
+      "title": "ICS Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ics-ot",
+        "critical-infrastructure",
+        "community",
+        "interviews"
+      ],
+      "teaser": "An interview with ICS Village organizers covering industrial control system defense, SCADA security, and mini-plant mockups.",
+      "summary": null,
+      "durationSeconds": 339
+    },
+    {
+      "youtubeId": "WrvuvW1b8gw",
+      "slug": "blacks-in-cybersecurity-village-interview",
+      "title": "Blacks in CyberSecurity Village Interview",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "diversity",
+        "culture",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Discusses mentorship initiatives, technical workshops, and career advancement programs hosted by Blacks in CyberSecurity.",
+      "summary": null,
+      "durationSeconds": 247
+    },
+    {
+      "youtubeId": "A6bFMqx2LpU",
+      "slug": "mkfactor-badge-talk",
+      "title": "MKFactor Badge Talk",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "electronic-badge",
+        "hardware",
+        "community"
+      ],
+      "teaser": "A technical talk detailing circuit board design, custom firmware, and puzzle challenges embedded in the MKFactor badge.",
+      "summary": null,
+      "durationSeconds": 860
+    },
+    {
+      "youtubeId": "YX6NtLXdbRA",
+      "slug": "cloud-village-walkthrough",
+      "title": "Cloud Village Walkthrough",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cloud",
+        "cloud-security",
+        "community"
+      ],
+      "teaser": "A tour of interactive cloud defense labs, serverless hacking stations, and CTF competitions in the Cloud Village.",
+      "summary": null,
+      "durationSeconds": 176
+    },
+    {
+      "youtubeId": "BU2_aLkopXo",
+      "slug": "aerospace-badge-showcase",
+      "title": "Aerospace Badge Showcase",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "electronic-badge",
+        "aerospace",
+        "hardware",
+        "community"
+      ],
+      "teaser": "Examines the design, RF capabilities, and satellite tracking puzzles incorporated into the DEF CON 30 Aerospace Badge.",
+      "summary": null,
+      "durationSeconds": 337
+    },
+    {
+      "youtubeId": "-S70ZdApfwU",
+      "slug": "capture-the-flag-showcase",
+      "title": "Capture the Flag Showcase",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "contest",
+        "community"
+      ],
+      "teaser": "An overview of the intense multi-day Capture the Flag competition featuring elite international hacking teams.",
+      "summary": null,
+      "durationSeconds": 1477
+    },
+    {
+      "youtubeId": "da5TFN8rR5E",
+      "slug": "demo-labs-showcase",
+      "title": "Demo Labs Showcase",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "open-source",
+        "tooling",
+        "community"
+      ],
+      "teaser": "Demonstrates emerging open-source security tools, vulnerability scanners, and testing frameworks at DEF CON Demo Labs.",
+      "summary": null,
+      "durationSeconds": 294
+    },
+    {
+      "youtubeId": "W_h45WRHFYk",
+      "slug": "scavenger-hunt-showcase",
+      "title": "Scavenger Hunt Showcase",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "contest",
+        "culture",
+        "community"
+      ],
+      "teaser": "Follows participants tackling eccentric, creative, and notoriously challenging tasks in the legendary DEF CON Scavenger Hunt.",
+      "summary": null,
+      "durationSeconds": 86
+    },
+    {
+      "youtubeId": "slhdowWjSuU",
+      "slug": "tamper-evident-village-walkthrough",
+      "title": "Tamper Evident Village Walkthrough",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "physical-security",
+        "hardware",
+        "community",
+        "interviews"
+      ],
+      "teaser": "A look at seal manipulation, evidence-tampering analysis, and covert physical inspection techniques at Tamper Evident Village.",
+      "summary": null,
+      "durationSeconds": 504
+    },
+    {
+      "youtubeId": "OdiSma-BDGQ",
+      "slug": "scavenger-hunt-flamethrower-challenge",
+      "title": "Scavenger Hunt: Flamethrower Challenge",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "contest",
+        "culture",
+        "community"
+      ],
+      "teaser": "Showcases one of the most outlandish team submissions in the DEF CON 30 Scavenger Hunt competition.",
+      "summary": null,
+      "durationSeconds": 87
+    },
+    {
+      "youtubeId": "qA_LggJz5vI",
+      "slug": "blue-team-village-walkthrough",
+      "title": "Blue Team Village Walkthrough",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "blue-team",
+        "defense",
+        "community"
+      ],
+      "teaser": "A guided walkthrough of defensive workshops, SOC simulation games, and threat hunting setups at Blue Team Village.",
+      "summary": null,
+      "durationSeconds": 278
+    },
+    {
+      "youtubeId": "K-AWssR7OWA",
+      "slug": "redalert-ics-ctf",
+      "title": "RedAlert ICS CTF",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "ics-ot",
+        "ctf",
+        "contest",
+        "community"
+      ],
+      "teaser": "Coverage of the RedAlert industrial control systems CTF, simulating real-world operational technology cyber attacks.",
+      "summary": null,
+      "durationSeconds": 384
+    },
+    {
+      "youtubeId": "7Ds8M38GqP8",
+      "slug": "silk-xor-machine",
+      "title": "Silk: XOR Machine",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "hardware",
+        "cryptography",
+        "community"
+      ],
+      "teaser": "Silk inspects a custom mechanical XOR encryption machine built by hardware enthusiasts at DEF CON.",
+      "summary": null,
+      "durationSeconds": 179
+    },
+    {
+      "youtubeId": "go4kkRIwjQ8",
+      "slug": "silk-blacks-in-cyber-village-interview",
+      "title": "Silk: Blacks in Cyber Village Interview",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "diversity",
+        "culture",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Silk meets with community leaders at the Blacks in Cyber Village to discuss representation, outreach, and technical events.",
+      "summary": null,
+      "durationSeconds": 136
+    },
+    {
+      "youtubeId": "wxmMrwFVc4g",
+      "slug": "silk-open-research-institute",
+      "title": "Silk: Open Research Institute",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "open-source",
+        "wireless",
+        "research",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Silk speaks with representatives from the Open Research Institute regarding open-source satellite and digital radio technology.",
+      "summary": null,
+      "durationSeconds": 373
+    },
+    {
+      "youtubeId": "bRTS-NTT7iQ",
+      "slug": "silk-nuucsoda-badge-and-hardware",
+      "title": "Silk: nuucsoda Badge and Hardware",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "electronic-badge",
+        "hardware",
+        "community"
+      ],
+      "teaser": "Silk explores the nuucsoda electronic badge, custom PCB art, and interactive hardware puzzles on the convention floor.",
+      "summary": null,
+      "durationSeconds": 767
+    },
+    {
+      "youtubeId": "Pv33I_GXOGA",
+      "slug": "silk-defcon-memorial-interview",
+      "title": "Silk: DEF CON Memorial Interview",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "culture",
+        "history",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Silk visits the DEF CON Memorial space to honor departed hackers, mentors, and community pioneers.",
+      "summary": null,
+      "durationSeconds": 756
+    },
+    {
+      "youtubeId": "TmyRF_bcddI",
+      "slug": "silk-how-to-lock-pick",
+      "title": "Silk: How to Lock Pick",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "lockpicking",
+        "physical-security",
+        "community"
+      ],
+      "teaser": "Silk takes a beginner lockpicking lesson at the Lockpick Village, learning shear line alignment and tension control.",
+      "summary": null,
+      "durationSeconds": 1294
+    },
+    {
+      "youtubeId": "cINgbB4IeQU",
+      "slug": "silk-hack-fortress-contest",
+      "title": "Silk: Hack Fortress Contest",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "contest",
+        "video-games",
+        "community"
+      ],
+      "teaser": "Silk checks in on Hack Fortress, the fast-paced hybrid tournament combining Team Fortress 2 gameplay with live hacking.",
+      "summary": null,
+      "durationSeconds": 374
+    },
+    {
+      "youtubeId": "CGoM35pojcU",
+      "slug": "silk-hacker-karaoke",
+      "title": "Silk: Hacker Karaoke",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "culture",
+        "music",
+        "community"
+      ],
+      "teaser": "Silk dives into the nightlife, social culture, and musical camaraderie of DEF CON Hacker Karaoke.",
+      "summary": null,
+      "durationSeconds": 257
+    },
+    {
+      "youtubeId": "zf4oHEqAHQA",
+      "slug": "silk-hacker-gokarts",
+      "title": "Silk: Hacker GoKarts",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "hardware",
+        "culture",
+        "community"
+      ],
+      "teaser": "Silk checks out custom electric vehicle builds and hacker GoKart racing during DEF CON evening events.",
+      "summary": null,
+      "durationSeconds": 246
+    },
+    {
+      "youtubeId": "6DHi-qC1jww",
+      "slug": "silk-plane-hacking-at-aerospace-village",
+      "title": "Silk: Plane Hacking at Aerospace Village",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "aerospace",
+        "aviation",
+        "hardware",
+        "community"
+      ],
+      "teaser": "Silk explores full-scale flight simulators, cockpit avionics test rigs, and aircraft vulnerability research.",
+      "summary": null,
+      "durationSeconds": 1000
+    },
+    {
+      "youtubeId": "LvvhvhqDV9k",
+      "slug": "silk-darknet-team-chat",
+      "title": "Silk: Darknet Team Chat",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "darknet",
+        "contest",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Silk interviews the Darknet Contest organizers about the live-action puzzle game, daemon badges, and agent factions.",
+      "summary": null,
+      "durationSeconds": 218
+    },
+    {
+      "youtubeId": "VwmKnlLKmBM",
+      "slug": "silk-car-hacking-team",
+      "title": "Silk: Car Hacking Team",
+      "speakers": [
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "car-hacking",
+        "automotive",
+        "hardware",
+        "community",
+        "interviews"
+      ],
+      "teaser": "Silk speaks with vehicle security researchers hacking instrument clusters, infotainment heads, and drive-by-wire buses.",
+      "summary": null,
+      "durationSeconds": 320
+    },
+    {
+      "youtubeId": "hcjMOkTCn1M",
+      "slug": "recon-village-ctf-showcase",
+      "title": "Recon Village CTF Showcase",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "recon",
+        "osint",
+        "ctf",
+        "contest",
+        "community"
+      ],
+      "teaser": "An inside look at the Recon Village CTF, testing OSINT investigative methodology, public records pivots, and asset discovery.",
+      "summary": null,
+      "durationSeconds": 75
+    }
+  ]
+}
