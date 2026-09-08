@@ -1,0 +1,60 @@
+{
+  "villageSlug": "hardware-hacking-village",
+  "villageName": "Hardware Hacking Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaC63jDN7llPTXNblAIjiRrP",
+  "description": "Hardware Hacking Village at DEF CON 27 covers hands-on hardware security and reverse engineering with 3 talks on infrared attacks, vehicle security, and storage device firmware analysis.",
+  "talks": [
+    {
+      "youtubeId": "WFgY0h8zcjM",
+      "slug": "wang-kang-infrared-new-threats-meet-old-devices-def-con-27-hardw",
+      "title": "Infrared New Threats Meet Old Devices",
+      "speakers": [
+        "Wang Kang"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "reverse-engineering",
+        "iot"
+      ],
+      "teaser": "Infrared New Threats Meet Old Devices",
+      "summary": null,
+      "durationSeconds": 1234
+    },
+    {
+      "youtubeId": "iHo0EKKsRFw",
+      "slug": "benjamin-lafois-another-car-hacking-approach-def-con-27-hardware",
+      "title": "Another Car Hacking Approach",
+      "speakers": [
+        "Benjamin Lafois"
+      ],
+      "track": "hardware",
+      "topics": [
+        "reverse-engineering",
+        "hardware",
+        "iot"
+      ],
+      "teaser": "Another Car Hacking Approach",
+      "summary": null,
+      "durationSeconds": 2637
+    },
+    {
+      "youtubeId": "JPDWVd-E1fY",
+      "slug": "allison-naaktgeboren-reversing-corruption-in-seagate-hdd-def-con",
+      "title": "Reversing Corruption in Seagate HDD",
+      "speakers": [
+        "Allison Naaktgeboren"
+      ],
+      "track": "hardware",
+      "topics": [
+        "reverse-engineering",
+        "hardware",
+        "iot"
+      ],
+      "teaser": "Reversing Corruption in Seagate HDD",
+      "summary": null,
+      "durationSeconds": 2212
+    }
+  ]
+}
