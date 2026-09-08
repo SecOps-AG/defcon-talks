@@ -1,0 +1,75 @@
+{
+  "villageSlug": "presentations-social-engineering",
+  "villageName": "Presentations Social Engineering",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaB8-9l8mo9x_khCEkobzTDW",
+  "description": "Presentations on Social Engineering at DEF CON 23 explores human-layer vulnerabilities, open-source intelligence gathering, digital surveillance tradecraft, lock pattern predictability, and identity fraud.",
+  "talks": [
+    {
+      "youtubeId": "UJeKNl461d8",
+      "slug": "michael-schrenk-applied-intelligence-using-information-thats-not",
+      "title": "Michael Schrenk - Applied Intelligence: Using Information Thats Not There",
+      "speakers": [],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "investigations",
+        "intelligence",
+        "recon"
+      ],
+      "teaser": "Michael Schrenk demonstrates negative space analysis in OSINT, identifying organizational secrets and covert operations from missing data.",
+      "summary": null,
+      "durationSeconds": 2311
+    },
+    {
+      "youtubeId": "6Z5NtzFA7Z8",
+      "slug": "marte-loge-tell-me-who-you-are-and-i-will-tell-you-your-lock-pat",
+      "title": "Marte Loge - Tell me who you are and I will tell you your lock pattern",
+      "speakers": [],
+      "track": "mobile",
+      "topics": [
+        "mobile",
+        "android",
+        "authentication",
+        "privacy"
+      ],
+      "teaser": "Marte Løge analyzes Android lock patterns, demonstrating how demographic and psychological traits make user unlock gestures predictable.",
+      "summary": null,
+      "durationSeconds": 1078
+    },
+    {
+      "youtubeId": "Tyel1gfSjl4",
+      "slug": "ken-westin-confessions-of-a-professional-cyber-stalker",
+      "title": "Ken Westin - Confessions of a Professional Cyber Stalker",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "osint",
+        "social-engineering",
+        "investigations",
+        "privacy"
+      ],
+      "teaser": "Ken Westin shares ethical dilemmas, investigative tradecraft, and tracking techniques developed while hunting stolen devices and cyber criminals.",
+      "summary": null,
+      "durationSeconds": 2444
+    },
+    {
+      "youtubeId": "9FdHq3WfJgs",
+      "slug": "chris-rock-2",
+      "title": "Chris Rock",
+      "speakers": [
+        "I Will Kill You"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "social-engineering",
+        "fraud",
+        "identity-theft",
+        "culture"
+      ],
+      "teaser": "Chris Rock examines systemic vulnerabilities in death registration, hospital records, and probate courts used to legally declare individuals deceased.",
+      "summary": null,
+      "durationSeconds": 1888
+    }
+  ]
+}
