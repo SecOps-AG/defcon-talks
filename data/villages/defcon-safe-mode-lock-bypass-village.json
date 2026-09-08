@@ -1,0 +1,63 @@
+{
+  "villageSlug": "lock-bypass-village",
+  "villageName": "Lock Bypass Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqD62fHcO3sAM2DlTQBkpY",
+  "description": "Lock Bypass Village focuses on non-destructive physical entry, latch manipulation, custom bypass tool fabrication, alarm sensor defeat, and access-controlled door vulnerabilities.",
+  "talks": [
+    {
+      "youtubeId": "EzL72_OzMK0",
+      "slug": "diy-bypass-tools",
+      "title": "DIY Bypass Tools",
+      "speakers": [
+        "Robert Graydon"
+      ],
+      "track": "hardware",
+      "topics": [
+        "bypass",
+        "lockpicking",
+        "physical-security",
+        "hardware"
+      ],
+      "teaser": "Demonstrates how to design, fabricate, and field-test custom DIY bypass tools using readily accessible workshop materials.",
+      "summary": null,
+      "durationSeconds": 1081
+    },
+    {
+      "youtubeId": "3yKZqiYGYnA",
+      "slug": "bypass-101-karen-ng",
+      "title": "Bypass 101",
+      "speakers": [
+        "Karen Ng"
+      ],
+      "track": "hardware",
+      "topics": [
+        "bypass",
+        "physical-security",
+        "lockpicking",
+        "hardware"
+      ],
+      "teaser": "An introduction to mechanical lock bypass principles, latch slipping, shimming, and non-destructive physical entry methods.",
+      "summary": null,
+      "durationSeconds": 1727
+    },
+    {
+      "youtubeId": "hGUMUG9VLKU",
+      "slug": "alarms-and-access-controlled-doors",
+      "title": "Alarms and Access Controlled Doors",
+      "speakers": [
+        "Bill Graydon"
+      ],
+      "track": "hardware",
+      "topics": [
+        "access-control",
+        "access-control-bypass",
+        "physical-security",
+        "hardware"
+      ],
+      "teaser": "Examines sensor mechanisms, request-to-exit bypasses, and alarm defeat techniques on commercial access-controlled doors.",
+      "summary": null,
+      "durationSeconds": 3233
+    }
+  ]
+}
