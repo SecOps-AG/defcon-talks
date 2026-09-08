@@ -1,0 +1,262 @@
+{
+  "villageSlug": "career-hacking-village",
+  "villageName": "Career Hacking Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBA9krrc9AbOZqhvD3hCQMx",
+  "description": "Career Hacking Village focuses on cybersecurity career paths, resume craftsmanship, technical interview preparation, leadership transition, executive management, and workforce development.",
+  "talks": [
+    {
+      "youtubeId": "dGpHdExqu0k",
+      "slug": "from-barista-to-cyber-security-pro",
+      "title": "From Barista to Cyber Security Pro",
+      "speakers": [
+        "Alyssa Miller"
+      ],
+      "track": "community",
+      "topics": [
+        "career",
+        "career-development",
+        "community",
+        "mentorship"
+      ],
+      "teaser": "Alyssa Miller shares personal journey insights on breaking into the cybersecurity industry from non-traditional backgrounds.",
+      "summary": null,
+      "durationSeconds": 2895
+    },
+    {
+      "youtubeId": "RAJI4NvkRzM",
+      "slug": "but-i-still-need-a-job",
+      "title": "But I Still Need a Job",
+      "speakers": [
+        "Kirsten Renner"
+      ],
+      "track": "community",
+      "topics": [
+        "career",
+        "recruitment",
+        "interviews",
+        "career-development",
+        "community"
+      ],
+      "teaser": "Practical guidance on navigating the cybersecurity job market, finding open roles, and standing out to hiring managers.",
+      "summary": null,
+      "durationSeconds": 2393
+    },
+    {
+      "youtubeId": "aOCLnFXJEUg",
+      "slug": "hacking-security-leadership",
+      "title": "Hacking Security Leadership",
+      "speakers": [
+        "Peter Keenan"
+      ],
+      "track": "community",
+      "topics": [
+        "leadership",
+        "career",
+        "career-development",
+        "community"
+      ],
+      "teaser": "Explores the skills, business alignment, and strategic mindset required to transition into cybersecurity leadership and executive roles.",
+      "summary": null,
+      "durationSeconds": 3000
+    },
+    {
+      "youtubeId": "PTQn4TGi_uA",
+      "slug": "pwning-your-resume",
+      "title": "Pwning Your Resume",
+      "speakers": [
+        "Kris Rides"
+      ],
+      "track": "community",
+      "topics": [
+        "career",
+        "recruitment",
+        "career-development",
+        "interviews"
+      ],
+      "teaser": "Actionable advice from a veteran recruiter on optimizing technical resumes, highlighting impact, and beating applicant tracking systems.",
+      "summary": null,
+      "durationSeconds": 3195
+    },
+    {
+      "youtubeId": "CdRf1rwRBDs",
+      "slug": "in-theory-there-is-no-difference-between-theory-and-practice",
+      "title": "In Theory There Is No Difference Between Theory and Practice",
+      "speakers": [
+        "Pablo Breuer"
+      ],
+      "track": "community",
+      "topics": [
+        "career",
+        "career-development",
+        "leadership",
+        "community"
+      ],
+      "teaser": "Examines the divergence between academic cybersecurity theory and the gritty realities of operational security practice.",
+      "summary": null,
+      "durationSeconds": 2518
+    },
+    {
+      "youtubeId": "JJLPvJSNTYQ",
+      "slug": "building-teams-is-the-new-normal",
+      "title": "Building Teams Is the New Normal",
+      "speakers": [
+        "Mike Murray"
+      ],
+      "track": "community",
+      "topics": [
+        "leadership",
+        "workforce",
+        "career-development",
+        "recruitment",
+        "community"
+      ],
+      "teaser": "Discusses the challenges and strategies of hiring, onboarding, and leading high-performing distributed security teams in remote environments.",
+      "summary": null,
+      "durationSeconds": 2700
+    },
+    {
+      "youtubeId": "gidqgoF41LQ",
+      "slug": "cons-and-careers",
+      "title": "Cons & Careers",
+      "speakers": [
+        "Steven Bernstein"
+      ],
+      "track": "community",
+      "topics": [
+        "career",
+        "community",
+        "career-development",
+        "networking"
+      ],
+      "teaser": "Demonstrates how attending hacker conventions, participating in village activities, and community networking accelerate career growth.",
+      "summary": null,
+      "durationSeconds": 3053
+    },
+    {
+      "youtubeId": "eicUXYrJmEo",
+      "slug": "national-service-panel",
+      "title": "National Service Panel",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "military",
+        "government",
+        "career",
+        "community",
+        "policy"
+      ],
+      "teaser": "A panel exploring civilian and military public service pathways in federal cybersecurity, intelligence, and national defense.",
+      "summary": null,
+      "durationSeconds": 2224
+    },
+    {
+      "youtubeId": "UsO5SvFvSAY",
+      "slug": "veteran-transition-tips",
+      "title": "Veteran Transition Tips",
+      "speakers": [
+        "Bob Wheeler"
+      ],
+      "track": "community",
+      "topics": [
+        "military",
+        "career",
+        "career-development",
+        "mentorship",
+        "community"
+      ],
+      "teaser": "Practical tips and resources for military veterans transitioning their skills into civilian cybersecurity roles.",
+      "summary": null,
+      "durationSeconds": 2357
+    },
+    {
+      "youtubeId": "KCnVCdasZMc",
+      "slug": "future-proofing-your-career",
+      "title": "Future Proofing Your Career",
+      "speakers": [
+        "Jenai Marinkovic"
+      ],
+      "track": "community",
+      "topics": [
+        "career",
+        "career-development",
+        "leadership",
+        "workforce"
+      ],
+      "teaser": "Strategies for continuous learning, skill adaptation, and staying ahead of technological disruptions in the infosec sector.",
+      "summary": null,
+      "durationSeconds": 1440
+    },
+    {
+      "youtubeId": "847bHTR57NQ",
+      "slug": "individual-contributor-to-tech-executive",
+      "title": "The Individual Contributor to Tech Executive",
+      "speakers": [
+        "Amelie Koran"
+      ],
+      "track": "community",
+      "topics": [
+        "career",
+        "leadership",
+        "career-development",
+        "workforce"
+      ],
+      "teaser": "Navigating the career inflection point between remaining a hands-on individual contributor and stepping into executive leadership.",
+      "summary": null,
+      "durationSeconds": 1689
+    },
+    {
+      "youtubeId": "xyEEvxJKd5E",
+      "slug": "entrepreneurial-adventures",
+      "title": "Entrepreneurial Adventures",
+      "speakers": [
+        "Bryson Bort"
+      ],
+      "track": "community",
+      "topics": [
+        "entrepreneurship",
+        "career",
+        "leadership",
+        "community"
+      ],
+      "teaser": "Bryson Bort shares hard-won lessons, pitfalls, and mindset strategies from founding and scaling cybersecurity startups.",
+      "summary": null,
+      "durationSeconds": 2506
+    },
+    {
+      "youtubeId": "GVJTwNa7IuI",
+      "slug": "drinks-with-recruiters-panel",
+      "title": "Drinks with Recruiters Panel",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "recruitment",
+        "career",
+        "interviews",
+        "career-development",
+        "community"
+      ],
+      "teaser": "An informal panel discussion where tech recruiters share unfiltered truths about compensation, hiring pipelines, and candidate red flags.",
+      "summary": null,
+      "durationSeconds": 3116
+    },
+    {
+      "youtubeId": "oyoG3FCh-Rg",
+      "slug": "key-ingredients-for-the-job-interviews",
+      "title": "Key Ingredients for the Job Interviews",
+      "speakers": [
+        "Roy Wattanasin"
+      ],
+      "track": "community",
+      "topics": [
+        "interviews",
+        "career",
+        "career-development",
+        "recruitment"
+      ],
+      "teaser": "Essential preparation strategies, question frameworks, and presentation techniques for acing cybersecurity job interviews.",
+      "summary": null,
+      "durationSeconds": 2130
+    }
+  ]
+}
