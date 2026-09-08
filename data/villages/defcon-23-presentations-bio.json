@@ -1,0 +1,46 @@
+{
+  "villageSlug": "presentations-bio",
+  "villageName": "Presentations Bio",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDVgYnBoM7ux0qB90RzDi_Q",
+  "description": "Presentations on Biohacking at DEF CON 23 covers medical device security, honeypot deployment for healthcare infrastructure, and the ethical frontiers of human augmentation.",
+  "talks": [
+    {
+      "youtubeId": "ZusL2BY6_XU",
+      "slug": "scott-erven-mark-collao-medical-devices-pwnage-and-honeypots",
+      "title": "Medical Devices: Pwnage and Honeypots",
+      "speakers": [
+        "Scott Erven",
+        "Mark Collao"
+      ],
+      "track": "hardware",
+      "topics": [
+        "medical-devices",
+        "healthcare",
+        "honeypot",
+        "hardware"
+      ],
+      "teaser": "Scott Erven and Mark Collao demonstrate systemic security failures across connected medical devices and reveal findings from deploying specialized healthcare honeypots.",
+      "summary": null,
+      "durationSeconds": 2654
+    },
+    {
+      "youtubeId": "KDPLV4S6hgQ",
+      "slug": "richard-thieme-hacking-the-human-body-and-brain",
+      "title": "Hacking the Human Body and Brain",
+      "speakers": [
+        "Richard Thieme"
+      ],
+      "track": "community",
+      "topics": [
+        "biohacking",
+        "ethics",
+        "psychology",
+        "culture"
+      ],
+      "teaser": "Richard Thieme explores the philosophical, cultural, and psychological dimensions of biohacking, neural interfaces, and the technological evolution of the human mind.",
+      "summary": null,
+      "durationSeconds": 3083
+    }
+  ]
+}
