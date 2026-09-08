@@ -1,0 +1,144 @@
+{
+  "villageSlug": "blockchain-village",
+  "villageName": "Blockchain Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCi3xCMqdz4v0Y4BVjAPCBY",
+  "description": "Blockchain Village at DEF CON 27 covers cryptocurrency security, smart contracts, blockchain vulnerabilities, and privacy in distributed systems. The talks explore blockchain APTs, cryptocurrency security standards, Bitcoin security, sequential time mechanisms, cryptocurrency hacking, and privacy considerations in blockchain.",
+  "talks": [
+    {
+      "youtubeId": "ItBRStAD2hA",
+      "slug": "rod-soto-a-smart-contract-killchain-how-the-first-blockchain-apt",
+      "title": "A Smart Contract Killchain How the first Blockchain APT",
+      "speakers": [
+        "Rod Soto"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "policy"
+      ],
+      "teaser": "A Smart Contract Killchain How the first Blockchain APT",
+      "summary": null,
+      "durationSeconds": 2336
+    },
+    {
+      "youtubeId": "K60VNlFpzR4",
+      "slug": "philip-martin-responding-to-firefox-0-days-def-con-27-block-chai",
+      "title": "Responding to Firefox 0 days",
+      "speakers": [
+        "Philip Martin"
+      ],
+      "track": "privacy",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "policy"
+      ],
+      "teaser": "Responding to Firefox 0 days",
+      "summary": null,
+      "durationSeconds": 2220
+    },
+    {
+      "youtubeId": "Xxabakco6cE",
+      "slug": "ron-stoner-the-cryptocurrency-security-standard-ccss-def-con-27",
+      "title": "The CryptoCurrency Security Standard CCSS",
+      "speakers": [
+        "Ron Stoner"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "policy"
+      ],
+      "teaser": "The CryptoCurrency Security Standard CCSS",
+      "summary": null,
+      "durationSeconds": 2993
+    },
+    {
+      "youtubeId": "grj9ocY1gXM",
+      "slug": "mark-nesbitt-what-is-bitcoin-def-con-27-block-chain-village",
+      "title": "What Is Bitcoin",
+      "speakers": [
+        "Mark Nesbitt"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "What Is Bitcoin",
+      "summary": null,
+      "durationSeconds": 1268
+    },
+    {
+      "youtubeId": "Xfb9gvZ0BWU",
+      "slug": "brian-vohaska-forcing-a-trustworthy-notion-of-sequential-time-de",
+      "title": "Forcing a trustworthy notion of sequential time",
+      "speakers": [
+        "Brian Vohaska"
+      ],
+      "track": "privacy",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "policy"
+      ],
+      "teaser": "Forcing a trustworthy notion of sequential time",
+      "summary": null,
+      "durationSeconds": 2072
+    },
+    {
+      "youtubeId": "RyOJ1kriKv0",
+      "slug": "mark-nesbitt-hacking-cryptocurrencies-def-con-27-block-chain-vil",
+      "title": "Hacking Cryptocurrencies",
+      "speakers": [
+        "Mark Nesbitt"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Hacking Cryptocurrencies",
+      "summary": null,
+      "durationSeconds": 1859
+    },
+    {
+      "youtubeId": "MVIw1BIdoqI",
+      "slug": "mila-paul-alice-and-bobs-big-secret-video-def-con-27-block-chain",
+      "title": "Alice and Bobs Big Secret video",
+      "speakers": [
+        "Mila Paul"
+      ],
+      "track": "privacy",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "policy"
+      ],
+      "teaser": "Alice and Bobs Big Secret video",
+      "summary": null,
+      "durationSeconds": 1885
+    },
+    {
+      "youtubeId": "mYzbuICWHQ4",
+      "slug": "panel-privacy-enabler-or-hindrance-to-the-success-of-blockchain",
+      "title": "Privacy Enabler or Hindrance to the Success of Blockchain",
+      "speakers": [
+        "Panel"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel"
+      ],
+      "teaser": "Privacy Enabler or Hindrance to the Success of Blockchain",
+      "summary": null,
+      "durationSeconds": 2404
+    }
+  ]
+}
