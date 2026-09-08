@@ -1,0 +1,127 @@
+{
+  "villageSlug": "cloud-village",
+  "villageName": "Cloud Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD2DeX60yFoL0-cxsyQmasi",
+  "description": "Cloud Village at DEF CON 27 covers cloud security for AWS, Azure, GCP, and other platforms. The 7 talks explore Azure assessment, cloud policy-as-code, security auditing with Splunk/ELK, automotive cloud hacking, secure defaults, air-gapping, and AWS security best practices.",
+  "talks": [
+    {
+      "youtubeId": "tJc_CNQMh5k",
+      "slug": "tanya-janca-dyi-azure-security-assesment",
+      "title": "DYI Azure Security Assesment",
+      "speakers": [
+        "Tanya Janca"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "appsec"
+      ],
+      "teaser": "DYI Azure Security Assesment",
+      "summary": null,
+      "durationSeconds": 2010
+    },
+    {
+      "youtubeId": "7Oyo2-2PvPs",
+      "slug": "setu-parimi-pacbot-policy-as-code-from-t-mobile-oss",
+      "title": "PacBot Policy as Code from T Mobile OSS",
+      "speakers": [
+        "Setu Parimi"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "appsec",
+        "policy"
+      ],
+      "teaser": "PacBot Policy as Code from T Mobile OSS",
+      "summary": null,
+      "durationSeconds": 1601
+    },
+    {
+      "youtubeId": "5pZRKNet9SU",
+      "slug": "rod-soto-using-splunk-or-elk-for-auditing-aws-gcp-azure-security",
+      "title": "Using Splunk or ELK for Auditing AWS GCP Azure Security",
+      "speakers": [
+        "Rod Soto"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "blue-team",
+        "appsec"
+      ],
+      "teaser": "Using Splunk or ELK for Auditing AWS GCP Azure Security",
+      "summary": null,
+      "durationSeconds": 1534
+    },
+    {
+      "youtubeId": "6NQeop_47EM",
+      "slug": "rotem-bar-hacking-into-automative-clouds",
+      "title": "Hacking into Automative Clouds",
+      "speakers": [
+        "Rotem Bar"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "car-hacking",
+        "red-team"
+      ],
+      "teaser": "Hacking into Automative Clouds",
+      "summary": null,
+      "durationSeconds": 1945
+    },
+    {
+      "youtubeId": "m5NxE9yZjR4",
+      "slug": "erick-galinkin-your-blacklist-is-dead-airgap-everything",
+      "title": "Your Blacklist is Dead Airgap Everything",
+      "speakers": [
+        "Erick Galinkin"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "defense",
+        "appsec"
+      ],
+      "teaser": "Your Blacklist is Dead Airgap Everything",
+      "summary": null,
+      "durationSeconds": 1602
+    },
+    {
+      "youtubeId": "RiZxb98sGTk",
+      "slug": "ayman-elsawah-using-paretos-principle-for-securing-aws-with-scps",
+      "title": "Using Paretos Principle for Securing AWS with SCPs",
+      "speakers": [
+        "Ayman Elsawah"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "appsec",
+        "policy"
+      ],
+      "teaser": "Using Paretos Principle for Securing AWS with SCPs",
+      "summary": null,
+      "durationSeconds": 1888
+    },
+    {
+      "youtubeId": "1FB58EVWAOU",
+      "slug": "chris-le-roy-build-to-hack-hack-to-build",
+      "title": "Build to Hack Hack to Build",
+      "speakers": [
+        "Chris Le Roy"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "red-team",
+        "appsec"
+      ],
+      "teaser": "Build to Hack Hack to Build",
+      "summary": null,
+      "durationSeconds": 1818
+    }
+  ]
+}
