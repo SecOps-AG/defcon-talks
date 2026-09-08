@@ -1,0 +1,177 @@
+{
+  "villageSlug": "wireless-village",
+  "villageName": "Wireless Village",
+  "eventSlug": "defcon-24",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDjQOh6vGdvurWpZYGfRObh",
+  "description": "Wireless Village at DEF CON 24 explores radio frequency security, software-defined radio, Wi-Fi exploitation, Bluetooth Low Energy hacking, and wireless CTF challenges.",
+  "talks": [
+    {
+      "youtubeId": "-z_HcOpPnog",
+      "slug": "village-people-wireless-capture-the-flag-inbrief",
+      "title": "Village People - Wireless Capture the Flag Inbrief",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "wireless",
+        "ctf",
+        "competition",
+        "rf"
+      ],
+      "teaser": "An introductory briefing to the DEF CON 24 Wireless Capture the Flag (WCTF), explaining contest rules, scoring, and frequency challenges.",
+      "summary": null,
+      "durationSeconds": 2718
+    },
+    {
+      "youtubeId": "AWpdetj0Zdk",
+      "slug": "village-people",
+      "title": "Village People",
+      "speakers": [
+        "WCTF Day 2 Kickoff"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wireless",
+        "ctf",
+        "competition",
+        "rf"
+      ],
+      "teaser": "Day 2 kickoff and briefing for the DEF CON 24 Wireless Capture the Flag competition, detailing new challenges and current scoreboard standing.",
+      "summary": null,
+      "durationSeconds": 1193
+    },
+    {
+      "youtubeId": "KEjlkZA2olE",
+      "slug": "matt-knight-reversting-lora-deconstructing-a-next-gen-proprietar",
+      "title": "Matt Knight - Reversting LoRa Deconstructing a Next Gen Proprietary LP",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "lora",
+        "wireless",
+        "reverse-engineering",
+        "rf"
+      ],
+      "teaser": "Reverse engineering the proprietary LoRa PHY modulation layer, deconstructing chirp spread spectrum encoding and packet structures.",
+      "summary": null,
+      "durationSeconds": 2967
+    },
+    {
+      "youtubeId": "9wpcDMYJsuM",
+      "slug": "iyer-and-nandedkar-covert-cupid-under-11-veil-approach-for-cover",
+      "title": "Iyer and Nandedkar - Covert Cupid Under 11 Veil Approach for Covert",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "wireless",
+        "covert-channel",
+        "wifi",
+        "network-security"
+      ],
+      "teaser": "Exploring 802.11 physical and MAC layer covert channels to transmit exfiltrated data under the radar of standard wireless monitoring.",
+      "summary": null,
+      "durationSeconds": 1720
+    },
+    {
+      "youtubeId": "iP_s0fFrf8M",
+      "slug": "kat-sweet-i-amateur-radio-and-so-can-you",
+      "title": "Kat Sweet - I Amateur Radio And So Can You",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "ham-radio",
+        "rf",
+        "wireless",
+        "education"
+      ],
+      "teaser": "A beginner-friendly guide to amateur radio licensing, equipment essentials, antenna fundamentals, and emergency communications for hackers.",
+      "summary": null,
+      "durationSeconds": 2405
+    },
+    {
+      "youtubeId": "oP6sx2cObrY",
+      "slug": "jose-gutierrez-and-ben-ramsey-how-do-i-ble-hacking",
+      "title": "Jose Gutierrez and Ben Ramsey - How Do I BLE Hacking",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "bluetooth",
+        "wireless",
+        "iot",
+        "reverse-engineering"
+      ],
+      "teaser": "A practical introduction to Bluetooth Low Energy (BLE) security assessments, sniffing toolsets, GATT service enumeration, and replay attacks.",
+      "summary": null,
+      "durationSeconds": 1233
+    },
+    {
+      "youtubeId": "dtNUFGnToQs",
+      "slug": "gabriel-ryan",
+      "title": "Gabriel Ryan",
+      "speakers": [
+        "Slaving Rogue Access Points w",
+        "Python",
+        "Cheap Hardw"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wifi",
+        "rogue-ap",
+        "wireless",
+        "python"
+      ],
+      "teaser": "Demonstrating how to construct and coordinate automated rogue Wi-Fi access points using inexpensive hardware and custom Python tooling.",
+      "summary": null,
+      "durationSeconds": 1187
+    },
+    {
+      "youtubeId": "0QmOb15a8xw",
+      "slug": "caleb-mays-and-ben-ramsey",
+      "title": "Caleb Mays and Ben Ramsey",
+      "speakers": [
+        "Insteon Inste off Inste open"
+      ],
+      "track": "wireless",
+      "topics": [
+        "rf",
+        "iot",
+        "wireless",
+        "reverse-engineering"
+      ],
+      "teaser": "Auditing Insteon home automation wireless protocols, uncovering unauthenticated command injection and device takeover vulnerabilities.",
+      "summary": null,
+      "durationSeconds": 1130
+    },
+    {
+      "youtubeId": "Ve4rmGOq6dM",
+      "slug": "brian-butterly-and-stefan-kiese-introducing-the-hackmerf",
+      "title": "Brian Butterly and Stefan Kiese - Introducing the HackMeRF",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "sdr",
+        "rf",
+        "hardware",
+        "education"
+      ],
+      "teaser": "Introducing HackMeRF, an interactive hardware and RF training platform designed to teach software-defined radio concepts and signals analysis.",
+      "summary": null,
+      "durationSeconds": 2326
+    },
+    {
+      "youtubeId": "yZ5G0nYSM98",
+      "slug": "balint-seeber-sdr-tips-and-tricks",
+      "title": "Balint Seeber - SDR Tips and Tricks",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "sdr",
+        "rf",
+        "dsp",
+        "wireless"
+      ],
+      "teaser": "SDR expert Balint Seeber shares advanced tips, workflow optimizations, and signal exploration techniques using GNU Radio and hardware radios.",
+      "summary": null,
+      "durationSeconds": 6369
+    }
+  ]
+}
