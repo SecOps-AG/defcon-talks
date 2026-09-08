@@ -1,0 +1,162 @@
+{
+  "villageSlug": "afk2",
+  "villageName": "AFK2",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDW3K64Ciz_mPH8Vzu_D-8S",
+  "description": "AFK2 at DEF CON 25 is a second collection of 9 talks covering panel discussions, biotechnology security, surveillance, regulatory policy, wireless hacking, and critical infrastructure protection.",
+  "talks": [
+    {
+      "youtubeId": "1MTLdC3S8ak",
+      "slug": "highwiz-malware-unicorn-niki7a-roamer-wiseacre-shaggy",
+      "title": "101 Panel",
+      "speakers": [
+        "HighWiz, Malware Unicorn, Niki7a, Roamer, Wiseacre, Shaggy"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "101 Panel",
+      "summary": null,
+      "durationSeconds": 6650
+    },
+    {
+      "youtubeId": "LJhhXH4QlRo",
+      "slug": "inbar-raz-eden-shochat-from-one-country-one-floppy-to-startup-na",
+      "title": "From One Country, One Floppy to Startup Nation",
+      "speakers": [
+        "Inbar Raz, Eden Shochat"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "From One Country, One Floppy to Startup Nation",
+      "summary": null,
+      "durationSeconds": 2823
+    },
+    {
+      "youtubeId": "gFsPnIbzEco",
+      "slug": "jason-hernandez-sam-richards-jerod-macdonald-evoy-tracking-spies",
+      "title": "Tracking Spies in the Skies",
+      "speakers": [
+        "Jason Hernandez, Sam Richards, Jerod MacDonald-Evoy"
+      ],
+      "track": "recon",
+      "topics": [
+        "recon",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Tracking Spies in the Skies",
+      "summary": null,
+      "durationSeconds": 2439
+    },
+    {
+      "youtubeId": "HKQDSgBHPfY",
+      "slug": "john-sotos-genetic-diseases-to-guide-digital-hacks-of-the-human",
+      "title": "Genetic Diseases to Guide Digital Hacks of the Human Genome",
+      "speakers": [
+        "John Sotos"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Genetic Diseases to Guide Digital Hacks of the Human Genome",
+      "summary": null,
+      "durationSeconds": 2987
+    },
+    {
+      "youtubeId": "gFTiD7EnVjU",
+      "slug": "matt-wixey-see-no-evil-hear-no-evil-hacking-invisibly-and-silent",
+      "title": "See no evil, hear no evil: Hacking invisibly & silently with light & sound",
+      "speakers": [
+        "Matt Wixey"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "See no evil, hear no evil: Hacking invisibly & silently with light & sound",
+      "summary": null,
+      "durationSeconds": 2616
+    },
+    {
+      "youtubeId": "6dCdusRSFLw",
+      "slug": "octane-untrustworthy-hardware-and-how-to-fix-it",
+      "title": "Untrustworthy Hardware and How to Fix It",
+      "speakers": [
+        "Octane"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Untrustworthy Hardware and How to Fix It",
+      "summary": null,
+      "durationSeconds": 1151
+    },
+    {
+      "youtubeId": "jt6dpEqsda4",
+      "slug": "snide-owen-phone-system-testing-and-other-fun-tricks",
+      "title": "Phone system testing and other fun tricks",
+      "speakers": [
+        "Snide Owen"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Phone system testing and other fun tricks",
+      "summary": null,
+      "durationSeconds": 2344
+    },
+    {
+      "youtubeId": "7E5hmStBocQ",
+      "slug": "whitney-merrill-terrell-mcsweeny-tick-tick-tick-boom-youre-dead",
+      "title": "Tick, Tick, Tick Boom You're Dead: Tech & the FTC",
+      "speakers": [
+        "Whitney Merrill, Terrell McSweeny"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Tick, Tick, Tick Boom You're Dead: Tech & the FTC",
+      "summary": null,
+      "durationSeconds": 2696
+    },
+    {
+      "youtubeId": "DfNwWQAOdks",
+      "slug": "conference-jason-staggs-breaking-wind-adventures-hacking-wind-fa",
+      "title": "Breaking Wind: Adventures Hacking Wind Farm Control Networks",
+      "speakers": [
+        "Jason Staggs"
+      ],
+      "track": "red-team",
+      "topics": [
+        "ics-ot",
+        "threat-intel",
+        "community"
+      ],
+      "teaser": "Breaking Wind: Adventures Hacking Wind Farm Control Networks",
+      "summary": null,
+      "durationSeconds": 1384
+    }
+  ]
+}
