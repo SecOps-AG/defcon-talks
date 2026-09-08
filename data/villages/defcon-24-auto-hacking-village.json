@@ -1,0 +1,177 @@
+{
+  "villageSlug": "auto-hacking-village",
+  "villageName": "Auto Hacking Village",
+  "eventSlug": "defcon-24",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAEbUAg8S7K6iB1GKYeEIov",
+  "description": "Auto Hacking Village at DEF CON 24 explores vehicle security, CAN bus exploitation, heavy truck diagnostics, connected car vulnerabilities, and autonomous systems.",
+  "talks": [
+    {
+      "youtubeId": "gx35otoHQgw",
+      "slug": "javier-vazquez-vidal-ferdinand-noelscher-can-i-haz-car-secret-pl",
+      "title": "Javier Vazquez Vidal, Ferdinand Noelscher - CAN i haz car secret plz",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "can-bus",
+        "automotive",
+        "hardware",
+        "reverse-engineering"
+      ],
+      "teaser": "Reverse engineering CAN bus communication protocols and electronic control units to extract proprietary secrets and firmware logic from vehicles.",
+      "summary": null,
+      "durationSeconds": 1357
+    },
+    {
+      "youtubeId": "PDlkcKtkeOE",
+      "slug": "six-volts-and-haystack-cheap-tools-for-hacking-heavy-trucks",
+      "title": "Six Volts and Haystack - Cheap Tools for Hacking Heavy Trucks",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "automotive",
+        "j1939",
+        "hardware",
+        "heavy-vehicle"
+      ],
+      "teaser": "Demonstrating low-cost hardware tools and open-source software for analyzing and injecting traffic on J1939 heavy vehicle networks.",
+      "summary": null,
+      "durationSeconds": 1283
+    },
+    {
+      "youtubeId": "A91UZCP4f-U",
+      "slug": "car-hacking-village-trevor-roest-using-yard-stick-one-for-fob-fu",
+      "title": "Car Hacking Village - Trevor Roest - Using Yard Stick One for FOB Fun",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "rf",
+        "automotive",
+        "wireless",
+        "car-hacking"
+      ],
+      "teaser": "Using the Yard Stick One sub-1GHz wireless transceiver to capture, analyze, and replay signals from automotive key fobs.",
+      "summary": null,
+      "durationSeconds": 784
+    },
+    {
+      "youtubeId": "oAlFnYYmOGQ",
+      "slug": "car-hacking-village-nathan-hoch",
+      "title": "Car Hacking Village - Nathan Hoch",
+      "speakers": [
+        "Understanding Heavy Truck Event Data"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive",
+        "forensics",
+        "heavy-vehicle",
+        "j1939"
+      ],
+      "teaser": "Dissecting event data recorders (EDRs) and diagnostic fault logging in commercial heavy trucks from an accident reconstruction perspective.",
+      "summary": null,
+      "durationSeconds": 1657
+    },
+    {
+      "youtubeId": "4hiyrqlFanU",
+      "slug": "car-hacking-village-nathan-hoch-hacking-the-chv-badge",
+      "title": "Car Hacking Village - Nathan Hoch - Hacking the CHV Badge",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "badge",
+        "embedded",
+        "automotive"
+      ],
+      "teaser": "An exploration of the electronic hardware design, microcontroller architecture, and hacking challenges built into the Car Hacking Village badge.",
+      "summary": null,
+      "durationSeconds": 683
+    },
+    {
+      "youtubeId": "aeWlfvJ5pEo",
+      "slug": "car-hacking-village-ken-munro-the-mitsubishi-hack-explained",
+      "title": "Car Hacking Village - Ken Munro - The Mitsubishi Hack Explained",
+      "speakers": [],
+      "track": "wireless",
+      "topics": [
+        "automotive",
+        "wifi",
+        "iot",
+        "vulnerability-research"
+      ],
+      "teaser": "Ken Munro explains the exploitation of the Mitsubishi Outlander PHEV Wi-Fi module, demonstrating remote vehicle control and alarm tampering.",
+      "summary": null,
+      "durationSeconds": 1446
+    },
+    {
+      "youtubeId": "p3SJp-7LSNs",
+      "slug": "car-hacking-village-jun-li-yuan-jian",
+      "title": "Car Hacking Village - Jun Li, Yuan Jian",
+      "speakers": [
+        "Security Flaws in Automotive Immobilizer"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive",
+        "rfid",
+        "cryptography",
+        "reverse-engineering"
+      ],
+      "teaser": "A deep dive into cryptographic weaknesses and protocol vulnerabilities discovered in widely deployed automotive immobilizer transponder systems.",
+      "summary": null,
+      "durationSeconds": 3902
+    },
+    {
+      "youtubeId": "1QSo5sOfXtI",
+      "slug": "car-hacking-village-jun-li",
+      "title": "Car Hacking Village - Jun Li",
+      "speakers": [
+        "Deep Learning on CAN BUS"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "can-bus",
+        "machine-learning",
+        "automotive",
+        "intrusion-detection"
+      ],
+      "teaser": "Applying deep learning algorithms and recurrent neural networks to CAN bus telemetry for automated intrusion detection and anomaly monitoring.",
+      "summary": null,
+      "durationSeconds": 3612
+    },
+    {
+      "youtubeId": "senXEtIxUjk",
+      "slug": "car-hacking-village-ben-breckt",
+      "title": "Car Hacking Village - Ben Breckt",
+      "speakers": [
+        "Vehicle to Infrastructure V2X"
+      ],
+      "track": "wireless",
+      "topics": [
+        "v2x",
+        "automotive",
+        "wireless",
+        "protocols"
+      ],
+      "teaser": "Evaluating vehicle-to-infrastructure (V2X) communication standards, examining message authentication, wireless protocols, and traffic safety implications.",
+      "summary": null,
+      "durationSeconds": 2272
+    },
+    {
+      "youtubeId": "orWqKWvIW_0",
+      "slug": "jianhao-liu-chen-yan-wenyuan-xu-can-you-trust-autonomous-vehicle",
+      "title": "Jianhao Liu, Chen Yan, Wenyuan Xu - Can You Trust Autonomous Vehicles?",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "automotive",
+        "sensors",
+        "hardware",
+        "autonomous-systems"
+      ],
+      "teaser": "Investigating the sensor trustworthiness of autonomous vehicles, evaluating acoustic, optical, and radar spoofing attacks against onboard perception systems.",
+      "summary": null,
+      "durationSeconds": 2645
+    }
+  ]
+}
