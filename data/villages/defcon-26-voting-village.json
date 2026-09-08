@@ -1,0 +1,162 @@
+{
+  "villageSlug": "voting-village",
+  "villageName": "Voting Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCnyt71nkEAGQxxNhyhR_Is",
+  "description": "Voting Village at DEF CON 26 covers election security, voting machine vulnerabilities, and election infrastructure defenses. The talks explore election threats and solutions, voting machine forensics, auditing procedures, state and local election security perspectives, and trustworthy election systems.",
+  "talks": [
+    {
+      "youtubeId": "T9fIPgoikYw",
+      "slug": "robert-karas-defending-election-security-a-national-security-pri",
+      "title": "Defending Election Security A National Security Priority",
+      "speakers": [
+        "Robert Karas"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Defending Election Security A National Security Priority",
+      "summary": null,
+      "durationSeconds": 2731
+    },
+    {
+      "youtubeId": "hyTPB7OsYu8",
+      "slug": "neal-kelley-and-panel",
+      "title": "State, Local Perspectives on Election Security",
+      "speakers": [
+        "Neal Kelley and Panel"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "State, Local Perspectives on Election Security",
+      "summary": null,
+      "durationSeconds": 3333
+    },
+    {
+      "youtubeId": "9xVnP7dY2vA",
+      "slug": "matthew-bernhard-lightning-talk-a-crash-course-on-election-secur",
+      "title": "Lightning Talk A Crash Course on Election Security",
+      "speakers": [
+        "Matthew Bernhard"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Lightning Talk A Crash Course on Election Security",
+      "summary": null,
+      "durationSeconds": 727
+    },
+    {
+      "youtubeId": "vC5ycx1w904",
+      "slug": "maggie-macalpine-mechanics-and-pitfalls-of-auditing-with-scanner",
+      "title": "Mechanics and Pitfalls of Auditing with Scanners",
+      "speakers": [
+        "Maggie MacAlpine"
+      ],
+      "track": "policy",
+      "topics": [
+        "blue-team",
+        "appsec",
+        "threat-intel"
+      ],
+      "teaser": "Mechanics and Pitfalls of Auditing with Scanners",
+      "summary": null,
+      "durationSeconds": 599
+    },
+    {
+      "youtubeId": "5s8SjbYbtdo",
+      "slug": "joseph-kiniry",
+      "title": "Trustworthy Elections",
+      "speakers": [
+        "Joseph Kiniry"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "privacy",
+        "threat-intel"
+      ],
+      "teaser": "Trustworthy Elections",
+      "summary": null,
+      "durationSeconds": 1647
+    },
+    {
+      "youtubeId": "lJse3DNFbaY",
+      "slug": "jake-braun-and-panel-recap-of-voting-village-2017-lessons-learne",
+      "title": "Recap of Voting Village 2017  Lessons Learned",
+      "speakers": [
+        "Jake Braun and Panel"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Recap of Voting Village 2017  Lessons Learned",
+      "summary": null,
+      "durationSeconds": 2525
+    },
+    {
+      "youtubeId": "4K0YZcbbzhc",
+      "slug": "j-alex-halderman-election-security-threats-and-solutions",
+      "title": "Election Security Threats and Solutions",
+      "speakers": [
+        "J Alex Halderman"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "privacy"
+      ],
+      "teaser": "Election Security Threats and Solutions",
+      "summary": null,
+      "durationSeconds": 1639
+    },
+    {
+      "youtubeId": "TkoCnyhmorg",
+      "slug": "diego-aranha-return-of-software-vulns-in-brazilian-voting-machin",
+      "title": "Return of Software Vulns in Brazilian Voting Machines",
+      "speakers": [
+        "Diego Aranha"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "hardware",
+        "threat-intel"
+      ],
+      "teaser": "Return of Software Vulns in Brazilian Voting Machines",
+      "summary": null,
+      "durationSeconds": 1518
+    },
+    {
+      "youtubeId": "CXYCtSwkWf8",
+      "slug": "carsten-schurmann-a-comprehensive-forensic-analysis-of-winvote-v",
+      "title": "A Comprehensive Forensic Analysis of WINVote Voting",
+      "speakers": [
+        "Carsten Schurmann"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "hardware",
+        "blue-team"
+      ],
+      "teaser": "A Comprehensive Forensic Analysis of WINVote Voting",
+      "summary": null,
+      "durationSeconds": 1480
+    }
+  ]
+}
