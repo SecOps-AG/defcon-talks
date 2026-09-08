@@ -1,0 +1,65 @@
+{
+  "villageSlug": "presentations-auto",
+  "villageName": "Presentations Auto",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAOPo2Gu-1O1s7aKb4NO_ho",
+  "description": "Presentations on Automotive Hacks at DEF CON 23 covers connected vehicle security, remote cellular exploitation, CAN bus injection, and wireless key fob replay attacks.",
+  "talks": [
+    {
+      "youtubeId": "KX_0c9R4Fng",
+      "slug": "marc-rogers-kevin-mahaffey-how-to-hack-a-tesla-model-s",
+      "title": "How to Hack a Tesla Model S",
+      "speakers": [
+        "Marc Rogers",
+        "Kevin Mahaffey"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive",
+        "hardware",
+        "can-bus",
+        "reverse-engineering"
+      ],
+      "teaser": "Marc Rogers and Kevin Mahaffey reveal multiple vulnerabilities in the Tesla Model S, demonstrating physical and software chain exploits to control vehicle systems.",
+      "summary": null,
+      "durationSeconds": 2989
+    },
+    {
+      "youtubeId": "UNgvShN4USU",
+      "slug": "samy-kamkar-drive-it-like-you-hacked-it-new-attacks-and-tools",
+      "title": "Drive It Like You Hacked It: New Attacks and Tools to Wirelessly Steal Cars",
+      "speakers": [
+        "Samy Kamkar"
+      ],
+      "track": "wireless",
+      "topics": [
+        "automotive",
+        "wireless",
+        "rf",
+        "hardware"
+      ],
+      "teaser": "Samy Kamkar introduces RollJam and other low-cost hardware devices that intercept rolling-code wireless key fobs to remotely unlock and access vehicles.",
+      "summary": null,
+      "durationSeconds": 2731
+    },
+    {
+      "youtubeId": "OobLb1McxnI",
+      "slug": "charlie-miller-chris-valasek-remote-exploitation-of-an-unaltered",
+      "title": "Remote Exploitation of an Unaltered Passenger Vehicle",
+      "speakers": [
+        "Charlie Miller",
+        "Chris Valasek"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive",
+        "can-bus",
+        "hardware",
+        "cellular"
+      ],
+      "teaser": "Charlie Miller and Chris Valasek detail their groundbreaking remote exploit of a Jeep Cherokee over cellular networks to inject CAN bus commands and control steering and brakes.",
+      "summary": null,
+      "durationSeconds": 2782
+    }
+  ]
+}
