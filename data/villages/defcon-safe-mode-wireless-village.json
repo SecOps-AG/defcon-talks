@@ -1,0 +1,104 @@
+{
+  "villageSlug": "wireless-village",
+  "villageName": "Wireless Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAGKfuIb48-4J8yRjvGq5Wi",
+  "description": "Wireless Village focuses on radio frequency security, Wi-Fi auditing, Bluetooth Low Energy exploitation, mobile wardriving, and software-defined radio tooling.",
+  "talks": [
+    {
+      "youtubeId": "swCSBFO-w6M",
+      "slug": "wicked-wardriving-with-gps-and-glonass",
+      "title": "Wicked Wardriving with GPS and GLONASS",
+      "speakers": [
+        "wytshadow"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wardriving",
+        "gps",
+        "wifi",
+        "wireless",
+        "rf"
+      ],
+      "teaser": "Demonstrates mobile wardriving rigs combining dual-constellation GPS and GLONASS positioning for high-accuracy RF mapping.",
+      "summary": null,
+      "durationSeconds": 2002
+    },
+    {
+      "youtubeId": "YzFGBGWKAlE",
+      "slug": "introduction-to-wifi-security",
+      "title": "Introduction to WiFi Security",
+      "speakers": [
+        "wifisecguy"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wifi",
+        "wpa2",
+        "encryption",
+        "wireless",
+        "authentication"
+      ],
+      "teaser": "An introductory guide to Wi-Fi security mechanisms, framing protocols, authentication standards, and common attacks.",
+      "summary": null,
+      "durationSeconds": 3967
+    },
+    {
+      "youtubeId": "NtiqbJi33EY",
+      "slug": "wireless-blue-team",
+      "title": "Wireless Blue Team",
+      "speakers": [
+        "Eric Escobar"
+      ],
+      "track": "wireless",
+      "topics": [
+        "blue-team",
+        "wifi",
+        "rogue-ap",
+        "wireless",
+        "monitoring"
+      ],
+      "teaser": "Explores defensive techniques and sensor architectures for detecting rogue access points, evil twins, and wireless intrusions.",
+      "summary": null,
+      "durationSeconds": 1406
+    },
+    {
+      "youtubeId": "X2ARyfjzxhY",
+      "slug": "the-basics-of-breaking-ble-v3",
+      "title": "The Basics of Breaking BLE v3",
+      "speakers": [
+        "FreqyXin"
+      ],
+      "track": "wireless",
+      "topics": [
+        "bluetooth",
+        "ble",
+        "wireless",
+        "reverse-engineering",
+        "hardware"
+      ],
+      "teaser": "Breaks down Bluetooth Low Energy architecture, GATT services, sniffing tools, and attack surfaces in connected devices.",
+      "summary": null,
+      "durationSeconds": 4219
+    },
+    {
+      "youtubeId": "JHD9whqzzK4",
+      "slug": "dragonos-how-i-kept-busy-during-covid19",
+      "title": "DragonOS: How I Kept Busy During COVID-19",
+      "speakers": [
+        "cemaxecuter"
+      ],
+      "track": "wireless",
+      "topics": [
+        "sdr",
+        "wireless",
+        "rf",
+        "linux",
+        "software-defined-radio"
+      ],
+      "teaser": "Introduces DragonOS, an out-of-the-box Debian-based Linux distribution pre-loaded with open-source SDR packages and RF tools.",
+      "summary": null,
+      "durationSeconds": 1830
+    }
+  ]
+}
