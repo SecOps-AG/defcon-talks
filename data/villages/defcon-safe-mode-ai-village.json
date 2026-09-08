@@ -1,0 +1,229 @@
+{
+  "villageSlug": "ai-village",
+  "villageName": "AI Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAl2wDVzJCPik-2ZDk_QymR",
+  "description": "AI Village explores the intersection of artificial intelligence and information security. Talks cover adversarial machine learning, evasion techniques against ML-based malware detectors, deep reinforcement learning vulnerabilities, and privacy-preserving model architectures.",
+  "talks": [
+    {
+      "youtubeId": "H7KfmNNkXiY",
+      "slug": "spectrum-framework-for-ml-based-threat-monitoring",
+      "title": "Spectrum Framework for ML-Based Threat Monitoring",
+      "speakers": [
+        "Nahid Farhady"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "threat-monitoring",
+        "detection",
+        "ai-security"
+      ],
+      "teaser": "Introduces the Spectrum framework for deploying and operationalizing machine learning models in threat monitoring pipelines.",
+      "summary": null,
+      "durationSeconds": 1434
+    },
+    {
+      "youtubeId": "Etv-GGjkcJE",
+      "slug": "a-dive-into-privacy-preserving-machine-learning",
+      "title": "A Dive into Privacy-Preserving Machine Learning",
+      "speakers": [
+        "Nahid Farhady"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "privacy-preserving-ml",
+        "machine-learning",
+        "differential-privacy",
+        "ai-security"
+      ],
+      "teaser": "Examines privacy-preserving machine learning techniques, homomorphic encryption, and differential privacy safeguards.",
+      "summary": null,
+      "durationSeconds": 1237
+    },
+    {
+      "youtubeId": "tHhi83yUl_k",
+      "slug": "project-domino-citizen-data-science-against-covid-misinformation",
+      "title": "Project Domino: Citizen Data Science Against COVID Misinformation",
+      "speakers": [
+        "Imeyerov"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "misinformation",
+        "data-science",
+        "nlp",
+        "ai-security"
+      ],
+      "teaser": "Details Project Domino, an open-source citizen data science effort leveraging NLP to track COVID-19 misinformation.",
+      "summary": null,
+      "durationSeconds": 1666
+    },
+    {
+      "youtubeId": "zD51Q8ZU6S0",
+      "slug": "machine-learning-competition-2020",
+      "title": "Machine Learning Competition 2020",
+      "speakers": [
+        "Hyrum Anderson",
+        "Zoltan Balaz"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "adversarial-ml",
+        "contest",
+        "evasion"
+      ],
+      "teaser": "Reviews results and top evasion strategies from the AI Village machine learning security and evasion competition.",
+      "summary": null,
+      "durationSeconds": 1292
+    },
+    {
+      "youtubeId": "Nkroi-fjlys",
+      "slug": "pursuit-of-exploitable-bugs-in-machine-learning",
+      "title": "Pursuit of Exploitable Bugs in Machine Learning",
+      "speakers": [
+        "Journal Club Live"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-ml",
+        "vulnerability-research",
+        "machine-learning",
+        "ai-security"
+      ],
+      "teaser": "Discusses practical methodologies for discovering exploitable bugs, implementation flaws, and attack surfaces in ML systems.",
+      "summary": null,
+      "durationSeconds": 3466
+    },
+    {
+      "youtubeId": "dJTuvt1nAo0",
+      "slug": "fawkes-facial-recognition-privacy-protection",
+      "title": "Fawkes: Facial Recognition Privacy Protection",
+      "speakers": [
+        "Journal Club Live"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "facial-recognition",
+        "fawkes",
+        "adversarial-perturbation",
+        "privacy"
+      ],
+      "teaser": "Examines Fawkes, an image cloaking tool that adds pixel-level perturbations to photos to deceive facial recognition models.",
+      "summary": null,
+      "durationSeconds": 3216
+    },
+    {
+      "youtubeId": "-F-eCJHSw9s",
+      "slug": "hyperlocal-drift-detection-with-goko",
+      "title": "Hyperlocal Drift Detection with Goko",
+      "speakers": [
+        "comathematician"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "concept-drift",
+        "drift-detection",
+        "machine-learning",
+        "goko"
+      ],
+      "teaser": "Demonstrates Goko, an algorithm and tool for detecting fine-grained, localized concept drift in production ML models.",
+      "summary": null,
+      "durationSeconds": 1723
+    },
+    {
+      "youtubeId": "1ATu9tC4b04",
+      "slug": "hacking-with-skynet-how-ai-is-empowering-adversaries",
+      "title": "Hacking with Skynet: How AI is Empowering Adversaries",
+      "speakers": [
+        "GTKlondike"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-ai",
+        "offensive-security",
+        "ai-assisted-attacks",
+        "ai-security"
+      ],
+      "teaser": "Analyzes how threat actors can leverage machine learning and artificial intelligence to automate and enhance cyberattacks.",
+      "summary": null,
+      "durationSeconds": 2933
+    },
+    {
+      "youtubeId": "u5SPg9XDqGM",
+      "slug": "security-challenges-in-deep-reinforcement-learning",
+      "title": "Security Challenges in Deep Reinforcement Learning",
+      "speakers": [
+        "Vahid Behdazan"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "reinforcement-learning",
+        "deep-learning",
+        "adversarial-attacks",
+        "ai-security"
+      ],
+      "teaser": "Explores vulnerabilities and adversarial manipulation techniques in deep reinforcement learning agents and environments.",
+      "summary": null,
+      "durationSeconds": 3457
+    },
+    {
+      "youtubeId": "F0i5qmSOye8",
+      "slug": "adversarial-machine-learning-attacking-amsi-providers",
+      "title": "Adversarial Machine Learning: Attacking AMSI Providers",
+      "speakers": [
+        "Workshop"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "amsi",
+        "adversarial-ml",
+        "evasion",
+        "windows",
+        "ai-security"
+      ],
+      "teaser": "Hands-on workshop demonstrating adversarial evasion techniques targeting ML-based Antimalware Scan Interface providers.",
+      "summary": null,
+      "durationSeconds": 5392
+    },
+    {
+      "youtubeId": "O4NV2ZR2MtQ",
+      "slug": "detecting-social-engineering-emails-with-a-bleeding-edge-neural-model",
+      "title": "Detecting Social Engineering Emails with a Bleeding-Edge Neural Model",
+      "speakers": [
+        "Lee",
+        "Saxe"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "social-engineering",
+        "phishing",
+        "nlp",
+        "neural-networks",
+        "detection"
+      ],
+      "teaser": "Presents a cutting-edge deep neural network architecture designed to detect subtle social engineering patterns in emails.",
+      "summary": null,
+      "durationSeconds": 2964
+    },
+    {
+      "youtubeId": "Xo2KZCbJWCg",
+      "slug": "babys-first-100-mlsec-words",
+      "title": "Baby's First 100 MLsec Words",
+      "speakers": [
+        "Erick Galinkin"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "machine-learning",
+        "vocabulary",
+        "adversarial-ml",
+        "ai-security"
+      ],
+      "teaser": "A primer breaking down core vocabulary, concepts, and foundational theory in machine learning security.",
+      "summary": null,
+      "durationSeconds": 1786
+    }
+  ]
+}
