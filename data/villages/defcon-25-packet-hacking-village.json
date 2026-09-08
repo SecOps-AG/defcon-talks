@@ -1,0 +1,361 @@
+{
+  "villageSlug": "packet-hacking-village",
+  "villageName": "Packet Hacking Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAxfsGhSV51abnG1LUir72x",
+  "description": "Packet Hacking Village at DEF CON 25 showcases techniques and tools for capturing, analyzing, and exploiting network traffic. The 22 talks cover wireless security, network analysis, packet capture, penetration testing, and practical security research methods.",
+  "talks": [
+    {
+      "youtubeId": "srJXU7DVo7Y",
+      "slug": "chris-wysopal-how-hackers-changed-the-security-industry",
+      "title": "Chris Wysopal - How Hackers Changed the Security Industry",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Chris Wysopal - How Hackers Changed the Security Industry",
+      "summary": null,
+      "durationSeconds": 2860
+    },
+    {
+      "youtubeId": "aexJa6cgA9Y",
+      "slug": "catherine-ullman-chris-roberts-breaking-the-bad-news",
+      "title": "Catherine Ullman, Chris Roberts - Breaking the Bad News",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Catherine Ullman, Chris Roberts - Breaking the Bad News",
+      "summary": null,
+      "durationSeconds": 2692
+    },
+    {
+      "youtubeId": "gOGytFSomA0",
+      "slug": "vivek-ramachandran-thomas-dotreppe",
+      "title": "Vivek Ramachandran,Thomas d'Otreppe - Make a 802.11AC Monitor",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Vivek Ramachandran,Thomas d'Otreppe - Make a 802.11AC Monitor",
+      "summary": null,
+      "durationSeconds": 3611
+    },
+    {
+      "youtubeId": "elf8NK1GR-M",
+      "slug": "tom-sela-fooling-the-hound-deceiving-doman-admin-hunters",
+      "title": "Tom Sela - Fooling the Hound  Deceiving Doman Admin Hunters",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Tom Sela - Fooling the Hound  Deceiving Doman Admin Hunters",
+      "summary": null,
+      "durationSeconds": 2095
+    },
+    {
+      "youtubeId": "z8vPrXFa3Ws",
+      "slug": "tan-kean-siong-stories-from-a-15-days-smb-honeypot-mum",
+      "title": "Tan Kean Siong - Stories from a 15 days SMB Honeypot  Mum",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Tan Kean Siong - Stories from a 15 days SMB Honeypot  Mum",
+      "summary": null,
+      "durationSeconds": 2411
+    },
+    {
+      "youtubeId": "uXB4AiQw98s",
+      "slug": "ron-taylor-demystifying-the-opm-breach-wtf-really-happened",
+      "title": "Ron Taylor - Demystifying The OPM breach, WTF Really Happened",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Ron Taylor - Demystifying The OPM breach, WTF Really Happened",
+      "summary": null,
+      "durationSeconds": 3274
+    },
+    {
+      "youtubeId": "IzwCS0WhI_w",
+      "slug": "brute-logic-xss-for-the-win",
+      "title": "Brute Logic - XSS For the win",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Brute Logic - XSS For the win",
+      "summary": null,
+      "durationSeconds": 926
+    },
+    {
+      "youtubeId": "izfL_tBO8Hg",
+      "slug": "sam-erb-youre-going-to-connect-to-the-wrong-domain-name",
+      "title": "Sam Erb - You're Going to Connect to the Wrong Domain Name",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Sam Erb - You're Going to Connect to the Wrong Domain Name",
+      "summary": null,
+      "durationSeconds": 1384
+    },
+    {
+      "youtubeId": "FAWv-4WsIP0",
+      "slug": "peter-ewane-cloudy-with-a-chance-of-persistence",
+      "title": "Peter Ewane - Cloudy With A Chance of Persistence",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Peter Ewane - Cloudy With A Chance of Persistence",
+      "summary": null,
+      "durationSeconds": 2040
+    },
+    {
+      "youtubeId": "IIrzbzzNFjw",
+      "slug": "mike-raggo-chet-hosmer-covert-tcp-with-a-twist",
+      "title": "Mike Raggo, Chet Hosmer - Covert TCP with a Twist",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Mike Raggo, Chet Hosmer - Covert TCP with a Twist",
+      "summary": null,
+      "durationSeconds": 3369
+    },
+    {
+      "youtubeId": "zq3t_hmyXpU",
+      "slug": "michael-gianarakis-keith-lee",
+      "title": "Michael Gianarakis ,Keith Lee - Portia",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Michael Gianarakis ,Keith Lee - Portia",
+      "summary": null,
+      "durationSeconds": 1967
+    },
+    {
+      "youtubeId": "6jN8kNyO0-k",
+      "slug": "megan-roddie",
+      "title": "Megan Roddie - Strengthen Secops  By Leveraging Neurodiversity",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Megan Roddie - Strengthen Secops  By Leveraging Neurodiversity",
+      "summary": null,
+      "durationSeconds": 993
+    },
+    {
+      "youtubeId": "9edSBCEY_Fw",
+      "slug": "marek-majkowski",
+      "title": "Marek Majkowski - IP Spoofing",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Marek Majkowski - IP Spoofing",
+      "summary": null,
+      "durationSeconds": 3125
+    },
+    {
+      "youtubeId": "dm6bsXuYEkg",
+      "slug": "leah-figueroa-iron-sights-for-your-data",
+      "title": "Leah Figueroa - Iron Sights for Your Data",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Leah Figueroa - Iron Sights for Your Data",
+      "summary": null,
+      "durationSeconds": 1365
+    },
+    {
+      "youtubeId": "GqAiirvD9Tg",
+      "slug": "gita-ziabari-yalda-automated-bulk-intelligence",
+      "title": "Gita Ziabari   -Yalda: Automated Bulk Intelligence",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Gita Ziabari   -Yalda: Automated Bulk Intelligence",
+      "summary": null,
+      "durationSeconds": 1624
+    },
+    {
+      "youtubeId": "O38eY1VsWm8",
+      "slug": "gilberto-bertin-past-present-and-future-of-high-speed-packet",
+      "title": "Gilberto Bertin - Past, Present and Future of High Speed Packet",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Gilberto Bertin - Past, Present and Future of High Speed Packet",
+      "summary": null,
+      "durationSeconds": 1217
+    },
+    {
+      "youtubeId": "Bp2JE-4VinY",
+      "slug": "gabriel-ryan-the-black-art-of-wireless-post-exploitation-2",
+      "title": "Gabriel Ryan - The Black Art of Wireless Post Exploitation",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Gabriel Ryan - The Black Art of Wireless Post Exploitation",
+      "summary": null,
+      "durationSeconds": 3137
+    },
+    {
+      "youtubeId": "S4WguNB8s-4",
+      "slug": "eric-capuano",
+      "title": "Eric Capuano - Go Beyond Tabletop Scenarios",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Eric Capuano - Go Beyond Tabletop Scenarios",
+      "summary": null,
+      "durationSeconds": 3467
+    },
+    {
+      "youtubeId": "KPbTHdbLoi8",
+      "slug": "eric-capuano-fortune-100-infosec-on-a-state-government-budget",
+      "title": "Eric Capuano - Fortune 100 InfoSec on a State Government Budget",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Eric Capuano - Fortune 100 InfoSec on a State Government Budget",
+      "summary": null,
+      "durationSeconds": 2985
+    },
+    {
+      "youtubeId": "_X5VmbdkJ1s",
+      "slug": "daniel-adinolfi-anthony-singleton",
+      "title": "Daniel Adinolfi, Anthony Singleton - CVE IDs",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Daniel Adinolfi, Anthony Singleton - CVE IDs",
+      "summary": null,
+      "durationSeconds": 2800
+    },
+    {
+      "youtubeId": "jdtm_2IoW2A",
+      "slug": "damon-small-layer-8-and-why-people-are-the-most-important",
+      "title": "Damon Small - Layer 8 and Why People are the Most Important",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Damon Small - Layer 8 and Why People are the Most Important",
+      "summary": null,
+      "durationSeconds": 2402
+    },
+    {
+      "youtubeId": "u2M14Q5JD_s",
+      "slug": "ankur-tyagi-visual-network-and-file-forensics",
+      "title": "Ankur Tyagi - Visual Network and File Forensics",
+      "speakers": [
+        "DEF CON 25 Packet Hacking Village"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security"
+      ],
+      "teaser": "Ankur Tyagi - Visual Network and File Forensics",
+      "summary": null,
+      "durationSeconds": 1738
+    }
+  ]
+}
