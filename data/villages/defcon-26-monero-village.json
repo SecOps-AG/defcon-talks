@@ -1,0 +1,227 @@
+{
+  "villageSlug": "monero-village",
+  "villageName": "Monero Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaC306INH9ZqiG_uNgLhh9qt",
+  "description": "Monero Village at DEF CON 26 explores privacy-focused cryptocurrency, cryptographic techniques, and blockchain technology. The 14 talks cover Monero development, cryptocurrency security, ring signatures, and privacy applications.",
+  "talks": [
+    {
+      "youtubeId": "V8avoNBRbGE",
+      "slug": "bcos",
+      "title": "Monero Village - Welcome Speech",
+      "speakers": [
+        "DEF CON 26 BCOS"
+      ],
+      "track": "community",
+      "topics": [
+        "monero"
+      ],
+      "teaser": "Monero Village - Welcome Speech",
+      "summary": null,
+      "durationSeconds": 2374
+    },
+    {
+      "youtubeId": "vIQq1sAe0Dw",
+      "slug": "bcos-monero-village-shamiq-and-panel",
+      "title": "Greatest Questions",
+      "speakers": [
+        "Shamiq and Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "monero"
+      ],
+      "teaser": "Greatest Questions",
+      "summary": null,
+      "durationSeconds": 3882
+    },
+    {
+      "youtubeId": "lIGbNTbMd-A",
+      "slug": "bcos-monero-village-philip-martin",
+      "title": "BCOS Keynote",
+      "speakers": [
+        "Philip Martin"
+      ],
+      "track": "community",
+      "topics": [
+        "monero"
+      ],
+      "teaser": "BCOS Keynote",
+      "summary": null,
+      "durationSeconds": 3731
+    },
+    {
+      "youtubeId": "pIzJ5OXo8M0",
+      "slug": "bcos-monero-village-pearson-and-honigwachs",
+      "title": "Hacking a Crypto Payment Gateway",
+      "speakers": [
+        "Pearson and Honigwachs"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "cryptocurrency"
+      ],
+      "teaser": "Hacking a Crypto Payment Gateway",
+      "summary": null,
+      "durationSeconds": 811
+    },
+    {
+      "youtubeId": "AqC-zIKGYa8",
+      "slug": "bcos-monero-village-michael-schloh",
+      "title": "We Program Our Stinkin Badges",
+      "speakers": [
+        "Michael Schloh"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero"
+      ],
+      "teaser": "We Program Our Stinkin Badges",
+      "summary": null,
+      "durationSeconds": 4029
+    },
+    {
+      "youtubeId": "V9fbWEfUpC8",
+      "slug": "bcos-monero-village-michael-schloh-we-dont-need-no-stinkin-badge",
+      "title": "We Dont Need No Stinkin Badges",
+      "speakers": [
+        "Michael Schloh"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero"
+      ],
+      "teaser": "We Dont Need No Stinkin Badges",
+      "summary": null,
+      "durationSeconds": 1435
+    },
+    {
+      "youtubeId": "ljSA51FZKdE",
+      "slug": "bcos-monero-village-marko-bencun-a-rundown-of-security-issues-in",
+      "title": "A Rundown of Security Issues in Crypto  Wallets",
+      "speakers": [
+        "Marko Bencun"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "cryptocurrency",
+        "security-research"
+      ],
+      "teaser": "A Rundown of Security Issues in Crypto  Wallets",
+      "summary": null,
+      "durationSeconds": 1512
+    },
+    {
+      "youtubeId": "SAzYkg3wuHs",
+      "slug": "bcos-monero-village-justin-ehrenhofer",
+      "title": "Examining Moneros Ring Signatures",
+      "speakers": [
+        "Justin Ehrenhofer"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "cryptography"
+      ],
+      "teaser": "Examining Moneros Ring Signatures",
+      "summary": null,
+      "durationSeconds": 1946
+    },
+    {
+      "youtubeId": "9SuzXZj9FIk",
+      "slug": "bcos-monero-village-howard-hyc-chu",
+      "title": "Inside Monero",
+      "speakers": [
+        "Howard hyc Chu"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero"
+      ],
+      "teaser": "Inside Monero",
+      "summary": null,
+      "durationSeconds": 3218
+    },
+    {
+      "youtubeId": "0EKuEfOI86I",
+      "slug": "bcos-monero-village-francisco-articmine-cabanas-scaling-and-econ",
+      "title": "Scaling and Economic Implications",
+      "speakers": [
+        "Francisco ArticMine Caban\u0303as"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "blockchain-economics"
+      ],
+      "teaser": "Scaling and Economic Implications",
+      "summary": null,
+      "durationSeconds": 3729
+    },
+    {
+      "youtubeId": "LjM3GTBaUvo",
+      "slug": "bcos-monero-village-fluffy-pony",
+      "title": "Moneros Emerging Applications",
+      "speakers": [
+        "Fluffy Pony"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "applications"
+      ],
+      "teaser": "Moneros Emerging Applications",
+      "summary": null,
+      "durationSeconds": 2544
+    },
+    {
+      "youtubeId": "GfpucsrX6Is",
+      "slug": "bcos-monero-village-diego-rehrar-salazar",
+      "title": "Village Summary",
+      "speakers": [
+        "Diego rehrar Salazar"
+      ],
+      "track": "community",
+      "topics": [
+        "monero"
+      ],
+      "teaser": "Village Summary",
+      "summary": null,
+      "durationSeconds": 2685
+    },
+    {
+      "youtubeId": "RrCAuxXssRM",
+      "slug": "bcos-monero-village-anonimal-monero-projects-vulnerability-respo",
+      "title": "Anonimal- Monero Projects Vulnerability Response Process",
+      "speakers": [
+        "Anonimal- Monero Projects Vulnerability Response Process"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "security-research"
+      ],
+      "teaser": "Anonimal- Monero Projects Vulnerability Response Process",
+      "summary": null,
+      "durationSeconds": 1336
+    },
+    {
+      "youtubeId": "PRSRHakFS3g",
+      "slug": "bcos-monero-village-anonimal",
+      "title": "An Introduction to Kovri",
+      "speakers": [
+        "Anonimal"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "network-privacy"
+      ],
+      "teaser": "An Introduction to Kovri",
+      "summary": null,
+      "durationSeconds": 6267
+    }
+  ]
+}
