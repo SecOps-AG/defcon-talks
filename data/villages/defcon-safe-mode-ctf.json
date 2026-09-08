@@ -1,0 +1,80 @@
+{
+  "villageSlug": "ctf",
+  "villageName": "CTF",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBchNU_noJbkKYtvN9O_iMJ",
+  "description": "The DEF CON Safe Mode Capture the Flag (CTF) competition brings together premier hacking teams worldwide for attack-and-defense challenges, game recaps, and live competition commentary.",
+  "talks": [
+    {
+      "youtubeId": "hd0gkciEsn0",
+      "slug": "safe-mode-ctf",
+      "title": "Safe Mode -CTF",
+      "speakers": [
+        "Shift 1 Stream"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "competition",
+        "community",
+        "contest"
+      ],
+      "teaser": "Live coverage and gameplay streaming from Shift 1 of the DEF CON Safe Mode Capture the Flag competition.",
+      "summary": null,
+      "durationSeconds": 641
+    },
+    {
+      "youtubeId": "77mK3lbkedw",
+      "slug": "safe-mode",
+      "title": "Safe Mode",
+      "speakers": [
+        "Shift 1 Public Recap"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "competition",
+        "community",
+        "contest"
+      ],
+      "teaser": "Organizers and commentators recap the key plays, strategy shifts, and team standings from Shift 1 of DEF CON Safe Mode CTF.",
+      "summary": null,
+      "durationSeconds": 3795
+    },
+    {
+      "youtubeId": "rJm7yTIXyAw",
+      "slug": "safe-mode-2",
+      "title": "Safe Mode",
+      "speakers": [
+        "Quals Welcome"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "competition",
+        "community"
+      ],
+      "teaser": "Welcome address and kickoff briefing for competitors participating in the DEF CON Safe Mode CTF qualifiers.",
+      "summary": null,
+      "durationSeconds": 192
+    },
+    {
+      "youtubeId": "HafPDfgXT_o",
+      "slug": "safe-mode-3",
+      "title": "Safe Mode",
+      "speakers": [
+        "Final in game Recap"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "competition",
+        "community",
+        "contest"
+      ],
+      "teaser": "A final in-game recap breaking down team performances, decisive exploits, and closing outcomes of DEF CON Safe Mode CTF.",
+      "summary": null,
+      "durationSeconds": 3568
+    }
+  ]
+}
