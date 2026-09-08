@@ -1,0 +1,161 @@
+{
+  "villageSlug": "blue-team-village",
+  "villageName": "Blue Team Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDrZMC7p3iKQ8KnnYaoP5P8",
+  "description": "Blue Team Village at DEF CON 26 covers defensive security practices and security operations. The talks explore cloud security, DFIR automation, log management, SOC operations, vulnerability management, endpoint monitoring, threat detection, and secure development practices.",
+  "talks": [
+    {
+      "youtubeId": "W_O7mziH3vM",
+      "slug": "xavier-ashe",
+      "title": "Cloud Security Myths",
+      "speakers": [
+        "Xavier Ashe"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "cloud",
+        "threat-intel",
+        "blue-team"
+      ],
+      "teaser": "Cloud Security Myths",
+      "summary": null,
+      "durationSeconds": 2692
+    },
+    {
+      "youtubeId": "jr0ZWGM2TDk",
+      "slug": "rainbow-tables-automating-dfir-the-counter-future",
+      "title": "Automating DFIR The Counter Future",
+      "speakers": [
+        "rainbow tables"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "blue-team",
+        "threat-intel",
+        "defense"
+      ],
+      "teaser": "Automating DFIR The Counter Future",
+      "summary": null,
+      "durationSeconds": 1702
+    },
+    {
+      "youtubeId": "3yYD3CYiwx4",
+      "slug": "sm0kem-effective-log-and-events-management",
+      "title": "Effective Log and Events Management",
+      "speakers": [
+        "sm0kem"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-intel",
+        "blue-team",
+        "defense"
+      ],
+      "teaser": "Effective Log and Events Management",
+      "summary": null,
+      "durationSeconds": 1229
+    },
+    {
+      "youtubeId": "m-FcPVJ3x-0",
+      "slug": "irishmasms-evolving-security-operations-to-the-year-2020",
+      "title": "Evolving Security Operations to the Year 2020",
+      "speakers": [
+        "IrishMASMS"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "cloud",
+        "blue-team",
+        "threat-intel"
+      ],
+      "teaser": "Evolving Security Operations to the Year 2020",
+      "summary": null,
+      "durationSeconds": 2495
+    },
+    {
+      "youtubeId": "XsJi_1LabJw",
+      "slug": "jtpereyda-hacking-your-dev-job-to-save-the-world",
+      "title": "Hacking Your Dev Job to Save the World",
+      "speakers": [
+        "jtpereyda"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "blue-team"
+      ],
+      "teaser": "Hacking Your Dev Job to Save the World",
+      "summary": null,
+      "durationSeconds": 2162
+    },
+    {
+      "youtubeId": "R5iP2dX88gE",
+      "slug": "plug-mwguy-how-not-to-suck-at-vulnerability-management-at-scale",
+      "title": "How Not to Suck at Vulnerability Management at Scale",
+      "speakers": [
+        "Plug, mwguy"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "blue-team"
+      ],
+      "teaser": "How Not to Suck at Vulnerability Management at Scale",
+      "summary": null,
+      "durationSeconds": 2490
+    },
+    {
+      "youtubeId": "vSfTm5GVWDM",
+      "slug": "ladyred6-saeday-subversion-and-espionage-directed-against-you",
+      "title": "SAEDAY Subversion and Espionage Directed Against You",
+      "speakers": [
+        "LadyRed6"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "defense",
+        "threat-intel",
+        "blue-team"
+      ],
+      "teaser": "SAEDAY Subversion and Espionage Directed Against You",
+      "summary": null,
+      "durationSeconds": 2960
+    },
+    {
+      "youtubeId": "SMKVkpzGhOs",
+      "slug": "andy-applebaum-stop-drop-and-assess-your-soc",
+      "title": "Stop Drop and Assess your SOC",
+      "speakers": [
+        "Andy Applebaum"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "blue-team",
+        "threat-intel",
+        "defense"
+      ],
+      "teaser": "Stop Drop and Assess your SOC",
+      "summary": null,
+      "durationSeconds": 2436
+    },
+    {
+      "youtubeId": "qs6sTVffx8Q",
+      "slug": "rik-van-duijn-and-leandro-velasco",
+      "title": "Open Source Endpoint Monitoring",
+      "speakers": [
+        "Rik van Duijn and Leandro Velasco"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-intel",
+        "blue-team"
+      ],
+      "teaser": "Open Source Endpoint Monitoring",
+      "summary": null,
+      "durationSeconds": 2550
+    }
+  ]
+}
