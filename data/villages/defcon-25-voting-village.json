@@ -1,0 +1,145 @@
+{
+  "villageSlug": "voting-village",
+  "villageName": "Voting Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCmT5TovZejSlrBIfaf_epF",
+  "description": "Voting Village at DEF CON 25 covers election security, voting machine vulnerabilities, and election infrastructure defenses. The talks explore voting technology history, election system security, voting machine hacking, legal considerations, national security implications, and best practices for election security.",
+  "talks": [
+    {
+      "youtubeId": "v5UcuY33Hic",
+      "slug": "jake-braun-securing-the-election-office-a-local-response",
+      "title": "Securing the Election Office  A Local Response",
+      "speakers": [
+        "Jake Braun"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Securing the Election Office  A Local Response",
+      "summary": null,
+      "durationSeconds": 1886
+    },
+    {
+      "youtubeId": "ccfNSAfAyis",
+      "slug": "joseph-hall-david-jefferson-common-misconceptions-and-false-para",
+      "title": "Common Misconceptions and False Parallels",
+      "speakers": [
+        "Joseph Hall, David Jefferson"
+      ],
+      "track": "policy",
+      "topics": [
+        "community",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Common Misconceptions and False Parallels",
+      "summary": null,
+      "durationSeconds": 2953
+    },
+    {
+      "youtubeId": "x1RmNXQAydg",
+      "slug": "matt-blaze-how-did-we-get-here-a-history-of-voting-technology",
+      "title": "How did we get here?  A history of voting technology",
+      "speakers": [
+        "Matt Blaze"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "hardware",
+        "community"
+      ],
+      "teaser": "How did we get here?  A history of voting technology",
+      "summary": null,
+      "durationSeconds": 3339
+    },
+    {
+      "youtubeId": "9uBzqiYMzLg",
+      "slug": "mary-brady-josh-franklin-the-state-of-us-voting-system-security",
+      "title": "The State of US Voting System Security",
+      "speakers": [
+        "Mary Brady, Josh Franklin"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "The State of US Voting System Security",
+      "summary": null,
+      "durationSeconds": 3120
+    },
+    {
+      "youtubeId": "QLmREgJxFJI",
+      "slug": "joseph-hall-election-hacking-legal-considerations-from-the-civil",
+      "title": "Election Hacking: Legal Considerations from the Civil Side",
+      "speakers": [
+        "Joseph Hall"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel"
+      ],
+      "teaser": "Election Hacking: Legal Considerations from the Civil Side",
+      "summary": null,
+      "durationSeconds": 3003
+    },
+    {
+      "youtubeId": "ImgaEqOQlSQ",
+      "slug": "harri-hursti-brief-history-of-election-machine-hacking",
+      "title": "Brief history of election machine hacking",
+      "speakers": [
+        "Harri Hursti"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "hardware",
+        "community"
+      ],
+      "teaser": "Brief history of election machine hacking",
+      "summary": null,
+      "durationSeconds": 2687
+    },
+    {
+      "youtubeId": "K7lew7XlgKk",
+      "slug": "general-douglas-lute-national-security-implications-of-voting-at",
+      "title": "National Security Implications of Voting Attacks",
+      "speakers": [
+        "General Douglas Lute"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "defense"
+      ],
+      "teaser": "National Security Implications of Voting Attacks",
+      "summary": null,
+      "durationSeconds": 2531
+    },
+    {
+      "youtubeId": "7Cw_7XFpNms",
+      "slug": "barbara-simons-david-jefferson-election-systems-more-than-the-bo",
+      "title": "Election Systems: More Than the Booth",
+      "speakers": [
+        "Barbara Simons, David Jefferson"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "hardware",
+        "threat-intel"
+      ],
+      "teaser": "Election Systems: More Than the Booth",
+      "summary": null,
+      "durationSeconds": 3006
+    }
+  ]
+}
