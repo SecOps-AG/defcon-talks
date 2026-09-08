@@ -1,0 +1,298 @@
+{
+  "villageSlug": "presentations-attack",
+  "villageName": "Presentations Attack",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaA1fg1KnyhxelAGRRxvbBko",
+  "description": "Presentations Attack at DEF CON 23 features offensive security talks covering penetration testing, network attacks, web application security, wireless exploits, and hardware hacking techniques (17 talks).",
+  "talks": [
+    {
+      "youtubeId": "YcC3p3HYxA0",
+      "slug": "ionut-popescu-netripper-smart-traffic-sniffing-for-penetration-t",
+      "title": "NetRipper: Smart Traffic Sniffing for Penetration Testers",
+      "speakers": [
+        "Ionut Popescu"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "network",
+        "appsec"
+      ],
+      "teaser": "NetRipper: Smart Traffic Sniffing for Penetration Testers",
+      "summary": null,
+      "durationSeconds": 2516
+    },
+    {
+      "youtubeId": "ti8_NozsT_I",
+      "slug": "ian-kline-lte-recon-and-tracking-with-rtlsdr",
+      "title": "LTE Recon and Tracking with RTLSDR",
+      "speakers": [
+        "Ian Kline"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "LTE Recon and Tracking with RTLSDR",
+      "summary": null,
+      "durationSeconds": 819
+    },
+    {
+      "youtubeId": "FCtcza-pP8U",
+      "slug": "fernando-arnabold-abusing-xslt-for-practical-attacks",
+      "title": "Abusing XSLT for Practical Attacks",
+      "speakers": [
+        "Fernando Arnabold"
+      ],
+      "track": "red-team",
+      "topics": [
+        "web-security",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "Abusing XSLT for Practical Attacks",
+      "summary": null,
+      "durationSeconds": 2071
+    },
+    {
+      "youtubeId": "F9cYW7oPNw4",
+      "slug": "dr-phil-polstra-one-device-to-pwn-them-all",
+      "title": "One Device to Pwn Them All",
+      "speakers": [
+        "Dr Phil Polstra"
+      ],
+      "track": "red-team",
+      "topics": [
+        "hardware",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "One Device to Pwn Them All",
+      "summary": null,
+      "durationSeconds": 2073
+    },
+    {
+      "youtubeId": "b0IB6z9fry8",
+      "slug": "dr-phil-polstra-hacker-in-the-wires",
+      "title": "Hacker in the Wires",
+      "speakers": [
+        "Dr Phil Polstra"
+      ],
+      "track": "red-team",
+      "topics": [
+        "appsec",
+        "red-team",
+        "network"
+      ],
+      "teaser": "Hacker in the Wires",
+      "summary": null,
+      "durationSeconds": 2338
+    },
+    {
+      "youtubeId": "d6IRn7v_r6Y",
+      "slug": "damon-small-beyond-the-scan-the-value-proposition-of-vuln-assess",
+      "title": "Beyond the Scan   The Value Proposition of Vuln Assessment",
+      "speakers": [
+        "Damon Small"
+      ],
+      "track": "red-team",
+      "topics": [
+        "appsec",
+        "red-team",
+        "network"
+      ],
+      "teaser": "Beyond the Scan   The Value Proposition of Vuln Assessment",
+      "summary": null,
+      "durationSeconds": 2747
+    },
+    {
+      "youtubeId": "I8AhfDEKUQ4",
+      "slug": "brent-white",
+      "title": "Hacking Web Apps",
+      "speakers": [
+        "Brent White"
+      ],
+      "track": "red-team",
+      "topics": [
+        "web-security",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "Hacking Web Apps",
+      "summary": null,
+      "durationSeconds": 2299
+    },
+    {
+      "youtubeId": "jX5cz4jI3yk",
+      "slug": "aditya-k-sood-dissecting-the-design-of-scada-web-hmis-hunting-vu",
+      "title": "Dissecting the Design of SCADA Web HMIs: Hunting Vulns",
+      "speakers": [
+        "Aditya K Sood"
+      ],
+      "track": "red-team",
+      "topics": [
+        "web-security",
+        "ics-scada",
+        "red-team"
+      ],
+      "teaser": "Dissecting the Design of SCADA Web HMIs: Hunting Vulns",
+      "summary": null,
+      "durationSeconds": 2205
+    },
+    {
+      "youtubeId": "kVMAgiJlQkI",
+      "slug": "craig-young-how-to-train-your-rfid-hacking-tools",
+      "title": "How to Train Your RFID Hacking Tools",
+      "speakers": [
+        "Craig Young"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "How to Train Your RFID Hacking Tools",
+      "summary": null,
+      "durationSeconds": 1818
+    },
+    {
+      "youtubeId": "YcHjUJmeK4o",
+      "slug": "francis-brown-shubham-shah-rfidiggity-guide-to-hacking-hf-nfc-an",
+      "title": "RFIDiggity: Guide to Hacking HF NFC & UHF RFID",
+      "speakers": [
+        "Francis Brown, Shubham Shah"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "RFIDiggity: Guide to Hacking HF NFC & UHF RFID",
+      "summary": null,
+      "durationSeconds": 3246
+    },
+    {
+      "youtubeId": "uHuzC45O9sw",
+      "slug": "geoff-walton-and-dave-kennedy-pivoting-without-rights-introducin",
+      "title": "Pivoting Without Rights: Introducing Pivoter",
+      "speakers": [
+        "Geoff Walton and Dave Kennedy"
+      ],
+      "track": "red-team",
+      "topics": [
+        "network",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "Pivoting Without Rights: Introducing Pivoter",
+      "summary": null,
+      "durationSeconds": 2973
+    },
+    {
+      "youtubeId": "UWOxzfRUwis",
+      "slug": "jeremy-dorrough-usb-attack-to-decrypt-wi-fi-communications",
+      "title": "USB Attack to Decrypt Wi Fi Communications",
+      "speakers": [
+        "Jeremy Dorrough"
+      ],
+      "track": "red-team",
+      "topics": [
+        "hardware",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "USB Attack to Decrypt Wi Fi Communications",
+      "summary": null,
+      "durationSeconds": 2331
+    },
+    {
+      "youtubeId": "q4pRYZjzL_E",
+      "slug": "mickey-shkatov-and-jesse-michael-scared-poopless-lte-and-your-la",
+      "title": "Scared Poopless \u2013 LTE and your laptop",
+      "speakers": [
+        "Mickey Shkatov & Jesse Michael"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "Scared Poopless \u2013 LTE and your laptop",
+      "summary": null,
+      "durationSeconds": 2666
+    },
+    {
+      "youtubeId": "Uz6G_YAQb2U",
+      "slug": "nemus-hacking-sql-injection-for-remote-code-execution-on-a-lamp",
+      "title": "Hacking SQL Injection for Remote Code Execution on a LAMP Stack",
+      "speakers": [
+        "Nemus"
+      ],
+      "track": "red-team",
+      "topics": [
+        "appsec",
+        "red-team",
+        "network"
+      ],
+      "teaser": "Hacking SQL Injection for Remote Code Execution on a LAMP Stack",
+      "summary": null,
+      "durationSeconds": 2326
+    },
+    {
+      "youtubeId": "csMN9sEiDUI",
+      "slug": "nadeem-douba-burpkit-using-webkit-to-own-the-web",
+      "title": "BurpKit: Using WebKit to Own the Web",
+      "speakers": [
+        "Nadeem Douba"
+      ],
+      "track": "red-team",
+      "topics": [
+        "web-security",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "BurpKit: Using WebKit to Own the Web",
+      "summary": null,
+      "durationSeconds": 1766
+    },
+    {
+      "youtubeId": "XxyRDkmNMHg",
+      "slug": "tamas-szakaly",
+      "title": "Shall We Play a Game",
+      "speakers": [
+        "Tamas Szakaly"
+      ],
+      "track": "red-team",
+      "topics": [
+        "reverse-engineering",
+        "appsec",
+        "red-team"
+      ],
+      "teaser": "Shall We Play a Game",
+      "summary": null,
+      "durationSeconds": 2452
+    },
+    {
+      "youtubeId": "pSGAu4PZ7bw",
+      "slug": "wesley-mcgrew-i-hunt-penetration-testers-more-weaknesses-in-tool",
+      "title": "I Hunt Penetration Testers: More Weaknesses in Tools and Procedures",
+      "speakers": [
+        "Wesley McGrew"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "appsec",
+        "network"
+      ],
+      "teaser": "I Hunt Penetration Testers: More Weaknesses in Tools and Procedures",
+      "summary": null,
+      "durationSeconds": 2499
+    }
+  ]
+}
