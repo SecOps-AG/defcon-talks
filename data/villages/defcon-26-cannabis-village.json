@@ -1,0 +1,162 @@
+{
+  "villageSlug": "cannabis-village",
+  "villageName": "Cannabis Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCDo9Z_XfF5HUZI7MBpfK3h",
+  "description": "Cannabis Village at DEF CON 26 covers security, compliance, and technology in the cannabis industry. The talks explore cannabis software security breaches, regulatory compliance, genetic engineering, computer vision applications, hydroponic systems, and the intersection of cybersecurity and the emerging cannabis sector.",
+  "talks": [
+    {
+      "youtubeId": "UE3KlV3p2l8",
+      "slug": "weed-anon-compliance-and-infosec-within-the-cannabis-industry",
+      "title": "Compliance and Infosec Within the Cannabis Industry",
+      "speakers": [
+        "Weed Anon"
+      ],
+      "track": "policy",
+      "topics": [
+        "privacy",
+        "policy",
+        "threat-intel"
+      ],
+      "teaser": "Compliance and Infosec Within the Cannabis Industry",
+      "summary": null,
+      "durationSeconds": 1468
+    },
+    {
+      "youtubeId": "0-jABMp5n4k",
+      "slug": "rex-cruising-cannabis-highway-major-breaches-in-cannabis-softwar",
+      "title": "Cruising  Cannabis Highway Major Breaches in Cannabis Software",
+      "speakers": [
+        "Rex"
+      ],
+      "track": "appsec",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Cruising  Cannabis Highway Major Breaches in Cannabis Software",
+      "summary": null,
+      "durationSeconds": 2156
+    },
+    {
+      "youtubeId": "ZHNC9QqT3wg",
+      "slug": "michael-hiller-the-ongoing-federal-lawsuit-against-jeff-sessions",
+      "title": "The Ongoing Federal Lawsuit Against Jeff Sessions",
+      "speakers": [
+        "Michael Hiller"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "privacy",
+        "threat-intel"
+      ],
+      "teaser": "The Ongoing Federal Lawsuit Against Jeff Sessions",
+      "summary": null,
+      "durationSeconds": 2345
+    },
+    {
+      "youtubeId": "SgKAoFgYIuo",
+      "slug": "mayor-chad-wanke-primer-on-dealing-with-local-gov-for-legal-cann",
+      "title": "Primer On Dealing with Local Gov for Legal Cannabis",
+      "speakers": [
+        "Mayor Chad Wanke"
+      ],
+      "track": "policy",
+      "topics": [
+        "privacy",
+        "policy",
+        "threat-intel"
+      ],
+      "teaser": "Primer On Dealing with Local Gov for Legal Cannabis",
+      "summary": null,
+      "durationSeconds": 2944
+    },
+    {
+      "youtubeId": "Mg5qlHHCocY",
+      "slug": "mark-lewis",
+      "title": "Hacking Phenotypic Pathways In Cannabis",
+      "speakers": [
+        "Mark Lewis"
+      ],
+      "track": "appsec",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "hardware"
+      ],
+      "teaser": "Hacking Phenotypic Pathways In Cannabis",
+      "summary": null,
+      "durationSeconds": 2833
+    },
+    {
+      "youtubeId": "1gUXtBuI-tY",
+      "slug": "kevin-chen",
+      "title": "THC Producing Genetically Modified Yeast",
+      "speakers": [
+        "Kevin Chen"
+      ],
+      "track": "hardware",
+      "topics": [
+        "privacy",
+        "hardware",
+        "threat-intel"
+      ],
+      "teaser": "THC Producing Genetically Modified Yeast",
+      "summary": null,
+      "durationSeconds": 1716
+    },
+    {
+      "youtubeId": "CsRYAUlb6_E",
+      "slug": "harry-moreno-diagnosing-sick-plants-with-computer-vision",
+      "title": "Diagnosing Sick Plants with Computer Vision",
+      "speakers": [
+        "Harry Moreno"
+      ],
+      "track": "hardware",
+      "topics": [
+        "ai-security",
+        "hardware",
+        "privacy"
+      ],
+      "teaser": "Diagnosing Sick Plants with Computer Vision",
+      "summary": null,
+      "durationSeconds": 1273
+    },
+    {
+      "youtubeId": "IN8GUKVZQCg",
+      "slug": "beth-schechter-about-the-open-cannabis-project",
+      "title": "About the Open Cannabis Project",
+      "speakers": [
+        "Beth Schechter"
+      ],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "community",
+        "threat-intel"
+      ],
+      "teaser": "About the Open Cannabis Project",
+      "summary": null,
+      "durationSeconds": 2539
+    },
+    {
+      "youtubeId": "SkAnOUZFnok",
+      "slug": "adrian-and-alex-an-overview-of-hydroponic-grow-techniques",
+      "title": "An Overview of Hydroponic Grow Techniques",
+      "speakers": [
+        "Adrian and Alex"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "privacy",
+        "threat-intel"
+      ],
+      "teaser": "An Overview of Hydroponic Grow Techniques",
+      "summary": null,
+      "durationSeconds": 2553
+    }
+  ]
+}
