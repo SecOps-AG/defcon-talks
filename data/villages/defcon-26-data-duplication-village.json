@@ -1,0 +1,77 @@
+{
+  "villageSlug": "data-duplication-village",
+  "villageName": "Data Duplication Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBF2ks-9WWiCipfcI4u9pS3",
+  "description": "Data Duplication Village at DEF CON 26 covers data storage security, forensics, and management with 4 talks on distributed file systems, cold storage forensics, cyberwarfare strategies, and large-scale storage management.",
+  "talks": [
+    {
+      "youtubeId": "qU-9MsxjW7A",
+      "slug": "mauro-caseres-owning-gluster-fs-with-gevaudan",
+      "title": "Owning Gluster FS with GEVAUDAN",
+      "speakers": [
+        "Mauro Caseres"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "storage",
+        "forensics",
+        "appsec"
+      ],
+      "teaser": "Owning Gluster FS with GEVAUDAN",
+      "summary": null,
+      "durationSeconds": 1588
+    },
+    {
+      "youtubeId": "sI6D_CrMr-Q",
+      "slug": "lior-kolnik-the-memory-remains-cold-drive-memory-forensics",
+      "title": "The Memory Remains Cold Drive Memory Forensics",
+      "speakers": [
+        "Lior Kolnik"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "forensics",
+        "storage",
+        "incident-response"
+      ],
+      "teaser": "The Memory Remains Cold Drive Memory Forensics",
+      "summary": null,
+      "durationSeconds": 1462
+    },
+    {
+      "youtubeId": "3J6r59Tl7iI",
+      "slug": "jessica-smith-beginners-guide-to-musical-scales-of-cyberwar",
+      "title": "Beginners Guide to Musical Scales of Cyberwar",
+      "speakers": [
+        "Jessica Smith"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-intel",
+        "storage",
+        "forensics"
+      ],
+      "teaser": "Beginners Guide to Musical Scales of Cyberwar",
+      "summary": null,
+      "durationSeconds": 2370
+    },
+    {
+      "youtubeId": "G4-cF1BMnTc",
+      "slug": "andy-klein-facts-figures-fun-from-managing-100000-hdds",
+      "title": "Facts figures, fun from managing 100000 HDDs",
+      "speakers": [
+        "Andy Klein"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "storage",
+        "forensics",
+        "appsec"
+      ],
+      "teaser": "Facts figures, fun from managing 100000 HDDs",
+      "summary": null,
+      "durationSeconds": 3463
+    }
+  ]
+}
