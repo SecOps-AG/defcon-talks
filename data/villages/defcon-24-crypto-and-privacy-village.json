@@ -1,0 +1,143 @@
+{
+  "villageSlug": "crypto-and-privacy-village",
+  "villageName": "Crypto and Privacy Village",
+  "eventSlug": "defcon-24",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD43TJ4KLzoh9KAtLRUYFJB",
+  "description": "Crypto and Privacy Village at DEF CON 24 explores applied cryptography, surveillance resistance, TLS inspection, PKI architecture, legal decryption battles, and usable security.",
+  "talks": [
+    {
+      "youtubeId": "w90mcTU2P90",
+      "slug": "andrew-brandt",
+      "title": "Andrew Brandt",
+      "speakers": [
+        "Blue Coat SSL Visibility Exposed"
+      ],
+      "track": "privacy",
+      "topics": [
+        "tls",
+        "privacy",
+        "surveillance",
+        "network-security"
+      ],
+      "teaser": "Examining Blue Coat SSL Visibility appliances, inspecting how enterprise TLS interception works, certificates are handled, and privacy is impacted.",
+      "summary": null,
+      "durationSeconds": 3775
+    },
+    {
+      "youtubeId": "2vB3H5kumVc",
+      "slug": "alisha-kloc",
+      "title": "Alisha Kloc",
+      "speakers": [
+        "Logs Aren't Enough"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "privacy",
+        "blue-team",
+        "incident-response",
+        "auditing"
+      ],
+      "teaser": "Why traditional system and application logs fall short for forensic investigations, and how privacy-preserving telemetry enhances detection.",
+      "summary": null,
+      "durationSeconds": 2633
+    },
+    {
+      "youtubeId": "SyitnCnCIFE",
+      "slug": "greg-norcie-my-usability-goes-to-11-a-hackers-guide-to-use",
+      "title": "Greg Norcie - My Usability Goes to 11 A Hackers Guide to Use",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "cryptography",
+        "usability",
+        "education"
+      ],
+      "teaser": "A hacker guide to usable security and human factors in privacy tooling, examining why cryptographically sound software often fails users.",
+      "summary": null,
+      "durationSeconds": 2067
+    },
+    {
+      "youtubeId": "JQiDGH2OW6k",
+      "slug": "ladar-levison-compelled-decryption-state-of-the-art-in-doctrinal",
+      "title": "Ladar Levison - Compelled Decryption: State of the Art in Doctrinal Perversity",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "legal",
+        "encryption",
+        "privacy"
+      ],
+      "teaser": "Lavabit founder Ladar Levison analyzes constitutional protections, legal precedents, and government attempts to compel cryptographic key disclosure.",
+      "summary": null,
+      "durationSeconds": 2084
+    },
+    {
+      "youtubeId": "YN_qVqgRlx4",
+      "slug": "nate-cardozo-crypto-state-of-the-law",
+      "title": "Nate Cardozo - Crypto State of the Law",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "legal",
+        "cryptography",
+        "digital-rights"
+      ],
+      "teaser": "EFF Senior Staff Attorney Nate Cardozo provides a legal briefing on legislative battles, court rulings, and government backdoors targeting encryption.",
+      "summary": null,
+      "durationSeconds": 2674
+    },
+    {
+      "youtubeId": "2GtoAycltxM",
+      "slug": "mat-caughron-trey-blalock-revocation-the-frailty-of-pki",
+      "title": "Mat Caughron, Trey Blalock - Revocation the Frailty of PKI",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "pki",
+        "certificates",
+        "cryptography",
+        "protocols"
+      ],
+      "teaser": "Analyzing certificate revocation protocols including CRL and OCSP, exploring the systemic vulnerabilities and privacy leaks undermining public PKI.",
+      "summary": null,
+      "durationSeconds": 2660
+    },
+    {
+      "youtubeId": "90EYVy35gsY",
+      "slug": "david-wong-how-to-backdoor-diffie-hellman",
+      "title": "David Wong - How to Backdoor Diffie-Hellman",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "backdoor",
+        "encryption",
+        "vulnerability-research"
+      ],
+      "teaser": "Cryptographer David Wong demonstrates how to construct cryptographic backdoors into Diffie-Hellman key exchanges using malicious prime selection.",
+      "summary": null,
+      "durationSeconds": 2304
+    },
+    {
+      "youtubeId": "TY1aWIdaWj4",
+      "slug": "panel-4",
+      "title": "Panel",
+      "speakers": [
+        "Catching a Cheat"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "investigations",
+        "fraud",
+        "osint"
+      ],
+      "teaser": "A panel discussion exploring privacy, open-source intelligence gathering, and ethical dilemmas encountered when detecting deception and infidelity.",
+      "summary": null,
+      "durationSeconds": 3267
+    }
+  ]
+}
