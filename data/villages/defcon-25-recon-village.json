@@ -1,0 +1,258 @@
+{
+  "villageSlug": "recon-village",
+  "villageName": "Recon Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaA5neLZBXGxF3MtaT4M4Mq5",
+  "description": "Recon Village at DEF CON 25 covers reconnaissance and OSINT techniques for information gathering, asset discovery, and attack surface mapping. The 15 talks explore social media analysis, domain discovery, source code research, and practical OSINT methodologies.",
+  "talks": [
+    {
+      "youtubeId": "c6QV8y6KZ78",
+      "slug": "tyler-rorabaugh-dfir-automation-orchestration-tools-for-osint-re",
+      "title": "DFIR Automation Orchestration Tools For OSINT Recon",
+      "speakers": [
+        "Tyler Rorabaugh"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "automation",
+        "bug-bounty"
+      ],
+      "teaser": "DFIR Automation Orchestration Tools For OSINT Recon",
+      "summary": null,
+      "durationSeconds": 1140
+    },
+    {
+      "youtubeId": "x6ZFxpx1M50",
+      "slug": "tracy-maleeff-into-the-birds-nest-a-comprehensive-look-at-twitte",
+      "title": "Into the Bird's Nest: A Comprehensive Look at Twitter",
+      "speakers": [
+        "Tracy  Maleeff"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "social-media"
+      ],
+      "teaser": "Into the Bird's Nest: A Comprehensive Look at Twitter",
+      "summary": null,
+      "durationSeconds": 2105
+    },
+    {
+      "youtubeId": "gCMEi7gTh0A",
+      "slug": "winner-announcement-prize-distribution",
+      "title": "Winner Announcement Prize Distribution",
+      "speakers": [
+        "Winner Announcement Prize Distribution"
+      ],
+      "track": "community",
+      "topics": [
+        "reconnaissance"
+      ],
+      "teaser": "Winner Announcement Prize Distribution",
+      "summary": null,
+      "durationSeconds": 980
+    },
+    {
+      "youtubeId": "aw0X7TimkXQ",
+      "slug": "simon-roses-osint-tactics-on-source-code-and-developers",
+      "title": "OSINT Tactics on Source Code and Developers",
+      "speakers": [
+        "Simon Roses"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "source-code-analysis"
+      ],
+      "teaser": "OSINT Tactics on Source Code and Developers",
+      "summary": null,
+      "durationSeconds": 2582
+    },
+    {
+      "youtubeId": "zhrXOQqJUvA",
+      "slug": "shane-macdougal-keynote-seeing-is-believing-the-future-of-recon",
+      "title": "Keynote:  Seeing is Believing   The Future of Recon",
+      "speakers": [
+        "Shane MacDougal"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "bug-bounty"
+      ],
+      "teaser": "Keynote:  Seeing is Believing   The Future of Recon",
+      "summary": null,
+      "durationSeconds": 2661
+    },
+    {
+      "youtubeId": "k0mRkhbptiA",
+      "slug": "mikhail-sasonkin-up-close-and-personal-keeping-an-eye-on-mobile",
+      "title": "Up Close and Personal: Keeping an Eye On Mobile",
+      "speakers": [
+        "Mikhail Sasonkin"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "mobile-reconnaissance"
+      ],
+      "teaser": "Up Close and Personal: Keeping an Eye On Mobile",
+      "summary": null,
+      "durationSeconds": 927
+    },
+    {
+      "youtubeId": "riNxsbko4xw",
+      "slug": "leah-figueroa-ferpa-only-grades-are-safe-osint-in-higher-educati",
+      "title": "FERPA: Only Grades Are Safe; OSINT In Higher Education",
+      "speakers": [
+        "Leah Figueroa"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint"
+      ],
+      "teaser": "FERPA: Only Grades Are Safe; OSINT In Higher Education",
+      "summary": null,
+      "durationSeconds": 2257
+    },
+    {
+      "youtubeId": "eun-2BMo6qY",
+      "slug": "kunal-aggarwal-datasploit-open-source-assistant-for-osint",
+      "title": "DataSploit Open Source Assistant for OSINT",
+      "speakers": [
+        "Kunal Aggarwal"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "data-analysis"
+      ],
+      "teaser": "DataSploit Open Source Assistant for OSINT",
+      "summary": null,
+      "durationSeconds": 1153
+    },
+    {
+      "youtubeId": "NUsJpquFq0Q",
+      "slug": "jason-haddix-domain-discovery-expanding-your-scope-like-a-boss",
+      "title": "Domain Discovery:Expanding Your Scope Like A Boss",
+      "speakers": [
+        "Jason Haddix"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "asset-discovery"
+      ],
+      "teaser": "Domain Discovery:Expanding Your Scope Like A Boss",
+      "summary": null,
+      "durationSeconds": 2529
+    },
+    {
+      "youtubeId": "d5eV36wR5Ew",
+      "slug": "inbar-raz-do-tinder-bots-dream-of-electric-toys",
+      "title": "Do Tinder Bots Dream of Electric Toys",
+      "speakers": [
+        "Inbar Raz"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "social-media"
+      ],
+      "teaser": "Do Tinder Bots Dream of Electric Toys",
+      "summary": null,
+      "durationSeconds": 1748
+    },
+    {
+      "youtubeId": "Us1nEden6Fg",
+      "slug": "guillermo-buendia-yael-esquivel-how-to-obtain-100-facebooks-a-da",
+      "title": "How To Obtain 100 Facebooks a Day",
+      "speakers": [
+        "Guillermo Buendia,  Yael Esquivel"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "social-media"
+      ],
+      "teaser": "How To Obtain 100 Facebooks a Day",
+      "summary": null,
+      "durationSeconds": 1285
+    },
+    {
+      "youtubeId": "uPbDySi-p2w",
+      "slug": "dakota-nelson-total-recoll",
+      "title": "Dakota Nelson -Total Recoll",
+      "speakers": [
+        "Dakota Nelson -Total Recoll"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint"
+      ],
+      "teaser": "Dakota Nelson -Total Recoll",
+      "summary": null,
+      "durationSeconds": 663
+    },
+    {
+      "youtubeId": "eHp2ZhyIryc",
+      "slug": "anthony-russell-building-google-for-criminal-enterprises",
+      "title": "Building Google For Criminal Enterprises",
+      "speakers": [
+        "Anthony Russell"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "search-techniques"
+      ],
+      "teaser": "Building Google For Criminal Enterprises",
+      "summary": null,
+      "durationSeconds": 2497
+    },
+    {
+      "youtubeId": "EijTmwSgqmA",
+      "slug": "andrew-hay-an-introduction-to-graph-theory-for-osint",
+      "title": "An Introduction to Graph Theory for OSINT",
+      "speakers": [
+        "Andrew Hay"
+      ],
+      "track": "osint",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "data-analysis"
+      ],
+      "teaser": "An Introduction to Graph Theory for OSINT",
+      "summary": null,
+      "durationSeconds": 2102
+    },
+    {
+      "youtubeId": "vCBAQKLAagA",
+      "slug": "abhijeth-dugginapeddi-recon-and-bug-bounties-what-a-great-love-s",
+      "title": "Recon and Bug Bounties What A Great Love Story",
+      "speakers": [
+        "Abhijeth Dugginapeddi"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "bug-bounty"
+      ],
+      "teaser": "Recon and Bug Bounties What A Great Love Story",
+      "summary": null,
+      "durationSeconds": 1754
+    }
+  ]
+}
