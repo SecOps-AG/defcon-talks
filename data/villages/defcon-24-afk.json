@@ -1,0 +1,220 @@
+{
+  "villageSlug": "afk",
+  "villageName": "AFK",
+  "eventSlug": "defcon-24",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCHWjKpgejaODz3oMKwbkpa",
+  "description": "AFK at DEF CON 24 explores the intersection of hacking, cybersecurity policy, legal rights, digital privacy, and hacker culture away from the keyboard.",
+  "talks": [
+    {
+      "youtubeId": "GhO9vyW1f7w",
+      "slug": "mudge-zatko-and-sarah-zatko",
+      "title": "Mudge Zatko and Sarah Zatko",
+      "speakers": [
+        "Project CITL"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "appsec",
+        "vulnerability-research",
+        "software-security"
+      ],
+      "teaser": "Mudge and Sarah Zatko present Project CITL, introducing quantitative software security ratings to evaluate code quality and exploitability.",
+      "summary": null,
+      "durationSeconds": 2711
+    },
+    {
+      "youtubeId": "m1lhGqNCZlA",
+      "slug": "chris-rock-how-to-overthrow-a-government",
+      "title": "Chris Rock - How to Overthrow a Government",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "threat-intel",
+        "geopolitics",
+        "critical-infrastructure"
+      ],
+      "teaser": "Chris Rock examines the real-world methodologies, cyber operations, and infrastructure targets involved in modern government disruption.",
+      "summary": null,
+      "durationSeconds": 2540
+    },
+    {
+      "youtubeId": "Kep8r-5AtTc",
+      "slug": "the-bob-ross-fan-club-propaganda-you-and-your-devices",
+      "title": "The Bob Ross Fan Club - Propaganda: You and your devices",
+      "speakers": [],
+      "track": "privacy",
+      "topics": [
+        "propaganda",
+        "privacy",
+        "surveillance",
+        "culture"
+      ],
+      "teaser": "Exploring modern digital propaganda techniques, algorithmic targeting, and how everyday personal devices influence public discourse.",
+      "summary": null,
+      "durationSeconds": 2418
+    },
+    {
+      "youtubeId": "WjhyiSktrxY",
+      "slug": "terrell-mcsweeny-and-lorrie-cranor-research-on-the-machines-help",
+      "title": "Terrell McSweeny and Lorrie Cranor - Research on the Machines: Help the FTC",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "regulation",
+        "privacy",
+        "legal"
+      ],
+      "teaser": "FTC Commissioner Terrell McSweeny and Chief Technologist Lorrie Cranor discuss how security researchers can inform consumer protection enforcement.",
+      "summary": null,
+      "durationSeconds": 2626
+    },
+    {
+      "youtubeId": "abaCzYrwrO4",
+      "slug": "panel-ask-the-eff",
+      "title": "Panel - Ask the EFF",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "eff",
+        "policy",
+        "privacy",
+        "digital-rights"
+      ],
+      "teaser": "Attorneys and technologists from the Electronic Frontier Foundation answer questions on digital rights, surveillance law, and hacker defense.",
+      "summary": null,
+      "durationSeconds": 1572
+    },
+    {
+      "youtubeId": "C1E1UlC9bFM",
+      "slug": "dr-paul-vixie-frontrunning-the-frontrunners",
+      "title": "Dr Paul Vixie - Frontrunning The Frontrunners",
+      "speakers": [],
+      "track": "recon",
+      "topics": [
+        "dns",
+        "network-security",
+        "privacy",
+        "protocols"
+      ],
+      "teaser": "Internet pioneer Dr. Paul Vixie analyzes DNS privacy, recursive resolution frontrunning, and modern efforts to secure protocol infrastructure.",
+      "summary": null,
+      "durationSeconds": 1072
+    },
+    {
+      "youtubeId": "3rlWr1dF_Lk",
+      "slug": "jake-kouns-cyber-who-done-it-attribution-analysis-through-arrest",
+      "title": "Jake Kouns - Cyber Who Done It: Attribution Analysis Through Arrest History",
+      "speakers": [],
+      "track": "threat-intel",
+      "topics": [
+        "threat-intel",
+        "attribution",
+        "investigations",
+        "law-enforcement"
+      ],
+      "teaser": "Analyzing decades of cybersecurity arrests and indictments to evaluate the accuracy and challenges of cyber attack attribution.",
+      "summary": null,
+      "durationSeconds": 2560
+    },
+    {
+      "youtubeId": "GWXQGMcx9cs",
+      "slug": "jennifer-granick-slouching-towards-utopia-the-state-of-the-inter",
+      "title": "Jennifer Granick - Slouching Towards Utopia - The State of the Internet Dream",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "digital-rights",
+        "privacy",
+        "culture"
+      ],
+      "teaser": "Jennifer Granick evaluates the erosion of open internet ideals, tracing the rise of corporate centralization and government surveillance.",
+      "summary": null,
+      "durationSeconds": 3111
+    },
+    {
+      "youtubeId": "EPIVjqExh9s",
+      "slug": "conference-jonathan-mayer-panel-meet-the-feds",
+      "title": "Conference - Jonathan Mayer, Panel - Meet the Feds",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "law-enforcement",
+        "government",
+        "community"
+      ],
+      "teaser": "A panel discussion bringing federal agency representatives and the hacker community together to address law enforcement and policy questions.",
+      "summary": null,
+      "durationSeconds": 2617
+    },
+    {
+      "youtubeId": "yGrcHhfUZDk",
+      "slug": "richard-thieme-playing-through-pain-the-impact-of-secrets-and-da",
+      "title": "Richard Thieme - Playing Through Pain: The Impact of Secrets and Dark Knowledge",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "culture",
+        "psychology",
+        "community",
+        "ethics"
+      ],
+      "teaser": "Richard Thieme reflects on the psychological toll, ethical dilemmas, and existential impacts of holding classified and dark knowledge.",
+      "summary": null,
+      "durationSeconds": 2983
+    },
+    {
+      "youtubeId": "hZVcOxUxVEQ",
+      "slug": "shane-steiger-are-you-playing-with-a-full-deck",
+      "title": "Shane Steiger Are You Playing with a Full Deck",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "culture",
+        "education"
+      ],
+      "teaser": "A presentation on cognitive biases, decision-making frameworks, and mental models for navigating complex information security challenges.",
+      "summary": null,
+      "durationSeconds": 2489
+    },
+    {
+      "youtubeId": "UGVi3ZX5IqM",
+      "slug": "dc101",
+      "title": "DC101",
+      "speakers": [
+        "DEF CON 101 Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "culture",
+        "education",
+        "defcon-culture"
+      ],
+      "teaser": "The DEF CON 101 panel provides first-timers with guidance, community norms, and strategies for making the most of the conference.",
+      "summary": null,
+      "durationSeconds": 5544
+    },
+    {
+      "youtubeId": "bK6D8VF0KjQ",
+      "slug": "jay-healey-feds-and-0days-from-before-heartbleed-to-after-fbi-ap",
+      "title": "Jay Healey - Feds and 0Days: From Before Heartbleed to After FBI Apple",
+      "speakers": [],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "zero-day",
+        "vulnerabilities",
+        "government"
+      ],
+      "teaser": "Jason Healey traces the evolution of US government vulnerability equities policy from pre-Heartbleed debates through the Apple-FBI standoff.",
+      "summary": null,
+      "durationSeconds": 2620
+    }
+  ]
+}
