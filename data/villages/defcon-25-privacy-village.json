@@ -1,0 +1,127 @@
+{
+  "villageSlug": "privacy-village",
+  "villageName": "Privacy Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCts_JlCT9JwrP9KDTFgNE3",
+  "description": "Privacy Village at DEF CON 25 covers digital privacy, surveillance, anonymity, and privacy protection techniques. The talks explore tracking, DNS privacy, government surveillance, Tor, password security, and anti-tracking methods.",
+  "talks": [
+    {
+      "youtubeId": "l0SdACyiLDA",
+      "slug": "cooper-quintin-kashmir-hill-the-internet-already-knows-im-pregna",
+      "title": "The Internet Already Knows I'm Pregnant",
+      "speakers": [
+        "Cooper Quintin, Kashmir Hill"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "The Internet Already Knows I'm Pregnant",
+      "summary": null,
+      "durationSeconds": 2222
+    },
+    {
+      "youtubeId": "gnUZddaPvUA",
+      "slug": "jim-nitterauer-dns-devious-name-services-destroying-privacy-and",
+      "title": "DNS: Devious Name Services Destroying Privacy & Anonymity w/o consent",
+      "speakers": [
+        "Jim Nitterauer"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel"
+      ],
+      "teaser": "DNS: Devious Name Services Destroying Privacy & Anonymity w/o consent",
+      "summary": null,
+      "durationSeconds": 2425
+    },
+    {
+      "youtubeId": "7Obeod8X7Do",
+      "slug": "peyton-engel",
+      "title": "Learning about Government Surveillance Software",
+      "speakers": [
+        "Peyton Engel"
+      ],
+      "track": "privacy",
+      "topics": [
+        "threat-intel",
+        "privacy",
+        "appsec"
+      ],
+      "teaser": "Learning about Government Surveillance Software",
+      "summary": null,
+      "durationSeconds": 1175
+    },
+    {
+      "youtubeId": "Di7qAVidy1Y",
+      "slug": "roger-dingledine",
+      "title": "Next Generation Tor Onion Services",
+      "speakers": [
+        "Roger Dingledine"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "Next Generation Tor Onion Services",
+      "summary": null,
+      "durationSeconds": 2587
+    },
+    {
+      "youtubeId": "atDgnkvzD8I",
+      "slug": "richard-thieme-when-privacy-goes-poof-why-its-gone-and-never-com",
+      "title": "When Privacy Goes Poof! Why It's Gone and Never Coming Back",
+      "speakers": [
+        "Richard Thieme"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "threat-intel",
+        "appsec"
+      ],
+      "teaser": "When Privacy Goes Poof! Why It's Gone and Never Coming Back",
+      "summary": null,
+      "durationSeconds": 2724
+    },
+    {
+      "youtubeId": "UjsL7K2ga4A",
+      "slug": "tess-schrodinger-total-recall-implanting-passwords-in-cognitive",
+      "title": "Total Recall  Implanting Passwords in Cognitive Memory",
+      "speakers": [
+        "Tess Schrodinger"
+      ],
+      "track": "privacy",
+      "topics": [
+        "appsec",
+        "threat-intel",
+        "privacy"
+      ],
+      "teaser": "Total Recall  Implanting Passwords in Cognitive Memory",
+      "summary": null,
+      "durationSeconds": 2254
+    },
+    {
+      "youtubeId": "IXciNThY764",
+      "slug": "weston-hecker-opt-out-or-deauth-trying-antitracking-bots-and-key",
+      "title": "Opt Out or Deauth Trying! AntiTracking Bots  & Keystroke Injection",
+      "speakers": [
+        "Weston Hecker"
+      ],
+      "track": "privacy",
+      "topics": [
+        "threat-intel",
+        "appsec",
+        "defense"
+      ],
+      "teaser": "Opt Out or Deauth Trying! AntiTracking Bots  & Keystroke Injection",
+      "summary": null,
+      "durationSeconds": 2189
+    }
+  ]
+}
