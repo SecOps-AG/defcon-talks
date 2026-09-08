@@ -1,0 +1,231 @@
+{
+  "villageSlug": "biohacking-village",
+  "villageName": "BioHacking Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCMz4YGIBhOaMbLGUk2wI1o",
+  "description": "BioHacking Village at DEF CON 27 explores the intersection of security, biology, and DIY innovation. The 14 talks cover medical device security, biomedical engineering, DIY medicine, prosthetics, biohybrid materials, and the ethical implications of hacking biology.",
+  "talks": [
+    {
+      "youtubeId": "OKrdzv9Yx54",
+      "slug": "eric-d-perakslis-employ-cybersecurity-techniques-def-con-27-bio",
+      "title": "Employ Cybersecurity Techniques",
+      "speakers": [
+        "Eric D Perakslis"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "medical-devices",
+        "ethics"
+      ],
+      "teaser": "Medical misinformation has been labeled as one of the greatest public health threats of our time. Previously eradicated diseases, such as measles are occurring in clusters and causing deaths. The problem is complex wi...",
+      "summary": null,
+      "durationSeconds": 1638
+    },
+    {
+      "youtubeId": "ar703y71hM8",
+      "slug": "jay-lagorio-hacking-wetware-w-open-source-software-and-hardware",
+      "title": "Hacking Wetware w Open Source Software and Hardware",
+      "speakers": [
+        "Jay Lagorio"
+      ],
+      "track": "community",
+      "topics": [
+        "biohacking",
+        "healthcare"
+      ],
+      "teaser": "Managing diabetes revolves around stagnated tech from the 80s and 90s. Hackers took their lives into their hands by augmenting inadequate products after market. Building iterations of a DIY artificial pancreas and rea...",
+      "summary": null,
+      "durationSeconds": 2664
+    },
+    {
+      "youtubeId": "lb2p212rc6o",
+      "slug": "andrea-downing-a-previvors-story-of-uncovering-massive-zero-day",
+      "title": "A Previvors Story of Uncovering Massive Zero Day",
+      "speakers": [
+        "Andrea Downing"
+      ],
+      "track": "red-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "massive security vulnerability was discovered which allowed PHI to be leaked from closed patient support groups on Facebook. In this session we\u2019ll discuss how a coalition of patients and security researchers faced thi...",
+      "summary": null,
+      "durationSeconds": 1680
+    },
+    {
+      "youtubeId": "jy47rqOuz3g",
+      "slug": "dr-avi-rubin-the-attack-surface-of-a-networked-medical-device-de",
+      "title": "The Attack Surface of a Networked Medical Device",
+      "speakers": [
+        "Dr Avi Rubin"
+      ],
+      "track": "red-team",
+      "topics": [
+        "medical-devices",
+        "networks"
+      ],
+      "teaser": "Even a device with the most ironclad firmware can still be subject to a broad variety of attacks depending on its interaction with other external components. This presentation will examine commonly overlooked vulnerab...",
+      "summary": null,
+      "durationSeconds": 2125
+    },
+    {
+      "youtubeId": "jxyzb1IdZ5Q",
+      "slug": "panel-medical-simulations-panel-def-con-27-bio-hacking-village",
+      "title": "Medical Simulations Panel",
+      "speakers": [
+        "Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "medical-devices"
+      ],
+      "teaser": "Medical Simulations Panel",
+      "summary": null,
+      "durationSeconds": 3128
+    },
+    {
+      "youtubeId": "gzMQWzYwJrs",
+      "slug": "jean-rintoul-spectra-open-biomedical-imaging-def-con-27-bio-hack",
+      "title": "Spectra Open Biomedical Imaging",
+      "speakers": [
+        "Jean Rintoul"
+      ],
+      "track": "community",
+      "topics": [
+        "medical-devices",
+        "biomedical-engineering"
+      ],
+      "teaser": "Biomedical Imaging has previously been expensive and near impossible to hack and experiment with. If more people experimented and understood how imaging works we could move it forward much faster and make these transf...",
+      "summary": null,
+      "durationSeconds": 2441
+    },
+    {
+      "youtubeId": "fsU27wVYQ_I",
+      "slug": "nick-titus-building-a-new-decentralized-internet-with-the-nodes",
+      "title": "Building a New Decentralized Internet With the Nodes",
+      "speakers": [
+        "Nick Titus"
+      ],
+      "track": "community",
+      "topics": [
+        "biohacking",
+        "networks"
+      ],
+      "teaser": "The internet is broken. It's vulnerable to manipulation, censorship, shutdowns, surveillance, and on top of all that, it costs to access it. What if we could bypass all that? The PirateBox platform with its meshing ca...",
+      "summary": null,
+      "durationSeconds": 1838
+    },
+    {
+      "youtubeId": "_q7PmtKuwag",
+      "slug": "jc-vega-how-to-level-up-experiential-learning-def-con-27-bio-hac",
+      "title": "How to Level Up Experiential Learning",
+      "speakers": [
+        "JC Vega"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "Want to learn how an epic clash between hackers turns into a battle of survival? How an intense, immersive experience builds critical cybersecurity skills? This talk highlights how storytelling, gamification and theat...",
+      "summary": null,
+      "durationSeconds": 1942
+    },
+    {
+      "youtubeId": "DpGJUOIBbdY",
+      "slug": "alex-pearlman-diy-medicine-the-ethics-of-hacking-pharma-def-con",
+      "title": "DIY Medicine The Ethics of Hacking Pharma",
+      "speakers": [
+        "Alex Pearlman"
+      ],
+      "track": "community",
+      "topics": [
+        "biohacking",
+        "healthcare",
+        "ethics"
+      ],
+      "teaser": "I will present two case studies of groups using biohacking methods to create generic versions of two of the most widely prescribed and most expensive pharmaceuticals in America. I will explain their methods and motiva...",
+      "summary": null,
+      "durationSeconds": 2116
+    },
+    {
+      "youtubeId": "Ch9vMW3gtdA",
+      "slug": "dr-harish-manyam-doctor-hacker-panel-def-con-27-bio-hacking-vill",
+      "title": "Doctor Hacker Panel",
+      "speakers": [
+        "Dr Harish Manyam"
+      ],
+      "track": "red-team",
+      "topics": [
+        "medical-devices"
+      ],
+      "teaser": "Evaluating the clinical impact of a vulnerability has significant implication on how the vulnerabilities is handled both pre and post disclosure including how it is communicated to physicians and patients. Open and tr...",
+      "summary": null,
+      "durationSeconds": 4160
+    },
+    {
+      "youtubeId": "5pIp2Bs3oe0",
+      "slug": "rachel-smith-liven-up-augmenting-materials-bio-hybrid-function-d",
+      "title": "Liven Up Augmenting Materials  Bio Hybrid Function",
+      "speakers": [
+        "Rachel Smith"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "biohacking",
+        "healthcare"
+      ],
+      "teaser": "What tools are currently available to us to create \u201cliving\u201d or bio-hybrid materials\u2014those that can be animated with biological functionalities for growth, response, distributed information processing, and cuing to the...",
+      "summary": null,
+      "durationSeconds": 1778
+    },
+    {
+      "youtubeId": "ZYKVjry9tLk",
+      "slug": "wayne-penn-amputees-and-prosthetics-challenges-def-con-27-bio-ha",
+      "title": "Amputees and Prosthetics Challenges",
+      "speakers": [
+        "Wayne Penn"
+      ],
+      "track": "community",
+      "topics": [
+        "biohacking",
+        "medical-devices",
+        "prosthetics",
+        "biomedical-engineering"
+      ],
+      "teaser": "The human body is the most elegant and complex machine ever created, but often we do not realize how well it works until a major system has been compromised such as with an amputation severing and removing an element ...",
+      "summary": null,
+      "durationSeconds": 4099
+    },
+    {
+      "youtubeId": "QxP6RnWgGdU",
+      "slug": "najla-lindsay-forensic-science-and-information-security-lifetime",
+      "title": "Forensic Science and Information Security Lifetime",
+      "speakers": [
+        "Najla Lindsay"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "biohacking"
+      ],
+      "teaser": "Forensic Science and Information Security are very parallel fields. They are both methodical in nature and often one area builds succinctly on top of the other. With the ability to have a specialty in various areas, i...",
+      "summary": null,
+      "durationSeconds": 2043
+    },
+    {
+      "youtubeId": "PDUparvBW2U",
+      "slug": "turtle-snap-malware-and-biology-video-def-con-27-bio-hacking-vil",
+      "title": "Malware and Biology video",
+      "speakers": [
+        "Turtle Snap"
+      ],
+      "track": "red-team",
+      "topics": [
+        "medical-devices",
+        "threat-analysis"
+      ],
+      "teaser": "Drawing the connections between how human biology is affecting the evolution of malware. This talk will discuss how malware can affect biological virus research and be used for future medical research. Basically, a co...",
+      "summary": null,
+      "durationSeconds": 1318
+    }
+  ]
+}
