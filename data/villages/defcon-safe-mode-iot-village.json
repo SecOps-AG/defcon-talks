@@ -1,0 +1,355 @@
+{
+  "villageSlug": "iot-village",
+  "villageName": "IoT Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAQbN6x0dHAi2K5zSmd9XK6",
+  "description": "IoT Village highlights embedded firmware analysis, smart device reverse engineering, hardware security research tools, and connected device vulnerability disclosure.",
+  "talks": [
+    {
+      "youtubeId": "GZsT2FgFRZ8",
+      "slug": "iot-hacking-stories-in-real-life",
+      "title": "IoT Hacking Stories in Real Life",
+      "speakers": [
+        "Besim Altinok",
+        "Anil Celik"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "embedded",
+        "smart-home",
+        "firmware"
+      ],
+      "teaser": "Shares real-world case studies and practical lessons learned from testing and hacking consumer IoT devices.",
+      "summary": null,
+      "durationSeconds": 990
+    },
+    {
+      "youtubeId": "l18wjygqrKM",
+      "slug": "hacking-smart-devices-for-fun-and-profit",
+      "title": "Hacking Smart Devices for Fun and Profit",
+      "speakers": [
+        "Barak Sternberg"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "reverse-engineering",
+        "vulnerability-research",
+        "embedded"
+      ],
+      "teaser": "Explores vulnerability discovery techniques and exploitation workflows targeting connected smart devices.",
+      "summary": null,
+      "durationSeconds": 2581
+    },
+    {
+      "youtubeId": "rGNKbXIddUc",
+      "slug": "future-of-iot-sec-baselines",
+      "title": "Future of IoT Sec Baselines",
+      "speakers": [
+        "Dr. Amit Bar On",
+        "Anahit Tarkhanyan"
+      ],
+      "track": "policy",
+      "topics": [
+        "iot",
+        "standards",
+        "compliance",
+        "policy"
+      ],
+      "teaser": "Examines the evolution of security baselines, regulatory compliance, and standardization frameworks for connected IoT devices.",
+      "summary": null,
+      "durationSeconds": 2448
+    },
+    {
+      "youtubeId": "4Hefeu9lxvs",
+      "slug": "your-connected-world-isnt-yours-now",
+      "title": "Your Connected World Isn't Yours Now",
+      "speakers": [
+        "Dewank Pant",
+        "Shruti Lohani"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "smart-home",
+        "privacy",
+        "embedded"
+      ],
+      "teaser": "Analyzes privacy risks, data leakage, and device takeover vulnerabilities across consumer smart home ecosystems.",
+      "summary": null,
+      "durationSeconds": 2808
+    },
+    {
+      "youtubeId": "C6munjMprzU",
+      "slug": "nand-flash-recovering-file-systems",
+      "title": "NAND Flash Recovering File Systems",
+      "speakers": [
+        "Deral Heiland"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "firmware",
+        "reverse-engineering",
+        "iot"
+      ],
+      "teaser": "Details techniques for dumping raw NAND flash chips, reconstructing wear-leveled blocks, and recovering embedded filesystems.",
+      "summary": null,
+      "durationSeconds": 3801
+    },
+    {
+      "youtubeId": "ztYnPAl3kCE",
+      "slug": "getting-started-building-an-iot-hardware-hacking-lab",
+      "title": "Getting Started Building an IoT Hardware Hacking Lab",
+      "speakers": [
+        "Deral Heiland"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "iot",
+        "reverse-engineering",
+        "embedded"
+      ],
+      "teaser": "Guides defenders and researchers through assembling an affordable hardware hacking workbench with essential tools and equipment.",
+      "summary": null,
+      "durationSeconds": 4428
+    },
+    {
+      "youtubeId": "rDMQDSv3XW0",
+      "slug": "vulnerabilities-in-smart-sex-toys",
+      "title": "Vulnerabilities in Smart Sex Toys",
+      "speakers": [
+        "Denise Bilic",
+        "Cecilia Pastorino"
+      ],
+      "track": "privacy",
+      "topics": [
+        "iot",
+        "ble",
+        "bluetooth",
+        "privacy"
+      ],
+      "teaser": "Examines severe privacy flaws, Bluetooth Low Energy vulnerabilities, and cloud data risks in connected smart devices.",
+      "summary": null,
+      "durationSeconds": 2307
+    },
+    {
+      "youtubeId": "V6lElrPNntQ",
+      "slug": "how-to-get-rights-for-hackers",
+      "title": "How to Get Rights for Hackers",
+      "speakers": [
+        "Chloé Messdaghi"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "vulnerability-disclosure",
+        "community"
+      ],
+      "teaser": "Advocates for legal protections, safe harbor frameworks, and policy reforms to shield security researchers from prosecution.",
+      "summary": null,
+      "durationSeconds": 1674
+    },
+    {
+      "youtubeId": "JEcBhCsBJjA",
+      "slug": "stepped-on-a-nail",
+      "title": "Stepped on a Nail",
+      "speakers": [
+        "Matthew Byrdwell"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "embedded",
+        "firmware",
+        "iot"
+      ],
+      "teaser": "Presents an embedded hardware research case study dissecting device security architecture and unexpected failure modes.",
+      "summary": null,
+      "durationSeconds": 3638
+    },
+    {
+      "youtubeId": "mxQCORr0IJk",
+      "slug": "vulntron-4-cves-turn-a-teleconference-bot-into-a-spy",
+      "title": "VULNtron: 4 CVEs Turn a Teleconference Bot into a Spy",
+      "speakers": [
+        "Mark Bereza"
+      ],
+      "track": "hardware",
+      "topics": [
+        "cve",
+        "iot",
+        "privilege-escalation",
+        "embedded"
+      ],
+      "teaser": "Chains four CVEs in a commercial telepresence robot to achieve remote code execution and covert surveillance.",
+      "summary": null,
+      "durationSeconds": 2521
+    },
+    {
+      "youtubeId": "tuRhD4GLRpU",
+      "slug": "iot-honeypots-and-taming-rogue-appliances",
+      "title": "IoT Honeypots and Taming Rogue Appliances",
+      "speakers": [
+        "Kat Fitzgerald"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "honeypot",
+        "iot",
+        "network-security",
+        "blue-team"
+      ],
+      "teaser": "Explains how to deploy IoT honeypots to capture malicious scanning and isolate rogue appliances on home networks.",
+      "summary": null,
+      "durationSeconds": 2711
+    },
+    {
+      "youtubeId": "AzxjBwdK2BE",
+      "slug": "learning-to-use-logic-analyzers",
+      "title": "Learning to Use Logic Analyzers",
+      "speakers": [
+        "Jonathan Stines"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "uart",
+        "iot",
+        "embedded"
+      ],
+      "teaser": "Demonstrates how to capture, decode, and interpret serial communication protocols using hardware logic analyzers.",
+      "summary": null,
+      "durationSeconds": 4553
+    },
+    {
+      "youtubeId": "y6tzcV_mY68",
+      "slug": "introduction-to-u-boot-interaction-and-hacking",
+      "title": "Introduction to U-Boot Interaction and Hacking",
+      "speakers": [
+        "Garrett Enochs"
+      ],
+      "track": "hardware",
+      "topics": [
+        "u-boot",
+        "bootloader",
+        "hardware",
+        "firmware",
+        "embedded"
+      ],
+      "teaser": "Walks through interacting with the U-Boot bootloader via serial console to extract firmware and alter boot parameters.",
+      "summary": null,
+      "durationSeconds": 4681
+    },
+    {
+      "youtubeId": "Qthk-M9xVmc",
+      "slug": "vulnerability-trends-in-the-supply-chain",
+      "title": "Vulnerability Trends in the Supply Chain",
+      "speakers": [
+        "Parker Wiksell"
+      ],
+      "track": "supply-chain",
+      "topics": [
+        "supply-chain",
+        "vulnerability-research",
+        "iot",
+        "firmware"
+      ],
+      "teaser": "Examines recurring vulnerability patterns, outdated third-party SDKs, and component reuse across IoT supply chains.",
+      "summary": null,
+      "durationSeconds": 2615
+    },
+    {
+      "youtubeId": "q7R031FNjqk",
+      "slug": "the-joy-of-coordinating-vulnerability-disclosure",
+      "title": "The Joy of Coordinating Vulnerability Disclosure",
+      "speakers": [
+        "Panel"
+      ],
+      "track": "policy",
+      "topics": [
+        "vulnerability-disclosure",
+        "policy",
+        "community"
+      ],
+      "teaser": "Panelists discuss the realities, communication hurdles, and diplomatic nuances of coordinated vulnerability disclosure.",
+      "summary": null,
+      "durationSeconds": 2608
+    },
+    {
+      "youtubeId": "0G2g-tLMK70",
+      "slug": "kicking-devices-taking-cves-zoomer-guide-to-hacking",
+      "title": "Kicking Devices, Taking CVEs: Zoomer Guide to Hacking",
+      "speakers": [
+        "Sanjana Sarda"
+      ],
+      "track": "hardware",
+      "topics": [
+        "cve",
+        "iot",
+        "firmware",
+        "vulnerability-research",
+        "community"
+      ],
+      "teaser": "Offers practical guidance and methodology for young security researchers starting out in IoT vulnerability hunting.",
+      "summary": null,
+      "durationSeconds": 1848
+    },
+    {
+      "youtubeId": "gDZoHorF42E",
+      "slug": "hella-booters-why-iot-botnets-arent-going-anywhere",
+      "title": "Hella Booters, Why IoT Botnets Aren't Going Anywhere",
+      "speakers": [
+        "Netspooky"
+      ],
+      "track": "malware",
+      "topics": [
+        "botnet",
+        "ddos",
+        "iot",
+        "malware"
+      ],
+      "teaser": "Analyzes the persistent economics, attack vectors, and lifecycle of IoT botnets driving modern DDoS-for-hire services.",
+      "summary": null,
+      "durationSeconds": 2666
+    },
+    {
+      "youtubeId": "11qWHjoLT5U",
+      "slug": "pandemic-in-plaintext",
+      "title": "Pandemic in Plaintext",
+      "speakers": [
+        "Troy Brown"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "iot",
+        "traffic-analysis",
+        "network-security"
+      ],
+      "teaser": "Reveals how medical and consumer IoT devices deployed during the COVID-19 pandemic transmitted sensitive data in plaintext.",
+      "summary": null,
+      "durationSeconds": 1244
+    },
+    {
+      "youtubeId": "kbnTVQg7ZOo",
+      "slug": "in-search-of-the-perfect-upnp-tool",
+      "title": "In Search of the Perfect UPnP Tool",
+      "speakers": [
+        "t1v0"
+      ],
+      "track": "recon",
+      "topics": [
+        "upnp",
+        "recon",
+        "iot",
+        "network-security"
+      ],
+      "teaser": "Surveys existing UPnP assessment tools, highlighting protocol flaws, NAT traversal risks, and custom tooling.",
+      "summary": null,
+      "durationSeconds": 1750
+    }
+  ]
+}
