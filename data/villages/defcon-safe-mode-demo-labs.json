@@ -1,0 +1,147 @@
+{
+  "villageSlug": "demo-labs",
+  "villageName": "Demo Labs",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDNr7pYdM5kmvrDbVse4gsn",
+  "description": "Demo Labs at DEF CON Safe Mode showcases open-source security tools, vulnerability scanners, and testing frameworks demonstrated by their creators.",
+  "talks": [
+    {
+      "youtubeId": "qkEZ9X5gLv4",
+      "slug": "safe-mode-demo-labs-jakub-botwicz",
+      "title": "Safe Mode Demo Labs - Jakub Botwicz",
+      "speakers": [
+        "Cotopaxi"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "protocols",
+        "fuzzing",
+        "open-source"
+      ],
+      "teaser": "A live demonstration of Cotopaxi, an open-source testing framework for evaluating Internet of Things device protocol security.",
+      "summary": null,
+      "durationSeconds": 1731
+    },
+    {
+      "youtubeId": "1q2Eo3x3u0g",
+      "slug": "safe-mode-demo-labs-olivier-bilodeau",
+      "title": "Safe Mode Demo Labs - Olivier Bilodeau",
+      "speakers": [
+        "PyRDP"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "honeypot",
+        "network-security",
+        "open-source"
+      ],
+      "teaser": "A demonstration of PyRDP, a Python tool for Remote Desktop Protocol interception, credential capture, and honeypot deployment.",
+      "summary": null,
+      "durationSeconds": 2401
+    },
+    {
+      "youtubeId": "vTDQF3dW2sg",
+      "slug": "safe-mode-demo-labs-viral-maniar",
+      "title": "Safe Mode Demo Labs - Viral Maniar",
+      "speakers": [
+        "Phirautee"
+      ],
+      "track": "adversary-emulation",
+      "topics": [
+        "ransomware",
+        "adversary-emulation",
+        "blue-team",
+        "open-source"
+      ],
+      "teaser": "A demo of Phirautee, an open-source ransomware simulator designed to test endpoint detection and incident response capabilities.",
+      "summary": null,
+      "durationSeconds": 1286
+    },
+    {
+      "youtubeId": "kphstBd9PU4",
+      "slug": "safe-mode-demo-labs-vincent-rose",
+      "title": "Safe Mode Demo Labs - Vincent Rose",
+      "speakers": [
+        "Starkiller"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "c2",
+        "post-exploitation",
+        "open-source"
+      ],
+      "teaser": "A walkthrough of Starkiller, a graphical user interface frontend for managing PowerShell Empire post-exploitation agents and operations.",
+      "summary": null,
+      "durationSeconds": 1199
+    },
+    {
+      "youtubeId": "I95HCADP6As",
+      "slug": "safe-mode-demo-labs-tamoaki-tani-malconfscan-with-cuckoo",
+      "title": "Safe Mode Demo Labs - Tamoaki Tani - malconfscan with cuckoo",
+      "speakers": [],
+      "track": "malware",
+      "topics": [
+        "malware-analysis",
+        "memory-forensics",
+        "reverse-engineering",
+        "blue-team"
+      ],
+      "teaser": "A demonstration of using MalConfScan with Cuckoo Sandbox to extract configuration data from malware families in memory.",
+      "summary": null,
+      "durationSeconds": 1172
+    },
+    {
+      "youtubeId": "ZtCMnKHZJUM",
+      "slug": "safe-mode-demo-labs-matthew-creel-redlure",
+      "title": "Safe Mode Demo Labs - Matthew Creel - redlure",
+      "speakers": [],
+      "track": "social-engineering",
+      "topics": [
+        "phishing",
+        "social-engineering",
+        "red-team",
+        "open-source"
+      ],
+      "teaser": "A demonstration of redlure, an on-premises collaborative phishing framework for managing and executing red team campaigns.",
+      "summary": null,
+      "durationSeconds": 1743
+    },
+    {
+      "youtubeId": "LJFuydx-HtE",
+      "slug": "safe-mode-demo-labs-chris-nevin",
+      "title": "Safe Mode Demo Labs - Chris Nevin",
+      "speakers": [
+        "Carnivore"
+      ],
+      "track": "recon",
+      "topics": [
+        "recon",
+        "network-security",
+        "open-source",
+        "automation"
+      ],
+      "teaser": "A demonstration of Carnivore, an open-source automated network reconnaissance and target assessment utility.",
+      "summary": null,
+      "durationSeconds": 3159
+    },
+    {
+      "youtubeId": "1NIQs82n3nw",
+      "slug": "safe-mode-demo-labs-ajin-abraham-mobile-app-security-testing-wit",
+      "title": "Safe Mode Demo Labs - Ajin Abraham - Mobile App Security Testing with MobSF",
+      "speakers": [],
+      "track": "mobile",
+      "topics": [
+        "mobile-security",
+        "appsec",
+        "reverse-engineering",
+        "open-source"
+      ],
+      "teaser": "A demonstration of Mobile Security Framework (MobSF) for performing automated static and dynamic security analysis of mobile apps.",
+      "summary": null,
+      "durationSeconds": 1837
+    }
+  ]
+}
