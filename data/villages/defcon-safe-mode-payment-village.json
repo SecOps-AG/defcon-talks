@@ -1,0 +1,117 @@
+{
+  "villageSlug": "payment-village",
+  "villageName": "Payment Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAKIhathGMzaODolH-JTOhW",
+  "description": "Payment Village focuses on financial technology security, payment gateway architecture, Point of Sale (PoS) terminal hardware exploitation, EMV chip transactions, and online banking fraud.",
+  "talks": [
+    {
+      "youtubeId": "Mvsb_Z1Xorw",
+      "slug": "identity-crisis-online-account-opening-fraud",
+      "title": "Identity Crisis: Online Account Opening Fraud",
+      "speakers": [
+        "Uri Rivner"
+      ],
+      "track": "appsec",
+      "topics": [
+        "fraud",
+        "banking",
+        "identity-theft",
+        "fintech"
+      ],
+      "teaser": "Analyzes synthetic identities, mule networks, and automated bot attacks targeting new online account opening workflows.",
+      "summary": null,
+      "durationSeconds": 2444
+    },
+    {
+      "youtubeId": "vgJ6ZdwPoqA",
+      "slug": "architecting-modern-payment-gateways",
+      "title": "Architecting Modern Payment Gateways",
+      "speakers": [
+        "Menaka BaskerPillai"
+      ],
+      "track": "appsec",
+      "topics": [
+        "payment-gateway",
+        "architecture",
+        "fintech",
+        "appsec"
+      ],
+      "teaser": "Covers architectural patterns, security controls, and regulatory compliance standards for engineering resilient payment gateways.",
+      "summary": null,
+      "durationSeconds": 2044
+    },
+    {
+      "youtubeId": "EI14PtTmOzI",
+      "slug": "welcome-to-the-payment-village",
+      "title": "Welcome to the Payment Village",
+      "speakers": [
+        "Leigh-Anne Galloway"
+      ],
+      "track": "community",
+      "topics": [
+        "payment-village",
+        "fintech",
+        "community",
+        "welcome"
+      ],
+      "teaser": "Welcomes attendees to DEF CON Safe Mode Payment Village, highlighting the talk schedule, workshops, and village goals.",
+      "summary": null,
+      "durationSeconds": 268
+    },
+    {
+      "youtubeId": "X0ZnVVxy04U",
+      "slug": "online-banking-security",
+      "title": "Online Banking Security",
+      "speakers": [
+        "Arkadiy Litvinenko"
+      ],
+      "track": "appsec",
+      "topics": [
+        "online-banking",
+        "appsec",
+        "financial-services",
+        "authentication"
+      ],
+      "teaser": "Examines application layer security, transaction signing vulnerabilities, and authentication weaknesses in online banking platforms.",
+      "summary": null,
+      "durationSeconds": 3118
+    },
+    {
+      "youtubeId": "uOR508ZN2qY",
+      "slug": "making-sense-of-emv-card-data",
+      "title": "Making Sense of EMV Card Data",
+      "speakers": [
+        "Steven Murdoch"
+      ],
+      "track": "hardware",
+      "topics": [
+        "emv",
+        "payment-cards",
+        "cryptography",
+        "hardware"
+      ],
+      "teaser": "Decodes the complex transaction flow, cryptographic authorizations, and data elements embedded in EMV chip cards.",
+      "summary": null,
+      "durationSeconds": 2272
+    },
+    {
+      "youtubeId": "gtbS3Gr264w",
+      "slug": "pos-terminal-security-uncovered",
+      "title": "PoS Terminal Security Uncovered",
+      "speakers": [
+        "Aleksei Stennikov"
+      ],
+      "track": "hardware",
+      "topics": [
+        "pos-terminals",
+        "hardware",
+        "payment-systems",
+        "embedded"
+      ],
+      "teaser": "Investigates hardware attack surfaces, firmware tampering risks, and memory scraping vectors in Point of Sale terminals.",
+      "summary": null,
+      "durationSeconds": 2077
+    }
+  ]
+}
