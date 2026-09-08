@@ -1,0 +1,75 @@
+{
+  "villageSlug": "presentations-hardware-and-lockpicking",
+  "villageName": "Presentations Hardware and Lockpicking",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaA87dUpTOHV5JiHfwbFfjeC",
+  "description": "Presentations on Hardware and Lockpicking at DEF CON 23 covers physical security, embedded device exploitation, electronic safe bypassing, and hardware root-of-trust security.",
+  "talks": [
+    {
+      "youtubeId": "2gbooa3tO5o",
+      "slug": "teddy-reed-and-nick-anderson-hardware-and-trust-security-eli5",
+      "title": "Teddy Reed and Nick Anderson - Hardware and Trust Security ELI5",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "secure-boot",
+        "supply-chain",
+        "firmware"
+      ],
+      "teaser": "An approachable breakdown of hardware roots of trust, cryptographic coprocessors, and supply chain integrity in modern compute devices.",
+      "summary": null,
+      "durationSeconds": 2723
+    },
+    {
+      "youtubeId": "aCOzE1_dDBY",
+      "slug": "dan-petro-and-oscar-salaza-hacking-smart-safes-on-the-brink-of-a",
+      "title": "Dan Petro and Oscar Salaza - Hacking Smart Safes: On the Brink of a Robbery",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "physical-security",
+        "iot",
+        "reverse-engineering"
+      ],
+      "teaser": "Dan Petro and Oscar Salazar reverse engineer electronic smart safes, uncovering firmware vulnerabilities and remote lock bypasses.",
+      "summary": null,
+      "durationSeconds": 2758
+    },
+    {
+      "youtubeId": "JZ3EB68v_B0",
+      "slug": "mike-ryan-and-richo-healey",
+      "title": "Mike Ryan and Richo Healey",
+      "speakers": [
+        "Hacking Electric Skateboards"
+      ],
+      "track": "wireless",
+      "topics": [
+        "bluetooth",
+        "hardware",
+        "wireless",
+        "rf"
+      ],
+      "teaser": "Exploiting unencrypted Bluetooth Low Energy protocols and radio links used by motorized electric skateboards to induce remote stops.",
+      "summary": null,
+      "durationSeconds": 2691
+    },
+    {
+      "youtubeId": "z8VkZCCWqgg",
+      "slug": "ammonra-how-to-hack-your-way-out-of-home-detention",
+      "title": "AmmonRa - How to Hack Your Way out of Home Detention",
+      "speakers": [],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "rf",
+        "physical-security",
+        "reverse-engineering"
+      ],
+      "teaser": "Analyzing the radio frequency signals, tamper sensors, and hardware limitations of electronic home detention and ankle monitoring bracelets.",
+      "summary": null,
+      "durationSeconds": 2207
+    }
+  ]
+}
