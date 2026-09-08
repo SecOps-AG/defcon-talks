@@ -1,0 +1,162 @@
+{
+  "villageSlug": "car-hacking-village",
+  "villageName": "Car Hacking Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaANnINH9nl0f48BU_4LoeAS",
+  "description": "Car Hacking Village at DEF CON 26 covers automotive security, CAN bus exploitation, infotainment systems, ECU vulnerabilities, and vehicle-to-everything (V2X) network security. The 10 talks explore CAN signal extraction, SMS-controlled car hacking, digital key attacks, and automotive security tools.",
+  "talks": [
+    {
+      "youtubeId": "UoevuAS-4dM",
+      "slug": "ben-gardiner-can-signal-extraction-from-openxc-with-radare2",
+      "title": "CAN Signal Extraction from OpenXC with Radare2",
+      "speakers": [
+        "Ben Gardiner"
+      ],
+      "track": "red-team",
+      "topics": [
+        "vehicle-networks"
+      ],
+      "teaser": "CAN Signal Extraction from OpenXC with Radare2",
+      "summary": null,
+      "durationSeconds": 1421
+    },
+    {
+      "youtubeId": "YFMqGyWyWCo",
+      "slug": "jerry-gamblin-so-you-want-to-hack-a-car",
+      "title": "So You Want To Hack A Car",
+      "speakers": [
+        "Jerry Gamblin"
+      ],
+      "track": "red-team",
+      "topics": [
+        "car-hacking"
+      ],
+      "teaser": "So You Want To Hack A Car",
+      "summary": null,
+      "durationSeconds": 723
+    },
+    {
+      "youtubeId": "PlOj0Mt-2NM",
+      "slug": "eric-evenchick",
+      "title": "Go Hack Cars",
+      "speakers": [
+        "Eric Evenchick"
+      ],
+      "track": "red-team",
+      "topics": [
+        "car-hacking"
+      ],
+      "teaser": "Go Hack Cars",
+      "summary": null,
+      "durationSeconds": 857
+    },
+    {
+      "youtubeId": "j3dfgTKa7pQ",
+      "slug": "dan-regalado-meet-salinas-1st-sms-commanded-car-infotainment-rat",
+      "title": "Meet Salinas, 1st SMS commanded Car Infotainment RAT",
+      "speakers": [
+        "Dan Regalado"
+      ],
+      "track": "red-team",
+      "topics": [
+        "car-hacking",
+        "iot"
+      ],
+      "teaser": "Meet Salinas, 1st SMS commanded Car Infotainment RAT",
+      "summary": null,
+      "durationSeconds": 3660
+    },
+    {
+      "youtubeId": "i3S9wiHF8c0",
+      "slug": "vlad-evidence-collection-automotive-driving-aids-and-liability",
+      "title": "Evidence Collection Automotive Driving Aids and Liability",
+      "speakers": [
+        "Vlad"
+      ],
+      "track": "red-team",
+      "topics": [
+        "car-hacking"
+      ],
+      "teaser": "Evidence Collection Automotive Driving Aids and Liability",
+      "summary": null,
+      "durationSeconds": 1370
+    },
+    {
+      "youtubeId": "RQBf3x6SCu0",
+      "slug": "phil-lapczynski-flash-bootloaders-exposing-automotive-ecu-update",
+      "title": "Flash Bootloaders Exposing Automotive ECU updates",
+      "speakers": [
+        "Phil Lapczynski"
+      ],
+      "track": "red-team",
+      "topics": [
+        "car-hacking",
+        "firmware-analysis"
+      ],
+      "teaser": "Flash Bootloaders Exposing Automotive ECU updates",
+      "summary": null,
+      "durationSeconds": 2059
+    },
+    {
+      "youtubeId": "v6uCBNfIfMM",
+      "slug": "kevin2600-grand-theft-auto-digital-key-hacking",
+      "title": "Grand Theft Auto Digital Key Hacking",
+      "speakers": [
+        "KEVIN2600"
+      ],
+      "track": "red-team",
+      "topics": [
+        "exploitation"
+      ],
+      "teaser": "Grand Theft Auto Digital Key Hacking",
+      "summary": null,
+      "durationSeconds": 2741
+    },
+    {
+      "youtubeId": "bK3SFDKvkHQ",
+      "slug": "nathaniel-boggs",
+      "title": "Automotive Exploitation Sandbox",
+      "speakers": [
+        "Nathaniel Boggs"
+      ],
+      "track": "red-team",
+      "topics": [
+        "car-hacking",
+        "security-research"
+      ],
+      "teaser": "Automotive Exploitation Sandbox",
+      "summary": null,
+      "durationSeconds": 1368
+    },
+    {
+      "youtubeId": "gipx2tR1v9c",
+      "slug": "ben",
+      "title": "Misbehavior Detection in V2X Networks",
+      "speakers": [
+        "Ben"
+      ],
+      "track": "red-team",
+      "topics": [
+        "vehicle-communication"
+      ],
+      "teaser": "Misbehavior Detection in V2X Networks",
+      "summary": null,
+      "durationSeconds": 3140
+    },
+    {
+      "youtubeId": "TRn_Rz2JIYQ",
+      "slug": "ben-2",
+      "title": "CANT",
+      "speakers": [
+        "Ben"
+      ],
+      "track": "red-team",
+      "topics": [
+        "vehicle-networks"
+      ],
+      "teaser": "CANT",
+      "summary": null,
+      "durationSeconds": 2920
+    }
+  ]
+}
