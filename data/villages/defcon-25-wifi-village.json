@@ -1,0 +1,178 @@
+{
+  "villageSlug": "wifi-village",
+  "villageName": "Wifi Village",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCJs4xD6CVHws53uCAR2Qzz",
+  "description": "Wifi Village at DEF CON 25 covers wireless security, signal intelligence, and RF attacks. The 11 talks explore wardriving, packet sniffing, software-defined radios, home security system vulnerabilities, SIGINT techniques, and wireless monitoring tools like Kismet.",
+  "talks": [
+    {
+      "youtubeId": "fSsTgazmHCw",
+      "slug": "aardvark-darkmatter-wigle-like-you-mean-it-maximizing-your-wardr",
+      "title": "WIGLE Like You Mean It  Maximizing Your Wardriving",
+      "speakers": [
+        "Aardvark, Darkmatter"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless"
+      ],
+      "teaser": "WIGLE Like You Mean It  Maximizing Your Wardriving",
+      "summary": null,
+      "durationSeconds": 2898
+    },
+    {
+      "youtubeId": "pKP74WGa_s0",
+      "slug": "woody-tim-kuester-godumping-packet-sniffing-the-gotenna",
+      "title": "GODUMPiNG packet sniffing the Gotenna",
+      "speakers": [
+        "Woody, Tim Kuester"
+      ],
+      "track": "red-team",
+      "topics": [
+        "packet-analysis",
+        "iot"
+      ],
+      "teaser": "GODUMPiNG packet sniffing the Gotenna",
+      "summary": null,
+      "durationSeconds": 3383
+    },
+    {
+      "youtubeId": "pA4MuhebEwA",
+      "slug": "vivek-ramachandran-nishant-sharma-ashish-bhangale-deceptacon",
+      "title": "Vivek Ramachandran, Nishant Sharma, Ashish Bhangale- Deceptacon",
+      "speakers": [
+        "Vivek Ramachandran, Nishant Sharma, Ashish Bhangale- Deceptacon"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless"
+      ],
+      "teaser": "Vivek Ramachandran, Nishant Sharma, Ashish Bhangale- Deceptacon",
+      "summary": null,
+      "durationSeconds": 2191
+    },
+    {
+      "youtubeId": "gAwbe-G1t-A",
+      "slug": "robert-ghilduta",
+      "title": "Designing An Automatic Gain Control",
+      "speakers": [
+        "Robert Ghilduta"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless"
+      ],
+      "teaser": "Designing An Automatic Gain Control",
+      "summary": null,
+      "durationSeconds": 3071
+    },
+    {
+      "youtubeId": "iV0fGMwHVyE",
+      "slug": "nick-delewski-failsafe-yet-another-simplisafe-attack-vector",
+      "title": "Failsafe: Yet Another SimpliSafe Attack Vector",
+      "speakers": [
+        "Nick Delewski"
+      ],
+      "track": "red-team",
+      "topics": [
+        "exploitation"
+      ],
+      "teaser": "Failsafe: Yet Another SimpliSafe Attack Vector",
+      "summary": null,
+      "durationSeconds": 3171
+    },
+    {
+      "youtubeId": "7awwG9aaR4c",
+      "slug": "matt-blaze-sigint-for-the-rest-of-us",
+      "title": "Sigint for the rest of us",
+      "speakers": [
+        "Matt Blaze"
+      ],
+      "track": "red-team",
+      "topics": [
+        "sigint"
+      ],
+      "teaser": "Sigint for the rest of us",
+      "summary": null,
+      "durationSeconds": 3954
+    },
+    {
+      "youtubeId": "PI-LyQGwrmE",
+      "slug": "eric-escobar-secureworks-sdr-replay-attacks-on-home-security-sys",
+      "title": "SecureWorks: SDR Replay Attacks  On Home Security Systems",
+      "speakers": [
+        "Eric Escobar"
+      ],
+      "track": "red-team",
+      "topics": [
+        "software-defined-radio",
+        "iot",
+        "exploitation"
+      ],
+      "teaser": "SecureWorks: SDR Replay Attacks  On Home Security Systems",
+      "summary": null,
+      "durationSeconds": 1199
+    },
+    {
+      "youtubeId": "psuEzxFJnZY",
+      "slug": "balint-seeber-hacking-some-more-of-the-wireless-world",
+      "title": "Hacking Some More of the Wireless World",
+      "speakers": [
+        "Balint Seeber"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless"
+      ],
+      "teaser": "Hacking Some More of the Wireless World",
+      "summary": null,
+      "durationSeconds": 6391
+    },
+    {
+      "youtubeId": "CoQsYhFSjtg",
+      "slug": "andrew-strutt-suitcase-repeater-build-for-uhf-70cm",
+      "title": "Suitcase Repeater Build for UHF   70cm",
+      "speakers": [
+        "Andrew Strutt"
+      ],
+      "track": "red-team",
+      "topics": [
+        "radio-hacking"
+      ],
+      "teaser": "Suitcase Repeater Build for UHF   70cm",
+      "summary": null,
+      "durationSeconds": 1908
+    },
+    {
+      "youtubeId": "TeJptg1vKY8",
+      "slug": "andrew-strutt",
+      "title": "POCSAG Amateur Pager Network",
+      "speakers": [
+        "Andrew Strutt"
+      ],
+      "track": "red-team",
+      "topics": [
+        "radio-hacking"
+      ],
+      "teaser": "POCSAG Amateur Pager Network",
+      "summary": null,
+      "durationSeconds": 1715
+    },
+    {
+      "youtubeId": "j899007bkqQ",
+      "slug": "alexander-zakarov-large-scale-wireless-monitoring-kismet-packet",
+      "title": "Large Scale Wireless Monitoring: KISMET Packet Sniffer",
+      "speakers": [
+        "Alexander Zakarov"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "packet-analysis"
+      ],
+      "teaser": "Large Scale Wireless Monitoring: KISMET Packet Sniffer",
+      "summary": null,
+      "durationSeconds": 2340
+    }
+  ]
+}
