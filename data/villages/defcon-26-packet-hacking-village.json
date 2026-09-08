@@ -1,0 +1,366 @@
+{
+  "villageSlug": "packet-hacking-village",
+  "villageName": "Packet Hacking Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaC7dHG8fKZAGssAWzizmVqH",
+  "description": "Packet Hacking Village at DEF CON 26 showcases techniques and tools for capturing, analyzing, and exploiting network traffic. The 21 talks cover wireless security, network analysis, packet capture, and practical penetration testing methods.",
+  "talks": [
+    {
+      "youtubeId": "9CoZUulhiwo",
+      "slug": "trycatchhcf",
+      "title": "TryCatchHCF - PacketWhisper Stealthily Exfiltrating Data",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "TryCatchHCF - PacketWhisper Stealthily Exfiltrating Data",
+      "summary": null,
+      "durationSeconds": 3014
+    },
+    {
+      "youtubeId": "SsAQJ-qx2EI",
+      "slug": "silas-cutler-capturing-in-hard-to-reach-places",
+      "title": "Silas Cutler -  Capturing in Hard to Reach Places",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Silas Cutler -  Capturing in Hard to Reach Places",
+      "summary": null,
+      "durationSeconds": 845
+    },
+    {
+      "youtubeId": "Cz1duUCIM-g",
+      "slug": "sen-and-sinturk-normalizing-empires-traffic-to-evade-ids",
+      "title": "Normalizing Empires Traffic to Evade IDS",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE = Sen and Sinturk"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Normalizing Empires Traffic to Evade IDS",
+      "summary": null,
+      "durationSeconds": 1302
+    },
+    {
+      "youtubeId": "gU6Zehq-eXM",
+      "slug": "sam-erb-defense-in-depth-the-path-to-sgx-at-akamai",
+      "title": "Sam Erb - Defense in Depth The Path to SGX at Akamai",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Sam Erb - Defense in Depth The Path to SGX at Akamai",
+      "summary": null,
+      "durationSeconds": 1096
+    },
+    {
+      "youtubeId": "7kGFqYu07jg",
+      "slug": "rogan-dawes-mallet-a-proxy-for-arbitrary-traffic",
+      "title": "Rogan Dawes - Mallet A Proxy for Arbitrary Traffic",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Rogan Dawes - Mallet A Proxy for Arbitrary Traffic",
+      "summary": null,
+      "durationSeconds": 3119
+    },
+    {
+      "youtubeId": "6SKL0QWcFTc",
+      "slug": "robert-olson",
+      "title": "Robert Olson - Analysis of Cybersecurity Educational Standards",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Robert Olson - Analysis of Cybersecurity Educational Standards",
+      "summary": null,
+      "durationSeconds": 1257
+    },
+    {
+      "youtubeId": "ngsR6ExHbmo",
+      "slug": "pedro-fortuna-protecting-crypto-exchanges-from-mib-attacks",
+      "title": "Pedro Fortuna - Protecting Crypto Exchanges From MIB Attacks",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Pedro Fortuna - Protecting Crypto Exchanges From MIB Attacks",
+      "summary": null,
+      "durationSeconds": 3077
+    },
+    {
+      "youtubeId": "PXd09Tj8CF4",
+      "slug": "muniz-and-lakhani-fishing-for-phishers-enterprise-strikes-back",
+      "title": "Muniz and Lakhani - Fishing for Phishers Enterprise Strikes Back",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Muniz and Lakhani - Fishing for Phishers Enterprise Strikes Back",
+      "summary": null,
+      "durationSeconds": 2611
+    },
+    {
+      "youtubeId": "b9B3Dn40rQ0",
+      "slug": "lokesh-pidawekar-an-osint-approach-to-3rd-party-cloud-services",
+      "title": "Lokesh Pidawekar - An OSINT Approach to 3rd Party Cloud Services",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Lokesh Pidawekar - An OSINT Approach to 3rd Party Cloud Services",
+      "summary": null,
+      "durationSeconds": 1341
+    },
+    {
+      "youtubeId": "vDDWWAZ-GkE",
+      "slug": "kat-sweet-rethinking-role-based-security-education",
+      "title": "Kat Sweet = Rethinking Role Based Security Education",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Kat Sweet = Rethinking Role Based Security Education",
+      "summary": null,
+      "durationSeconds": 2507
+    },
+    {
+      "youtubeId": "F0mYkI2FJ_4",
+      "slug": "jay-turla",
+      "title": "Jay Turla  - Car Infotainment Hacking Methodology, Attack Surf",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Jay Turla  - Car Infotainment Hacking Methodology, Attack Surf",
+      "summary": null,
+      "durationSeconds": 1856
+    },
+    {
+      "youtubeId": "VKwBlKoh8fE",
+      "slug": "hadar-yudovich-panel-tricking-hackers-with-osint",
+      "title": "Hadar Yudovich, Panel - Tricking Hackers with OSINT",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Hadar Yudovich, Panel - Tricking Hackers with OSINT",
+      "summary": null,
+      "durationSeconds": 1175
+    },
+    {
+      "youtubeId": "hHmxZxJ-eEY",
+      "slug": "gita-ziabari-how-to-tune-automation-to-avoid-false-positives",
+      "title": "Gita Ziabari = How to Tune Automation to Avoid False Positives",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Gita Ziabari = How to Tune Automation to Avoid False Positives",
+      "summary": null,
+      "durationSeconds": 1067
+    },
+    {
+      "youtubeId": "dm_GbEaB4hM",
+      "slug": "gh057-microcontrollers-and-single-board-computers-for-hacking",
+      "title": "gh057 -  Microcontrollers and Single Board Computers for Hacking",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "gh057 -  Microcontrollers and Single Board Computers for Hacking",
+      "summary": null,
+      "durationSeconds": 1698
+    },
+    {
+      "youtubeId": "nRNMH2AB-rM",
+      "slug": "garett-montgomery",
+      "title": "Garett Montgomery - Target Based Security Model",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Garett Montgomery - Target Based Security Model",
+      "summary": null,
+      "durationSeconds": 2537
+    },
+    {
+      "youtubeId": "yKeB8c6Kz_g",
+      "slug": "ed-miles",
+      "title": "Ed Miles - Bitsquatting Passive DNS Hijacking",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Ed Miles - Bitsquatting Passive DNS Hijacking",
+      "summary": null,
+      "durationSeconds": 995
+    },
+    {
+      "youtubeId": "f4Is62csQQk",
+      "slug": "chris-hanlon-holes-in-the-foundation-of-modern-security",
+      "title": "Chris Hanlon - Holes in the Foundation of Modern Security",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Chris Hanlon - Holes in the Foundation of Modern Security",
+      "summary": null,
+      "durationSeconds": 1498
+    },
+    {
+      "youtubeId": "TS9LOaFDRFE",
+      "slug": "chen-and-yang-grand-theft-auto-digital-key-hacking",
+      "title": "Chen and Yang - Grand Theft Auto Digital Key Hacking",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Chen and Yang - Grand Theft Auto Digital Key Hacking",
+      "summary": null,
+      "durationSeconds": 2431
+    },
+    {
+      "youtubeId": "GpfUe5slVqo",
+      "slug": "caleb-madrigal-mapping-wi-fi-networks-and-triggering",
+      "title": "Caleb Madrigal - Mapping Wi Fi Networks and Triggering",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Caleb Madrigal - Mapping Wi Fi Networks and Triggering",
+      "summary": null,
+      "durationSeconds": 2130
+    },
+    {
+      "youtubeId": "MCHbyVLHjAE",
+      "slug": "andrew-johnson",
+      "title": "Andrew Johnson - Building a Teaching SOC",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Andrew Johnson - Building a Teaching SOC",
+      "summary": null,
+      "durationSeconds": 1090
+    },
+    {
+      "youtubeId": "ZjTmrakUc3o",
+      "slug": "alex-stanev-wpa-sec-the-largest-online-wpa-handshake-database",
+      "title": "Alex Stanev - wpa sec The Largest Online WPA Handshake Database",
+      "speakers": [
+        "DEF CON 26 PACKET HACKING VILLAGE"
+      ],
+      "track": "osint",
+      "topics": [
+        "packet-analysis",
+        "network-security",
+        "wireshark"
+      ],
+      "teaser": "Alex Stanev - wpa sec The Largest Online WPA Handshake Database",
+      "summary": null,
+      "durationSeconds": 1098
+    }
+  ]
+}
