@@ -1,0 +1,137 @@
+{
+  "villageSlug": "recon-village",
+  "villageName": "Recon Village",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD90rwJXj3Y0QxnJA22tuIt",
+  "description": "Recon Village focuses on open-source intelligence (OSINT), attack surface mapping, infrastructure enumeration, and dark web discovery. Talks examine darknet web spiders, COVID surveillance investigations, cryptomining campaign tracking, and social media text analytics.",
+  "talks": [
+    {
+      "youtubeId": "iI077rK6HPI",
+      "slug": "hunting-for-blue-mockingbird-coinminers",
+      "title": "Hunting for Blue Mockingbird Coinminers",
+      "speakers": [
+        "Ladislav Baco"
+      ],
+      "track": "recon",
+      "topics": [
+        "cryptomining",
+        "recon",
+        "threat-hunting",
+        "blue-mockingbird"
+      ],
+      "teaser": "Investigates methods for tracking, scanning, and identifying infrastructure associated with the Blue Mockingbird cryptocurrency mining campaign.",
+      "summary": null,
+      "durationSeconds": 1460
+    },
+    {
+      "youtubeId": "Qqy1RiasOR4",
+      "slug": "covid-1984-pandemic-propaganda-and-surveillance",
+      "title": "COVID 1984: Pandemic Propaganda and Surveillance",
+      "speakers": [
+        "Mauro Eldritch"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "disinformation",
+        "surveillance",
+        "propaganda"
+      ],
+      "teaser": "Uncovers global propaganda campaigns, state surveillance initiatives, and disinformation networks deployed during the pandemic.",
+      "summary": null,
+      "durationSeconds": 1872
+    },
+    {
+      "youtubeId": "M2GBkLanb-8",
+      "slug": "ambly-the-darknet-spider",
+      "title": "Ambly: The Darknet Spider",
+      "speakers": [
+        "Levi"
+      ],
+      "track": "osint",
+      "topics": [
+        "dark-web",
+        "tor",
+        "osint",
+        "spider",
+        "recon"
+      ],
+      "teaser": "Introduces Ambly, an open-source dark web crawler and spider for mapping hidden Tor services and onion sites.",
+      "summary": null,
+      "durationSeconds": 2721
+    },
+    {
+      "youtubeId": "JeS-z9P8afg",
+      "slug": "burnout-is-real",
+      "title": "Burnout Is Real",
+      "speakers": [
+        "Chloé Messdaghi"
+      ],
+      "track": "community",
+      "topics": [
+        "burnout",
+        "mental-health",
+        "community",
+        "infosec"
+      ],
+      "teaser": "Examines the systemic causes of burnout across the infosec community and outlines strategies for self-care and institutional change.",
+      "summary": null,
+      "durationSeconds": 2357
+    },
+    {
+      "youtubeId": "PWeKDjMtC9M",
+      "slug": "hunting-for-blue-mockingbird-coinminers-session-2",
+      "title": "Hunting for Blue Mockingbird Coinminers (Session 2)",
+      "speakers": [
+        "Ladislav Baco"
+      ],
+      "track": "recon",
+      "topics": [
+        "cryptomining",
+        "recon",
+        "threat-hunting",
+        "blue-mockingbird"
+      ],
+      "teaser": "Encore presentation on methodologies for tracking, scanning, and uncovering Blue Mockingbird cryptocurrency mining infrastructure.",
+      "summary": null,
+      "durationSeconds": 1460
+    },
+    {
+      "youtubeId": "C-RglDXbYjc",
+      "slug": "covid-1984-propaganda-surveillance-in-a-pandemic",
+      "title": "COVID 1984: Propaganda and Surveillance in a Pandemic",
+      "speakers": [
+        "Mauro Eldritch"
+      ],
+      "track": "osint",
+      "topics": [
+        "osint",
+        "disinformation",
+        "surveillance",
+        "propaganda"
+      ],
+      "teaser": "Deep dive into OSINT tracking of pandemic-era digital surveillance mechanisms, contact tracing apps, and propaganda.",
+      "summary": null,
+      "durationSeconds": 1872
+    },
+    {
+      "youtubeId": "wLnONhbqgXE",
+      "slug": "twitter-word-phrequency",
+      "title": "Twitter Word Phrequency",
+      "speakers": [
+        "Master Chen"
+      ],
+      "track": "osint",
+      "topics": [
+        "twitter",
+        "osint",
+        "word-frequency",
+        "recon",
+        "social-media"
+      ],
+      "teaser": "Demonstrates techniques and Python tooling for analyzing word frequencies, keyword trends, and linguistic patterns across Twitter data.",
+      "summary": null,
+      "durationSeconds": 1900
+    }
+  ]
+}
