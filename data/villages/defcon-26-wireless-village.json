@@ -1,0 +1,262 @@
+{
+  "villageSlug": "wireless-village",
+  "villageName": "Wireless Village",
+  "eventSlug": "defcon-26",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDRWH6Vc_R3HSnZRbny1Unb",
+  "description": "Wireless Village at DEF CON 26 covers wireless security, RF communications, SDR techniques, and emerging wireless threats. The 15 talks explore WiFi attacks, Bluetooth hacking, RF protocols, emergency systems, and wireless pentesting tools.",
+  "talks": [
+    {
+      "youtubeId": "8uZdajW1hdI",
+      "slug": "zero-chaos-and-wasabi-wep-and-wpa-cracking-101",
+      "title": "WEP and WPA Cracking 101",
+      "speakers": [
+        "Zero Chaos and Wasabi"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wifi"
+      ],
+      "teaser": "WEP and WPA Cracking 101",
+      "summary": null,
+      "durationSeconds": 3440
+    },
+    {
+      "youtubeId": "xIUdtlFRdKk",
+      "slug": "zero-chaos-and-mellendick",
+      "title": "Blue Sonar",
+      "speakers": [
+        "Zero Chaos and Mellendick"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "bluetooth",
+        "ctf"
+      ],
+      "teaser": "BlueTooth is everywhere, it is in all of our pockets and the only protection most use is not being in discoverable mode. This will be a talk on enumeration, tracking non-discoverable Bluetooth devices, as well as an o...",
+      "summary": null,
+      "durationSeconds": 2843
+    },
+    {
+      "youtubeId": "lhHM6TX2RrI",
+      "slug": "wasabi-can-you-hear-me-now-def-con",
+      "title": "Can you hear me now DEF CON",
+      "speakers": [
+        "wasabi"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "sdr",
+        "wireless-protocols"
+      ],
+      "teaser": "Using cheap commodity RF hardware to act as secure or backchannel communications for security research and pen tests. Wireless communication is getting cheaper and hobby projects are integrating long range low powered...",
+      "summary": null,
+      "durationSeconds": 2173
+    },
+    {
+      "youtubeId": "jGYrE3Jw-e0",
+      "slug": "t0ddpar0dy",
+      "title": "Hunting Rogue APs Hard Lessons",
+      "speakers": [
+        "t0ddpar0dy"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless"
+      ],
+      "teaser": "Given the challenge of locating a static Access Point this presentation highlights our strategy, pitfalls, and success.",
+      "summary": null,
+      "durationSeconds": 1796
+    },
+    {
+      "youtubeId": "BRf3WGekgHc",
+      "slug": "stev0-bssi-finding-foxes-with-acoustic-help-piclicker",
+      "title": "BSSI   finding foxes with acoustic help   piClicker",
+      "speakers": [
+        "stev0"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "wifi"
+      ],
+      "teaser": "Present, and (hopefully) Demo using a raspberry pi to detect wifi signal strength via audio click frequency.",
+      "summary": null,
+      "durationSeconds": 1008
+    },
+    {
+      "youtubeId": "lx5MAOyu9N0",
+      "slug": "ryan-holeman",
+      "title": "BLE CTF",
+      "speakers": [
+        "ryan holeman"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "bluetooth",
+        "ctf"
+      ],
+      "teaser": "The purpose of BLE CTF (https://github.com/hackgnar/ble_ctf) is to teach the core concepts of Bluetooth low energy client and server interactions. While it has also been built to be fun, it was built with the intent t...",
+      "summary": null,
+      "durationSeconds": 977
+    },
+    {
+      "youtubeId": "Nouu0hWIGho",
+      "slug": "recompiler",
+      "title": "Attacking Gotenna Networks",
+      "speakers": [
+        "recompiler"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "bluetooth",
+        "sdr",
+        "wireless-protocols"
+      ],
+      "teaser": "Talk will focus on privacy (or lack thereof) of gotenna networks. We will cover traditional attacks which have only been available to state sponsored prior to popularization and wide availability of software defined r...",
+      "summary": null,
+      "durationSeconds": 1240
+    },
+    {
+      "youtubeId": "xG7Pin6otAU",
+      "slug": "pandeya-and-temple-rfnoc-accelerating-the-spectrum-with-the-fpga",
+      "title": "RFNoC Accelerating The Spectrum with the FPGA",
+      "speakers": [
+        "Pandeya and Temple"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "bluetooth",
+        "sdr",
+        "spectrum-analysis",
+        "wireless-protocols"
+      ],
+      "teaser": "Talk will focus on privacy (or lack thereof) of gotenna networks. We will cover traditional attacks which have only been available to state sponsored prior to popularization and wide availability of software defined r...",
+      "summary": null,
+      "durationSeconds": 1706
+    },
+    {
+      "youtubeId": "I8Sir9VgmiE",
+      "slug": "kitchen-and-kinne",
+      "title": "Little Fluffy Pineapple Clouds",
+      "speakers": [
+        "Kitchen and Kinne"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "pentesting-tools"
+      ],
+      "teaser": "What happens when a Pineapple, a Turtle and a Squirrel get high...up in the clouds? It's been a solid year for Hak5 and we're excited to debut some epic new features! Like a centralized web consoles for all your netwo...",
+      "summary": null,
+      "durationSeconds": 3265
+    },
+    {
+      "youtubeId": "nctbeAfCZP8",
+      "slug": "dunlap-learning-to-listen-machine-learning-for-adaptive-wireless",
+      "title": "Learning to Listen Machine Learning for Adaptive Wireless",
+      "speakers": [
+        "Dunlap"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "wireless",
+        "wifi"
+      ],
+      "teaser": "In 2017 Defcon alumnai Gabrial Ryan presented his research on using statistical analysis to detect rogue wifi signals. In this talk, John Dunlap will expand on Gabe\u2019s research by presenting an extension to Ryan\u2019s tool...",
+      "summary": null,
+      "durationSeconds": 1739
+    },
+    {
+      "youtubeId": "f3QfBm95dB4",
+      "slug": "handorf-and-spill-its-not-wifi-stories-in-wireless-re",
+      "title": "Its not wifi stories in wireless RE",
+      "speakers": [
+        "Handorf and Spill"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "wifi",
+        "sdr"
+      ],
+      "teaser": "Its not wifi stories in wireless RE",
+      "summary": null,
+      "durationSeconds": 3518
+    },
+    {
+      "youtubeId": "sU7PlIM-nEE",
+      "slug": "faz-exploring-the-802-15-4-attack-surface",
+      "title": "Exploring the 802 15 4 Attack Surface",
+      "speakers": [
+        "FAZ"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "sdr",
+        "zigbee",
+        "wireless-protocols"
+      ],
+      "teaser": "Whilst 802.15.4 technologies such as Zigbee have been around for some time, our understanding of threats and risks associated with it have been lacking. As new use cases evolve, so have the opportunities for attack an...",
+      "summary": null,
+      "durationSeconds": 1207
+    },
+    {
+      "youtubeId": "vloWB0LHT_4",
+      "slug": "eric-reuter",
+      "title": "Introduction to Railroad Telemetry",
+      "speakers": [
+        "Eric Reuter"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "sdr",
+        "iot-protocols",
+        "critical-infrastructure"
+      ],
+      "teaser": "North American railroads use several wireless systems for remote control, monitoring, and tracking of locomotives, railcars, signals, and other equipment. This talk will provide an overview of the systems in use, an i...",
+      "summary": null,
+      "durationSeconds": 3342
+    },
+    {
+      "youtubeId": "6OVo_6ZRo4Q",
+      "slug": "balint-seeber-sirenjack-cracking-a-secure-emergency-siren-system",
+      "title": "SirenJack Cracking a Secure Emergency  Siren System",
+      "speakers": [
+        "Balint Seeber"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "critical-infrastructure"
+      ],
+      "teaser": "SirenJack Cracking a Secure Emergency  Siren System",
+      "summary": null,
+      "durationSeconds": 3325
+    },
+    {
+      "youtubeId": "CCNzzedU3gE",
+      "slug": "balint-seeber",
+      "title": "SDR Basics Class",
+      "speakers": [
+        "Balint Seeber"
+      ],
+      "track": "red-team",
+      "topics": [
+        "wireless",
+        "sdr"
+      ],
+      "teaser": "SDR Basics Class",
+      "summary": null,
+      "durationSeconds": 3379
+    }
+  ]
+}
