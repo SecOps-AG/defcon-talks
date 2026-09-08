@@ -1,0 +1,294 @@
+{
+  "villageSlug": "monero-village",
+  "villageName": "Monero Village",
+  "eventSlug": "defcon-27",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBiCOF12ZYejtj21sI1jm0I",
+  "description": "Monero Village at DEF CON 27 explores privacy-focused cryptocurrency, cryptographic techniques, and the intersection of technology, community, and policy. The 16 talks cover Monero development, privacy protocols, mining, blockchain technology, and open-source sustainability.",
+  "talks": [
+    {
+      "youtubeId": "87joZVWCJEo",
+      "slug": "vik-sharma-creating-cake-from-scratch",
+      "title": "Creating cake from Scratch",
+      "speakers": [
+        "Vik Sharma"
+      ],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "monero",
+        "wallet",
+        "usability",
+        "blockchain-economics"
+      ],
+      "teaser": "In 2017, Vik launched Cake Wallet which is a popular open-source Monero wallet that allows users to hold Monero, make payments, and convert between cryptocurrencies. Although initially launched as a closed-source proj...",
+      "summary": null,
+      "durationSeconds": 716
+    },
+    {
+      "youtubeId": "aMOjQIV7Ul0",
+      "slug": "sarang-noether-phd-if-you-like-it-put-a-ring-signature-on-it",
+      "title": "If You Like It  Put a Ring Signature on It",
+      "speakers": [
+        "Sarang Noether PhD"
+      ],
+      "track": "privacy",
+      "topics": [
+        "monero",
+        "privacy",
+        "cryptography",
+        "usability"
+      ],
+      "teaser": "The past year has seen excellent research focused on achieving better functionality, privacy, and efficiency for spend obfuscation in digital assets like Monero. This includes CLSAG, DLSAG, Lelantus, Omniring, RingCT ...",
+      "summary": null,
+      "durationSeconds": 1923
+    },
+    {
+      "youtubeId": "ulzOXNsxO3k",
+      "slug": "robin-renwick-perspective-of-privacy-blockchain-as-a-boundary-ob",
+      "title": "Perspective of Privacy Blockchain as a Boundary Object",
+      "speakers": [
+        "Robin Renwick"
+      ],
+      "track": "community",
+      "topics": [
+        "cryptocurrency",
+        "privacy",
+        "cryptography",
+        "blockchain",
+        "open-source",
+        "usability"
+      ],
+      "teaser": "This talk presents the methodology, findings and conclusions of a boundary theory based Information Systems research project completed at University College Cork, Ireland. Perspectives of privacy have been analyzed fr...",
+      "summary": null,
+      "durationSeconds": 1216
+    },
+    {
+      "youtubeId": "oHrvvYTGi-A",
+      "slug": "reuben-yap-handling-broken-cryptography-and-building-a-new-one",
+      "title": "Handling Broken cryptography and building a new one",
+      "speakers": [
+        "Reuben Yap"
+      ],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "monero",
+        "cryptography",
+        "cryptocurrency",
+        "open-source",
+        "usability"
+      ],
+      "teaser": "Zcoin launched with the Zerocoin protocol, which was riddled with critical security issues. Reuben will talk through the team\u2019s response to these and its development and research journey.",
+      "summary": null,
+      "durationSeconds": 1681
+    },
+    {
+      "youtubeId": "8oROeqz4I7U",
+      "slug": "kristy-leigh-minehan-the-future-of-accessible-mining",
+      "title": "The Future of Accessible Mining",
+      "speakers": [
+        "Kristy Leigh Minehan"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "monero",
+        "mining",
+        "open-source",
+        "usability"
+      ],
+      "teaser": "Kristy-Leigh will discuss the importance of accessible mining in consumer applications and the work that she has done at Core Scientific. She will explain how Monero\u2019s development of RandomX is the best chance yet at ...",
+      "summary": null,
+      "durationSeconds": 1701
+    },
+    {
+      "youtubeId": "MjNXmJUk2Jo",
+      "slug": "justin-ehrenhofer-improving-monero-release-schedule",
+      "title": "Improving Monero Release Schedule",
+      "speakers": [
+        "Justin Ehrenhofer"
+      ],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "monero",
+        "open-source",
+        "blockchain-economics"
+      ],
+      "teaser": "Monero has a biannual major release schedule, but it has been hit with setback after setback despite the best efforts of the community. Justin will discuss how borrowing small changes from other projects to work smart...",
+      "summary": null,
+      "durationSeconds": 1918
+    },
+    {
+      "youtubeId": "rXMWGCobsgY",
+      "slug": "aj-santos-houston-we-have-a-problem-86r-hb-4371-is-a-no-go-video",
+      "title": "Houston we have a problem 86R HB 4371 is a no go video",
+      "speakers": [
+        "AJ Santos"
+      ],
+      "track": "policy",
+      "topics": [
+        "cryptocurrency",
+        "privacy"
+      ],
+      "teaser": "A Texas bill has been introduced that encourages the use of what is termed a \u201cverified identity digital currency,\u201d which is a currency that allows the true identities of the sender and the receiver to be known. In add...",
+      "summary": null,
+      "durationSeconds": 1801
+    },
+    {
+      "youtubeId": "6nqOFHzwmpw",
+      "slug": "allan-stevo-airbnb-for-retail-internet-a-distrubuted-internet-te",
+      "title": "AirBNB for Retail Internet A Distrubuted Internet Tech",
+      "speakers": [
+        "Allan Stevo"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptocurrency",
+        "privacy",
+        "usability"
+      ],
+      "teaser": "A New York apartment building and a Moroccan rural village share the same internet challenges - inefficient methods of distribution across the last mile. Our idea is to address this inefficiency to provide greater int...",
+      "summary": null,
+      "durationSeconds": 1958
+    },
+    {
+      "youtubeId": "Rw0Xd7cJm5U",
+      "slug": "allan-stevo-infosec-vs-hacker-the-war-for-the-soul-of-a-technolo",
+      "title": "InfoSec vs Hacker The War for the Soul of a Technology",
+      "speakers": [
+        "Allan Stevo"
+      ],
+      "track": "policy",
+      "topics": [
+        "privacy",
+        "cryptocurrency"
+      ],
+      "teaser": "As the cryptocurrency industry grows in prominence, bankers, consultants, and information security specialists have moved into the space that was once the territory of hackers, cypherpunks, and anarchists. This is a t...",
+      "summary": null,
+      "durationSeconds": 1273
+    },
+    {
+      "youtubeId": "gKYlxbOluoA",
+      "slug": "amir-montazery-the-cost-of-good-open-source-software",
+      "title": "The Cost of Good Open Source Software",
+      "speakers": [
+        "Amir Montazery"
+      ],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "monero",
+        "open-source",
+        "usability"
+      ],
+      "teaser": "Amir will answer questions about the Open Source Technology Improvement Fund (OSTIF), a nonprofit that help coordinate audits of open-source software and undertake other initiatives. OSTIF has helped Monero audit seve...",
+      "summary": null,
+      "durationSeconds": 1552
+    },
+    {
+      "youtubeId": "8wA391M_Ktw",
+      "slug": "cathie-yun-bulletproofs-deep-dive",
+      "title": "Bulletproofs deep dive",
+      "speakers": [
+        "Cathie Yun"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "monero",
+        "cryptography"
+      ],
+      "teaser": "Bulletproofs are important zero-knowledge proofs used in Monero to hide transaction amounts, but they can be used to prove other statements too. Cathie will walk through many of these applications and constructions. T...",
+      "summary": null,
+      "durationSeconds": 2726
+    },
+    {
+      "youtubeId": "g8PBOVDWO6Y",
+      "slug": "daniel-kim-keynote-speech-monero-introduction-and-investor-persp",
+      "title": "Keynote Speech Monero Introduction and Investor Perspective",
+      "speakers": [
+        "Daniel Kim"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "monero"
+      ],
+      "teaser": "Learn the basics of Monero and its community. Monero provides benefits to society that all Defcon attendees benefit from. Daniel will express the importance of holders and advocates for cryptocurrencies. He will descr...",
+      "summary": null,
+      "durationSeconds": 4791
+    },
+    {
+      "youtubeId": "8osfuktRWx4",
+      "slug": "diego-monero-is-ugly-and-difficult-to-use",
+      "title": "Monero is UGLY and DIFFICULT to use",
+      "speakers": [
+        "Diego"
+      ],
+      "track": "community",
+      "topics": [
+        "privacy",
+        "monero",
+        "open-source",
+        "usability"
+      ],
+      "teaser": "Diego will explain why Monero\u2019s user experience needs improvement for wide adoption. He will introduce theories of good UI/UX, and he will explain how other open-source projects handle these challenges with limited re...",
+      "summary": null,
+      "durationSeconds": 1874
+    },
+    {
+      "youtubeId": "4KbaRVi1Vms",
+      "slug": "dr-jeremy-gillula-encrypting-the-web-isnt-enough",
+      "title": "Encrypting the Web Isnt Enough",
+      "speakers": [
+        "Dr Jeremy Gillula"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptocurrency",
+        "privacy"
+      ],
+      "teaser": "Jeremy will be speaking about the EFF's past and ongoing efforts to encrypt the web.",
+      "summary": null,
+      "durationSeconds": 3533
+    },
+    {
+      "youtubeId": "IlghysBBuyU",
+      "slug": "francisco-cabanas-critical-role-of-min-block-reward-trail-emissi",
+      "title": "Critical Role of Min Block Reward Trail Emission",
+      "speakers": [
+        "Francisco Cabanas"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "monero",
+        "cryptocurrency",
+        "blockchain",
+        "blockchain-economics"
+      ],
+      "teaser": "Francisco will provide an overview and review of blockchain scaling and fees in Monero. He will review the relationship between fees and the Cryptonote (now Monero) penalty with an emphasis on the impact of the block ...",
+      "summary": null,
+      "durationSeconds": 1568
+    },
+    {
+      "youtubeId": "6tdGtNgnFJM",
+      "slug": "gus-clarke-tale-of-two-tongues-examining-two-mimblewimble-protoc",
+      "title": "Tale of Two Tongues Examining Two Mimblewimble Protocols",
+      "speakers": [
+        "Gus Clarke"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptocurrency",
+        "privacy",
+        "mining",
+        "blockchain"
+      ],
+      "teaser": "Here we explore Mimblewimble, a blockchain construction for private transactions. How does it function and how do the three implementations in the wild differ?",
+      "summary": null,
+      "durationSeconds": 1398
+    }
+  ]
+}
