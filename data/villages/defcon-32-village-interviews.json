@@ -534,6 +534,24 @@
       "teaser": "Organizer Silk outlines bizarre challenges, scavenger hunt item lists, and rules for the longest-running contest at DEF CON.",
       "summary": null,
       "durationSeconds": 93
+    },
+    {
+      "youtubeId": "Mdqh2n8f_uQ",
+      "slug": "blacks-in-cybersecurity-village-spotlight",
+      "title": "Blacks In Cybersecurity Village Spotlight",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "blacks-in-cybersecurity",
+        "diversity",
+        "community",
+        "mentorship"
+      ],
+      "teaser": "A DEF CON 32 Video Team walkthrough highlighting the Blacks In Cybersecurity (BIC) Village, community mentorship, career tracks, and technical presentations.",
+      "summary": null,
+      "durationSeconds": 36
     }
   ]
 }
