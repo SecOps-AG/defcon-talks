@@ -1263,6 +1263,25 @@
       "teaser": "Hadrien Barral and Rémi Géraud-Stewart answer questions on DNSSECTION attacks, DNS record parsing semantics, and DNSSEC resolver validation.",
       "summary": null,
       "durationSeconds": 1927
+    },
+    {
+      "youtubeId": "Y4KizB8a7Cg",
+      "slug": "safe-mode-badass-bowden-fireside-lounge-q-and-a",
+      "title": "Fireside Lounge: Shrek Juggs and Toxic Trolls Q&A",
+      "speakers": [
+        "Badass Bowden"
+      ],
+      "track": "community",
+      "topics": [
+        "culture",
+        "community",
+        "fireside",
+        "trolls",
+        "social-engineering"
+      ],
+      "teaser": "Badass Bowden hosts a lively DEF CON Safe Mode Fireside Lounge Q&A discussing community culture, handling toxic trolls, and answering audience questions.",
+      "summary": null,
+      "durationSeconds": 3802
     }
   ]
 }
