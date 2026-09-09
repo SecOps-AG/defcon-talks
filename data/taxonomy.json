@@ -41,5 +41,23 @@
     "vpn": "VPN",
     "ics-ot": "ICS / OT",
     "rf": "RF"
+  },
+  "topicAliases": {
+    "iot-security": "iot",
+    "embedded-systems": "hardware",
+    "firmware": "hardware",
+    "device-security": "hardware",
+    "healthcare-security": "healthcare",
+    "biohacking": "healthcare",
+    "open-source-medicine": "healthcare",
+    "harm-reduction": "healthcare",
+    "medical-devices": "healthcare",
+    "maritime-security": "wireless",
+    "ais-hacking": "wireless",
+    "ais-security": "wireless",
+    "vessel-hacking": "wireless",
+    "vessel-tracking": "wireless",
+    "navigation-systems": "wireless",
+    "gps-spoofing": "wireless"
   }
 }

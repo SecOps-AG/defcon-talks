@@ -47,6 +47,10 @@ export const getTaxonomy = memo((): Taxonomy =>
 
 export const getTracks = memo((): Track[] => getTaxonomy().tracks);
 
+function canonicalizeTopic(topic: string, taxonomy: Taxonomy): string {
+  return taxonomy.topicAliases?.[topic] ?? topic;
+}
+
 const getStoredEditions = memo((): StoredVillageEdition[] =>
   fs
     .readdirSync(VILLAGE_DIR)
@@ -61,11 +65,13 @@ type Archive = {
 };
 
 const getArchive = memo((): Archive => {
+  const taxonomy = getTaxonomy();
   const eventBySlug = new Map(getEvents().map((event) => [event.slug, event]));
   const trackBySlug = new Map(getTracks().map((track) => [track.slug, track]));
 
   const editions: VillageEdition[] = [];
   const talks: Talk[] = [];
+  const aliasedTopics = new Set<{ topic: string; canonical: string }>();
 
   for (const stored of getStoredEditions()) {
     const event = eventBySlug.get(stored.eventSlug);
@@ -92,8 +98,17 @@ const getArchive = memo((): Archive => {
     });
 
     for (const talk of stored.talks) {
+      const canonicalTopics = talk.topics.map((topic) => {
+        const canonical = canonicalizeTopic(topic, taxonomy);
+        if (canonical !== topic) {
+          aliasedTopics.add({ topic, canonical });
+        }
+        return canonical;
+      });
+
       talks.push({
         ...talk,
+        topics: canonicalTopics,
         id: `${id}-${talk.youtubeId}`,
         villageId: id,
         villageSlug: stored.villageSlug,
@@ -105,6 +120,16 @@ const getArchive = memo((): Archive => {
         youtubeUrl: `https://www.youtube.com/watch?v=${talk.youtubeId}`,
         trackName: trackBySlug.get(talk.track)?.name ?? talk.track,
       });
+    }
+  }
+
+  // Validate: if any aliased topics found in production, error; in dev, warn
+  if (aliasedTopics.size > 0) {
+    const msg = `Found ${aliasedTopics.size} talks using aliased topics: ${[...aliasedTopics].map((a) => `${a.topic}→${a.canonical}`).join(", ")}. Update source village files to use canonical topics.`;
+    if (process.env.NODE_ENV === "production") {
+      throw new Error(msg);
+    } else {
+      console.warn("⚠️  " + msg);
     }
   }
 
