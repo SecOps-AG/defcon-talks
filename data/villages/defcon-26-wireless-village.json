@@ -14,10 +14,14 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless",
-        "wifi"
+        "wifi-cracking",
+        "wep-security",
+        "wpa-security",
+        "encryption",
+        "penetration-testing",
+        "password-recovery"
       ],
-      "teaser": "WEP and WPA Cracking 101",
+      "teaser": "Fundamentals of WiFi encryption cracking\u2014WEP and WPA methodologies and attack techniques.",
       "summary": null,
       "durationSeconds": 3440
     },
@@ -32,7 +36,8 @@
       "topics": [
         "wireless",
         "bluetooth",
-        "ctf"
+        "ctf",
+        "wireless-security"
       ],
       "teaser": "BlueTooth is everywhere, it is in all of our pockets and the only protection most use is not being in discoverable mode. This will be a talk on enumeration, tracking non-discoverable Bluetooth devices, as well as an o...",
       "summary": null,
@@ -47,11 +52,13 @@
       ],
       "track": "blue-team",
       "topics": [
-        "wireless",
         "sdr",
-        "wireless-protocols"
+        "rf-communications",
+        "wireless-protocols",
+        "backchannel-communications",
+        "commodity-hardware"
       ],
-      "teaser": "Using cheap commodity RF hardware to act as secure or backchannel communications for security research and pen tests. Wireless communication is getting cheaper and hobby projects are integrating long range low powered...",
+      "teaser": "RF communications using commodity SDR hardware for secure backchannel communications in security research.",
       "summary": null,
       "durationSeconds": 2173
     },
@@ -64,7 +71,10 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless"
+        "wireless",
+        "wireless-security",
+        "penetration-testing",
+        "rf-analysis"
       ],
       "teaser": "Given the challenge of locating a static Access Point this presentation highlights our strategy, pitfalls, and success.",
       "summary": null,
@@ -79,10 +89,13 @@
       ],
       "track": "blue-team",
       "topics": [
-        "wireless",
-        "wifi"
+        "wifi-detection",
+        "signal-strength",
+        "iot-devices",
+        "raspberry-pi",
+        "creative-analysis"
       ],
-      "teaser": "Present, and (hopefully) Demo using a raspberry pi to detect wifi signal strength via audio click frequency.",
+      "teaser": "WiFi signal detection using audio frequency analysis\u2014building practical tools with commodity hardware.",
       "summary": null,
       "durationSeconds": 1008
     },
@@ -97,7 +110,8 @@
       "topics": [
         "wireless",
         "bluetooth",
-        "ctf"
+        "ctf",
+        "wireless-security"
       ],
       "teaser": "The purpose of BLE CTF (https://github.com/hackgnar/ble_ctf) is to teach the core concepts of Bluetooth low energy client and server interactions. While it has also been built to be fun, it was built with the intent t...",
       "summary": null,
@@ -130,13 +144,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless",
-        "bluetooth",
-        "sdr",
+        "software-defined-radio",
+        "fpga-acceleration",
         "spectrum-analysis",
-        "wireless-protocols"
+        "high-performance-sdr",
+        "radio-infrastructure"
       ],
-      "teaser": "Talk will focus on privacy (or lack thereof) of gotenna networks. We will cover traditional attacks which have only been available to state sponsored prior to popularization and wide availability of software defined r...",
+      "teaser": "RFNoC\u2014FPGA-accelerated software-defined radio for high-performance spectrum analysis and wireless attacks.",
       "summary": null,
       "durationSeconds": 1706
     },
@@ -151,7 +165,8 @@
       "topics": [
         "wireless",
         "wifi",
-        "pentesting-tools"
+        "pentesting-tools",
+        "wireless-security"
       ],
       "teaser": "What happens when a Pineapple, a Turtle and a Squirrel get high...up in the clouds? It's been a solid year for Hak5 and we're excited to debut some epic new features! Like a centralized web consoles for all your netwo...",
       "summary": null,
@@ -166,10 +181,13 @@
       ],
       "track": "blue-team",
       "topics": [
-        "wireless",
-        "wifi"
+        "machine-learning",
+        "rogue-ap-detection",
+        "signal-analysis",
+        "wireless-monitoring",
+        "adaptive-detection"
       ],
-      "teaser": "In 2017 Defcon alumnai Gabrial Ryan presented his research on using statistical analysis to detect rogue wifi signals. In this talk, John Dunlap will expand on Gabe\u2019s research by presenting an extension to Ryan\u2019s tool...",
+      "teaser": "Machine learning for adaptive wireless security\u2014detecting rogue access points through statistical signal analysis.",
       "summary": null,
       "durationSeconds": 1739
     },
@@ -182,11 +200,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless",
-        "wifi",
-        "sdr"
+        "wireless-reverse-engineering",
+        "non-wifi-protocols",
+        "sdr-analysis",
+        "protocol-discovery",
+        "security-research"
       ],
-      "teaser": "Its not wifi stories in wireless RE",
+      "teaser": "Wireless reverse engineering of non-WiFi protocols\u2014SDR-based reconnaissance and security analysis.",
       "summary": null,
       "durationSeconds": 3518
     },
@@ -199,12 +219,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless",
-        "sdr",
-        "zigbee",
-        "wireless-protocols"
+        "zigbee-security",
+        "802.15.4-protocols",
+        "iot-hacking",
+        "wireless-protocols",
+        "threat-landscape"
       ],
-      "teaser": "Whilst 802.15.4 technologies such as Zigbee have been around for some time, our understanding of threats and risks associated with it have been lacking. As new use cases evolve, so have the opportunities for attack an...",
+      "teaser": "Exploring 802.15.4 attack surface\u2014Zigbee and low-power wireless protocol vulnerabilities.",
       "summary": null,
       "durationSeconds": 1207
     },
@@ -235,10 +256,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless",
-        "critical-infrastructure"
+        "emergency-systems",
+        "siren-hacking",
+        "critical-infrastructure",
+        "wireless-security",
+        "public-safety"
       ],
-      "teaser": "SirenJack Cracking a Secure Emergency  Siren System",
+      "teaser": "SirenJack\u2014Breaking security in emergency siren systems through wireless exploitation.",
       "summary": null,
       "durationSeconds": 3325
     },
@@ -252,7 +276,9 @@
       "track": "red-team",
       "topics": [
         "wireless",
-        "sdr"
+        "sdr",
+        "wireless-security",
+        "penetration-testing"
       ],
       "teaser": "SDR Basics Class",
       "summary": null,
