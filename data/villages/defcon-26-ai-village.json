@@ -38,7 +38,7 @@
         "opening-remarks"
       ],
       "teaser": "Opening remarks for DEF CON 26 AI Village conference track.",
-      "summary": null,
+      "summary": "Opening remarks: Opening Remarks. Brief introductory content.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 194
     },
     {
@@ -170,7 +170,7 @@
         "threat-detection"
       ],
       "teaser": "Using automated planning and AI to improve red team offensive operations.",
-      "summary": null,
+      "summary": "AI security: Automated Planning for the Automated Red Team. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1649
     },
     {
@@ -206,7 +206,7 @@
         "model-security"
       ],
       "teaser": "Machine learning applications and techniques in cybersecurity.",
-      "summary": null,
+      "summary": "AI security: Hunting the Ethereum Smart Contract Color Inspired Inspection. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1607
     },
     {
@@ -242,7 +242,7 @@
         "robustness"
       ],
       "teaser": "Adversarial machine learning techniques and defense mechanisms.",
-      "summary": null,
+      "summary": "AI safety: Towards a Framework to Quantitatively Assess AI Safety. Framework and evaluation methods discussed throughout.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1890
     },
     {
@@ -278,7 +278,7 @@
         "model-hardening"
       ],
       "teaser": "Defensive machine learning strategies against adversarial attacks.",
-      "summary": null,
+      "summary": "AI adversarial attacks: StuxNNet Practical Live Memory Attacks on Machine Learning. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1196
     },
     {
@@ -314,7 +314,7 @@
         "adversarial-examples"
       ],
       "teaser": "Malware detection using machine learning classifiers.",
-      "summary": null,
+      "summary": "AI security: Rapid Anomaly Detection via Ransom Note File Classification. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2338
     },
     {
@@ -350,7 +350,7 @@
         "defensive-ml"
       ],
       "teaser": "Threat detection using defensive machine learning techniques.",
-      "summary": null,
+      "summary": "AI adversarial attacks: DeepPhish Simulating the Malicious Use of AI. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 927
     },
     {
@@ -386,7 +386,7 @@
         "model-analysis"
       ],
       "teaser": "Security research applications of machine learning analysis.",
-      "summary": null,
+      "summary": "AI-based defense: Detecting Web Attacks with Recurrent Neural Networks. Detection approaches covered early. Case studies in second half.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1961
     },
     {
@@ -423,7 +423,7 @@
         "ai-security"
       ],
       "teaser": "An overview of recent progress and developments in adversarial deep learning attacks and defenses.",
-      "summary": null,
+      "summary": "AI security: Recent Progress in Adversarial Deep Learning. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1118
     },
     {
@@ -460,7 +460,7 @@
         "ai-security"
       ],
       "teaser": "Practical black-box and gradient-free adversarial attack methodologies against machine learning systems.",
-      "summary": null,
+      "summary": "AI adversarial attacks: Practical Adversarial Attacks. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1959
     },
     {
@@ -497,7 +497,7 @@
         "object-detection"
       ],
       "teaser": "Adversarial physical and digital perturbations that make objects disappear from autonomous driving perception models.",
-      "summary": null,
+      "summary": "AI adversarial attacks: The Vanishing Trick for Self-Driving Cars. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1650
     },
     {
@@ -534,7 +534,7 @@
         "ai-security"
       ],
       "teaser": "Adapting and mutating malware samples using adversarial techniques to bypass machine-learning antivirus detectors.",
-      "summary": null,
+      "summary": "AI security: Weapons for Dog Fight: Adapting Malware. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1378
     },
     {
@@ -571,7 +571,7 @@
         "evasion"
       ],
       "teaser": "Creating transferable adversarial perturbations that reliably fool multiple disparate machine learning architectures.",
-      "summary": null,
+      "summary": "AI adversarial attacks: Transferable Adversarial Perturbations. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 592
     },
     {

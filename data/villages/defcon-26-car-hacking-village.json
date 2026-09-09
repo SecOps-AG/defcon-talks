@@ -38,7 +38,7 @@
         "tooling"
       ],
       "teaser": "Introductory guide to car hacking techniques, tools, and methodology.",
-      "summary": null,
+      "summary": "Vehicle security: So You Want To Hack A Car. Car hacking techniques and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 723
     },
     {
@@ -76,7 +76,7 @@
         "wireless-exploitation"
       ],
       "teaser": "SMS-based remote control of vehicle infotainment systems and malware delivery.",
-      "summary": null,
+      "summary": "Vehicle security: Meet Salinas: 1st SMS-commanded Car Infotainment RAT. Car hacking techniques and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3660
     },
     {

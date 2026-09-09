@@ -40,7 +40,7 @@
         "reverse-engineering"
       ],
       "teaser": "Packet sniffing and reverse engineering of GoTenna wireless communication devices.",
-      "summary": null,
+      "summary": "Wireless/RF security: GODUMPiNG packet sniffing the Gotenna. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3383
     },
     {
@@ -80,7 +80,7 @@
         "amplification"
       ],
       "teaser": "Hardware design and implementation of automatic gain control circuits for RF receivers.",
-      "summary": null,
+      "summary": "Wireless/RF security: Designing An Automatic Gain Control. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3071
     },
     {
@@ -118,7 +118,7 @@
         "surveillance"
       ],
       "teaser": "Practical signal intelligence techniques and tools for reconnaissance and monitoring of wireless communications.",
-      "summary": null,
+      "summary": "Wireless/RF security: Sigint for the rest of us. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3954
     },
     {
@@ -156,7 +156,7 @@
         "protocols"
       ],
       "teaser": "Exploration of wireless hacking techniques and tools for discovering and exploiting RF-based systems.",
-      "summary": null,
+      "summary": "Wireless/RF security: Hacking Some More of the Wireless World. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 6391
     },
     {
@@ -194,7 +194,7 @@
         "protocol-analysis"
       ],
       "teaser": "Monitoring and understanding POCSAG amateur pager network protocols and communications.",
-      "summary": null,
+      "summary": "Wireless/RF security: POCSAG Amateur Pager Network. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1715
     },
     {
