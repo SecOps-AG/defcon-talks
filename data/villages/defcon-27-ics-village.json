@@ -16,7 +16,7 @@
       "topics": [
         "ics"
       ],
-      "teaser": "Changium IPiosa  magical change IP packets in the wild",
+      "teaser": "IP packet manipulation techniques for network-based attacks on industrial systems.",
       "summary": null,
       "durationSeconds": 1535
     },
@@ -29,9 +29,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "ics"
+        "ics-security",
+        "attribution",
+        "threat-hunting",
+        "infrastructure-security",
+        "investigation"
       ],
-      "teaser": "Pin the tail on the cyber owner",
+      "teaser": "Attribution and threat hunting techniques for identifying ICS attackers.",
       "summary": null,
       "durationSeconds": 1376
     },
@@ -44,10 +48,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "ics",
-        "supply-chain"
+        "supply-chain-attacks",
+        "nation-state-threats",
+        "vendor-compromise",
+        "ics-vulnerabilities",
+        "critical-infrastructure"
       ],
-      "teaser": "Nation State Supply Chain Attacks for Dummies",
+      "teaser": "State-sponsored supply chain attacks targeting industrial control systems and infrastructure.",
       "summary": null,
       "durationSeconds": 1752
     },
@@ -58,12 +65,15 @@
       "speakers": [
         "Austin Scott"
       ],
-      "track": "red-team",
+      "track": "purple-team",
       "topics": [
-        "ics",
-        "red-teaming"
+        "ics-security",
+        "red-teaming",
+        "blue-team-defense",
+        "operational-security",
+        "security-assessment"
       ],
-      "teaser": "Purple Teaming ICS Networks",
+      "teaser": "Collaborative red and blue team exercises for industrial network security validation.",
       "summary": null,
       "durationSeconds": 1639
     },
@@ -76,11 +86,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "ics",
-        "iot",
-        "threat-intelligence"
+        "ics-threats",
+        "iot-security",
+        "threat-landscape",
+        "vulnerability-trends",
+        "attack-vectors"
       ],
-      "teaser": "ICS IOT Threat Landscape",
+      "teaser": "Current threat landscape and emerging vulnerabilities in ICS and IoT systems.",
       "summary": null,
       "durationSeconds": 1451
     },
@@ -91,12 +103,15 @@
       "speakers": [
         "Chris Kubecka"
       ],
-      "track": "red-team",
+      "track": "osint",
       "topics": [
-        "ics",
-        "osint"
+        "ics-recon",
+        "osint-techniques",
+        "critical-infrastructure",
+        "reconnaissance",
+        "intelligence-gathering"
       ],
-      "teaser": "Hack the World and Galaxy with OSINT",
+      "teaser": "OSINT techniques for reconnaissance of industrial control systems and infrastructure.",
       "summary": null,
       "durationSeconds": 1780
     },
@@ -109,24 +124,32 @@
       ],
       "track": "red-team",
       "topics": [
-        "iot"
+        "building-automation",
+        "smart-buildings",
+        "iot-exploitation",
+        "facility-systems",
+        "network-attacks"
       ],
-      "teaser": "Abusing the IoT in Smart Building",
+      "teaser": "Exploitation techniques for IoT devices in smart building automation systems.",
       "summary": null,
       "durationSeconds": 1686
     },
     {
       "youtubeId": "96mpTFWWO7I",
       "slug": "douglas-mckee-hvacking-the-difference-between-security-and-reali",
-      "title": "HVACking The difference Between Security and Reality",
+      "title": "HVACking: The difference Between Security and Reality",
       "speakers": [
         "Douglas McKee"
       ],
       "track": "red-team",
       "topics": [
-        "iot"
+        "hvac-systems",
+        "building-security",
+        "physical-systems",
+        "iot-vulnerabilities",
+        "gap-analysis"
       ],
-      "teaser": "HVACking The difference Between Security and Reality",
+      "teaser": "Security vulnerabilities in HVAC systems and the gap between theory and practice.",
       "summary": null,
       "durationSeconds": 1622
     },
@@ -137,27 +160,34 @@
       "speakers": [
         "Jack Oden"
       ],
-      "track": "red-team",
+      "track": "policy",
       "topics": [
-        "ics"
+        "it-ot-convergence",
+        "network-integration",
+        "security-challenges",
+        "operational-technology",
+        "critical-infrastructure"
       ],
-      "teaser": "IT OT Convergence Are We There Yet",
+      "teaser": "Integration challenges and security implications of IT and OT network convergence.",
       "summary": null,
       "durationSeconds": 1483
     },
     {
       "youtubeId": "JH3rC8psnSc",
       "slug": "joe-slowik-crashoverride-assessing-the-2016-ukraine-electric-pow",
-      "title": "CRASHOVERRIDE Assessing the 2016 Ukraine Electric Power Event",
+      "title": "CRASHOVERRIDE: Assessing the 2016 Ukraine Electric Power Event",
       "speakers": [
         "Joe Slowik"
       ],
       "track": "red-team",
       "topics": [
-        "ics",
-        "security-research"
+        "power-grid-attacks",
+        "crashoverride",
+        "ukrainian-incident",
+        "nation-state-attacks",
+        "critical-infrastructure"
       ],
-      "teaser": "CRASHOVERRIDE Assessing the 2016 Ukraine Electric Power Event",
+      "teaser": "Analysis of the 2016 Ukraine power grid cyberattack (CRASHOVERRIDE) and tactics used.",
       "summary": null,
       "durationSeconds": 1833
     },
@@ -168,12 +198,15 @@
       "speakers": [
         "Joseph Bingham"
       ],
-      "track": "red-team",
+      "track": "policy",
       "topics": [
-        "ics",
-        "security-research"
+        "stuxnet-legacy",
+        "malware-evolution",
+        "ics-defense",
+        "security-strategy",
+        "critical-infrastructure-protection"
       ],
-      "teaser": "What the next Stuxnet will look like and how to prevent it",
+      "teaser": "Future ICS malware threats and defensive strategies based on Stuxnet analysis.",
       "summary": null,
       "durationSeconds": 1499
     }
