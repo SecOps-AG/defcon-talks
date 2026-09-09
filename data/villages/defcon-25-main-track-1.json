@@ -1005,6 +1005,243 @@
       "teaser": "Using Active Directory DACL misconfigurations to achieve domain compromise and persistence.",
       "summary": "Active Directory Security\n\nActive Directory object discretionary access control lists (DACLs) represent an untapped offensive landscape, often overlooked by attackers and defenders. Control relationships between AD objects align with \"attackers think in graphs\" philosophy.\n\nControl Edges\n\nDACL analysis exposes previously unseen control edges, dramatically expanding paths to complete domain compromise. Attackers can identify numerous paths through careful DACL analysis.\n\nPersistence Opportunity\n\nDACL misconfigurations provide covert persistence deployment opportunities. Distinguishing intentional configurations from accidents is difficult, providing plausible deniability.\n\nForensic Analysis\n\nActive Directory DACL backdoors have minimal forensic footprint and maximum plausible deniability. Understanding DACL-based control relationships and covert persistence techniques is critical for both offensive and defensive security.",
       "durationSeconds": 2604
+    },
+    {
+      "youtubeId": "fp7Pq7_tHsY",
+      "slug": "the-brains-last-stand",
+      "title": "The Brain's Last Stand",
+      "speakers": [
+        "Garry Kasparov"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "artificial-intelligence",
+        "machine-learning",
+        "automation",
+        "chess",
+        "human-machine"
+      ],
+      "teaser": "Former world chess champion Garry Kasparov reflects on his matches against Deep Blue and explores collaborative strategies for human and machine intelligence.",
+      "summary": "Reflections on the Watershed 1997 Match\n\nTwenty years after his historic chess match against the IBM supercomputer Deep Blue, former World Chess Champion Garry Kasparov evaluates the evolution of artificial intelligence and machine capabilities. The match marked a pivotal turning point in public perception, cementing the concept of human versus machine competition in the global consciousness while illustrating the raw computational power of specialized heuristic evaluation.\n\nMoving Beyond the Man Versus Machine Dichotomy\n\nKasparov challenges both extreme utopian predictions and pessimistic dystopian warnings regarding technological unemployment and societal displacement. Rather than viewing machine intelligence as an adversarial replacement for human agency, he advocates an integration model where human intuition and strategic judgment augment automated computational processes.\n\nHuman Plus Machine Collaboration\n\nDrawing on two decades of competitive chess experimentation with Advanced Chess and freestyle tournaments, Kasparov demonstrates that a moderately skilled human player paired with an ordinary computer program consistently outperforms both unassisted grandmasters and standalone supercomputers. The decisive factor is not the superior brilliance of the human or the raw speed of the machine, but the efficiency of the interface and collaborative workflow established between them.\n\nNavigating the Automation Revolution\n\nAddressing anxieties surrounding workforce automation and economic disruption, the talk emphasizes that technological progress routinely obsoletes routine tasks while creating opportunities for higher-level problem solving. Kasparov argues that resisting technological adoption is futile, urging security researchers, technologists, and policymakers to embrace the AI revolution by cultivating adaptable skills and designing transparent decision-support systems.",
+      "durationSeconds": 2887
+    },
+    {
+      "youtubeId": "v9vIcfLrmiA",
+      "slug": "open-source-safe-cracking-robots",
+      "title": "Open Source Safe Cracking Robots",
+      "speakers": [
+        "Nathan Seidle"
+      ],
+      "track": "hardware",
+      "topics": [
+        "safe-cracking",
+        "robotics",
+        "arduino",
+        "physical-security",
+        "hardware"
+      ],
+      "teaser": "Demonstrates an open-source robotic rig built with Arduino and 3D-printed parts that measures internal wheel tolerances to crack combination fire safes in under an hour.",
+      "summary": "Low-Cost Physical Security Auditing\n\nMechanical combination safes are commonly deployed in commercial and residential settings under the assumption that non-destructive brute-force attacks require prohibitive amounts of time. Nathan Seidle demonstrates a low-cost, open-source automated safe-cracking robotic platform fabricated using off-the-shelf 3D-printed components, an Arduino microcontroller, and standard stepper motors totaling approximately two hundred dollars.\n\nMeasuring Internal Wheel Pack Tolerances\n\nInstead of blindly attempting all possible numerical combinations across the three-wheel or four-wheel pack, the robot uses a motor coupled with an optical encoder to measure mechanical resistance and wheel contact points while the safe remains closed. By measuring subtle rotational discrepancies when the dial interacts with internal drive pins, the system can reliably isolate one of the combination digits, dramatically reducing the remaining mathematical search space.\n\nOptimizing Dialing with Set Testing\n\nStandard dialing methods require resetting the entire wheel pack between attempts, consuming valuable seconds per trial. Seidle introduces a specialized search algorithm called set testing that groups potential number combinations into continuous sweeps, minimizing unnecessary reverse revolutions and reducing total cracking time to under sixty minutes on standard fire-resistant safes.\n\nOpen Source Hardware and Attack Demos\n\nThe complete schematics, 3D models, and Arduino firmware are released open-source to allow physical security professionals and penetration testers to audit safe vulnerabilities. Live demonstrations illustrate the physical mounting mechanism using high-strength neodymium magnets, automated dial calibration, and the precise mechanical retraction of the locking bolt upon discovering the final combination.",
+      "durationSeconds": 1645
+    },
+    {
+      "youtubeId": "eJpbi-Qz6Jc",
+      "slug": "jailbreaking-apple-watch",
+      "title": "Jailbreaking Apple Watch",
+      "speakers": [
+        "Max Bazaliy"
+      ],
+      "track": "mobile",
+      "topics": [
+        "apple",
+        "smartwatch",
+        "jailbreak",
+        "ios",
+        "exploitation"
+      ],
+      "teaser": "Explores watchOS security architecture and demonstrates jailbreaking Apple Watch by bypassing codesigning, sandboxing, and kernel memory protections.",
+      "summary": "Wearable Platform Security Architecture\n\nThe Apple Watch and its dedicated operating system watchOS handle sensitive biometric, navigational, and communication data while maintaining tight pairing with companion iOS devices. Max Bazaliy examines the core security architecture implemented in watchOS, including mandatory code signature enforcement, application sandboxing, privilege separation, and kernel-level memory protections designed to prevent unauthorized code execution.\n\nAuditing watchOS and iOS Attack Surfaces\n\nBecause watchOS shares extensive architectural lineage with Darwin and iOS, vulnerabilities in common subsystem services—such as CoreAnimation, Bluetooth pairing daemons, and system kernel drivers—can be leveraged against the wearable device. Bazaliy identifies attack surfaces accessible over local wireless transport protocols and analyzes how vulnerabilities can be triggered within system daemon contexts.\n\nChaining Exploits for Kernel Execution\n\nAchieving a functional jailbreak requires constructing a multi-stage exploitation chain. The attack initiates through an application or media parsing bug to gain initial userland execution, followed by a sandbox escape that targets local inter-process communication services. Finally, a kernel vulnerability is exploited to defeat Kernel Address Space Layout Randomization (KASLR) and overwrite memory management registers to disable code signing validation.\n\nImpact and Device Post-Exploitation\n\nWith kernel privileges established on the Apple Watch, the jailbreak demonstrates direct access to sensitive local sqlite databases containing message archives, contact lists, GPS coordinates, and health telemetry. Bazaliy details debugging hooks and instrumentation frameworks that enable researchers to audit previously inaccessible watchOS internal daemons and assess wearable security posture.",
+      "durationSeconds": 2172
+    },
+    {
+      "youtubeId": "NbHL0SYlrSQ",
+      "slug": "how-we-created-the-first-sha-1-collision",
+      "title": "How We Created the First SHA-1 Collision",
+      "speakers": [
+        "Elie Bursztein"
+      ],
+      "track": "appsec",
+      "topics": [
+        "sha-1",
+        "hash-collision",
+        "cryptanalysis",
+        "cryptography",
+        "shattered"
+      ],
+      "teaser": "Recounts the computation and cryptanalytic engineering behind the SHAttered project that produced the first practical SHA-1 collision.",
+      "summary": "The Theoretical Demise of SHA-1\n\nThe cryptographic hash function SHA-1 was designed by the National Security Agency in 1995 and widely integrated into digital certificate standards, version control systems, and document signing protocols. While theoretical differential path attacks were published by Xiaoyun Wang and colleagues in 2005, practical generation of an identical hash digest from two distinct meaningful files remained computationally intractable for over a decade.\n\nThe SHAttered Project Architecture\n\nElie Bursztein details the collaborative research initiative between Google and CWI Amsterdam that produced the first practical SHA-1 collision, known as the SHAttered attack. The attack required calculating approximately nine quintillion SHA-1 operations, representing an unprecedented distributed computation across heterogeneous CPU clusters and specialized GPU acceleration nodes optimized for cryptanalytic round-reduction algorithms.\n\nGenerating Valid Colliding PDF Payloads\n\nA critical challenge in generating a meaningful collision was crafting two valid PDF documents with identical SHA-1 digests that display completely different visual content. Researchers structured the PDF header and indirect object tables around identical collision blocks, ensuring that internal parser offsets would interpret the differing computational payloads into distinct visible rendered pages without invalidating document structure.\n\nFallout Across Developer Tools and Infrastructure\n\nThe public disclosure of the SHAttered collision revealed immediate security consequences across software ecosystems that still relied on SHA-1 integrity checks. Apache Subversion (SVN) repositories suffered immediate corruption when collision test files were committed, and critical developer toolchains experienced parsing panics. Bursztein explains how Google deployed counter-cryptanalysis filters in Gmail and Google Drive to detect shattered collision blocks before malicious files could be delivered, and emphasizes the urgent necessity of transitioning enterprise infrastructure to SHA-256 and SHA-3.",
+      "durationSeconds": 2237
+    },
+    {
+      "youtubeId": "40frKOU3jHk",
+      "slug": "dc-to-def-con-qa",
+      "title": "DC to DEF CON Q&A",
+      "speakers": [
+        "James Langevin",
+        "Will Hurd"
+      ],
+      "track": "policy",
+      "topics": [
+        "congress",
+        "legislation",
+        "cyber-policy",
+        "government",
+        "policy"
+      ],
+      "teaser": "Representatives Will Hurd and James Langevin discuss federal cybersecurity policymaking, legislative oversight, and government collaboration with the hacker community.",
+      "summary": "Bridging Capitol Hill and the Hacker Community\n\nCongressional Representatives Will Hurd and James Langevin participate in an interactive town hall session organized with the Atlantic Council Cyber Statecraft Initiative to bridge the divide between federal policymakers and technical security researchers. Both representatives bring specialized backgrounds to the discussion—Hurd as an undercover CIA operations officer and Langevin as co-founder of the Congressional Cybersecurity Caucus.\n\nLegislative Challenges in Technical Policy\n\nThe discussion addresses the friction between statutory law and rapid technological evolution. The congressmen examine key statutory frameworks governing vulnerability research and reverse engineering, including the Computer Fraud and Abuse Act (CFAA) and the Digital Millennium Copyright Act (DMCA), exploring legislative efforts to establish safe harbor protections for good-faith security researchers.\n\nCritical Infrastructure and Government Cyber Defense\n\nHurd and Langevin review federal incident response coordination, workforce shortages in public sector cybersecurity, and the vulnerability of legacy federal IT infrastructure. They analyze the impact of high-profile nation-state intrusions against government agencies and discuss the implementation of binding operational directives to phase out unmaintainable legacy protocols and insecure software vendors across federal civilian networks.\n\nInteractive Community Dialogue\n\nAudience members question the representatives on controversial policy topics, including government vulnerability hoarding, encryption backdoors, intelligence community surveillance authorities, and the risks of regulatory mandates stifle innovation. The congressmen emphasize that sustainable national cyber defense requires regular, transparent engagement between technical practitioners and legislative committees drafting national security policy.",
+      "durationSeconds": 2794
+    },
+    {
+      "youtubeId": "q7VZtCUphgg",
+      "slug": "offensive-malware-analysis-dissecting-osx-fruitfly",
+      "title": "Offensive Malware Analysis: Dissecting OSX FruitFly",
+      "speakers": [
+        "Patrick Wardle"
+      ],
+      "track": "malware",
+      "topics": [
+        "macos",
+        "command-and-control",
+        "reverse-engineering",
+        "malware-analysis",
+        "fruitfly"
+      ],
+      "teaser": "Deconstructs the FruitFly macOS spyware variant by standing up a custom command-and-control server to stimulate and inspect binary capabilities.",
+      "summary": "Discovery of the FruitFly Spyware\n\nPatrick Wardle analyzes FruitFly, a stealthy macOS malware family that selectively compromised biomedical research institutions and academic targets while remaining undetected by commercial antivirus products for several years. The presentation focuses on the B variant of FruitFly, examining its custom evasion tradecraft and unique architectural components.\n\nDeconstructing the Obfuscated Perl Dropper\n\nThe initial triage of the malware examines its primary dropper, which unusually relies on an obfuscated Perl script embedded within an application wrapper. Wardle breaks down the deobfuscation process, reconstructing the script's memory-resident staging routines, internal variable decoding, and execution flow that drops a native Mach-O binary payload onto the victim machine.\n\nStanding Up a Custom Command and Control Server\n\nRather than undertaking months of tedious static binary disassembly, Wardle demonstrates an offensive malware analysis approach: standing up a custom command-and-control (C2) server to interact directly with infected hosts and stimulate latent capabilities. By observing protocol handshakes and reverse engineering network packet structures, researchers can command the live malware binary to trigger individual functionality in controlled sandbox environments.\n\nStimulating Hidden OS Level Capabilities\n\nUsing the custom C2 framework, Wardle maps out the extensive spying features of FruitFly, including remote screen capture, webcam activation, microphone recording, and synthetic mouse event injection using low-level CoreGraphics and I/O Kit APIs. To verify the malware's control over user interface events, Wardle details the creation of a custom mouse-sniffer tool that decodes synthetic event messages sent by the malware to the operating system, demonstrating how active protocol manipulation accelerates comprehensive reverse engineering.",
+      "durationSeconds": 1227
+    },
+    {
+      "youtubeId": "MbIDrs-mB20",
+      "slug": "the-last-ctf-talk-youll-ever-need-ama-with-20-years-of-ctf-organizers",
+      "title": "The Last CTF Talk You’ll Ever Need: AMA with 20 years of CTF Organizers",
+      "speakers": [
+        "Vulc@n",
+        "Hawaii John",
+        "Chris Eagle",
+        "Invisigoth",
+        "Caezar",
+        "Myles"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "contest",
+        "vulnerability-discovery",
+        "community",
+        "black-badge"
+      ],
+      "teaser": "Organizers from Legit BS, DDTEK, Kenshoto, and Ghetto Hackers review two decades of DEF CON Capture the Flag architecture, challenge design, and competition lore.",
+      "summary": "Two Decades of DEF CON Capture the Flag\n\nCapture the Flag (CTF) has served as the premier technical contest at DEF CON since its inception at DEF CON 4, evolving from rudimentary local network skirmishes into the most prestigious competitive hacking tournament in the world. A panel of past and present organizers representing Legit Business Syndicate, DDTEK, Kenshoto, Ghetto Hackers, and the Goon staff convene to chronicle twenty years of competition architecture, contest philosophy, and community culture.\n\nEvolution of Challenge Design and Infrastructure\n\nThe organizers trace the technological trajectory of CTF games, from early physical server setups and unencrypted hub environments to complex virtualized networks, custom architecture hardware challenges, and high-throughput network scoring engines. They discuss the continuous game-theoretic struggle between organizers and competitors, detailing mechanisms developed to prevent teams from gaming scoreboard rules, sharing flags, or conducting out-of-bounds infrastructure denial of service.\n\nThe Crucible of Challenge Development\n\nPanelists provide behind-the-scenes accounts of authoring zero-day style exploitation challenges, novel cryptographic puzzles, and esoteric binary reverse engineering problems under intense time constraints. They reflect on the balance between difficulty and playability, the impact of DARPA's Cyber Grand Challenge on automated vulnerability reasoning, and the logistical realities of maintaining uptime during seventy-two hours of adversarial traffic.\n\nCompetition Lore and the Black Badge Legacy\n\nThe session concludes with an open community AMA exploring legendary CTF incidents, concealed easter eggs, intense inter-team rivalries, and the enduring cultural significance of winning a DEF CON black badge. The organizers highlight how competitive CTF serves as a vital training ground for top-tier vulnerability researchers, shaping technical methodologies that define modern industry security practices.",
+      "durationSeconds": 6679
+    },
+    {
+      "youtubeId": "OOyhfylJXhM",
+      "slug": "trojan-tolerant-hardware-supply-chain-security",
+      "title": "Trojan Tolerant Hardware & Supply Chain Security",
+      "speakers": [
+        "Vasilios Mavroudis",
+        "Dan Cvrcek"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware-trojans",
+        "supply-chain",
+        "hsm",
+        "hardware",
+        "cots"
+      ],
+      "teaser": "Proposes an architecture for building trusted, backdoor-tolerant hardware security modules out of untrusted commercial off-the-shelf components.",
+      "summary": "Supply Chain Vulnerabilities in Silicon Fabrication\n\nHigh-assurance security systems traditionally operate on the assumption that underlying hardware components are trustworthy. Vasilios Mavroudis and Dan Cvrcek challenge this foundational model, highlighting that modern integrated circuit fabrication is almost universally outsourced to overseas foundries where covert hardware Trojans or subtle manufacturing defects can be introduced without detection by standard post-fabrication tests.\n\nLimitations of Hardware Verification\n\nTraditional quality assurance and optical inspection techniques are incapable of reliably detecting stealthy hardware Trojans that activate only under rare clock conditions or subtle analogue environmental triggers. Because comprehensive destructive silicon forensics is economically infeasible for commercial deployments, organizations require an architectural approach to hardware trust that tolerates compromised components.\n\nArchitecting Backdoor Tolerant Security Modules\n\nThe authors introduce a high-assurance hardware architecture capable of surviving the compromise of individual integrated circuits. They present a proof-of-concept backdoor-tolerant Hardware Security Module (HSM) constructed entirely from low-cost, off-the-shelf commercial components. The design incorporates component diversification, threshold cryptography, and independent non-overlapping supply chains to ensure that no single vendor or foundry can unilaterally compromise system keys.\n\nEnforcing Mutual Distrust Between Components\n\nThe core operational principle of the architecture is mutual distrust: critical cryptographic operations and random number generation are split across isolated heterogeneous microcontrollers that cross-verify outputs before signing or decrypting payloads. Benchmarks demonstrate that this multi-chip consensus model incurs minimal performance overhead while providing rigorous fault tolerance and confidentiality guarantees against malicious silicon modifications.",
+      "durationSeconds": 2183
+    },
+    {
+      "youtubeId": "LUtluTaEAUU",
+      "slug": "ms-just-gave-the-blue-team-tactical-nukes",
+      "title": "MS Just Gave the Blue Team Tactical Nukes",
+      "speakers": [
+        "Chris Thompson"
+      ],
+      "track": "red-team",
+      "topics": [
+        "windows-defender",
+        "active-directory",
+        "evasion",
+        "lateral-movement",
+        "red-team"
+      ],
+      "teaser": "Evaluates Windows Defender ATP and Microsoft Advanced Threat Analytics detection mechanisms and presents tradecraft for red teams to evade behavioral telemetry.",
+      "summary": "Enterprise Endpoint Telemetry Evolution\n\nThe introduction of Windows Defender Advanced Threat Protection (ATP) and Microsoft Advanced Threat Analytics (ATA) fundamentally altered enterprise defensive capabilities by moving beyond static signature detection toward pervasive endpoint behavioral telemetry and identity analytics within Windows 10 and Active Directory environments. Chris Thompson analyzes how these integrated defensive platforms impact traditional red team offensive tradecraft.\n\nBehavioral Detections Across the Kill Chain\n\nThe presentation examines the specific heuristic models and kernel-level event tracing mechanisms deployed by Defender ATP to flag post-exploitation behavior. Thompson breaks down standard offensive workflows—including LSASS memory dumping, token manipulation, process injection, and WMI-based persistence—demonstrating how automated behavioral classifiers correlate anomalous API calls to trigger high-severity alerts in corporate security operations centers.\n\nEvasion Strategies for Modern Defenses\n\nTo maintain stealth in hardened enterprise networks, red teams must adapt their tradecraft to circumvent behavioral monitoring. Thompson explores practical techniques for avoiding detection, including bypassing AMSI (Antimalware Scan Interface), modifying API calling sequences to blend with legitimate administrative tooling, manipulating parent-child process relationships, and conducting in-memory execution without touching disk or generating standard Sysmon event logs.\n\nOperational Guidance for Attackers and Defenders\n\nThompson concludes with tactical recommendations for security practitioners operating in mature enterprise environments with centralized Event Log Forwarding. He details methods for executing stealthy Active Directory reconnaissance and lateral movement without generating anomalous Kerberos ticket requests or alerting identity behavior sensors, while emphasizing how defensive teams can fine-tune correlation rules to detect sophisticated evasion attempts.",
+      "durationSeconds": 2826
+    },
+    {
+      "youtubeId": "QbX7BhjOOvY",
+      "slug": "weaponizing-machine-learning-humanity-was-overrated",
+      "title": "Weaponizing Machine Learning: Humanity Was Overrated",
+      "speakers": [
+        "Dan Petro",
+        "Ben Morris"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "neural-networks",
+        "web-exploitation",
+        "automation",
+        "artificial-intelligence",
+        "machine-learning"
+      ],
+      "teaser": "Introduces DeepHack, an open-source neural network agent that uses reinforcement learning to autonomously discover and exploit vulnerabilities in web applications.",
+      "summary": "Autonomous Vulnerability Discovery and Exploitation\n\nMachine learning research has rapidly transformed defensive detection systems, but its potential in offensive tooling remains largely untapped. Dan Petro and Ben Morris introduce DeepHack, an open-source autonomous penetration testing agent that utilizes neural networks and reinforcement learning algorithms to discover and exploit vulnerabilities in web applications without requiring pre-programmed attack signatures or prior knowledge of target application architectures.\n\nArchitecture and Reinforcement Learning Pipeline\n\nDeepHack operates through an iterative trial-and-error feedback loop, observing application HTTP responses and rewarding successful state transitions that lead toward database extraction, authentication bypass, or command execution. Petro and Morris explain the neural network architecture, reward functions, and vector representations used to model web inputs, demonstrating how a single generalized learning algorithm adapts to attack multiple vulnerability classes such as SQL injection and cross-site scripting.\n\nAutonomous Exploitation in Practice\n\nThe authors demonstrate DeepHack operating in real-time against benchmark vulnerable applications. Without human intervention or static wordlists, the agent systematically probes input fields, infers backend database syntax from error responses, and autonomously optimizes exploitation payloads to retrieve restricted data, illustrating how machine learning agents can dramatically outpace human penetration testers in repetitive payload mutation.\n\nThe Future of Offensive Artificial Intelligence\n\nThe presentation explores the broader implications of weaponized machine learning in offensive cybersecurity operations. Petro and Morris project the trajectory of autonomous exploitation frameworks, discussing how future iterations will incorporate natural language processing to navigate complex application logic and automate lateral movement. They warn that organizations must prepare defenses against automated, adaptive cyber attacks that evolve faster than manual incident response procedures can mitigate.",
+      "durationSeconds": 2478
+    },
+    {
+      "youtubeId": "gRWjd6o4LO4",
+      "slug": "if-you-give-a-mouse-a-microchip",
+      "title": "If You Give a Mouse a Microchip",
+      "speakers": [
+        "Mark Williams",
+        "Rob Stanley"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hid",
+        "firmware",
+        "badusb",
+        "hardware",
+        "esports"
+      ],
+      "teaser": "Demonstrates modifying ARM Cortex-M mouse firmware to covertly stage and deliver arbitrary payloads through standard USB HID interfaces in high-security tournament settings.",
+      "summary": "Physical Peripherals in High Stakes Environments\n\nCompetitive esports tournaments feature multi-million dollar prize pools where the incentive to cheat has driven players to develop sophisticated evasion techniques. Because event organizers enforce strict controls on target tournament PCs—including disabling internet access and locking down USB mass storage—players are still permitted to bring their own competition-grade mice and keyboards, creating an overlooked physical attack vector.\n\nExploiting ARM Cortex M Gaming Peripherals\n\nModern commercial gaming mice frequently feature onboard ARM Cortex-M microcontrollers and internal flash memory to store custom DPI settings, macro bindings, and user profile configurations across different computers. Mark Williams and Rob Stanley demonstrate how an attacker can reverse engineer the peripheral's firmware and embed a malicious payload delivery routine into unused sectors of the onboard flash memory without disrupting standard optical tracking or button inputs.\n\nPayload Staging Over USB Human Interface Devices\n\nBecause the modified mouse continues to operate as an expected Human Interface Device (HID), it bypasses perimeter controls and operating system USB mass storage restrictions. Upon receiving a covert physical trigger sequence or timer condition, the compromised firmware initiates a rapid burst of synthetic keystroke events, opening hidden execution contexts to stage and launch compiled game cheats or arbitrary executables directly into system memory.\n\nDetection Tradeoffs and Hardware Defenses\n\nThe authors evaluate the practical tradeoffs of peripheral-based HID attacks, noting that automated window spawning and keystroke injection remain observable to attentive observers or local audit logging agents. They discuss countermeasures for tournament organizers and high-security enterprise facilities, including mandatory hardware quarantine policies, firmware signature verification, and the adoption of USB device whitelisting tools that restrict non-standard HID descriptors.",
+      "durationSeconds": 1759
+    },
+    {
+      "youtubeId": "n_gSJkswdhU",
+      "slug": "i-know-what-you-are-by-the-smell-of-your-wifi",
+      "title": "I Know What You Are by the Smell of Your Wifi",
+      "speakers": [
+        "Denton Gentry"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wifi",
+        "fingerprinting",
+        "802-11",
+        "wireless",
+        "recon"
+      ],
+      "teaser": "Extracts granular device models and hardware revisions by passive fingerprinting of 802.11 Wi-Fi management frames and probe request signatures.",
+      "summary": "Limitations of Traditional Network Device Fingerprinting\n\nNetwork administrators and security analysts commonly rely on passive fingerprinting techniques to catalog connected client devices, inspecting DHCP options, HTTP User-Agent strings, and mDNS or SSDP broadcast announcements. Denton Gentry explains that these traditional network-layer indicators provide only coarse identification—frequently distinguishing merely between generic operating system categories while failing to differentiate specific hardware revisions or device generations.\n\nExtracting Signatures from 802.11 Management Frames\n\nBy shifting inspection down to the 802.11 wireless physical and data link layers, analysts can examine the precise structural composition of unencrypted Wi-Fi management frames. Gentry demonstrates that probe request frames contain distinct Information Elements (IEs)—including supported data rates, extended capabilities, vendor-specific tags, and HT/VHT capabilities—that reflect the specific Wi-Fi chipset and driver implementation integrated into a device.\n\nGranular Hardware Model Identification\n\nThe talk illustrates how subtle variations in the ordering and parameters of Information Elements allow passive listeners to distinguish between closely related hardware models. Using real-world capture datasets, Gentry demonstrates differentiating an iPhone 5 from an iPhone 5S, or distinguishing specific Samsung Galaxy and LG mobile revisions simply by analyzing the distinctive \"smell\" of their wireless probe requests before any association or network connection occurs.\n\nSecurity and Operational Applications\n\nPassive wireless fingerprinting provides network defenders and security researchers with non-intrusive asset discovery capabilities, enabling automated inventory of mobile hardware entering monitored facilities. Gentry outlines the practical implementation of signature matching engines and discusses the operational implications for client tracking, network access control, and privacy defense against physical location surveillance.",
+      "durationSeconds": 1162
     }
   ]
 }
