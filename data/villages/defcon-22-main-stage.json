@@ -2168,6 +2168,63 @@
       "slug": "hacker-pyramid-friday",
       "summary": "Architecture and Background\n\nNight one of the last hurrah of the DEF CON Hacker Pyramid Contest , from DEF CON 22. The Dark Tangent, DEF CON Goons contextualize these mechanics within the broader community landscape.\n\nVulnerability Analysis\n\nThe analysis investigates key threat vectors and design shortcomings related to defcon-contests, trivia, hacker-culture, gaming.\n\nExploitation and Demonstrations\n\nNight one of the last hurrah of the DEF CON Hacker Pyramid Contest , from DEF CON 22.\n\nRemediation and Defensive Strategies\n\nDefenders and researchers are provided actionable defensive mitigations, monitoring telemetry, and configuration safeguards to minimize systemic risk.",
       "durationSeconds": 3161
+    },
+    {
+      "youtubeId": "l2mzmcl2XhA",
+      "slug": "dr-phil-polstra-am-i-being-spied-on",
+      "title": "Am I Being Spied On? Low-tech Ways of Detecting High-tech Surveillance",
+      "speakers": [
+        "Dr. Phil Polstra"
+      ],
+      "track": "privacy",
+      "topics": [
+        "surveillance-detection",
+        "rf-detection",
+        "counter-surveillance",
+        "privacy",
+        "hardware"
+      ],
+      "teaser": "Low-tech, low-cost hardware and signal analysis techniques to detect electronic bugs, hidden trackers, and high-tech surveillance.",
+      "summary": null,
+      "durationSeconds": 2523
+    },
+    {
+      "youtubeId": "rJ5jILY1vlw",
+      "slug": "gene-bransfield-weaponizing-your-pets-the-war-kitteh-and-the-denial-of-service-dog",
+      "title": "Weaponizing Your Pets: The War Kitteh and the Denial of Service Dog",
+      "speakers": [
+        "Gene Bransfield"
+      ],
+      "track": "wireless",
+      "topics": [
+        "war-kitteh",
+        "wardriving",
+        "wifi",
+        "embedded-systems",
+        "wireless"
+      ],
+      "teaser": "Gene Bransfield details fitting collars with GPS and WiFi tracking microcontrollers onto outdoor domestic cats to map neighborhood wireless networks.",
+      "summary": null,
+      "durationSeconds": 2233
+    },
+    {
+      "youtubeId": "8hLeVSvoHqI",
+      "slug": "mark-stanislav-zach-lanier-the-internet-of-fails-where-iot-has-gone-wrong",
+      "title": "The Internet of Fails: Where IoT Has Gone Wrong",
+      "speakers": [
+        "Mark Stanislav",
+        "Zach Lanier"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "embedded-security",
+        "hardware",
+        "vulnerability-research"
+      ],
+      "teaser": "An extensive multi-vendor analysis of systemic security and architectural flaws across commercial consumer Internet of Things devices.",
+      "summary": null,
+      "durationSeconds": 2787
     }
   ]
 }
