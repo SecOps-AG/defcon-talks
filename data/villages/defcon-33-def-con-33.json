@@ -2624,19 +2624,6 @@
       "durationSeconds": 1975
     },
     {
-      "youtubeId": "iVmS5dPjggU",
-      "slug": "the-worst-ics-ot-love-story-every-told-2",
-      "title": "The Worst ICS/OT Love Story Every Told",
-      "speakers": [
-        "2025 Mike Holcomb"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1567
-    },
-    {
       "youtubeId": "cFFhHXPsilw",
       "slug": "escaping-the-privacy-sandbox-with-client-side-deanonymization-at-2",
       "title": "Escaping the Privacy Sandbox with Client Side Deanonymization Attacks",
@@ -2888,20 +2875,6 @@
       "durationSeconds": 2190
     },
     {
-      "youtubeId": "6U_CepoMSl4",
-      "slug": "dont-cry-wolf-evidence-based-assessments-of-ics-threats-2",
-      "title": "Don’t Cry Wolf: Evidence based assessments of ICS Threats",
-      "speakers": [
-        "Jimmy Wylie",
-        "Sam Hanson"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1435
-    },
-    {
       "youtubeId": "BGuaIun8qiA",
       "slug": "cryptocurrency-weekend-keynote-chelsea-button-alfonso-tinoco-and-2",
       "title": "Cryptocurrency Weekend Keynote Chelsea Button, Alfonso Tinoco & Elaine Shi",
@@ -2953,19 +2926,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1473
-    },
-    {
-      "youtubeId": "0r_trFFPVYc",
-      "slug": "locked-down-not-locked-out-how-i-escaped-yr-secure-operator-work-2",
-      "title": "Locked Down, Not Locked Out: How I Escaped Yr Secure Operator Workstation",
-      "speakers": [
-        "Aaron Boyd"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1475
     },
     {
       "youtubeId": "1uNneo9L_jU",
@@ -3216,19 +3176,6 @@
       "durationSeconds": 1253
     },
     {
-      "youtubeId": "AXN3sTAr9R4",
-      "slug": "safeguarding-the-industrial-frontier-ot-soc-and-incident-respons-2",
-      "title": "Safeguarding the Industrial Frontier OT SOC & Incident Response",
-      "speakers": [
-        "Adam Robbie"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1207
-    },
-    {
       "youtubeId": "xdl08cPDgtE",
       "slug": "your-passkey-is-weak-phishing-the-unphishable-2",
       "title": "Your Passkey is Weak: Phishing the Unphishable",
@@ -3415,19 +3362,6 @@
       "durationSeconds": 1030
     },
     {
-      "youtubeId": "_ghyf3J92UQ",
-      "slug": "defe-con-33-deploying-deception-in-depth-for-ics-2",
-      "title": "DEFE CON 33 - Deploying Deception in Depth for ICS",
-      "speakers": [
-        "Brent Muir"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1339
-    },
-    {
       "youtubeId": "nUh9GVVhjD8",
       "slug": "countering-forensics-software-by-baiting-them-2",
       "title": "Countering Forensics Software by Baiting Them",
@@ -3512,19 +3446,6 @@
       "durationSeconds": 1053
     },
     {
-      "youtubeId": "YBPYYk8FIkc",
-      "slug": "there-and-back-again-detecting-ot-devices-across-protocol-gatewa-2",
-      "title": "There and Back Again: Detecting OT Devices Across Protocol Gateways",
-      "speakers": [
-        "Rob King"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1314
-    },
-    {
       "youtubeId": "UL_c4K5dTuc",
       "slug": "hacking-space-to-defend-it-generating-iobs-with-sparta-2",
       "title": "Hacking Space to Defend It: Generating IoBs with SPARTA",
@@ -3605,33 +3526,6 @@
       "durationSeconds": 1186
     },
     {
-      "youtubeId": "Qf7oNWKGL2I",
-      "slug": "crossing-the-line-advanced-techniques-to-breach-the-ot-dmz-2",
-      "title": "Crossing the Line: Advanced Techniques to Breach the OT DMZ",
-      "speakers": [
-        "Christopher Nourrie"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1041
-    },
-    {
-      "youtubeId": "MJV5FQztfi4",
-      "slug": "let-ai-autogenerate-neural-asr-rules-for-ot-attacks-via-nlp-2",
-      "title": "Let AI Autogenerate Neural ASR Rules for OT Attacks via NLP",
-      "speakers": [
-        "Mars Cheng",
-        "Jr Wei-Huang"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1324
-    },
-    {
       "youtubeId": "SJ-kfVUoENk",
       "slug": "the-powerpoint-glove-2",
       "title": "The PowerPoint Glove",
@@ -3643,19 +3537,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1402
-    },
-    {
-      "youtubeId": "S7mPcEPaKHU",
-      "slug": "intro-to-common-industrial-protocol-exploitation-2",
-      "title": "Intro to Common Industrial Protocol Exploitation",
-      "speakers": [
-        "Trevor Flynn"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1404
     },
     {
       "youtubeId": "O0-0u4zJWEM",
@@ -3840,19 +3721,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1735
-    },
-    {
-      "youtubeId": "-ElW725i8z4",
-      "slug": "critically-neglected-cybersecurity-for-buildings-2",
-      "title": "Critically Neglected: Cybersecurity for buildings",
-      "speakers": [
-        "Thomas Pope"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1393
     },
     {
       "youtubeId": "o6-H-3Sx6i0",

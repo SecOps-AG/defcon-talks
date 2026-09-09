@@ -674,25 +674,6 @@
       "durationSeconds": 1509
     },
     {
-      "youtubeId": "iVmS5dPjggU",
-      "slug": "the-worst-ics-ot-love-story-every-told",
-      "title": "The Worst ICS/OT Love Story Ever Told",
-      "speakers": [
-        "Mike Holcomb"
-      ],
-      "track": "ics-ot",
-      "topics": [
-        "ics-ot",
-        "critical-infrastructure",
-        "ransomware",
-        "threat-intelligence",
-        "mitigations"
-      ],
-      "teaser": "Analyzes how the rapid proliferation of advanced tools among low-skilled attackers is reshaping threats against operational technology networks.",
-      "summary": "Rapid Evolution of Industrial Cyber Threats\n\nOperational Technology (OT) and Industrial Control Systems (ICS) are experiencing rapid shifts in adversary capabilities and attack frequency. Industrial environments previously shielded by obscurity now face persistent, targeted scanning and exploitation.\n\nTransition from State Actors to Opportunistic Groups\n\nWhile state-sponsored Advanced Persistent Threats (APTs) historically dominated ICS security discourse, current threat telemetry demonstrates that ransomware gangs and hacktivists are actively probing industrial networks for vulnerable edge appliances and exposed control interfaces.\n\nAccessibility of Advanced Attack Tooling\n\nExploitation frameworks, automated scanners, and default protocol interaction tools are increasingly accessible to low-skilled threat actors. This commoditization enables attackers with minimal industrial expertise to trigger significant operational disruptions.\n\nStrategic Roadmaps for OT Resilience\n\nDefending industrial networks requires establishing active asset inventory, implementing robust network zoning between enterprise IT and operational zones, and training operational staff on cyber-incident recognition.",
-      "durationSeconds": 1567
-    },
-    {
       "youtubeId": "_fXLWaP4Zmo",
       "slug": "pirates-of-the-north-sea",
       "title": "Pirates of the North Sea",
@@ -905,26 +886,6 @@
       "durationSeconds": 1571
     },
     {
-      "youtubeId": "6U_CepoMSl4",
-      "slug": "dont-cry-wolf-evidence-based-assessments-of-ics-threats",
-      "title": "Don’t Cry Wolf: Evidence Based Assessments of ICS Threats",
-      "speakers": [
-        "Jimmy Wylie",
-        "Sam Hanson"
-      ],
-      "track": "threat-intel",
-      "topics": [
-        "ics-ot",
-        "malware",
-        "threat-intelligence",
-        "malware-analysis",
-        "critical-infrastructure"
-      ],
-      "teaser": "Shares practical threat hunting queries and analysis methodologies used by Dragos to differentiate genuine ICS malware from benign research or IT threats on VirusTotal.",
-      "summary": "Hunting for Novel ICS Malware in Public Repositories\n\nWhile bespoke Industrial Control Systems (ICS) malware remains rare, landmark threats such as TRISIS, FrostyGoop, and COSMICENERGY were initially discovered in public repositories like VirusTotal.\n\nFiltering Benign Artifacts from Malicious ICS Code\n\nThreat hunters regularly encounter benign research tools, CTF artifacts, and obfuscated junk code that trigger superficial ICS detection keywords. Establishing rigorous triage queries prevents false alarms and wasted investigative cycles.\n\nAnalytical Workflow and Victim Notification\n\nDragos analysts walk through systematic hunting queries, static binary analysis workflows, and validation protocols used to confirm whether a suspicious binary possesses true operational technology disruption capabilities.\n\nApplying Dragos ICS Malware Classification\n\nApplying a formal, evidence-based ICS malware taxonomy ensures accurate threat reporting, responsible industry alerts, and swift victim notifications when actionable critical infrastructure threats emerge.",
-      "durationSeconds": 1435
-    },
-    {
       "youtubeId": "BGuaIun8qiA",
       "slug": "cryptocurrency-weekend-keynote-chelsea-button-alfonso-tinoco-and",
       "title": "Cryptocurrency Weekend Keynote",
@@ -984,25 +945,6 @@
       "teaser": "Reverse engineers proprietary closed-source electronic engine controls and throttle protocols on modern outboard marine engines for autonomous navigation.",
       "summary": "The Expanding Autonomous Vessel Ecosystem\n\nThe market for autonomous surface vessels and uncrewed boats is expanding rapidly, with open-source autopilots like ArduPilot widely available. However, marine propulsion systems remain closed, proprietary black boxes.\n\nProprietary Engine Control Architecture\n\nUnlike the automotive sector, marine outboard and inboard engine manufacturers tightly restrict interface control documents (ICDs) and utilize proprietary CAN and serial protocols for throttle, shifting, and steering actuation.\n\nReverse Engineering Outboard Protocols\n\nAlex Lorman details the process of reverse engineering electronic engine control units across major marine manufacturers, analyzing CAN message timing, bus arbitration, and throttle position commands from jet-skis to high-horsepower outboard motors.\n\nBridging Open Autopilots to Marine Propulsion\n\nTranslating reverse-engineered CAN commands into open-source flight controller protocols enables seamless, autonomous throttle and steering control, paving the way for low-cost autonomous research vessels.",
       "durationSeconds": 1473
-    },
-    {
-      "youtubeId": "0r_trFFPVYc",
-      "slug": "locked-down-not-locked-out-how-i-escaped-yr-secure-operator-work",
-      "title": "Locked Down, Not Locked Out: How I Escaped Yr Secure Operator Workstation",
-      "speakers": [
-        "Aaron Boyd"
-      ],
-      "track": "red-team",
-      "topics": [
-        "privilege-escalation",
-        "red-teaming",
-        "ics-ot",
-        "windows",
-        "security-controls"
-      ],
-      "teaser": "Details breakout and privilege escalation tradecraft against hardened industrial operator workstations using living-off-the-land techniques.",
-      "summary": "The False Sense of Workstation Hardening\n\nCritical infrastructure facilities and manufacturing plants rely on locked-down operator workstations to safeguard operational control systems. However, restrictive shell configurations often fail to prevent local breakout and privilege escalation.\n\nCommon Breakout Vectors in Industrial Kiosks\n\nPenetration tester Aaron Boyd demonstrates how standard operator accounts exploit misconfigured file dialogues, help menus, shortcut keys, and administrative helper utilities to spawn interactive command prompts.\n\nLiving Off the Land in Constrained Environments\n\nOnce a shell is established, operators leverage native Windows executables, PowerShell scripts, and diagnostic tools already present on the endpoint to enumerate local permissions, bypass application whitelisting, and escalate to SYSTEM privileges.\n\nPractical Hardening and Monitoring Controls\n\nSecuring industrial workstations requires enforcing AppLocker and Windows Defender Application Control (WDAC) in block mode, disabling unnecessary OS shortcut hooks, and monitoring for anomalous process spawning from operator interfaces.",
-      "durationSeconds": 1475
     },
     {
       "youtubeId": "3V-URruNQck",
@@ -1257,25 +1199,6 @@
       "durationSeconds": 1253
     },
     {
-      "youtubeId": "AXN3sTAr9R4",
-      "slug": "safeguarding-the-industrial-frontier-ot-soc-and-incident-respons",
-      "title": "Safeguarding the Industrial Frontier: OT SOC & Incident Response",
-      "speakers": [
-        "Adam Robbie"
-      ],
-      "track": "blue-team",
-      "topics": [
-        "ics-ot",
-        "incident-response",
-        "blue-team",
-        "soc",
-        "monitoring"
-      ],
-      "teaser": "Explores specialized incident response strategies and operational considerations required to build and run effective Security Operations Centers in OT environments.",
-      "summary": "Bridging IT and OT Security Operations\n\nAs industrial enterprises connect operational technology (OT) to enterprise IT networks, building dedicated OT Security Operations Center (SOC) capabilities has become essential to safeguard physical processes from cyber threats.\n\nUnique Operational Constraints in Industrial SOCs\n\nUnlike traditional IT SOCs that focus on data confidentiality and endpoint isolation, OT SOCs prioritize system availability, process safety, and physical uptime. Standard IT containment actions—such as shutting down hosts or blocking subnets—can cause catastrophic physical shutdowns.\n\nSpecialized OT Incident Response Playbooks\n\nAdam Robbie details how organizations must develop incident response playbooks tailored to programmable logic controllers (PLCs), distributed control systems (DCS), and proprietary industrial protocols.\n\nContinuous Monitoring and Threat Telemetry\n\nEffective OT defense relies on passive network monitoring, protocol anomaly detection, and close collaboration between cybersecurity analysts and frontline plant control engineers.",
-      "durationSeconds": 1207
-    },
-    {
       "youtubeId": "xdl08cPDgtE",
       "slug": "your-passkey-is-weak-phishing-the-unphishable",
       "title": "Your Passkey is Weak: Phishing the Unphishable",
@@ -1373,25 +1296,6 @@
       "durationSeconds": 1473
     },
     {
-      "youtubeId": "_ghyf3J92UQ",
-      "slug": "defe-con-33-deploying-deception-in-depth-for-ics",
-      "title": "Deploying Deception in Depth for ICS",
-      "speakers": [
-        "Brent Muir"
-      ],
-      "track": "blue-team",
-      "topics": [
-        "ics-ot",
-        "deception",
-        "honeypot",
-        "critical-infrastructure",
-        "blue-team"
-      ],
-      "teaser": "Presents strategies for designing and deploying cyber deception across industrial control systems using the MITRE Engage framework, focused on APT44 TTPs.",
-      "summary": "Cyber Deception in Critical Infrastructure\n\nDeploying defensive deception within Industrial Control Systems (ICS) provides high-fidelity early warning alerts and alters adversary economics by injecting decoys into operational networks.\n\nOperationalizing the MITRE Engage Framework\n\nBrent Muir outlines how industrial defenders can adapt the MITRE Engage framework to map deception activities directly to adversary goals, establishing intentional decoys across OT DMZs and control zones.\n\nCase Study: Defending Against APT44 TTPs\n\nFocusing on threat actor APT44 (Sandworm), the presentation illustrates how emulated programmable logic controllers (PLCs), synthetic industrial protocol responders, and deceptive engineering workstations trap sophisticated attackers.\n\nEngineering Considerations and Safety Guardrails\n\nDesigning OT deception requires strict safety controls to prevent honeypot systems from interfering with real-time industrial processes or creating operational hazards.",
-      "durationSeconds": 1339
-    },
-    {
       "youtubeId": "oI3zxDWldKE",
       "slug": "vdp-in-aviation-how-it-shouldnt-be-done",
       "title": "VDP in Aviation: How it Shouldn't be Done!",
@@ -1431,25 +1335,6 @@
       "teaser": "Demonstrates proof-of-concept exploits across ground control software and onboard satellite components that grant unauthorized spacecraft control.",
       "summary": "Expanding Attack Surfaces in Space Missions\n\nModern space missions integrate specialized hardware and software components communicating across custom ground-to-space protocols. Vulnerabilities anywhere in this chain can result in total mission loss.\n\nVulnerability Analysis of Ground Control Segments\n\nResearchers identified critical flaws across ground station control software, telemetry servers, and antenna controllers, enabling unauthenticated remote command injection into satellite uplinks.\n\nExploiting Onboard Spacecraft Firmware\n\nInspecting onboard spacecraft software revealed memory corruption bugs and unauthenticated debugging interfaces in flight computers. Proof-of-concept exploits demonstrated the ability to hijack attitude control and disrupt satellite subsystems.\n\nHardening Guidelines for Aerospace Missions\n\nSecuring space infrastructure requires end-to-end cryptographic command authentication, memory-safe flight software architectures, and rigorous penetration testing before launch.",
       "durationSeconds": 1053
-    },
-    {
-      "youtubeId": "YBPYYk8FIkc",
-      "slug": "there-and-back-again-detecting-ot-devices-across-protocol-gatewa",
-      "title": "There and Back Again: Detecting OT Devices Across Protocol Gateways",
-      "speakers": [
-        "Rob King"
-      ],
-      "track": "recon",
-      "topics": [
-        "ics-ot",
-        "recon",
-        "cip",
-        "dnp3",
-        "network-scanning"
-      ],
-      "teaser": "Details network discovery tradecraft for enumerating OT assets behind protocol translation gateways using CIP message forwarding and DNP3 discovery.",
-      "summary": "The Reality of OT/IT Network Convergence\n\nIndustrial Control Systems (ICS) increasingly adopt commodity TCP/IP networking, connecting proprietary field devices to enterprise networks through protocol translation gateways.\n\nVisibility Challenges Behind Protocol Gateways\n\nProtocol gateways translate standard TCP/IP traffic into proprietary serial or fieldbus communications. Standard IT network scanners cannot enumerate devices residing behind these gateway boundaries, creating major asset visibility blind spots.\n\nCIP Message Forwarding and DNP3 Discovery\n\nRob King details practical techniques for querying devices through gateways, demonstrating how Common Industrial Protocol (CIP) routing and DNP3 address discovery mechanisms can be leveraged to enumerate hidden field assets.\n\nActionable Reconnaissance for Industrial Defenders\n\nImplementing protocol-aware discovery techniques enables defenders to build accurate asset inventories, identify legacy endpoints, and enforce proper network segmentation across industrial facilities.",
-      "durationSeconds": 1314
     },
     {
       "youtubeId": "UL_c4K5dTuc",
@@ -1549,45 +1434,6 @@
       "durationSeconds": 1186
     },
     {
-      "youtubeId": "Qf7oNWKGL2I",
-      "slug": "crossing-the-line-advanced-techniques-to-breach-the-ot-dmz",
-      "title": "Crossing the Line: Advanced Techniques to Breach the OT DMZ",
-      "speakers": [
-        "Christopher Nourrie"
-      ],
-      "track": "red-team",
-      "topics": [
-        "ics-ot",
-        "red-teaming",
-        "lateral-movement",
-        "remote-access",
-        "security-controls"
-      ],
-      "teaser": "Explores offensive tradecraft for bypassing DMZ segmentation and pivoting from enterprise footholds into industrial control networks.",
-      "summary": "The OT DMZ as a Critical Security Boundary\n\nThe demilitarized zone (DMZ) separating enterprise IT networks from operational technology (OT) control zones is designed to enforce strict isolation. However, operational conveniences often introduce severe segmentation weaknesses.\n\nPivoting from Enterprise Footholds\n\nChristopher Nourrie demonstrates how red team operators leverage initial IT access to identify and abuse misconfigured remote access solutions, jump hosts, Citrix gateways, and RDP relays spanning the IT/OT boundary.\n\nLateral Movement and Credential Abuse in the DMZ\n\nTechniques for proxying traffic, abusing dual-homed systems, and extracting cached administrative credentials within the DMZ allow attackers to bypass intended Purdue Model network boundaries.\n\nHardening Industrial Perimeter Defenses\n\nDefending the OT perimeter requires eliminating dual-homed jump hosts, enforcing dedicated multi-factor authentication on industrial access portals, and monitoring east-west network traffic across the DMZ.",
-      "durationSeconds": 1041
-    },
-    {
-      "youtubeId": "MJV5FQztfi4",
-      "slug": "let-ai-autogenerate-neural-asr-rules-for-ot-attacks-via-nlp",
-      "title": "Let AI Autogenerate Neural ASR Rules for OT Attacks via NLP",
-      "speakers": [
-        "Mars Cheng",
-        "Jr Wei-Huang"
-      ],
-      "track": "ai-security",
-      "topics": [
-        "ai-security",
-        "ics-ot",
-        "machine-learning",
-        "detection-engineering",
-        "malware"
-      ],
-      "teaser": "Introduces Suspicious2Vec, an NLP-based multimodal AI model that establishes baseline industrial operations to generate neural attack surface reduction rules.",
-      "summary": "Living-Off-the-Land Attacks in Industrial Networks\n\nSophisticated threat actors targeting industrial control systems (such as Sandworm in Ukraine) routinely abuse benign OT-specific protocols, LOLBins, and native engineering utilities to evade conventional EDR detection.\n\nSuspicious2Vec: Multimodal AI for Industrial Baselines\n\nMars Cheng and Jr Wei-Huang present Suspicious2Vec, an NLP-inspired multimodal AI framework that learns contextual baselines of normal factory operations by converting industrial system behaviors into numerical vector embeddings.\n\nAutogenerating Neural Attack Surface Reduction Rules\n\nTrained on a massive dataset of 2,000,000 operational events and malware profiles from VirusTotal, the model autogenerates neural Attack Surface Reduction (ASR) rules that accurately differentiate benign operational anomalies from malicious Living-Off-the-Land techniques.\n\nValidation on Factory Environments\n\nDeploying Suspicious2Vec across operational manufacturing plants successfully detected 12 novel variant OT malware strains across more than 52,000 program files with minimal false positives.",
-      "durationSeconds": 1324
-    },
-    {
       "youtubeId": "SJ-kfVUoENk",
       "slug": "the-powerpoint-glove",
       "title": "The PowerPoint Glove",
@@ -1605,25 +1451,6 @@
       "teaser": "Walks through hacking the retro NES Power Glove with an ESP32 microcontroller to build a custom Bluetooth presentation controller.",
       "summary": "Hacking Retro Gaming Accessories\n\nThe iconic Nintendo Power Glove, released for the NES in 1989, remains a beloved cult accessory. Modern microcontrollers allow enthusiasts to repurpose its sensors for practical computing tasks.\n\nReverse Engineering the NES Controller Protocol\n\nParsia Hakimian breaks down the proprietary shift register communication protocol used by the original NES controller port, explaining how flex sensors and keypad buttons report physical state.\n\nInterfacing with the ESP32 Microcontroller\n\nWiring the Power Glove to an ESP32 development board enables reading button scancodes and flex sensor resistance in real time, translating gestures and button presses into standard HID keyboard commands.\n\nBuilding a Wireless Bluetooth Presentation Tool\n\nConfiguring the ESP32 as a Bluetooth HID device turns the Power Glove into an interactive PowerPoint remote controller, demonstrating accessible microcontroller hacking for conference presentations.",
       "durationSeconds": 1402
-    },
-    {
-      "youtubeId": "S7mPcEPaKHU",
-      "slug": "intro-to-common-industrial-protocol-exploitation",
-      "title": "Intro to Common Industrial Protocol Exploitation",
-      "speakers": [
-        "Trevor Flynn"
-      ],
-      "track": "ics-ot",
-      "topics": [
-        "ics-ot",
-        "cip",
-        "protocols",
-        "vulnerability-research",
-        "hardware"
-      ],
-      "teaser": "Introduces the fundamentals of the Common Industrial Protocol (CIP) used in factory automation and demonstrates techniques for industrial protocol testing.",
-      "summary": null,
-      "durationSeconds": 1404
     },
     {
       "youtubeId": "JPCKg_3XLP8",
@@ -1739,25 +1566,6 @@
       "teaser": "Investigates retail returns sanitization, proving that modified IoT firmware persists across store resales and creates supply chain backdoor vectors.",
       "summary": "Supply Chain Vulnerabilities in Returned Retail Electronics\n\nConsumer electronics retailers routinely process returned smart home devices and resell them as open-box or refurbished goods. However, retailer sanitization and reset procedures are rarely audited for cybersecurity risks.\n\nExperimental Methodology: Planting Custom Firmware\n\nMatei Jose purchased commercial IoT devices from major retail stores, flashed custom firmware embedding a persistent callback beacon, and returned the products following standard return procedures.\n\nPersistence Across Retail Restocking Pipelines\n\nRepurchasing the returned items revealed that major retailers failed to properly wipe or reflash device firmware, allowing custom backdoor firmware to remain fully intact and operational.\n\nRisks of Retail Supply Chain Implants\n\nThis sanitization failure creates a viable attack vector for adversaries to deploy persistent IoT botnet implants, exfiltration tools, or surveillance backdoors directly into consumer supply chains.\n\nMitigation Strategies for Manufacturers and Retailers\n\nAddressing retail supply chain persistence requires manufacturers to implement cryptographic firmware attestation, enforce hardware-level factory reset fuses, and mandate automated retailer device sanitization.",
       "durationSeconds": 1735
-    },
-    {
-      "youtubeId": "-ElW725i8z4",
-      "slug": "critically-neglected-cybersecurity-for-buildings",
-      "title": "Critically Neglected: Cybersecurity for buildings",
-      "speakers": [
-        "Thomas Pope"
-      ],
-      "track": "ics-ot",
-      "topics": [
-        "critical-infrastructure",
-        "building-automation",
-        "ics-ot",
-        "access-control",
-        "network-security"
-      ],
-      "teaser": "Explores systemic cybersecurity vulnerabilities in building management systems, HVAC controls, and physical facility automation networks.",
-      "summary": "The Overlooked Landscape of Building Automation\n\nModern commercial facilities rely on Building Management Systems (BMS) to control HVAC systems, power distribution, fire suppression, and physical access. These automation systems are frequently deployed with minimal cybersecurity oversight.\n\nInsecure Protocols in Facility Automation\n\nProtocols like BACnet, Modbus, and LonWorks were designed decades ago without authentication or encryption. When building automation networks are connected to corporate IT or exposed to the internet, attackers can manipulate physical environmental controls.\n\nCase Studies of Building Compromises\n\nThomas Pope reviews real-world security assessments where compromised HVAC controllers allowed attackers to pivot into corporate subnets, manipulate datacenter cooling, or trigger physical facility lockouts.\n\nHardening Facility Control Systems\n\nSecuring building automation requires isolating BMS networks from corporate IT, deploying protocol-aware firewalls, disabling unneeded remote management portals, and establishing strict vendor maintenance access controls.",
-      "durationSeconds": 1393
     },
     {
       "youtubeId": "o6-H-3Sx6i0",
