@@ -18,7 +18,7 @@
         "threat-intel",
         "appsec"
       ],
-      "teaser": "Defending Election Security A National Security Priority",
+      "teaser": "Election security as a national security priority: threats, vulnerabilities, and defensive strategies.",
       "summary": null,
       "durationSeconds": 2731
     },
@@ -27,7 +27,7 @@
       "slug": "neal-kelley-and-panel",
       "title": "State, Local Perspectives on Election Security",
       "speakers": [
-        "Neal Kelley and Panel"
+        "Neal Kelley"
       ],
       "track": "policy",
       "topics": [
@@ -35,7 +35,7 @@
         "threat-intel",
         "appsec"
       ],
-      "teaser": "State, Local Perspectives on Election Security",
+      "teaser": "State and local perspectives on securing election systems and managing election security risks.",
       "summary": null,
       "durationSeconds": 3333
     },
@@ -52,7 +52,7 @@
         "threat-intel",
         "appsec"
       ],
-      "teaser": "Lightning Talk A Crash Course on Election Security",
+      "teaser": "Rapid overview of election security fundamentals, risks, and key security concepts.",
       "summary": null,
       "durationSeconds": 727
     },
@@ -69,7 +69,7 @@
         "appsec",
         "threat-intel"
       ],
-      "teaser": "Mechanics and Pitfalls of Auditing with Scanners",
+      "teaser": "Challenges and methodologies for auditing voting systems using security scanning tools.",
       "summary": null,
       "durationSeconds": 599
     },
@@ -86,7 +86,7 @@
         "privacy",
         "threat-intel"
       ],
-      "teaser": "Trustworthy Elections",
+      "teaser": "Building trustworthy election systems through security principles and verification methods.",
       "summary": null,
       "durationSeconds": 1647
     },
@@ -103,7 +103,7 @@
         "threat-intel",
         "appsec"
       ],
-      "teaser": "Recap of Voting Village 2017  Lessons Learned",
+      "teaser": "Summary of voting security research from 2017 and key lessons for future election security.",
       "summary": null,
       "durationSeconds": 2525
     },
@@ -120,7 +120,7 @@
         "threat-intel",
         "privacy"
       ],
-      "teaser": "Election Security Threats and Solutions",
+      "teaser": "Overview of election security threats facing voting systems and practical security solutions.",
       "summary": null,
       "durationSeconds": 1639
     },
@@ -137,7 +137,7 @@
         "hardware",
         "threat-intel"
       ],
-      "teaser": "Return of Software Vulns in Brazilian Voting Machines",
+      "teaser": "Analysis of software vulnerabilities and security issues in Brazilian electronic voting machines.",
       "summary": null,
       "durationSeconds": 1518
     },
@@ -154,7 +154,7 @@
         "hardware",
         "blue-team"
       ],
-      "teaser": "A Comprehensive Forensic Analysis of WINVote Voting",
+      "teaser": "Detailed forensic analysis of security vulnerabilities and design flaws in WINVote voting machines.",
       "summary": null,
       "durationSeconds": 1480
     }
