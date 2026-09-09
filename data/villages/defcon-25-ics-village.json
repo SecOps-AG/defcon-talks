@@ -8,17 +8,19 @@
     {
       "youtubeId": "A_B69Rifu1g",
       "slug": "arnaud-soullie-fun-with-modbus-0x5a-nothing-new-still-relevant",
-      "title": "Fun with Modbus 0x5a   Nothing New  Still Relevant?",
+      "title": "Fun with Modbus 0x5a: Nothing New, Still Relevant?",
       "speakers": [
-        "Arnaud Soullie\u0301"
+        "Arnaud Soullie"
       ],
-      "track": "ics-ot",
+      "track": "red-team",
       "topics": [
-        "threat-intel",
-        "appsec",
-        "blue-team"
+        "modbus",
+        "ics-protocols",
+        "industrial-systems",
+        "vulnerability-research",
+        "critical-infrastructure"
       ],
-      "teaser": "Fun with Modbus 0x5a   Nothing New  Still Relevant?",
+      "teaser": "Historical analysis of Modbus protocol vulnerabilities and their continued relevance to modern ICS systems.",
       "summary": null,
       "durationSeconds": 1451
     },
@@ -29,30 +31,35 @@
       "speakers": [
         "Blake Johnson"
       ],
-      "track": "ics-ot",
+      "track": "red-team",
       "topics": [
-        "ics-ot",
-        "threat-intel",
-        "appsec"
+        "industrial-wireless",
+        "ics-security",
+        "wireless-protocols",
+        "reverse-engineering",
+        "exploitation"
       ],
-      "teaser": "Dissecting Industrial Wireless Implementations",
+      "teaser": "Analysis of wireless communication implementations in industrial control systems and their security implications.",
       "summary": null,
       "durationSeconds": 1908
     },
     {
       "youtubeId": "y0fHJiDWLPs",
       "slug": "bryson-bort-atlas-grid-insecurity-and-how-to-really-fix-this-shi",
-      "title": "Grid Insecurity and How to Really Fix This Shit",
+      "title": "Grid Insecurity and How to Really Fix This",
       "speakers": [
-        "Bryson Bort, Atlas"
+        "Bryson Bort",
+        "Atlas"
       ],
-      "track": "ics-ot",
+      "track": "policy",
       "topics": [
-        "ics-ot",
-        "threat-intel",
-        "appsec"
+        "power-grid",
+        "critical-infrastructure",
+        "security-solutions",
+        "energy-sector",
+        "resilience"
       ],
-      "teaser": "Grid Insecurity and How to Really Fix This Shit",
+      "teaser": "Critical vulnerabilities in electrical grid infrastructure and practical solutions for improving security and resilience.",
       "summary": null,
       "durationSeconds": 1891
     },
@@ -63,13 +70,15 @@
       "speakers": [
         "Chris Sistrunk"
       ],
-      "track": "ics-ot",
+      "track": "blue-team",
       "topics": [
-        "ics-ot",
-        "blue-team",
-        "threat-intel"
+        "dfir",
+        "forensics",
+        "incident-response",
+        "industrial-systems",
+        "evidence-collection"
       ],
-      "teaser": "What's the DFIRence for ICS",
+      "teaser": "Digital forensics and incident response techniques specific to industrial control systems environments.",
       "summary": null,
       "durationSeconds": 1815
     },
@@ -80,13 +89,15 @@
       "speakers": [
         "Joe Weiss"
       ],
-      "track": "ics-ot",
+      "track": "red-team",
       "topics": [
-        "threat-intel",
-        "appsec",
-        "blue-team"
+        "device-security",
+        "ics-vulnerabilities",
+        "sensor-networks",
+        "actuator-security",
+        "edge-devices"
       ],
-      "teaser": "Cyber Security Issues with Level 0 through 1 Devices",
+      "teaser": "Security vulnerabilities and threats affecting the lowest levels of industrial control device hierarchies.",
       "summary": null,
       "durationSeconds": 2206
     },
@@ -97,13 +108,15 @@
       "speakers": [
         "Thomas Brandsetter"
       ],
-      "track": "ics-ot",
+      "track": "red-team",
       "topics": [
-        "threat-intel",
-        "ics-ot",
-        "appsec"
+        "building-automation",
+        "hvac-systems",
+        "bms-security",
+        "network-vulnerabilities",
+        "exploitation"
       ],
-      "teaser": "InSecurity in Building Automation",
+      "teaser": "Security vulnerabilities and attack vectors in building automation and management systems.",
       "summary": null,
       "durationSeconds": 1805
     }
