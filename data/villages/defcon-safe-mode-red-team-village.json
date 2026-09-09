@@ -1036,6 +1036,25 @@
       "teaser": "Chris Kubecka covers the basics of hacking industrial IoT, SCADA networks, and critical infrastructure, demonstrating protocol weaknesses and physical impacts.",
       "summary": "The Vulnerable Foundation of Modern Infrastructure\n\nCritical utilities, maritime operations, and manufacturing plants rely on connected industrial IoT and legacy SCADA systems designed before modern cyber threats existed.\n\nDiscovering and Fingerprinting Exposed Industrial Devices\n\nChris Kubecka demonstrates using specialized search engines (Shodan, Censys) to locate exposed PLCs, building automation systems, and satellite communication terminals.\n\nExploiting Insecure Industrial Protocols (Modbus, BACnet, DNP3)\n\nThe speaker illustrates how cleartext industrial protocols lacking authentication allow remote attackers to inject control commands and alter sensor telemetry.\n\nBridging the Gap Between Engineering Safety and Cyber Defense\n\nThe presentation emphasizes the urgent need for OT-specific security controls, air-gapping verification, and collaborative engineering safety standards.",
       "durationSeconds": 3446
+    },
+    {
+      "youtubeId": "WD--zLozFOI",
+      "slug": "safe-mode-red-team-village-ibad-shah-from-discovery-to-disclosure",
+      "title": "From Discovery to Disclosure: Securing Android Applications at Scale",
+      "speakers": [
+        "Ibad Shah"
+      ],
+      "track": "mobile",
+      "topics": [
+        "android",
+        "mobile-security",
+        "vulnerability-disclosure",
+        "responsible-disclosure",
+        "appsec"
+      ],
+      "teaser": "Ibad Shah shares the journey of discovering critical flaws in a million-user Android app, navigating vendor communication, and executing coordinated vulnerability disclosure.",
+      "summary": "Vulnerability Discovery in Large-Scale Android Apps\n\nWhen auditing an Android application with over 1.5 million downloads, security researcher Ibad Shah discovered flaws that compromised premium feature controls and user data.\n\nTechnical Flaws in Mobile Application Architecture\n\nShah analyzes the decompiled APK, demonstrating client-side validation bypasses, insecure local data storage, and improper authorization checks communicating with backend APIs.\n\nThe Challenges of Responsible Vulnerability Disclosure\n\nFinding vulnerabilities is often easier than finding the right point of contact; the speaker details navigating organizational hierarchies, legal hurdles, and vendor responsiveness.\n\nBest Practices for Researchers and Organizations\n\nThe presentation offers actionable advice for bug hunters approaching vendors professionally, alongside guidance for development teams to establish clear vulnerability disclosure programs.",
+      "durationSeconds": 900
     }
   ]
 }
