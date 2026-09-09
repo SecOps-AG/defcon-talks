@@ -65,6 +65,26 @@
       "durationSeconds": 2518
     },
     {
+      "youtubeId": "zZurduFDuPk",
+      "slug": "amdsinkclose-universal-ring2-privilege-escalation",
+      "title": "AMDSinkclose - Universal Ring2 Privilege Escalation",
+      "speakers": [
+        "Enrique Nissim",
+        "Krzysztof Okupski"
+      ],
+      "track": "hardware",
+      "topics": [
+        "amd",
+        "smm",
+        "privilege-escalation",
+        "firmware",
+        "hardware"
+      ],
+      "teaser": "Enrique Nissim and Krzysztof Okupski disclose AMDSinkclose, a vulnerability allowing Ring -2 execution and System Management Mode takeover across millions of AMD processors.",
+      "summary": null,
+      "durationSeconds": 2668
+    },
+    {
       "youtubeId": "gHqDEMrqTjE",
       "slug": "counter-deception-defending-yourself-in-a-world-full-of-lies",
       "title": "Counter Deception: Defending Yourself in a World Full of Lies",
