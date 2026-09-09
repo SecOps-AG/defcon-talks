@@ -111,6 +111,14 @@
       "year": 2012,
       "dates": "26-29 July 2012",
       "location": "The Rio Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-19",
+      "name": "DEF CON 19",
+      "shortName": "DC19",
+      "year": 2011,
+      "dates": "4-7 August 2011",
+      "location": "The Rio Hotel & Casino, Las Vegas"
     }
   ]
 }
