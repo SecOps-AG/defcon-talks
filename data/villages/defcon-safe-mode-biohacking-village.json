@@ -356,7 +356,7 @@
       "slug": "making-next-generation-drugs-at-home",
       "title": "Making Next Generation Drugs at Home",
       "speakers": [
-        "Mix\u00e6l Laufer"
+        "Mixæl Laufer"
       ],
       "track": "community",
       "topics": [
@@ -523,6 +523,28 @@
       "teaser": "Seth Carmody examines the structural, economic, and regulatory obstacles to achieving effective cybersecurity across the medical device ecosystem.",
       "summary": "Understanding Inherent Complexities in Healthcare\n\nFormer FDA cybersecurity strategist Seth Carmody explores why securing healthcare environments and medical technology remains notoriously challenging compared to other sectors.\n\nRegulatory Frameworks and Market Incentives\n\nThe presentation examines how economic constraints, legacy clinical infrastructure, and lengthy regulatory approval cycles create unique hurdles for vulnerability remediation.\n\nPragmatic Approaches to Product Security\n\nCarmody outlines realistic paths forward for manufacturers and healthcare delivery organizations to align safety, usability, and proactive security engineering.",
       "durationSeconds": 1398
+    },
+    {
+      "youtubeId": "RF3BNmyv9vs",
+      "slug": "safe-mode-biohacking-village-vulnerability-disclosure-panel",
+      "title": "Vulnerability Disclosure Panel: Healing the Healthcare Immune System",
+      "speakers": [
+        "Chloe Messdaghi",
+        "Eric",
+        "Casey Ellis"
+      ],
+      "track": "policy",
+      "topics": [
+        "vulnerability-disclosure",
+        "disclose-io",
+        "biohacking",
+        "healthcare",
+        "cfaa",
+        "dmca"
+      ],
+      "teaser": "Chloe Messdaghi, Eric, and Bugcrowd founder Casey Ellis discuss the legal perils and necessity of coordinated vulnerability disclosure in healthcare, introducing the disclose.io project.",
+      "summary": "The Legal Chill Over Medical Vulnerability Research\n\nDespite good faith efforts by security researchers to discover flaws in healthcare technology, legacy legal statutes like the CFAA and DMCA Section 1201 create severe chilling effects.\n\nThe Reality of Hospital Asset and Vulnerability Management\n\nPanelists examine operational vulnerabilities within healthcare networks, from absent device inventories to unpatched clinical systems where uptime and patient availability supersede security maintenance.\n\nStandardizing Vulnerability Disclosure with disclose.io\n\nCasey Ellis outlines the evolution of disclose.io, an open-source initiative providing standardized, legally protective vulnerability disclosure program (VDP) terms and safe harbor language.\n\nFostering an Internet Immune System for Healthcare\n\nThe panel outlines practical steps for hospitals, medical device manufacturers, and security researchers to establish trust, streamline triage, and protect clinical patient safety.",
+      "durationSeconds": 2910
     }
   ]
 }
