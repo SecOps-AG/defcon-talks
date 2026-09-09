@@ -406,6 +406,192 @@
       "teaser": "Threat analysis using defensive AI and machine learning.",
       "summary": null,
       "durationSeconds": 1516
+    },
+    {
+      "youtubeId": "i_6YSQdq-K0",
+      "slug": "guo-cuevas-recent-progress-in-adversarial-deep-learning",
+      "title": "Recent Progress in Adversarial Deep Learning",
+      "speakers": [
+        "Guo",
+        "Cuevas"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-machine-learning",
+        "deep-learning",
+        "evasion",
+        "ai-security"
+      ],
+      "teaser": "An overview of recent progress and developments in adversarial deep learning attacks and defenses.",
+      "summary": null,
+      "durationSeconds": 1118
+    },
+    {
+      "youtubeId": "gcrqC7M5uec",
+      "slug": "zhao-zhao-adversarial-2-training",
+      "title": "Adversarial Training",
+      "speakers": [
+        "Zhao",
+        "Zhao"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-machine-learning",
+        "deep-learning",
+        "model-hardening",
+        "ai-defense"
+      ],
+      "teaser": "Techniques and empirical results in adversarial training for hardening neural network models against evasion.",
+      "summary": null,
+      "durationSeconds": 693
+    },
+    {
+      "youtubeId": "ttmm2yo74z8",
+      "slug": "moustafa-alzantot-yash-sharma-practical-adversarial-attacks",
+      "title": "Practical Adversarial Attacks",
+      "speakers": [
+        "Moustafa Alzantot",
+        "Yash Sharma"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-machine-learning",
+        "black-box-attacks",
+        "evasion",
+        "ai-security"
+      ],
+      "teaser": "Practical black-box and gradient-free adversarial attack methodologies against machine learning systems.",
+      "summary": null,
+      "durationSeconds": 1959
+    },
+    {
+      "youtubeId": "ofPPObIXdpI",
+      "slug": "rohan-taori-ameya-kamsetty-targeted-adversarial-examples-for-black-box-audio",
+      "title": "Targeted Adversarial Examples for Black Box Audio",
+      "speakers": [
+        "Rohan Taori",
+        "Ameya Kamsetty"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-machine-learning",
+        "audio-processing",
+        "speech-recognition",
+        "black-box-attacks"
+      ],
+      "teaser": "Generating targeted adversarial perturbation examples against black-box automated speech recognition systems.",
+      "summary": null,
+      "durationSeconds": 1303
+    },
+    {
+      "youtubeId": "iUwQjm8x-5w",
+      "slug": "weilin-xu-the-vanishing-trick-for-self-driving-cars",
+      "title": "The Vanishing Trick for Self-Driving Cars",
+      "speakers": [
+        "Weilin Xu and Panel"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-machine-learning",
+        "autonomous-vehicles",
+        "computer-vision",
+        "object-detection"
+      ],
+      "teaser": "Adversarial physical and digital perturbations that make objects disappear from autonomous driving perception models.",
+      "summary": null,
+      "durationSeconds": 1650
+    },
+    {
+      "youtubeId": "__5H-MopPts",
+      "slug": "li-jiao-how-to-leverage-the-open-source-information",
+      "title": "How to Leverage the Open Source Information",
+      "speakers": [
+        "Li",
+        "Jiao"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "osint",
+        "open-source-intelligence",
+        "adversarial-machine-learning",
+        "reconnaissance"
+      ],
+      "teaser": "Leveraging open-source intelligence and public datasets for security research and AI model analysis.",
+      "summary": null,
+      "durationSeconds": 2236
+    },
+    {
+      "youtubeId": "SDg5FzTvyPM",
+      "slug": "zhuang-zhang-weapons-for-dog-fight-adapting-malware",
+      "title": "Weapons for Dog Fight: Adapting Malware",
+      "speakers": [
+        "Zhuang Zhang and Panel"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "malware-analysis",
+        "adversarial-machine-learning",
+        "evasion",
+        "ai-security"
+      ],
+      "teaser": "Adapting and mutating malware samples using adversarial techniques to bypass machine-learning antivirus detectors.",
+      "summary": null,
+      "durationSeconds": 1378
+    },
+    {
+      "youtubeId": "Pu2WQnU0GzA",
+      "slug": "xingxing-wei-boosting-adversarial-attacks-with-momentum",
+      "title": "Boosting Adversarial Attacks with Momentum",
+      "speakers": [
+        "Xingxing Wei and Panel"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-machine-learning",
+        "gradient-descent",
+        "evasion",
+        "computer-vision"
+      ],
+      "teaser": "Accelerating and stabilizing adversarial perturbation generation using momentum-based gradient optimization.",
+      "summary": null,
+      "durationSeconds": 1048
+    },
+    {
+      "youtubeId": "BIpz4n0RWO4",
+      "slug": "hou-zhou-transferable-adversarial-perturbations",
+      "title": "Transferable Adversarial Perturbations",
+      "speakers": [
+        "Hou",
+        "Zhou"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "adversarial-machine-learning",
+        "transferability",
+        "black-box-attacks",
+        "evasion"
+      ],
+      "teaser": "Creating transferable adversarial perturbations that reliably fool multiple disparate machine learning architectures.",
+      "summary": null,
+      "durationSeconds": 592
+    },
+    {
+      "youtubeId": "0At0g4IIbAQ",
+      "slug": "joseph-clements-hardware-trojan-attacks-on-neural-networks",
+      "title": "Hardware Trojan Attacks on Neural Networks",
+      "speakers": [
+        "Joseph Clements"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "hardware-trojans",
+        "neural-networks",
+        "hardware-security",
+        "ai-security"
+      ],
+      "teaser": "Designing hardware trojan exploits embedded directly into neural network accelerator silicon and hardware.",
+      "summary": null,
+      "durationSeconds": 1478
     }
   ]
 }
