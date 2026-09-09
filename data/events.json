@@ -183,6 +183,14 @@
       "year": 2003,
       "dates": "1-3 August 2003",
       "location": "Alexis Park Resort, Las Vegas"
+    },
+    {
+      "slug": "defcon-10",
+      "name": "DEF CON 10",
+      "shortName": "DC10",
+      "year": 2002,
+      "dates": "2-4 August 2002",
+      "location": "Alexis Park Resort, Las Vegas"
     }
   ]
 }
