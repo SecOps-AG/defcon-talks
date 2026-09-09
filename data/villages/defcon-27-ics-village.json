@@ -14,7 +14,10 @@
       ],
       "track": "red-team",
       "topics": [
-        "ics"
+        "ics",
+        "ics-security",
+        "critical-infrastructure",
+        "threat-research"
       ],
       "teaser": "IP packet manipulation techniques for network-based attacks on industrial systems.",
       "summary": null,
