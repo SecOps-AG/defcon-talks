@@ -2002,6 +2002,24 @@
       "slug": "owning-one-to-rule-them-all",
       "summary": "Architecture and Background\n\n(Original music copyrighted hollaback girl (bananas) by No Doubt, was replaced) Owning One to Rule Them All Dave Kennedy Chief Security Officer Dave DeSimone Manager, Information Security As penetration testers, we often try to impact an organization as efficient and effective as we can to simulate an attack on an organization. What if you could own one system to own them all?\n\nVulnerability Analysis\n\nThat's it, one system. It's all you need, it's in every company, and as soon as you compromise it, the rest fall (no not a domain controller).\n\nExploitation and Demonstrations\n\nThis presentation will cover a recent penetration test where I came up with a unique avenue to getting over 13,000 shells in just a few minutes by popping one server. I'll be releasing some custom tools to make this simplistic and automate the majority of what was used on this attack.\n\nRemediation and Defensive Strategies\n\nLet's pop a box. Full Bios available here:",
       "durationSeconds": 2389
+    },
+    {
+      "youtubeId": "fpnlximK22w",
+      "slug": "official-documentary-preview-and-discussion",
+      "title": "Official Documentary Preview and Discussion",
+      "speakers": [
+        "Jason Scott"
+      ],
+      "track": "community",
+      "topics": [
+        "documentary",
+        "hacker-culture",
+        "hacker-history",
+        "community"
+      ],
+      "teaser": "Filmmaker Jason Scott previews work-in-progress footage and shares behind-the-scenes stories from the upcoming DEF CON 20th anniversary documentary.",
+      "summary": "Architecture and Background\n\nIn honor of the 20th anniversary of DEF CON, filmmaker and digital archivist Jason Scott of textfiles.com took the stage at DEF CON 20 to present an exclusive preview of the official DEF CON Documentary.\n\nVulnerability Analysis\n\nScott discusses the challenges of capturing the authentic culture and ethos of the hacker community on film, contrasting sensationalist media portrayals with the reality of DEF CON attendees, goons, and organizers.\n\nExploitation and Demonstrations\n\nThe presentation features work-in-progress screening footage and behind-the-scenes stories from filming throughout the conference, documenting everything from lockpicking and badge hacking to late-night hotel lore.\n\nRemediation and Defensive Strategies\n\nScott answers attendee questions about independent filmmaking, archiving computer history, and the mission to document and preserve hacker culture for future generations.",
+      "durationSeconds": 1477
     }
   ]
 }
