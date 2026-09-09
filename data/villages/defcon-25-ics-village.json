@@ -40,7 +40,7 @@
         "exploitation"
       ],
       "teaser": "Analysis of wireless communication implementations in industrial control systems and their security implications.",
-      "summary": null,
+      "summary": "Industrial Control: Dissecting Industrial Wireless Implementations. Critical infrastructure security and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1908
     },
     {
@@ -79,7 +79,7 @@
         "evidence-collection"
       ],
       "teaser": "Digital forensics and incident response techniques specific to industrial control systems environments.",
-      "summary": null,
+      "summary": "Industrial Control: What's the DFIRence for ICS. Critical infrastructure security and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1815
     },
     {
@@ -117,7 +117,7 @@
         "exploitation"
       ],
       "teaser": "Security vulnerabilities and attack vectors in building automation and management systems.",
-      "summary": null,
+      "summary": "Industrial Control: InSecurity in Building Automation. Critical infrastructure security and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1805
     }
   ]

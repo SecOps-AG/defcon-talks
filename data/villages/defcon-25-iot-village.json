@@ -36,7 +36,7 @@
         "community"
       ],
       "teaser": "A year ago, Mudge and I introduced the non-profit Cyber ITL at DEF CON and its approach to automated software safety analysis. Now, we'll be covering highlights from the past year's research findings, including our in...",
-      "summary": null,
+      "summary": "IoT Security: CITL and the Digital Standard: A Year Later. Internet of Things device and system vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2253
     },
     {
@@ -70,7 +70,7 @@
         "wireless"
       ],
       "teaser": "When you learned that military and law enforcement agencies had trained screaming eagles to pluck drones from the sky, did you too find yourself asking: \"I wonder if I could throw these eagles off my tail, maybe by de...",
-      "summary": null,
+      "summary": "IoT Security: Putting the Emerging Drone Defense Market to the Test. Internet of Things device and system vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2557
     },
     {
@@ -108,7 +108,7 @@
         "weak-credentials"
       ],
       "teaser": "Currently, all known IoT botnets harvest zombies through telnet with hardcoded or weak credentials. Once this bubble bursts, the next step will be exploiting other, more evolved vulnerabilities that can provide contro...",
-      "summary": null,
+      "summary": "IoT Security: IoT: The Gift That Keeps on Giving. Internet of Things device and system vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2527
     },
     {
@@ -143,7 +143,7 @@
         "community"
       ],
       "teaser": "The FTC recently conducted a challenge competition aimed at facilitating security updates to home IoT devices. We'll share what we've learned from the challenge, and we hope to announce the winner. We will also give a...",
-      "summary": null,
+      "summary": "IoT Security: IoT Updates to Help Protect Consumers. Internet of Things device and system vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1517
     },
     {
@@ -178,7 +178,7 @@
         "medical-devices"
       ],
       "teaser": "The Infusion Pumps Market is expected to be worth $10.84 Billion USD by 2021 per \"Market and Markets\" forecast. The Infusion Pump is a costly and sensitive medical device used to deliver fluids, medications, blood and...",
-      "summary": null,
+      "summary": "Medical Device: Inside the Alaris Infusion Pump. Healthcare device security and exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1906
     },
     {
@@ -213,7 +213,7 @@
         "industrial-iot"
       ],
       "teaser": "This topic covers researches made by Critical Infrastructure Defense Team, Kaspersky Lab regarding vast variety of different serious vulnerabilities in popular wanna-be-smart industrial control systems. We found 80+ 0...",
-      "summary": null,
+      "summary": "IoT Security: Pwning the Industrial IoT. Internet of Things device and system vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1370
     },
     {
@@ -249,7 +249,7 @@
         "cryptography"
       ],
       "teaser": "Disclosing vulnerabilities to a vendor, especially one that doesn't seem to prioritize security the same way we do, can be a source of pain. We may even find ourselves viewing the product vendor as an enemy during thi...",
-      "summary": null,
+      "summary": "Research: Rethinking the Researcher-Vendor Relationship. Security research methodologies and findings.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1457
     },
     {

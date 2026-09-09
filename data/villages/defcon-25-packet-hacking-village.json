@@ -38,7 +38,7 @@
         "risk-management"
       ],
       "teaser": "Strategies for communicating security incidents and breaches to stakeholders, media, and the public.",
-      "summary": null,
+      "summary": "Network Security: Breaking the Bad News. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2692
     },
     {
@@ -76,7 +76,7 @@
         "red-teaming"
       ],
       "teaser": "Techniques for evading detection when targeted by domain admin hunters during red team engagements.",
-      "summary": null,
+      "summary": "Network Security: Fooling the Hound  Deceiving Doman Admin Hunters. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2095
     },
     {
@@ -114,7 +114,7 @@
         "lessons-learned"
       ],
       "teaser": "Deep analysis of the OPM breach\u2014what went wrong, how attackers exploited systemic vulnerabilities, and key lessons.",
-      "summary": null,
+      "summary": "Network Security: Demystifying The OPM breach, WTF Really Happened. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3274
     },
     {
@@ -152,7 +152,7 @@
         "man-in-the-middle"
       ],
       "teaser": "Explore DNS-based attack vectors that cause users to connect to attacker-controlled domains instead of intended targets.",
-      "summary": null,
+      "summary": "Network Security: You're Going to Connect to the Wrong Domain Name. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1384
     },
     {
@@ -190,7 +190,7 @@
         "command-and-control"
       ],
       "teaser": "Innovative covert TCP techniques for hiding malicious traffic and establishing undetectable command-and-control channels.",
-      "summary": null,
+      "summary": "Network Security: Covert TCP with a Twist. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3369
     },
     {
@@ -228,7 +228,7 @@
         "security-culture"
       ],
       "teaser": "How neurodivergent perspectives strengthen security operations and improve team effectiveness in incident response.",
-      "summary": null,
+      "summary": "Research: Strengthen Secops  By Leveraging Neurodiversity. Security research methodologies and findings.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 993
     },
     {
@@ -266,7 +266,7 @@
         "threat-detection"
       ],
       "teaser": "Strategies for gaining complete visibility into network traffic and data flows to detect suspicious activity.",
-      "summary": null,
+      "summary": "Data Analytics: Iron Sights for Your Data. Security analytics and data analysis.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1365
     },
     {
@@ -304,7 +304,7 @@
         "network-performance"
       ],
       "teaser": "Evolution of high-speed packet processing technology\u2014from historical methods to modern security infrastructure.",
-      "summary": null,
+      "summary": "Network Security: Past, Present and Future of High Speed Packet. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1217
     },
     {
@@ -342,7 +342,7 @@
         "incident-planning"
       ],
       "teaser": "Move beyond tabletop exercises to conduct realistic incident response drills that test actual security procedures.",
-      "summary": null,
+      "summary": "Incident Response: Go Beyond Tabletop Scenarios. Incident handling and response planning.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3467
     },
     {
@@ -380,7 +380,7 @@
         "vulnerability-management"
       ],
       "teaser": "Deep dive into the CVE identification and disclosure process\u2014how vulnerabilities are cataloged and standardized.",
-      "summary": null,
+      "summary": "Vulnerability Disclosure: CVE IDs. CVE processes and vulnerability management.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2800
     },
     {
@@ -418,7 +418,7 @@
         "forensic-investigation"
       ],
       "teaser": "Visual forensics techniques for analyzing network traffic and file systems to reconstruct attack timelines.",
-      "summary": null,
+      "summary": "Forensics: Visual Network and File Forensics. Network and file system forensic techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1738
     }
   ]
