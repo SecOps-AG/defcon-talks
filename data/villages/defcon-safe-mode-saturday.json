@@ -2,446 +2,143 @@
   "villageSlug": "saturday",
   "villageName": "Saturday",
   "eventSlug": "defcon-safe-mode",
-  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCJ1vIPqqSbSWrGVhfKIEVv",
-  "description": "DEF CON Safe Mode Saturday Village Talks feature security research and hacking demonstrations across villages and track areas released on Saturday.",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDRwPhSwjUFL3u8_E6BB2Tf",
+  "description": "DEF CON Safe Mode Saturday presentations.",
   "talks": [
     {
-      "youtubeId": "10HOjNU_X0M",
-      "slug": "safe-mode-biohacking-village-mo-ali-amy-abernethy",
-      "title": "Safe Mode Biohacking Village - Mo Ali, Amy Abernethy",
+      "youtubeId": "RvABLQpiZks",
+      "slug": "after-stuxnet-printing-still-the-stairway-to-heaven",
+      "title": "After Stuxnet Printing still the Stairway to Heaven",
       "speakers": [
-        "Fireside Chat"
+        "Peleg Hadar and Tomer Bar"
       ],
-      "track": "red-team",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "Discussions around: \n- Intersection of big data and patient rights\n- Real World Data and how to best serve patients in the digital era\n- Cybersecurity risk for medical devices\n- How FDA is working with security researche",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 985
+      "durationSeconds": 1877
     },
     {
-      "youtubeId": "kuC-fET2CWg",
-      "slug": "safe-mode-biohacking-village-katie-doroschak-porcupine-rapid-rob",
-      "title": "Safe Mode Biohacking Village - Katie Doroschak - Porcupine: Rapid robust tagging with DNA",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "Molecular tagging is an approach to labeling physical objects using DNA or other molecules that can be used in cases where methods like RFID tags and QR codes are not suitable.",
-      "summary": null,
-      "durationSeconds": 1249
-    },
-    {
-      "youtubeId": "8bn6U_nKNck",
-      "slug": "safe-mode-biohacking-village-michelle-holko-digital-health-tech",
-      "title": "Safe Mode Biohacking Village - Michelle Holko - Digital Health Tech in NIH All of Us",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "The National Institutes of Health’s (NIH) All of Us Research Program (AoURP) aims to enroll at least one million US participants from diverse backgrounds; collect electronic health record (EHR) data, survey data, physica",
-      "summary": null,
-      "durationSeconds": 1787
-    },
-    {
-      "youtubeId": "392E9v28X2c",
-      "slug": "safe-mode-biohacking-village-khatuna-mshvidobadze-russian-cyber",
-      "title": "Safe Mode Biohacking Village - Khatuna Mshvidobadze - Russian Cyber Threats in Pandemic Era",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "Russia has seized upon the global Covid-19 pandemic as an opportunity to use its multifaceted, multidirectional information and cyberwarfare strategy against its prospective enemies.",
-      "summary": null,
-      "durationSeconds": 2425
-    },
-    {
-      "youtubeId": "M-npHgEu5Gg",
-      "slug": "safe-mode-biohacking-village-anthony-difranco-hacking-the-insuli",
-      "title": "Safe Mode Biohacking Village - Anthony DiFranco - Hacking the Insulin Supply Chain",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "A group of mostly volunteer researchers in several biohacking labs around the world are working on novel protocols and open source equipment to produce insulin in hopes of reducing the cost of the drug, improving access ",
-      "summary": null,
-      "durationSeconds": 2333
-    },
-    {
-      "youtubeId": "Unu9r4IJ-Ag",
-      "slug": "safe-mode-biohacking-village-dena-medelsohn-jen-goldsack",
-      "title": "Safe Mode Biohacking Village - Dena Medelsohn Jen Goldsack",
+      "youtubeId": "ku0Q_Wey4K0",
+      "slug": "whispers-among-the-stars",
+      "title": "Whispers Among the Stars",
       "speakers": [
-        "Redefining Patient Safety"
+        "James Pavur"
       ],
-      "track": "red-team",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "Digital technologies are the future of medicine--and perhaps also public health--but these innovative tools that offer great promise for higher quality, more affordable, more accessible care also pose new risks to patien",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 1844
+      "durationSeconds": 2670
     },
     {
-      "youtubeId": "G6C-Rwwi6WI",
-      "slug": "safe-mode-biohacking-village-meg-doerr-cybersecurity-informed-co",
-      "title": "Safe Mode Biohacking Village - Meg Doerr - Cybersecurity Informed Consent 4 Medical Devices",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "Building on conversation within the Biohacking Village at DEFCON 27, and expertise in clinical care and implementation science (Dameff, Doerr, Tully), cybersecurity in healthcare (Coravos, Dameff, Tully), device policy a",
-      "summary": null,
-      "durationSeconds": 1584
-    },
-    {
-      "youtubeId": "dGpHdExqu0k",
-      "slug": "safe-mode-career-hacking-village-alyssa-miller-from-barista-to-c",
-      "title": "Safe Mode Career Hacking Village - Alyssa Miller - From Barista to Cyber Security Pro",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "If you're a barista that has never worked in a tech job, how do you land a role in security? What if I told you there are skills you have that apply directly to roles in security.",
-      "summary": null,
-      "durationSeconds": 2895
-    },
-    {
-      "youtubeId": "RAJI4NvkRzM",
-      "slug": "safe-mode-career-hacking-village-kirsten-renner-but-i-still-need",
-      "title": "Safe Mode Career Hacking Village - Kirsten Renner - But I Still Need A Job",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "As if finding your next gig wasn't already a challenge, now we have to do it in the midst of a pandemic.",
-      "summary": null,
-      "durationSeconds": 2393
-    },
-    {
-      "youtubeId": "aOCLnFXJEUg",
-      "slug": "safe-mode-career-hacking-village-peter-keenan",
-      "title": "Safe Mode Career Hacking Village - Peter Keenan",
+      "youtubeId": "Yt3mJlnODHU",
+      "slug": "don-t-ruck-us-again-the-exploit-returns",
+      "title": "Don't Ruck Us Again The Exploit Returns",
       "speakers": [
-        "Hacking Security Leadership"
+        "Gal Zror"
       ],
-      "track": "red-team",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "So you are a great hacker who can pop shells all day and make the IT team weep.",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 3000
+      "durationSeconds": 2370
     },
     {
-      "youtubeId": "PTQn4TGi_uA",
-      "slug": "safe-mode-career-hacking-village-kris-rides-pwning-your-resume",
-      "title": "Safe Mode Career Hacking Village - Kris Rides - Pwning Your Resume",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "oes your resume writing professional know the Cyber Security Industry? If not why are you paying them to do a job you’re better qualified to do your self? Put that money towards building your knowledge or something that ",
-      "summary": null,
-      "durationSeconds": 3195
-    },
-    {
-      "youtubeId": "CdRf1rwRBDs",
-      "slug": "safe-mode-career-hacking-village-pablo-breuer-in-theory-there-is",
-      "title": "Safe Mode Career Hacking Village - Pablo Breuer - In Theory There Is No Difference Between",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "There are three general paths to an INFOSEC career: the school of hard knocks, certificates, and college.",
-      "summary": null,
-      "durationSeconds": 2518
-    },
-    {
-      "youtubeId": "JJLPvJSNTYQ",
-      "slug": "safe-mode-career-hacking-village-mike-murray-building-teams-is-t",
-      "title": "Safe Mode Career Hacking Village - Mike Murray - Building Teams is the New Normal",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "2020 has created massive change across our industry, both from the perspective of COVID-19 as well as the social movements that have changed the way we view ourselves.",
-      "summary": null,
-      "durationSeconds": 2700
-    },
-    {
-      "youtubeId": "Fp4uLGeyIpQ",
-      "slug": "safe-mode-lock-picking-village-tony-virelli-key-duplication-not",
-      "title": "Safe Mode Lock Picking Village - Tony Virelli - Key Duplication - Not Just for the Movies",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2936
-    },
-    {
-      "youtubeId": "qR-SguTPAp0",
-      "slug": "safe-mode-lock-picking-village-d1dymu5",
-      "title": "Safe Mode Lock Picking Village - d1dymu5",
+      "youtubeId": "dJNLBfPo2V8",
+      "slug": "applied-cash-eviction-through-atm-exploitation",
+      "title": "Applied Cash Eviction through ATM Exploitation",
       "speakers": [
-        "Hybrid PhySec Tools"
+        "Trey Keown and Brenda So"
       ],
-      "track": "general",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 1747
+      "durationSeconds": 2990
     },
     {
-      "youtubeId": "8e3oOE0HQ1I",
-      "slug": "safe-mode-lock-picking-village-dylan-the-magician-doors-cameras",
-      "title": "Safe Mode Lock Picking Village - Dylan The Magician - Doors, Cameras, and Mantraps OH MY",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1377
-    },
-    {
-      "youtubeId": "8iDbRb7R4-s",
-      "slug": "safe-mode-password-village-pni-getting-started-with-hashcat",
-      "title": "Safe Mode Password Village - PNI - Getting Started With Hashcat",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1434
-    },
-    {
-      "youtubeId": "qHskdHUZayk",
-      "slug": "safe-mode-password-village-evilmog-from-printers-to-silver-ticke",
-      "title": "Safe Mode Password Village - EvilMog - From printers to silver tickets or something",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 752
-    },
-    {
-      "youtubeId": "TVl5RLWkAUk",
-      "slug": "safe-mode-voting-village-amelie-koran-hacking-democracy-ii-on-se",
-      "title": "Safe Mode Voting Village - Amélie Koran - Hacking Democracy II: On Securing an Election",
-      "speakers": [],
-      "track": "red-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "Democracy is the cornerstone of America’s Constitution, identity, and ideology, and this foundation was shaken during the 2016 Presidential Election.",
-      "summary": null,
-      "durationSeconds": 4445
-    },
-    {
-      "youtubeId": "grmOio_oWEE",
-      "slug": "safe-mode-voting-village-martin-mickos",
-      "title": "Safe Mode Voting Village - Martin Mickos",
+      "youtubeId": "iFS25HfTe20",
+      "slug": "how-we-recovered--xxx-000-in-bitcoin-from-an-encrypted-zip-f",
+      "title": "How we recovered  XXX,000 in Bitcoin from an encrypted zip file",
       "speakers": [
-        "See Something",
-        "Say Something"
+        "Michael Stay"
       ],
-      "track": "general",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 783
+      "durationSeconds": 2504
     },
     {
-      "youtubeId": "4SdqQP_4jrI",
-      "slug": "safe-mode-ethics-village",
-      "title": "Safe Mode Ethics Village",
+      "youtubeId": "Z_gKEF76oMM",
+      "slug": "abusing-p2p-to-hack-3-million-cameras",
+      "title": "Abusing P2P to Hack 3 Million Cameras",
       "speakers": [
-        "Comm Geoffrey Starks",
-        "Federal Communications Commission"
+        "Paul Marrapese"
       ],
-      "track": "general",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 1682
+      "durationSeconds": 1954
     },
     {
-      "youtubeId": "3uOjkJ4BwkE",
-      "slug": "safe-mode-ethics-village-travis-leblanc-us-privacy-and-civil-lib-2",
-      "title": "Safe Mode Ethics Village - Travis LeBlanc - US Privacy and Civil Liberties Oversight Board",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2956
-    },
-    {
-      "youtubeId": "tOj1btHebN4",
-      "slug": "safe-mode-ics-village-austin-scott-5-quick-wins-for-improving-ic",
-      "title": "Safe Mode ICS Village - Austin Scott - 5 Quick Wins for Improving ICS Cybersecurity Posture",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2089
-    },
-    {
-      "youtubeId": "GJOoYAxCFgI",
-      "slug": "safe-mode-ics-village-ben-gardiner",
-      "title": "Safe Mode ICS Village - Ben Gardiner",
+      "youtubeId": "hJ35ApLKpN4",
+      "slug": "bypassing-biometric-systems-with-3d-printing",
+      "title": "Bypassing Biometric Systems with 3D Printing",
       "speakers": [
-        "PowerLine Truck Hacking 2TOOLS4PLC4TRUCKS"
+        "Yamila Levalle "
       ],
-      "track": "general",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 2748
+      "durationSeconds": 1619
     },
     {
-      "youtubeId": "UaFNz8sr1MU",
-      "slug": "safe-mode-ics-village-chris-krebs",
-      "title": "Safe Mode ICS Village - Chris Krebs",
+      "youtubeId": "DycvqZTw-18",
+      "slug": "reverse-engineering-a-tesla-battery-mgmt--system-for-moar-po",
+      "title": "Reverse Engineering a Tesla Battery Mgmt. System for Moar Power",
       "speakers": [
-        "Keynote"
+        "Patrick Kiley"
       ],
-      "track": "general",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 1913
+      "durationSeconds": 2186
     },
     {
-      "youtubeId": "J1W5ELDqynM",
-      "slug": "safe-mode-ics-village-korotin-motspan-on-the-insecure-nature-of",
-      "title": "Safe Mode ICS Village - Korotin Motspan - On the insecure nature of turbine control systems",
-      "speakers": [],
-      "track": "blue-team",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
+      "youtubeId": "KUND0KllCKc",
+      "slug": "getting-shells-on-zos-with-surrogat-chains",
+      "title": "Getting Shells on zOS with Surrogat Chains",
+      "speakers": [
+        "Jake Labelle"
       ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 3002
-    },
-    {
-      "youtubeId": "UdU2yF6rJuQ",
-      "slug": "safe-mode-ics-village-nadav-erez-journey-of-ics-project-files-vi",
-      "title": "Safe Mode ICS Village - Nadav Erez - Journey of ICS Project Files Visibility and Forensics",
-      "speakers": [],
-      "track": "general",
+      "track": "community",
       "topics": [
-        "security",
-        "hacking",
-        "research"
+        "cybersecurity"
       ],
-      "teaser": "",
+      "teaser": "DEF CON Safe Mode Saturday presentation.",
       "summary": null,
-      "durationSeconds": 2946
-    },
-    {
-      "youtubeId": "R4dmdU2f9qM",
-      "slug": "safe-mode-ics-village-yardeni-lemley-vulnerability-discovery-tip",
-      "title": "Safe Mode ICS Village -Yardeni, Lemley - Vulnerability Discovery Tips for Surviving",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "security",
-        "hacking",
-        "research"
-      ],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1441
+      "durationSeconds": 942
     }
   ]
 }
