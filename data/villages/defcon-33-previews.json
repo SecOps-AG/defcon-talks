@@ -1,0 +1,101 @@
+{
+  "villageSlug": "previews",
+  "villageName": "Previews",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDCIbG9wUxg1UD7bRzQ6-aU",
+  "description": "Preview videos and promotional spotlights highlighting villages and major events at DEF CON 33.",
+  "talks": [
+    {
+      "youtubeId": "mHFcecX4RIA",
+      "slug": "cryptocurrency-village-preview",
+      "title": "Cryptocurrency Village Preview",
+      "speakers": [
+        "Cryptocurrency Village Team"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptocurrency",
+        "blockchain",
+        "privacy",
+        "cryptography",
+        "smart-contracts"
+      ],
+      "teaser": "An overview of what to expect from the expanded cryptocurrency and blockchain security offerings at DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 201
+    },
+    {
+      "youtubeId": "leKO6dphHBY",
+      "slug": "hardware-hacking-village-preview",
+      "title": "Hardware Hacking Village Preview",
+      "speakers": [
+        "Hardware Hacking Village Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware-hacking",
+        "soldering",
+        "embedded-systems",
+        "reverse-engineering"
+      ],
+      "teaser": "A look into the hands-on workshops, soldering labs, and teardown stations planned for the Hardware Hacking Village at DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 183
+    },
+    {
+      "youtubeId": "T8w5M_RL-9c",
+      "slug": "aerospace-village-preview",
+      "title": "Aerospace Village Preview",
+      "speakers": [
+        "Aerospace Village Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "aerospace",
+        "aviation-security",
+        "satellite",
+        "embedded-systems"
+      ],
+      "teaser": "An overview of the aerospace security challenges, simulated flight decks, and satellite tracking exercises at DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 162
+    },
+    {
+      "youtubeId": "lQDOIFZgBs4",
+      "slug": "darpa-ai-cyber-challenge-preview",
+      "title": "DARPA AI Cyber Challenge Preview",
+      "speakers": [
+        "Andrew Carney"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "artificial-intelligence",
+        "ai-security",
+        "darpa",
+        "ctf",
+        "vulnerability-research"
+      ],
+      "teaser": "Andrew Carney previews the semifinals of the DARPA AI Cyber Challenge (AIxCC), pitting autonomous AI systems against software vulnerabilities.",
+      "summary": null,
+      "durationSeconds": 184
+    },
+    {
+      "youtubeId": "eBkduAj_Ruc",
+      "slug": "policy-at-defcon-preview",
+      "title": "Policy at DEF CON Preview",
+      "speakers": [
+        "DEF CON Policy Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "public-interest-tech",
+        "digital-rights",
+        "regulation"
+      ],
+      "teaser": "A preview of the policy discussions, regulatory panels, and open governance forums taking place at DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 83
+    }
+  ]
+}
