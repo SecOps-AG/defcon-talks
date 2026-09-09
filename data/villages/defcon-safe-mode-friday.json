@@ -1,0 +1,159 @@
+{
+  "villageSlug": "friday",
+  "villageName": "Friday",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBn8oVJZcsyBZkJPbM9CJOg",
+  "description": "DEF CON Safe Mode Friday presentations.",
+  "talks": [
+    {
+      "youtubeId": "GZd66uVGKn8",
+      "slug": "-spectra-new-wireless-escalation-targets",
+      "title": " Spectra\u2014New Wireless Escalation Targets",
+      "speakers": [
+        "Jiska Classen and Francesco Gringoli"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 1669
+    },
+    {
+      "youtubeId": "CrLJ29quZY8",
+      "slug": "pwn2own-qualcomm-compute-dsp-for-fun-and-profit",
+      "title": "Pwn2Own Qualcomm Compute DSP for Fun and Profit",
+      "speakers": [
+        "Slava Makkaveev"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 1131
+    },
+    {
+      "youtubeId": "siCk4pGGcqA",
+      "slug": "detecting-fake-4g-base-stations-in-real-time",
+      "title": "Detecting Fake 4G Base Stations in Real Time",
+      "speakers": [
+        "Cooper Quintin"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 2733
+    },
+    {
+      "youtubeId": "qGpAJxfADjo",
+      "slug": "when-tls-hacks-you",
+      "title": "When TLS Hacks You",
+      "speakers": [
+        "Joshua Maddux"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 1190
+    },
+    {
+      "youtubeId": "4weoWSzuCxs",
+      "slug": "finding-and-exploiting-bugs-in-multiplayer-game-engines",
+      "title": "Finding and Exploiting Bugs in Multiplayer Game Engines",
+      "speakers": [
+        "Jack Baker"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 2498
+    },
+    {
+      "youtubeId": "iMxquCdAMWI",
+      "slug": "dont-be-silly-it-s-only-a-lightbulb",
+      "title": "Dont Be Silly It's Only a Lightbulb",
+      "speakers": [
+        "Eyal Itkin"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 2299
+    },
+    {
+      "youtubeId": "suN0IsifTyY",
+      "slug": "exploiting-key-space-vulnerabilities-in-the-physical-world",
+      "title": "Exploiting Key Space Vulnerabilities in the Physical World",
+      "speakers": [
+        "Bill Graydon"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 6376
+    },
+    {
+      "youtubeId": "oPHWLIo88b8",
+      "slug": "a-hacker-s-guide-to-reducing-side-channel-attack-surfaces",
+      "title": "A Hacker\u2019s Guide to Reducing Side Channel Attack Surfaces",
+      "speakers": [
+        "Elie Bursztein"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 2563
+    },
+    {
+      "youtubeId": "Y7IJjnLGqTQ",
+      "slug": "office-drama-on-macos",
+      "title": "Office Drama on macOS",
+      "speakers": [
+        "Patrick Wardle"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 1859
+    },
+    {
+      "youtubeId": "fAU7V3pvj1Q",
+      "slug": "-d0-n0-h4rm---healthcare-security",
+      "title": " D0 N0 H4RM   Healthcare Security",
+      "speakers": [
+        "Christian \u201cquaddi\u201d Dameff MD and panel"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON Safe Mode presentation.",
+      "summary": null,
+      "durationSeconds": 3872
+    }
+  ]
+}
