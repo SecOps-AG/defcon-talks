@@ -8,17 +8,19 @@
     {
       "youtubeId": "v5UcuY33Hic",
       "slug": "jake-braun-securing-the-election-office-a-local-response",
-      "title": "Securing the Election Office  A Local Response",
+      "title": "Securing the Election Office: A Local Response",
       "speakers": [
         "Jake Braun"
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "appsec"
+        "election-security",
+        "voting-infrastructure",
+        "threat-intelligence",
+        "incident-response",
+        "local-government"
       ],
-      "teaser": "Securing the Election Office  A Local Response",
+      "teaser": "Strategies for securing election offices and voting infrastructure from a local government perspective.",
       "summary": null,
       "durationSeconds": 1886
     },
@@ -27,32 +29,37 @@
       "slug": "joseph-hall-david-jefferson-common-misconceptions-and-false-para",
       "title": "Common Misconceptions and False Parallels",
       "speakers": [
-        "Joseph Hall, David Jefferson"
+        "Joseph Hall",
+        "David Jefferson"
       ],
       "track": "policy",
       "topics": [
-        "community",
-        "threat-intel",
-        "appsec"
+        "election-security",
+        "voting-myths",
+        "security-misconceptions",
+        "education",
+        "threat-modeling"
       ],
-      "teaser": "Common Misconceptions and False Parallels",
+      "teaser": "Debunking common misconceptions about voting security and election system vulnerabilities.",
       "summary": null,
       "durationSeconds": 2953
     },
     {
       "youtubeId": "x1RmNXQAydg",
       "slug": "matt-blaze-how-did-we-get-here-a-history-of-voting-technology",
-      "title": "How did we get here?  A history of voting technology",
+      "title": "How did we get here? A history of voting technology",
       "speakers": [
         "Matt Blaze"
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "hardware",
-        "community"
+        "voting-technology-history",
+        "election-systems",
+        "hardware-evolution",
+        "security-lessons",
+        "technology-trends"
       ],
-      "teaser": "How did we get here?  A history of voting technology",
+      "teaser": "Historical overview of voting technology evolution and how current vulnerabilities emerged.",
       "summary": null,
       "durationSeconds": 3339
     },
@@ -61,15 +68,18 @@
       "slug": "mary-brady-josh-franklin-the-state-of-us-voting-system-security",
       "title": "The State of US Voting System Security",
       "speakers": [
-        "Mary Brady, Josh Franklin"
+        "Mary Brady",
+        "Josh Franklin"
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "appsec"
+        "election-security",
+        "voting-system-assessment",
+        "vulnerability-analysis",
+        "threat-landscape",
+        "defense-recommendations"
       ],
-      "teaser": "The State of US Voting System Security",
+      "teaser": "Assessment of current US voting system security posture and identified vulnerabilities.",
       "summary": null,
       "durationSeconds": 3120
     },
@@ -82,10 +92,13 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel"
+        "election-security",
+        "legal-implications",
+        "liability",
+        "civil-law",
+        "policy-implications"
       ],
-      "teaser": "Election Hacking: Legal Considerations from the Civil Side",
+      "teaser": "Legal considerations and liability implications of election system vulnerabilities and hacking.",
       "summary": null,
       "durationSeconds": 3003
     },
@@ -98,12 +111,13 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "hardware",
-        "community"
+        "election-machine-hacking",
+        "voting-vulnerabilities",
+        "case-studies",
+        "security-history",
+        "threat-research"
       ],
-      "teaser": "Brief history of election machine hacking",
+      "teaser": "Historical analysis of election machine vulnerabilities and attack techniques discovered over time.",
       "summary": null,
       "durationSeconds": 2687
     },
@@ -116,11 +130,13 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "defense"
+        "national-security",
+        "election-infrastructure",
+        "foreign-adversaries",
+        "threat-assessment",
+        "defense-strategy"
       ],
-      "teaser": "National Security Implications of Voting Attacks",
+      "teaser": "National security implications and foreign actor threats to US election infrastructure.",
       "summary": null,
       "durationSeconds": 2531
     },
@@ -129,15 +145,18 @@
       "slug": "barbara-simons-david-jefferson-election-systems-more-than-the-bo",
       "title": "Election Systems: More Than the Booth",
       "speakers": [
-        "Barbara Simons, David Jefferson"
+        "Barbara Simons",
+        "David Jefferson"
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "hardware",
-        "threat-intel"
+        "election-systems",
+        "end-to-end-verification",
+        "ballot-security",
+        "infrastructure-security",
+        "system-design"
       ],
-      "teaser": "Election Systems: More Than the Booth",
+      "teaser": "Comprehensive election system security beyond voting machines, including ballot handling and infrastructure.",
       "summary": null,
       "durationSeconds": 3006
     }
