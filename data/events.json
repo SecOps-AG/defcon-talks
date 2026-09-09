@@ -135,6 +135,14 @@
       "year": 2009,
       "dates": "30 July - 2 August 2009",
       "location": "The Riviera Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-16",
+      "name": "DEF CON 16",
+      "shortName": "DC16",
+      "year": 2008,
+      "dates": "8-10 August 2008",
+      "location": "The Riviera Hotel & Casino, Las Vegas"
     }
   ]
 }
