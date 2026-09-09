@@ -1,0 +1,64 @@
+{
+  "villageSlug": "hardware-hacking-village",
+  "villageName": "Hardware Hacking Village",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCqVCguEg0tgDJ-f239-V-Z",
+  "description": "DEF CON 33 Hardware Hacking Village talks covering embedded firmware exploits, physical peripheral attacks, and microcontroller hardware hacking.",
+  "talks": [
+    {
+      "youtubeId": "KeNBWILSlC4",
+      "slug": "all-your-keyboards-are-belong-to-us-hhv",
+      "title": "All your keyboards are belong to us!",
+      "speakers": [
+        "Federico Lucifredi"
+      ],
+      "track": "hardware",
+      "topics": [
+        "keyboards",
+        "hardware-attacks",
+        "input-devices",
+        "keystroke-injection"
+      ],
+      "teaser": "Live tutorial on attacking keyboards to intercept plaintext and hijack sessions prior to OS encryption.",
+      "summary": null,
+      "durationSeconds": 1533
+    },
+    {
+      "youtubeId": "SJ-kfVUoENk",
+      "slug": "the-powerpoint-glove-hhv",
+      "title": "The PowerPoint Glove",
+      "speakers": [
+        "Parsia Hakimian"
+      ],
+      "track": "hardware",
+      "topics": [
+        "esp32",
+        "bluetooth",
+        "hardware-modding",
+        "hid"
+      ],
+      "teaser": "Repurposing a vintage Nintendo Power Glove into a Bluetooth HID presentation clicker using an ESP32 micro-controller and custom firmware.",
+      "summary": null,
+      "durationSeconds": 1546
+    },
+    {
+      "youtubeId": "CUZhORHp27U",
+      "slug": "the-missing-link-drayteks-new-rces-complete-the-chain-hhv",
+      "title": "The Missing Link: Draytek’s New RCEs Complete the Chain",
+      "speakers": [
+        "Octavio Gianatiempo",
+        "Gastón Aznarez"
+      ],
+      "track": "hardware",
+      "topics": [
+        "router-security",
+        "firmware",
+        "remote-code-execution",
+        "hardware"
+      ],
+      "teaser": "Unveils novel remote code execution vulnerabilities in Draytek enterprise routers to achieve pre-auth exploit chains and persistent backdoors.",
+      "summary": null,
+      "durationSeconds": 1555
+    }
+  ]
+}
