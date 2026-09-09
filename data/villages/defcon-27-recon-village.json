@@ -320,6 +320,25 @@
       "teaser": "The OSINT space is Growing Are we Ready video",
       "summary": null,
       "durationSeconds": 1724
+    },
+    {
+      "youtubeId": "ES6OKjgW36w",
+      "slug": "jeff-foley-advanced-recon-with-owasp-amass",
+      "title": "Advanced Recon with OWASP Amass",
+      "speakers": [
+        "Jeff Foley"
+      ],
+      "track": "recon",
+      "topics": [
+        "owasp-amass",
+        "osint",
+        "recon",
+        "attack-surface-management",
+        "subdomain-enumeration"
+      ],
+      "teaser": "OWASP Amass project lead Jeff Foley demonstrates advanced network mapping, asset discovery, and external attack surface enumeration.",
+      "summary": null,
+      "durationSeconds": 1758
     }
   ]
 }
