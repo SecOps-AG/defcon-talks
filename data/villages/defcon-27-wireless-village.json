@@ -14,9 +14,12 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless"
+        "wireless-ctf",
+        "tools-and-equipment",
+        "contest",
+        "wireless-security"
       ],
-      "teaser": "Gear Talk",
+      "teaser": "Wireless Capture The Flag equipment review and contest overview.",
       "summary": null,
       "durationSeconds": 7847
     },
@@ -29,12 +32,13 @@
       ],
       "track": "blue-team",
       "topics": [
-        "wireless",
-        "automotive",
-        "sdr",
-        "wireless-tools"
+        "keyfob-hacking",
+        "automotive-security",
+        "sdr-attacks",
+        "denial-of-service",
+        "wireless-vehicles"
       ],
-      "teaser": "\"This talk will show flaws with development of security protocols in New Ford key fobs. This will exploit several areas. The ability for a denial of service to the keyfob WITHOUT jamming. How to trick the vehicle into...",
+      "teaser": "Ford keyfob security flaws\u2014exploitation techniques for denial of service and vehicle control.",
       "summary": null,
       "durationSeconds": 3516
     },
@@ -47,10 +51,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless",
-        "wireless-tools"
+        "kismet-tool",
+        "wifi-analysis",
+        "rest-api",
+        "wireless-reconnaissance",
+        "network-monitoring"
       ],
-      "teaser": "An overview of the new REST API capabilities in Kismet with example use cases",
+      "teaser": "Kismet REST API capabilities and advanced wireless reconnaissance use cases.",
       "summary": null,
       "durationSeconds": 1089
     },
@@ -64,7 +71,10 @@
       "track": "blue-team",
       "topics": [
         "wireless",
-        "wifi"
+        "wifi",
+        "wireless-security",
+        "penetration-testing",
+        "rf-analysis"
       ],
       "teaser": "In this presentation we will introduce working proof-of-concept attacks that can be used against wireless networks that use Opportunity Wireless Encryption (OWE), which is better known as WPA3\u2019s \u201cEnhanced Open.\u201d We\u2019ll...",
       "summary": null,
@@ -79,11 +89,13 @@
       ],
       "track": "blue-team",
       "topics": [
-        "wireless",
-        "wifi",
-        "wireless-tools"
+        "access-point-security",
+        "ap-development",
+        "router-security",
+        "soho-networks",
+        "network-hardening"
       ],
-      "teaser": "WiFi access point (AP) security is one of the most important aspect when it comes to securing networks. The compromise of a WiFI AP (which mostly also double-up as router in SOHO environments) can lead to several seco...",
+      "teaser": "WiFi access point security\u2014development best practices for SOHO routers and wireless infrastructure.",
       "summary": null,
       "durationSeconds": 2912
     },
@@ -135,7 +147,9 @@
       "topics": [
         "wireless",
         "wifi",
-        "wireless-tools"
+        "wireless-tools",
+        "wireless-security",
+        "penetration-testing"
       ],
       "teaser": "Unlike the cheese, the WiFi Pineapple does not stand alone. Learn all about the latest Hak5 tools dropping - the brand new Signal Owl, Screen Crab and Shark Jack - as well as updates to the entire arsenal and a cloud ...",
       "summary": null,
@@ -152,7 +166,9 @@
       "topics": [
         "wireless",
         "automotive",
-        "sdr"
+        "sdr",
+        "wireless-security",
+        "penetration-testing"
       ],
       "teaser": "Care and feeding of Software Defined Radios We will cover the various kinds of antennas available to optimized your SDR radio for different types of spectrum monitoring. We will also explain why RF filters are necessa...",
       "summary": null,
@@ -204,7 +220,10 @@
       "track": "red-team",
       "topics": [
         "wireless",
-        "enterprise-wifi"
+        "enterprise-wifi",
+        "wireless-security",
+        "penetration-testing",
+        "rf-analysis"
       ],
       "teaser": "eduroam networks are designed to provide wireless access to researchers and lecturers around the world. However, it is known that there are now 10,000 eduroam hotspots in 100 countries around the world. eduroam users ...",
       "summary": null,
@@ -221,7 +240,9 @@
       "topics": [
         "wireless",
         "wifi",
-        "sdr"
+        "sdr",
+        "wireless-security",
+        "penetration-testing"
       ],
       "teaser": "802.11ax (Wi-Fi 6). Discussion of Antenna and Modulation techniques used with Wi-Fi and new radio features used with Wi-Fi 6",
       "summary": null,
@@ -237,7 +258,10 @@
       "track": "red-team",
       "topics": [
         "wireless",
-        "iot-protocols"
+        "iot-protocols",
+        "wireless-security",
+        "penetration-testing",
+        "rf-analysis"
       ],
       "teaser": "AirWire is a popular wireless control system for large scale model railroad locomotives and accessories. A handheld transmitter is used to control train speed, lights, sound, and trackside accessories. Analysis of thi...",
       "summary": null,
@@ -257,7 +281,7 @@
         "sdr",
         "wireless-tools"
       ],
-      "teaser": "Wireless Networks (Wifi) are the most used type of network nowadays and most people don't know really how vulnerable they are, even WPA/WPA2 Enterprise. In this workshop we will cover most wifi encryptions being used ...",
+      "teaser": "Hacking Wi Fi - wireless security techniques and RF analysis.",
       "summary": null,
       "durationSeconds": 3103
     }
