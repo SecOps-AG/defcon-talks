@@ -169,6 +169,328 @@
       "teaser": "Silk learns the rules, antenna techniques, and transmitter hunting lore behind the classic DEF CON Amateur Radio Foxhunt competition.",
       "summary": null,
       "durationSeconds": 205
+    },
+    {
+      "youtubeId": "PtK-01D6ozQ",
+      "slug": "adversary-wars-ctf-interview",
+      "title": "Adversary Wars CTF Interview",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "red-team",
+      "topics": [
+        "adversary-emulation",
+        "ctf",
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Silk interviews the organizers of the Adversary Wars CTF at DEF CON 31 to explore competition mechanics, challenge designs, and offensive simulations.",
+      "summary": null,
+      "durationSeconds": 295
+    },
+    {
+      "youtubeId": "B8Tz9a-MJQo",
+      "slug": "iot-village-interview",
+      "title": "IoT Village Interview",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "embedded-devices",
+        "hardware-hacking",
+        "firmware"
+      ],
+      "teaser": "Silk visits the IoT Village at DEF CON 31 to discuss embedded security research, router firmware analysis, and hands-on hardware hacking labs.",
+      "summary": null,
+      "durationSeconds": 496
+    },
+    {
+      "youtubeId": "k4ZV9v9nRBQ",
+      "slug": "hack-the-box-challenge-interview",
+      "title": "Hack The Box Challenge Interview",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "hack-the-box",
+        "ctf",
+        "cybersecurity-training",
+        "community"
+      ],
+      "teaser": "Silk explores the Hack The Box challenges at DEF CON 31, detailing interactive offensive security labs, community gamification, and skill development.",
+      "summary": null,
+      "durationSeconds": 191
+    },
+    {
+      "youtubeId": "uxkurgqx_ZI",
+      "slug": "hacker-memorial-community-space-interview",
+      "title": "Hacker Memorial Community Space Interview",
+      "speakers": [
+        "Chris",
+        "c0njur3r"
+      ],
+      "track": "community",
+      "topics": [
+        "hacker-culture",
+        "community",
+        "history",
+        "memorial"
+      ],
+      "teaser": "Chris interviews c0njur3r about the DEF CON 31 Hacker Memorial space honoring fallen members of the global hacker and infosec community.",
+      "summary": null,
+      "durationSeconds": 327
+    },
+    {
+      "youtubeId": "TFu2pEWqO_4",
+      "slug": "voting-village-interview-with-harri-hursti",
+      "title": "Voting Village Interview with Harri Hursti",
+      "speakers": [
+        "Harri Hursti",
+        "CauseEffect"
+      ],
+      "track": "hardware",
+      "topics": [
+        "voting-machines",
+        "election-security",
+        "hardware-hacking",
+        "policy"
+      ],
+      "teaser": "CauseEffect interviews election security expert Harri Hursti at the DEF CON 31 Voting Village regarding voting machine vulnerabilities and audits.",
+      "summary": null,
+      "durationSeconds": 636
+    },
+    {
+      "youtubeId": "GxNJ9jEjyLE",
+      "slug": "tin-foil-hat-contest-overview",
+      "title": "Tin Foil Hat Contest Overview",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "hacker-culture",
+        "contest",
+        "community",
+        "rf-shielding"
+      ],
+      "teaser": "Silk meets with creatively paranoid participants and organizers at the DEF CON 31 Tin Foil Hat Contest showcasing custom aluminum headwear designs.",
+      "summary": null,
+      "durationSeconds": 271
+    },
+    {
+      "youtubeId": "HFgIDy0ijLE",
+      "slug": "password-cracking-village-interview",
+      "title": "Password Cracking Village Interview",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "appsec",
+      "topics": [
+        "password-cracking",
+        "hashcat",
+        "passwords",
+        "cryptography"
+      ],
+      "teaser": "Silk gets the inside scoop on the Password Cracking Village at DEF CON 31, exploring GPU hash cracking rigs, wordlists, and brute-force techniques.",
+      "summary": null,
+      "durationSeconds": 360
+    },
+    {
+      "youtubeId": "7lL1Fo3Wp5c",
+      "slug": "hacker-badges-and-badgelife-interview",
+      "title": "Hacker Badges and BadgeLife Interview",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "badgelife",
+        "hardware-hacking",
+        "electronics",
+        "community"
+      ],
+      "teaser": "An exploration of electronic conference badges and the BadgeLife subculture at DEF CON 31, highlighting custom PCB design and SAO interconnects.",
+      "summary": null,
+      "durationSeconds": 248
+    },
+    {
+      "youtubeId": "jDgYDNqDPI0",
+      "slug": "policy-village-exploration",
+      "title": "Policy Village Exploration",
+      "speakers": [
+        "Ali",
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "cybersecurity-policy",
+        "regulation",
+        "advocacy"
+      ],
+      "teaser": "Ali explores DEF CON 31's Policy Village, discussing public policy dialogues, legal issues facing hackers, and cybersecurity regulations.",
+      "summary": null,
+      "durationSeconds": 242
+    },
+    {
+      "youtubeId": "2YyyTkMdWik",
+      "slug": "car-hacking-village-showcase",
+      "title": "Car Hacking Village Showcase",
+      "speakers": [
+        "CauseEffect",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive-security",
+        "can-bus",
+        "vehicle-hacking",
+        "hardware"
+      ],
+      "teaser": "CauseEffect talks with organizers and researchers in the Car Hacking Village at DEF CON 31, examining automotive protocols and ECU test benches.",
+      "summary": null,
+      "durationSeconds": 363
+    },
+    {
+      "youtubeId": "ezo0Lf-7l6M",
+      "slug": "top-tips-for-new-def-con-attendees",
+      "title": "Top Tips for New DEF CON Attendees",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "hacker-culture",
+        "tips",
+        "conference",
+        "community"
+      ],
+      "teaser": "Silk interviews veteran attendees at DEF CON 31 to collect practical survival tips, line navigation advice, and essential wisdom for newcomers.",
+      "summary": null,
+      "durationSeconds": 977
+    },
+    {
+      "youtubeId": "DsTEbsNM2G0",
+      "slug": "lock-picking-village-interview",
+      "title": "Lock Picking Village Interview",
+      "speakers": [
+        "Ali",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "lockpicking",
+        "physical-security",
+        "bypass",
+        "community"
+      ],
+      "teaser": "Ali interviews a Lock Picking Village organizer at DEF CON 31 about lock bypass techniques, hands-on practice stations, and physical security.",
+      "summary": null,
+      "durationSeconds": 188
+    },
+    {
+      "youtubeId": "E9bzhZQVtzM",
+      "slug": "tin-foil-hat-contest-interviews",
+      "title": "Tin Foil Hat Contest Interviews",
+      "speakers": [
+        "CauseEffect",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "hacker-culture",
+        "contest",
+        "community",
+        "rf-shielding"
+      ],
+      "teaser": "CauseEffect reviews inventive aluminum foil creations and interviews eccentric contestants in the DEF CON 31 Tin Foil Hat Contest.",
+      "summary": null,
+      "durationSeconds": 263
+    },
+    {
+      "youtubeId": "rH_s0SpUQTM",
+      "slug": "ai-village-interview",
+      "title": "AI Village Interview",
+      "speakers": [
+        "Chris",
+        "DEF CON Video Team"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "ai",
+        "machine-learning",
+        "ai-security",
+        "llm"
+      ],
+      "teaser": "Chris visits the DEF CON 31 AI Village to discuss large language model red teaming, generative AI security, and algorithmic vulnerabilities.",
+      "summary": null,
+      "durationSeconds": 180
+    },
+    {
+      "youtubeId": "0nwYCaHS7TA",
+      "slug": "scavenger-hunt-contest-interview",
+      "title": "Scavenger Hunt Contest Interview",
+      "speakers": [
+        "Ali",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "scavenger-hunt",
+        "contest",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "Ali gets the rundown on the annual DEF CON Scavenger Hunt at DEF CON 31, detailing bizarre quest items, team coordination, and contest lore.",
+      "summary": null,
+      "durationSeconds": 345
+    },
+    {
+      "youtubeId": "q2trWkuVSGw",
+      "slug": "hack-a-sat-orbital-satellite-hacking-interview",
+      "title": "Hack-A-Sat Orbital Satellite Hacking Interview",
+      "speakers": [
+        "Ali",
+        "DEF CON Video Team"
+      ],
+      "track": "wireless",
+      "topics": [
+        "hack-a-sat",
+        "satellite",
+        "aerospace",
+        "ctf"
+      ],
+      "teaser": "Ali interviews the Hack-A-Sat team at DEF CON 31 about the historic live on-orbit satellite hacking final competition involving Moonlighter.",
+      "summary": null,
+      "durationSeconds": 276
+    },
+    {
+      "youtubeId": "nCEGBQyMxK4",
+      "slug": "red-team-village-behind-the-scenes-preview",
+      "title": "Red Team Village Behind the Scenes Preview",
+      "speakers": [
+        "Chris",
+        "DEF CON Video Team"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation",
+        "community"
+      ],
+      "teaser": "Chris takes viewers behind the scenes of the DEF CON 31 Red Team Village, detailing setup logistics, offensive workshops, and cyber ranges.",
+      "summary": null,
+      "durationSeconds": 178
     }
   ]
 }
