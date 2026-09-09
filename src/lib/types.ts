@@ -103,9 +103,9 @@ export type Talk = StoredTalk & {
 /**
  * The slim record shipped to the client for search and faceting.
  *
- * Excludes `summary` (4-6 KB per talk) and carries no derived search string.
- * The home page ships the whole index, so both would be dead weight on the
- * wire; the search text is derived once on the client instead.
+ * Excludes `summary` (4-6 KB per talk) and `teaser` (similar size), and carries no
+ * derived search string. The home page ships the whole index, so both would be
+ * dead weight on the wire; the search text is derived once on the client instead.
  */
 export type TalkIndexEntry = {
   id: string;
@@ -121,7 +121,6 @@ export type TalkIndexEntry = {
   track: string;
   trackName: string;
   topics: string[];
-  teaser: string;
   durationSeconds?: number;
   kind: TalkKind;
 };
@@ -149,6 +148,13 @@ export type Speaker = {
 export type SearchEntry = TalkIndexEntry & {
   haystack: string;
   speakerSlugs: string[];
+  matchedInSummary?: boolean;
+};
+
+/** Summary data for a single talk, fetched from per-year shards. */
+export type TalkSummaryEntry = {
+  id: string;
+  summary?: string;
 };
 
 export type ArchiveStats = {
