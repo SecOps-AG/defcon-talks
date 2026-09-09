@@ -1,0 +1,45 @@
+{
+  "villageSlug": "dc-groups",
+  "villageName": "DC Groups",
+  "eventSlug": "defcon-25",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDaw5F5ur8sytbOTdNXrLkP",
+  "description": "Updates, briefings, and community announcements from the DEF CON Groups program during DEF CON 25.",
+  "talks": [
+    {
+      "youtubeId": "WVPm25l3OJ4",
+      "slug": "new-year-dc-groups-update-with-jayson-e-street",
+      "title": "New Year DC Groups Update with Jayson E. Street",
+      "speakers": [
+        "Jayson E. Street"
+      ],
+      "track": "community",
+      "topics": [
+        "defcon-groups",
+        "community",
+        "hacker-culture",
+        "meetups"
+      ],
+      "teaser": "DEF CON Groups ambassador Jayson Street reflects on global group growth in 2017 and outlines community support goals for the upcoming year.",
+      "summary": null,
+      "durationSeconds": 780
+    },
+    {
+      "youtubeId": "gS-gX3QLYno",
+      "slug": "dc-groups-january-2018-community-update",
+      "title": "DC Groups January 2018 Community Update",
+      "speakers": [
+        "Jayson E. Street"
+      ],
+      "track": "community",
+      "topics": [
+        "defcon-groups",
+        "community",
+        "hacker-culture",
+        "local-chapters"
+      ],
+      "teaser": "Jayson Street provides the January 2018 community briefing for DEF CON Groups, sharing organizer resources, event planning, and local chapter expansion.",
+      "summary": null,
+      "durationSeconds": 601
+    }
+  ]
+}
