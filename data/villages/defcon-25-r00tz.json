@@ -16,7 +16,7 @@
       "topics": [
         "cryptography"
       ],
-      "teaser": "How To Explain Crypto To Practically Anyone",
+      "teaser": "Techniques for explaining cryptography concepts to audiences of all backgrounds.",
       "summary": null,
       "durationSeconds": 628
     },
@@ -31,7 +31,7 @@
       "topics": [
         "osint"
       ],
-      "teaser": "Searching The Invisible Internet",
+      "teaser": "Deep web research and reconnaissance on hidden internet resources.",
       "summary": null,
       "durationSeconds": 478
     },
@@ -42,12 +42,14 @@
       "speakers": [
         "Patrick McCanna"
       ],
-      "track": "red-team",
+      "track": "privacy",
       "topics": [
         "privacy",
-        "osint"
+        "osint",
+        "student-security",
+        "operational-security"
       ],
-      "teaser": "Tips for Internet Privacy at College",
+      "teaser": "Privacy protection strategies for college students online.",
       "summary": null,
       "durationSeconds": 925
     },
@@ -58,11 +60,15 @@
       "speakers": [
         "Leonard Bailey"
       ],
-      "track": "red-team",
+      "track": "policy",
       "topics": [
-        "security-research"
+        "legal-implications",
+        "policy",
+        "government",
+        "law-enforcement",
+        "hacker-rights"
       ],
-      "teaser": "Everything You Need To Know About The US Dept of Justice",
+      "teaser": "Legal context and implications for hackers regarding US Department of Justice.",
       "summary": null,
       "durationSeconds": 889
     },
@@ -77,7 +83,7 @@
       "topics": [
         "drones"
       ],
-      "teaser": "Drone Wars",
+      "teaser": "Drone security, hacking, and malicious uses of unmanned systems.",
       "summary": null,
       "durationSeconds": 1323
     },
@@ -88,26 +94,32 @@
       "speakers": [
         "Erin Owens"
       ],
-      "track": "red-team",
+      "track": "hardware",
       "topics": [
-        "security-research"
+        "robotics",
+        "hardware-hacking",
+        "embedded-systems",
+        "automation",
+        "defense"
       ],
-      "teaser": "Hacking & Robotics v2 point 0",
+      "teaser": "Robotics security and hacking techniques for automated systems.",
       "summary": null,
       "durationSeconds": 845
     },
     {
       "youtubeId": "OIVvRP9-b4M",
       "slug": "def-con-25-rootz-asylum-eff-nic0-opening-ceremoniesa-place-w",
-      "title": "Opening Ceremonies:A Place Where Kids Learn White Hat Hacking",
-      "speakers": [
-        "EFF, Nic0"
-      ],
-      "track": "policy",
+      "title": "Opening Ceremonies: A Place Where Kids Learn White Hat Hacking",
+      "speakers": [],
+      "track": "community",
       "topics": [
-        "security-research"
+        "youth-education",
+        "ethical-hacking",
+        "beginner-training",
+        "hacker-community",
+        "kids-security"
       ],
-      "teaser": "Opening Ceremonies:A Place Where Kids Learn White Hat Hacking",
+      "teaser": "Educational programs introducing young people to ethical hacking and security.",
       "summary": null,
       "durationSeconds": 589
     },
@@ -123,7 +135,7 @@
         "physical-security",
         "hacker-culture"
       ],
-      "teaser": "Home Depot and A Plan of Attack for Hackers",
+      "teaser": "Physical reconnaissance and social engineering techniques for hacking public spaces.",
       "summary": null,
       "durationSeconds": 797
     },
@@ -136,9 +148,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "security-research"
+        "cheat-engine",
+        "game-hacking",
+        "memory-manipulation",
+        "reverse-engineering",
+        "debugging"
       ],
-      "teaser": "Introduction To Cheat Engine",
+      "teaser": "Cheat Engine tools and techniques for game modification and binary analysis.",
       "summary": null,
       "durationSeconds": 1312
     },
@@ -149,11 +165,15 @@
       "speakers": [
         "Cory Doctorow"
       ],
-      "track": "red-team",
+      "track": "community",
       "topics": [
-        "security-research"
+        "digital-literacy",
+        "education",
+        "technology",
+        "internet-culture",
+        "younger-generation"
       ],
-      "teaser": "You are not a Digital Native and that's OK",
+      "teaser": "Digital literacy and technology education for the next generation.",
       "summary": null,
       "durationSeconds": 1229
     },
@@ -168,7 +188,7 @@
       "topics": [
         "hardware-hacking"
       ],
-      "teaser": "Arm Mounted Weaponized Platform and Anime Viewer",
+      "teaser": "Wearable hardware projects combining security tools with entertainment devices.",
       "summary": null,
       "durationSeconds": 431
     },
@@ -177,28 +197,38 @@
       "slug": "def-con-25-rootz-asylum-aron-rosenberg-aaron-standridge-hack",
       "title": "Hacking an Insecure WiFi Camera",
       "speakers": [
-        "Aron Rosenberg, Aaron Standridge"
+        "Aron Rosenberg",
+        "Aaron Standridge"
       ],
       "track": "red-team",
       "topics": [
-        "wireless"
+        "wireless",
+        "iot-hacking",
+        "camera-security",
+        "device-exploitation",
+        "network-attacks"
       ],
-      "teaser": "Hacking an Insecure WiFi Camera",
+      "teaser": "Wireless security vulnerabilities in consumer IoT cameras and exploitation techniques.",
       "summary": null,
       "durationSeconds": 703
     },
     {
       "youtubeId": "NB4fPiCc-jc",
       "slug": "def-con-25-rootz-asylum-alex-stamos-cso-facebook-keynote",
-      "title": "Keynote",
+      "title": "Security Leadership Keynote",
       "speakers": [
-        "Alex Stamos, CSO  Facebook"
+        "Alex Stamos",
+        "CSO Facebook"
       ],
-      "track": "red-team",
+      "track": "policy",
       "topics": [
-        "security-research"
+        "security-leadership",
+        "corporate-security",
+        "industry-perspective",
+        "security-strategy",
+        "threat-landscape"
       ],
-      "teaser": "Keynote",
+      "teaser": "Security leadership perspective from a major technology company's security chief.",
       "summary": null,
       "durationSeconds": 866
     }
