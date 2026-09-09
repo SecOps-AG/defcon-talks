@@ -384,3 +384,41 @@ export function getNextTalkInEdition(
   const index = talks.findIndex((t) => t.slug === talkSlug);
   return index < talks.length - 1 ? talks[index + 1] : undefined;
 }
+
+export type CoverageStats = {
+  totalTalks: number;
+  talksWithSummary: number;
+  summaryPercentage: number;
+};
+
+export function getCoverageForEdition(villageId: string): CoverageStats {
+  const talks = getTalksForEdition(villageId);
+  const withSummary = talks.filter((t) => t.summary).length;
+  return {
+    totalTalks: talks.length,
+    talksWithSummary: withSummary,
+    summaryPercentage: talks.length > 0 ? Math.round((withSummary / talks.length) * 100) : 0,
+  };
+}
+
+export function getCoverageForEvent(eventSlug: string): CoverageStats {
+  const talks = getTalks().filter((t) => t.eventSlug === eventSlug);
+  const withSummary = talks.filter((t) => t.summary).length;
+  return {
+    totalTalks: talks.length,
+    talksWithSummary: withSummary,
+    summaryPercentage: talks.length > 0 ? Math.round((withSummary / talks.length) * 100) : 0,
+  };
+}
+
+export type VillageCoverage = {
+  edition: VillageEdition;
+  stats: CoverageStats;
+};
+
+export const getCoverageByVillage = memo((): VillageCoverage[] => {
+  return getEditions().map((edition) => ({
+    edition,
+    stats: getCoverageForEdition(edition.id),
+  }));
+});
