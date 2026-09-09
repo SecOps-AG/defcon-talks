@@ -149,6 +149,24 @@
       "teaser": "The Dark Tangent interviews Apple co-founder Steve Wozniak on hacker ethics, engineering curiosity, and the evolution of personal computing.",
       "summary": "Architecture and Background\n\nThe birth of personal computing and the early microcomputer revolution were fueled by a spirit of playful experimentation, open hardware sharing, and phone phreaking. Steve Wozniak, co-founder of Apple Computer, embodies this foundational hacker mindset.\n\nVulnerability Analysis\n\nModern technological ecosystems increasingly restrict user autonomy through proprietary walled gardens, right-to-repair restrictions, and opaque software architectures, creating barriers that separate emerging engineers from low-level computing mechanics.\n\nExploitation and Demonstrations\n\nIn this keynote interview excerpt for DEF CON China Party, conference founder Jeff Moss (The Dark Tangent) and Steve Wozniak discuss engineering philosophies, the creation of early computing hardware, the thrill of technical exploration, and the enduring value of hacker ethics.\n\nRemediation and Defensive Strategies\n\nFostering innovation requires defending open hardware ecosystems, championing right-to-repair legislation, and inspiring engineers to understand systems from the ground up through hands-on tinkering and ethical problem-solving.",
       "durationSeconds": 320
+    },
+    {
+      "youtubeId": "rsHSkRAt8Gg",
+      "slug": "miss-jackalope-dj-set",
+      "title": "Miss Jackalope DJ Set",
+      "speakers": [
+        "Miss Jackalope"
+      ],
+      "track": "community",
+      "topics": [
+        "music",
+        "dj-set",
+        "community",
+        "electronic-music"
+      ],
+      "teaser": "Live electronic musical performance by DJ Miss Jackalope for the virtual DEF CON China Party 2021.",
+      "summary": null,
+      "durationSeconds": 6014
     }
   ]
 }
