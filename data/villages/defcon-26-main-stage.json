@@ -1811,6 +1811,60 @@
       "teaser": "Bai and Zheng presents analyzing and attacking apple kernel drivers: Though many security mechanisms are deployed in Apple's macOS and iOS systems, some old-fashioned or poor-quality kernel code still leaves the doo...",
       "summary": "Architecture and Background\n\nThough many security mechanisms are deployed in Apple's macOS and iOS systems, some old-fashioned or poor-quality kernel code still leaves the door widely open to attackers. Especially, as kernel's critical components, device drivers are frequently exploited to attack Apple systems.\n\nVulnerability Analysis\n\nIn fact, bug hunting in Apple kernel drivers is not easy since they are mostly closed-source and heavily relying on object-oriented programming. In this talk, we will share our experience of analyzing and attacking Apple kernel drivers. In specific, we will introduce a new tool called Ryuk.\n\nExploitation and Demonstrations\n\nRyuk employs static analysis techniques to discover bugs by itself or assist manual review. In addition, we further combine static analysis with dynamic fuzzing for bug hunting in Apple drivers. In specific, we will introduce how we integrate Ryuk to the state-of-art Apple driver fuzzer, PassiveFuzzFrameworkOSX, for finding exploitable bugs.\n\nRemediation and Defensive Strategies\n\nMost importantly, we will illustrate Ryuk's power with several new vulnerabilities that are recently discovered by Ryuk. In specific, we will show how we exploit these vulnerabilities for privilege escalation on macOS 10.13.3 and 10.13.2. We will not only explain why these bugs occur and how we find them, but also demonstrate how we exploit them with innovative kernel exploitation techniques.",
       "durationSeconds": 1463
+    },
+    {
+      "youtubeId": "f4rPDF993qs",
+      "slug": "m010ch-please-do-not-duplicate-attacking-the-knox-box",
+      "title": "Please Do Not Duplicate: Attacking the Knox Box",
+      "speakers": [
+        "m010ch"
+      ],
+      "track": "hardware",
+      "topics": [
+        "physical-security",
+        "lockpicking",
+        "key-duplication",
+        "access-control"
+      ],
+      "teaser": "An analysis of physical security flaws and key duplication vulnerabilities in municipal Knox Box rapid entry systems.",
+      "summary": null,
+      "durationSeconds": 1127
+    },
+    {
+      "youtubeId": "Dz0C55Azn1Y",
+      "slug": "andrea-marcelli-looking-for-the-perfect-signature-automatic-yara-rules",
+      "title": "Looking for the Perfect Signature: Automatic YARA Rules",
+      "speakers": [
+        "Andrea Marcelli"
+      ],
+      "track": "malware",
+      "topics": [
+        "yara-rules",
+        "malware-analysis",
+        "signature-generation",
+        "threat-detection"
+      ],
+      "teaser": "Automated YARA rule generation methodologies to detect emerging malware variants while minimizing false positives.",
+      "summary": null,
+      "durationSeconds": 1133
+    },
+    {
+      "youtubeId": "Xt17ZlQbF9o",
+      "slug": "matt-wixey-betrayed-by-the-keyboard-how-what-you-type-can-give-you-away",
+      "title": "Betrayed by the Keyboard: How What You Type Can Give You Away",
+      "speakers": [
+        "Matt Wixey"
+      ],
+      "track": "osint",
+      "topics": [
+        "keystroke-dynamics",
+        "attribution",
+        "stylometry",
+        "osint"
+      ],
+      "teaser": "Using keystroke dynamics, linguistic styling, and typing quirks for threat actor attribution and deanonymization.",
+      "summary": null,
+      "durationSeconds": 2416
     }
   ]
 }
