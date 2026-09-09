@@ -157,6 +157,58 @@
       "teaser": "An Overview of Hydroponic Grow Techniques",
       "summary": null,
       "durationSeconds": 2553
+    },
+    {
+      "youtubeId": "aE317y990qI",
+      "slug": "keith-conway-and-frank-the-invisible-hands-tending-the-secret-greens",
+      "title": "The Invisible Hands Tending the Secret Greens",
+      "speakers": [
+        "Keith Conway",
+        "Frank"
+      ],
+      "track": "policy",
+      "topics": [
+        "cannabis",
+        "supply-chain",
+        "policy"
+      ],
+      "teaser": "An analysis of supply chains, market dynamics, and operations within the emerging legal cannabis market.",
+      "summary": null,
+      "durationSeconds": 2822
+    },
+    {
+      "youtubeId": "Oia6me5QrbQ",
+      "slug": "cristina-munoz-weed-hacking-a-pragmatic-primer-for-home-grows",
+      "title": "Weed Hacking: A Pragmatic Primer For Home Grows",
+      "speakers": [
+        "Cristina Munoz"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "automation",
+        "iot"
+      ],
+      "teaser": "Hardware and sensor hacking for automating and optimizing home cultivation environments.",
+      "summary": null,
+      "durationSeconds": 2922
+    },
+    {
+      "youtubeId": "xlectGfuPmQ",
+      "slug": "annie-rouse-the-real-history-of-marijuana-prohibition",
+      "title": "The Real History of Marijuana Prohibition",
+      "speakers": [
+        "Annie Rouse"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "legal",
+        "regulatory-compliance"
+      ],
+      "teaser": "A historical and regulatory investigation into the economic and political roots of cannabis prohibition.",
+      "summary": null,
+      "durationSeconds": 2557
     }
   ]
 }
