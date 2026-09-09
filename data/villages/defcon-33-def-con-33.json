@@ -1043,17 +1043,6 @@
       "durationSeconds": 6980
     },
     {
-      "youtubeId": "V_w5u9lONN0",
-      "slug": "gold-bug-puzzle-panel-with-friends-the-gold-bug-team-2025-2",
-      "title": "Gold Bug - Puzzle Panel with Friends - The Gold Bug Team 2025",
-      "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 3227
-    },
-    {
       "youtubeId": "TtPicirB6G4",
       "slug": "go-malware-meets-iot-challenges-blind-spots-and-botnets-2",
       "title": "Go Malware Meets IoT - Challenges, Blind Spots, and Botnets",
@@ -1446,19 +1435,6 @@
       "durationSeconds": 2237
     },
     {
-      "youtubeId": "OYGtNa0pJec",
-      "slug": "no-spook-leaves-randomness-to-chance-2",
-      "title": "No Spook Leaves Randomness to Chance",
-      "speakers": [
-        "Shaanan Cohney"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 3298
-    },
-    {
       "youtubeId": "SRALfyEspms",
       "slug": "revault-compromised-by-your-secure-soc-2",
       "title": "ReVault! Compromised by your Secure SoC",
@@ -1470,19 +1446,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 2521
-    },
-    {
-      "youtubeId": "O7BI4jfEFwA",
-      "slug": "exploiting-shadow-data-from-ai-models-and-embeddings-2",
-      "title": "Exploiting Shadow Data from AI Models and Embeddings",
-      "speakers": [
-        "Patrick Walsh"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2903
     },
     {
       "youtubeId": "KhWtkZmOPn4",
@@ -2847,20 +2810,6 @@
       "durationSeconds": 1554
     },
     {
-      "youtubeId": "C8F5kvm2B5s",
-      "slug": "veilid-la-revolucion-your-data-is-yours-to-own-2",
-      "title": "Veilid la revoluçion : Your data is yours to own",
-      "speakers": [
-        "Katelyn Bowden",
-        "Paul Miller"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1387
-    },
-    {
       "youtubeId": "Eo5lwnTft8U",
       "slug": "welcome-to-def-con-33-the-dark-tangent-2",
       "title": "Welcome to DEF CON 33 - The Dark Tangent",
@@ -3041,19 +2990,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1473
-    },
-    {
-      "youtubeId": "9slY1DllYhw",
-      "slug": "reconfigurable-hsms-future-proofing-hardware-security-2",
-      "title": "Reconfigurable HSMs: Future Proofing Hardware Security",
-      "speakers": [
-        "Pablo Trujillo"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1499
     },
     {
       "youtubeId": "0r_trFFPVYc",
@@ -3503,19 +3439,6 @@
       "durationSeconds": 1215
     },
     {
-      "youtubeId": "arvFqkI4770",
-      "slug": "the-depths-that-marketers-will-plummet-to-2",
-      "title": "The depths that marketers will plummet to",
-      "speakers": [
-        "4dw@r3"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1270
-    },
-    {
       "youtubeId": "br2RPtCOzB0",
       "slug": "cybersecurity-in-latin-america-stories-of-resilience-and-innovat-2",
       "title": "Cybersecurity in Latin America - Stories of Resilience & Innovation",
@@ -3678,19 +3601,6 @@
       "durationSeconds": 1536
     },
     {
-      "youtubeId": "Y4ziT89VmAk",
-      "slug": "back-to-basics-building-resilient-cyber-defenses-2",
-      "title": "Back to Basics: Building Resilient Cyber Defenses",
-      "speakers": [
-        "Yael Grauer"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1299
-    },
-    {
       "youtubeId": "UdNhZ17t8M4",
       "slug": "paywall-optional-stream-for-free-w-new-technique-rre-2",
       "title": "Paywall Optional: Stream for Free w/ New Technique, RRE",
@@ -3796,20 +3706,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1402
-    },
-    {
-      "youtubeId": "SfWOqqDZEWI",
-      "slug": "qramm-the-cryptographic-migration-to-a-post-quantum-world-2",
-      "title": "QRAMM: The Cryptographic Migration to a Post Quantum World",
-      "speakers": [
-        "Emily Fane",
-        "Abdel Sy Fane"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1350
     },
     {
       "youtubeId": "S7mPcEPaKHU",
