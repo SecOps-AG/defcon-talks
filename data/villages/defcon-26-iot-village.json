@@ -16,7 +16,9 @@
       "topics": [
         "iot",
         "medical-devices",
-        "wireless"
+        "wireless",
+        "iot-security",
+        "vulnerability-research"
       ],
       "teaser": "There are advancements made on a daily basis, with regards to medical implantable devices. These devices offer life extensions when organic systems fail. Are these systems secured? There are shocking amounts of vulner...",
       "summary": null,
@@ -50,7 +52,10 @@
       "track": "red-team",
       "topics": [
         "iot",
-        "smart-home"
+        "smart-home",
+        "iot-security",
+        "vulnerability-research",
+        "device-hacking"
       ],
       "teaser": "The origins of the SOHOpelessly broken research and some of the new research from our new research lab.",
       "summary": null,
@@ -102,7 +107,10 @@
       "track": "red-team",
       "topics": [
         "firmware-analysis",
-        "exploitation"
+        "exploitation",
+        "iot-security",
+        "vulnerability-research",
+        "device-hacking"
       ],
       "teaser": "In this talk, reverse engineer and security expert John Dunlap will present security hazards concerning the ever expanding use of Field Programmable Gate Array systems. FPGA\u2019s are reconfigurable computers that allow p...",
       "summary": null,
@@ -119,7 +127,9 @@
       "topics": [
         "iot",
         "device-hacking",
-        "privacy"
+        "privacy",
+        "iot-security",
+        "vulnerability-research"
       ],
       "teaser": "Cheaper devices that consume less power - What more can you ask for? SECURITY!. Based on multiple tests we have done across a variety of devices, we can conclude that there are still many vendors who lack the security...",
       "summary": null,
@@ -154,7 +164,9 @@
       "topics": [
         "iot",
         "exploitation",
-        "device-hacking"
+        "device-hacking",
+        "iot-security",
+        "vulnerability-research"
       ],
       "teaser": "In 2017, I discovered that a popular IP-based door access control system (badge reader and door lock controller) used poorly-implemented cryptography. Through binary analysis and live testing against a functional devi...",
       "summary": null,
@@ -171,7 +183,9 @@
       "topics": [
         "iot",
         "exploitation",
-        "privacy"
+        "privacy",
+        "iot-security",
+        "vulnerability-research"
       ],
       "teaser": "Smart irrigation systems, a new IoT device which is aimed at saving water and money, have already been adopted by smart cities (e.g., Barcelona), agriculture, and the private sector around the world and will replace e...",
       "summary": null,
@@ -186,7 +200,10 @@
       ],
       "track": "policy",
       "topics": [
-        "iot"
+        "iot",
+        "iot-security",
+        "vulnerability-research",
+        "device-hacking"
       ],
       "teaser": "The world might be getting more connected but not less risky to hack. This talk will give IoT hackers a quick intro to the variety of legal pitfalls that govern IoT hacking, from the notorious Computer Fraud and Abuse...",
       "summary": null,
