@@ -12,11 +12,13 @@
       "speakers": [
         "Rick Ramgattie"
       ],
-      "track": "policy",
+      "track": "red-team",
       "topics": [
-        "iot",
+        "iot-security",
         "firmware-analysis",
-        "exploitation"
+        "device-exploitation",
+        "soho-routers",
+        "vulnerability-research"
       ],
       "teaser": "Internet of Things (IoT) devices have always been vulnerable to a variety of security issues. In 2013, Independent Security Evaluators (ISE) performed research on IoT devices that showed how rich feature sets could be...",
       "summary": null,
@@ -26,13 +28,14 @@
       "youtubeId": "zl83bZEumC0",
       "slug": "panel-iot-security-and-manufacturers-q-and-a-panel",
       "title": "IoT Security and Manufacturers Q and A Panel",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
-        "iot",
-        "privacy"
+        "iot-security",
+        "manufacturer-responsibility",
+        "privacy",
+        "vulnerability-disclosure",
+        "industry-practices"
       ],
       "teaser": "IoT Security and Manufacturers Q and A Panel",
       "summary": null,
@@ -64,12 +67,13 @@
       "speakers": [
         "Maxwell Dulin"
       ],
-      "track": "policy",
+      "track": "red-team",
       "topics": [
-        "iot",
+        "iot-hacking",
         "firmware-analysis",
-        "exploitation",
-        "device-hacking"
+        "nas-devices",
+        "device-exploitation",
+        "reverse-engineering"
       ],
       "teaser": "\"This talk will convey the hacking methodology that took place in order to find the vulnerabilities within the Zyxel NAS 326, including some fun dives into the technical weeds. Note: despite how critical security flaw...",
       "summary": null,
@@ -100,10 +104,13 @@
       "speakers": [
         "Lee Brotherston"
       ],
-      "track": "policy",
+      "track": "red-team",
       "topics": [
-        "iot",
-        "firmware-analysis"
+        "iot-security",
+        "firmware-analysis",
+        "manufacturing",
+        "vulnerability-research",
+        "best-practices"
       ],
       "teaser": "\"The IoT industry is often lambasted for lax security, it faces unique challenges. This talk brings expertise from a veteran security engineer who has spent the last few months embedded (pun intended) in an IoT manufa...",
       "summary": null,
@@ -200,13 +207,17 @@
     {
       "youtubeId": "zhJomUeVW94",
       "slug": "amit-elazari-regulatory-trends-in-iot-and-impact-on-research-com",
-      "title": "Regulatory Trends in IoT  and impact on  research community",
+      "title": "Regulatory Trends in IoT and impact on research community",
       "speakers": [
         "Amit Elazari"
       ],
       "track": "policy",
       "topics": [
-        "iot"
+        "iot-security",
+        "regulation",
+        "product-liability",
+        "compliance",
+        "legal-trends"
       ],
       "teaser": "A discussion of the latest in the how the law is coming for the IoT, especially in the realm of whether or not cybersecurity is considered a manufacturing or design defect to allow product liability law to be used to ...",
       "summary": null,
@@ -221,8 +232,11 @@
       ],
       "track": "red-team",
       "topics": [
-        "iot",
-        "industrial-iot"
+        "industrial-iot",
+        "bacnet",
+        "protocol-exploitation",
+        "web-application-security",
+        "building-automation"
       ],
       "teaser": "In this talk i'm going to explain in detail a new technique to achieve javascript code persistence in web applications from devices using the Bacnet protocol (building automation) in the underlying device protocol/web...",
       "summary": null,
@@ -237,7 +251,11 @@
       ],
       "track": "red-team",
       "topics": [
-        "iot"
+        "iot-security",
+        "cryptocurrency-hardware",
+        "wallet-hacking",
+        "product-security",
+        "vulnerability-analysis"
       ],
       "teaser": "\"Never, ever claim your smart product is unhackable. Don't snort bath salts either. The Bitfi is/was a hardware brain-wallet for crypto currency. John McAfee was probably paid to promote it & wisely identified that it...",
       "summary": null,
