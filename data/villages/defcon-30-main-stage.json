@@ -1728,6 +1728,26 @@
       "teaser": "Aviv Sasson presents the complete technical breakdown of FabricEscape (CVE-2022-30137), breaking out of Linux containers to seize full Azure Service Fabric cluster control.",
       "summary": "The Architecture of Microsoft Service Fabric Clusters\n\nMicrosoft Service Fabric serves as a critical distributed container orchestration platform hosting core internal services across Microsoft Azure data centers.\n\nDeconstructing the FabricEscape Exploit Mechanics\n\nAviv Sasson walks through the technical discovery of unvalidated symbolic link traversals and race conditions within the container lifecycle management daemon.\n\nEscalating from Low-Privilege Container to Full Host and Node Admin\n\nSasson demonstrates weaponizing the flaw to break out of Linux container sandboxes, execute code on host nodes, and harvest cluster management certificates.\n\nRemediation and Multi-Tenant Security Best Practices\n\nThe author discusses the coordinated vulnerability disclosure timeline and security engineering takeaways for cloud container orchestrators.",
       "durationSeconds": 2597
+    },
+    {
+      "youtubeId": "Ly9goAud0gs",
+      "slug": "christopher-panayi-pulling-passwords-out-of-configuration-manager",
+      "title": "Pulling Passwords out of Configuration Manager",
+      "speakers": [
+        "Christopher Panayi"
+      ],
+      "track": "red-team",
+      "topics": [
+        "active-directory",
+        "mecm",
+        "sccm",
+        "credentials",
+        "red-team",
+        "privilege-escalation"
+      ],
+      "teaser": "Christopher Panayi demonstrates exploiting Microsoft Endpoint Configuration Manager (MECM/SCCM) OS deployment mechanisms and network booting to extract enterprise Active Directory credentials.",
+      "summary": "Microsoft Endpoint Configuration Manager in the Enterprise\n\nMicrosoft Endpoint Configuration Manager (MECM/SCCM) is ubiquitous across corporate networks, managing automated operating system deployments and administrative workflows for thousands of workstations and servers.\n\nExploiting Network Boot and OS Deployment Workflows\n\nChristopher Panayi details how PXE booting and task sequence executions expose sensitive domain credentials across enterprise networks during client provisioning.\n\nExtracting Active Directory Credentials\n\nPanayi explores common MECM architecture misconfigurations—including unencrypted network shares, weakly protected media, and cleartext task sequence variables—that allow unauthenticated attackers to harvest elevated domain credentials.\n\nDefensive Hardening and Mitigation Guidance\n\nThe presentation concludes with detection strategies and remediation guidance, demonstrating how administrators can secure task sequence variables and enforce network-level authentication across deployment points.",
+      "durationSeconds": 3268
     }
   ]
 }
