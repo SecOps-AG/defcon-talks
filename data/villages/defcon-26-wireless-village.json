@@ -283,6 +283,42 @@
       "teaser": "SDR Basics Class",
       "summary": null,
       "durationSeconds": 3379
+    },
+    {
+      "youtubeId": "rrwZjXIJ02M",
+      "slug": "travis-goodspeed-goodwatch-update",
+      "title": "Goodwatch Update",
+      "speakers": [
+        "Travis Goodspeed"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware",
+        "rf-hacking",
+        "firmware",
+        "embedded-systems"
+      ],
+      "teaser": "Travis Goodspeed provides an update on the Goodwatch open-source wrist-worn RF radio hacking and packet manipulation platform.",
+      "summary": null,
+      "durationSeconds": 1987
+    },
+    {
+      "youtubeId": "44OLG05smQw",
+      "slug": "aadvark-and-panel-wardrivers-anonymous",
+      "title": "Wardrivers Anonymous",
+      "speakers": [
+        "Aadvark and Panel"
+      ],
+      "track": "community",
+      "topics": [
+        "wireless",
+        "wardriving",
+        "wifi",
+        "rf-communications"
+      ],
+      "teaser": "A panel discussion exploring the community, culture, history, and technical tradecraft of wardriving.",
+      "summary": null,
+      "durationSeconds": 5295
     }
   ]
 }
