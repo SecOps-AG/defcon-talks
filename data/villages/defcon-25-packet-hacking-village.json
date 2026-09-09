@@ -10,14 +10,16 @@
       "slug": "chris-wysopal-how-hackers-changed-the-security-industry",
       "title": "Chris Wysopal - How Hackers Changed the Security Industry",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Chris Wysopal"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "security-research",
+        "security-industry",
+        "threat-intelligence",
+        "vulnerability-research"
       ],
-      "teaser": "Chris Wysopal - How Hackers Changed the Security Industry",
+      "teaser": "Trace the evolution of how hackers have shaped security practices, tools, and industry standards over time.",
       "summary": null,
       "durationSeconds": 2860
     },
@@ -26,14 +28,16 @@
       "slug": "catherine-ullman-chris-roberts-breaking-the-bad-news",
       "title": "Catherine Ullman, Chris Roberts - Breaking the Bad News",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Catherine Ullman, Chris Roberts"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "incident-response",
+        "breach-communication",
+        "security-leadership",
+        "risk-management"
       ],
-      "teaser": "Catherine Ullman, Chris Roberts - Breaking the Bad News",
+      "teaser": "Strategies for communicating security incidents and breaches to stakeholders, media, and the public.",
       "summary": null,
       "durationSeconds": 2692
     },
@@ -42,14 +46,17 @@
       "slug": "vivek-ramachandran-thomas-dotreppe",
       "title": "Vivek Ramachandran,Thomas d'Otreppe - Make a 802.11AC Monitor",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Vivek Ramachandran, Thomas d'Otreppe"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
+        "wireless-security",
         "packet-analysis",
-        "network-security"
+        "wifi-monitoring",
+        "hardware-hacking",
+        "network-tools"
       ],
-      "teaser": "Vivek Ramachandran,Thomas d'Otreppe - Make a 802.11AC Monitor",
+      "teaser": "Build a custom 802.11AC monitor mode device for advanced wireless packet capture and analysis.",
       "summary": null,
       "durationSeconds": 3611
     },
@@ -58,14 +65,17 @@
       "slug": "tom-sela-fooling-the-hound-deceiving-doman-admin-hunters",
       "title": "Tom Sela - Fooling the Hound  Deceiving Doman Admin Hunters",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Tom Sela"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "evasion",
+        "network-defense",
+        "domain-admin-hunting",
+        "threat-modeling",
+        "red-teaming"
       ],
-      "teaser": "Tom Sela - Fooling the Hound  Deceiving Doman Admin Hunters",
+      "teaser": "Techniques for evading detection when targeted by domain admin hunters during red team engagements.",
       "summary": null,
       "durationSeconds": 2095
     },
@@ -74,14 +84,17 @@
       "slug": "tan-kean-siong-stories-from-a-15-days-smb-honeypot-mum",
       "title": "Tan Kean Siong - Stories from a 15 days SMB Honeypot  Mum",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Tan Kean Siong"
       ],
-      "track": "osint",
+      "track": "blue-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "honeypots",
+        "threat-intelligence",
+        "smb-attacks",
+        "network-monitoring",
+        "incident-analysis"
       ],
-      "teaser": "Tan Kean Siong - Stories from a 15 days SMB Honeypot  Mum",
+      "teaser": "Real-world attack patterns and exploitation techniques captured through a monitored SMB honeypot deployment.",
       "summary": null,
       "durationSeconds": 2411
     },
@@ -90,14 +103,17 @@
       "slug": "ron-taylor-demystifying-the-opm-breach-wtf-really-happened",
       "title": "Ron Taylor - Demystifying The OPM breach, WTF Really Happened",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Ron Taylor"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "incident-response",
+        "breach-analysis",
+        "threat-intelligence",
+        "security-failures",
+        "lessons-learned"
       ],
-      "teaser": "Ron Taylor - Demystifying The OPM breach, WTF Really Happened",
+      "teaser": "Deep analysis of the OPM breach—what went wrong, how attackers exploited systemic vulnerabilities, and key lessons.",
       "summary": null,
       "durationSeconds": 3274
     },
@@ -106,14 +122,17 @@
       "slug": "brute-logic-xss-for-the-win",
       "title": "Brute Logic - XSS For the win",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Brute Logic"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "web-security",
+        "xss-attacks",
+        "exploitation",
+        "payload-crafting",
+        "web-application-hacking"
       ],
-      "teaser": "Brute Logic - XSS For the win",
+      "teaser": "Effective cross-site scripting (XSS) exploitation techniques and strategies for maximizing impact in penetration tests.",
       "summary": null,
       "durationSeconds": 926
     },
@@ -122,14 +141,17 @@
       "slug": "sam-erb-youre-going-to-connect-to-the-wrong-domain-name",
       "title": "Sam Erb - You're Going to Connect to the Wrong Domain Name",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Sam Erb"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "dns-hijacking",
+        "network-attacks",
+        "domain-spoofing",
+        "reconnaissance",
+        "man-in-the-middle"
       ],
-      "teaser": "Sam Erb - You're Going to Connect to the Wrong Domain Name",
+      "teaser": "Explore DNS-based attack vectors that cause users to connect to attacker-controlled domains instead of intended targets.",
       "summary": null,
       "durationSeconds": 1384
     },
@@ -138,14 +160,17 @@
       "slug": "peter-ewane-cloudy-with-a-chance-of-persistence",
       "title": "Peter Ewane - Cloudy With A Chance of Persistence",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Peter Ewane"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "cloud-security",
+        "persistence-mechanisms",
+        "lateral-movement",
+        "apt-techniques",
+        "post-exploitation"
       ],
-      "teaser": "Peter Ewane - Cloudy With A Chance of Persistence",
+      "teaser": "Techniques for establishing persistent backdoors and maintaining access in cloud environments.",
       "summary": null,
       "durationSeconds": 2040
     },
@@ -154,14 +179,17 @@
       "slug": "mike-raggo-chet-hosmer-covert-tcp-with-a-twist",
       "title": "Mike Raggo, Chet Hosmer - Covert TCP with a Twist",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Mike Raggo, Chet Hosmer"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "network-evasion",
+        "covert-channels",
+        "tcp-manipulation",
+        "packet-crafting",
+        "command-and-control"
       ],
-      "teaser": "Mike Raggo, Chet Hosmer - Covert TCP with a Twist",
+      "teaser": "Innovative covert TCP techniques for hiding malicious traffic and establishing undetectable command-and-control channels.",
       "summary": null,
       "durationSeconds": 3369
     },
@@ -170,14 +198,17 @@
       "slug": "michael-gianarakis-keith-lee",
       "title": "Michael Gianarakis ,Keith Lee - Portia",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Michael Gianarakis, Keith Lee"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
+        "network-tools",
         "packet-analysis",
-        "network-security"
+        "network-reconnaissance",
+        "portia-tool",
+        "security-automation"
       ],
-      "teaser": "Michael Gianarakis ,Keith Lee - Portia",
+      "teaser": "Introduction to Portia—a network analysis tool for reconnaissance, packet manipulation, and security testing.",
       "summary": null,
       "durationSeconds": 1967
     },
@@ -186,14 +217,17 @@
       "slug": "megan-roddie",
       "title": "Megan Roddie - Strengthen Secops  By Leveraging Neurodiversity",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Megan Roddie"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "security-operations",
+        "organizational-behavior",
+        "neurodiversity",
+        "team-building",
+        "security-culture"
       ],
-      "teaser": "Megan Roddie - Strengthen Secops  By Leveraging Neurodiversity",
+      "teaser": "How neurodivergent perspectives strengthen security operations and improve team effectiveness in incident response.",
       "summary": null,
       "durationSeconds": 993
     },
@@ -202,14 +236,17 @@
       "slug": "marek-majkowski",
       "title": "Marek Majkowski - IP Spoofing",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Marek Majkowski"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "ip-spoofing",
+        "network-attacks",
+        "packet-manipulation",
+        "dos-attacks",
+        "network-exploitation"
       ],
-      "teaser": "Marek Majkowski - IP Spoofing",
+      "teaser": "Techniques and defense mechanisms for IP spoofing attacks—a foundational network-layer exploitation method.",
       "summary": null,
       "durationSeconds": 3125
     },
@@ -218,14 +255,17 @@
       "slug": "leah-figueroa-iron-sights-for-your-data",
       "title": "Leah Figueroa - Iron Sights for Your Data",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Leah Figueroa"
       ],
-      "track": "osint",
+      "track": "blue-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "data-protection",
+        "visibility",
+        "security-monitoring",
+        "network-visibility",
+        "threat-detection"
       ],
-      "teaser": "Leah Figueroa - Iron Sights for Your Data",
+      "teaser": "Strategies for gaining complete visibility into network traffic and data flows to detect suspicious activity.",
       "summary": null,
       "durationSeconds": 1365
     },
@@ -234,14 +274,17 @@
       "slug": "gita-ziabari-yalda-automated-bulk-intelligence",
       "title": "Gita Ziabari   -Yalda: Automated Bulk Intelligence",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Gita Ziabari"
       ],
       "track": "osint",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "osint",
+        "automation",
+        "threat-intelligence",
+        "bulk-analysis",
+        "intelligence-tools"
       ],
-      "teaser": "Gita Ziabari   -Yalda: Automated Bulk Intelligence",
+      "teaser": "Yalda tool for automated bulk intelligence gathering and analysis of public data sources at scale.",
       "summary": null,
       "durationSeconds": 1624
     },
@@ -250,14 +293,17 @@
       "slug": "gilberto-bertin-past-present-and-future-of-high-speed-packet",
       "title": "Gilberto Bertin - Past, Present and Future of High Speed Packet",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Gilberto Bertin"
       ],
-      "track": "osint",
+      "track": "blue-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "network-infrastructure",
+        "packet-processing",
+        "high-speed-networks",
+        "security-architecture",
+        "network-performance"
       ],
-      "teaser": "Gilberto Bertin - Past, Present and Future of High Speed Packet",
+      "teaser": "Evolution of high-speed packet processing technology—from historical methods to modern security infrastructure.",
       "summary": null,
       "durationSeconds": 1217
     },
@@ -266,14 +312,17 @@
       "slug": "gabriel-ryan-the-black-art-of-wireless-post-exploitation-2",
       "title": "Gabriel Ryan - The Black Art of Wireless Post Exploitation",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Gabriel Ryan"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "wireless-security",
+        "post-exploitation",
+        "lateral-movement",
+        "wifi-exploitation",
+        "network-pivoting"
       ],
-      "teaser": "Gabriel Ryan - The Black Art of Wireless Post Exploitation",
+      "teaser": "Advanced wireless exploitation techniques for lateral movement and persistence after gaining network access.",
       "summary": null,
       "durationSeconds": 3137
     },
@@ -282,14 +331,17 @@
       "slug": "eric-capuano",
       "title": "Eric Capuano - Go Beyond Tabletop Scenarios",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Eric Capuano"
       ],
-      "track": "osint",
+      "track": "blue-team",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "incident-response",
+        "security-exercises",
+        "tabletop-simulations",
+        "team-training",
+        "incident-planning"
       ],
-      "teaser": "Eric Capuano - Go Beyond Tabletop Scenarios",
+      "teaser": "Move beyond tabletop exercises to conduct realistic incident response drills that test actual security procedures.",
       "summary": null,
       "durationSeconds": 3467
     },
@@ -298,14 +350,17 @@
       "slug": "eric-capuano-fortune-100-infosec-on-a-state-government-budget",
       "title": "Eric Capuano - Fortune 100 InfoSec on a State Government Budget",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Eric Capuano"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "security-operations",
+        "budget-constraints",
+        "resource-optimization",
+        "enterprise-security",
+        "cost-effective-security"
       ],
-      "teaser": "Eric Capuano - Fortune 100 InfoSec on a State Government Budget",
+      "teaser": "Building enterprise-grade security programs with limited budgets—practical strategies for maximizing impact.",
       "summary": null,
       "durationSeconds": 2985
     },
@@ -314,14 +369,17 @@
       "slug": "daniel-adinolfi-anthony-singleton",
       "title": "Daniel Adinolfi, Anthony Singleton - CVE IDs",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Daniel Adinolfi, Anthony Singleton"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "vulnerability-research",
+        "cve-process",
+        "disclosure",
+        "threat-intelligence",
+        "vulnerability-management"
       ],
-      "teaser": "Daniel Adinolfi, Anthony Singleton - CVE IDs",
+      "teaser": "Deep dive into the CVE identification and disclosure process—how vulnerabilities are cataloged and standardized.",
       "summary": null,
       "durationSeconds": 2800
     },
@@ -330,14 +388,17 @@
       "slug": "damon-small-layer-8-and-why-people-are-the-most-important",
       "title": "Damon Small - Layer 8 and Why People are the Most Important",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Damon Small"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
-        "packet-analysis",
-        "network-security"
+        "organizational-behavior",
+        "security-culture",
+        "human-factors",
+        "social-engineering",
+        "security-awareness"
       ],
-      "teaser": "Damon Small - Layer 8 and Why People are the Most Important",
+      "teaser": "Why 'Layer 8' (people) are the most critical security layer—addressing human behavior in security programs.",
       "summary": null,
       "durationSeconds": 2402
     },
@@ -346,14 +407,17 @@
       "slug": "ankur-tyagi-visual-network-and-file-forensics",
       "title": "Ankur Tyagi - Visual Network and File Forensics",
       "speakers": [
-        "DEF CON 25 Packet Hacking Village"
+        "Ankur Tyagi"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
+        "network-forensics",
+        "file-forensics",
         "packet-analysis",
-        "network-security"
+        "visual-analysis",
+        "forensic-investigation"
       ],
-      "teaser": "Ankur Tyagi - Visual Network and File Forensics",
+      "teaser": "Visual forensics techniques for analyzing network traffic and file systems to reconstruct attack timelines.",
       "summary": null,
       "durationSeconds": 1738
     }
