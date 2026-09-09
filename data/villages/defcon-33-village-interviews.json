@@ -646,6 +646,26 @@
       "teaser": "Contest runner Tiberius provides an operational update on official DEF CON 33 contests, scoring protocols, and participant challenges.",
       "summary": null,
       "durationSeconds": 360
+    },
+    {
+      "youtubeId": "nmYb3Znr4Gc",
+      "slug": "mobile-hacking-community-spotlight",
+      "title": "Mobile Hacking Community Spotlight",
+      "speakers": [
+        "d3dbot",
+        "DEF CON Video Team"
+      ],
+      "track": "mobile",
+      "topics": [
+        "mobile",
+        "android",
+        "ios",
+        "community",
+        "embedded-systems"
+      ],
+      "teaser": "d3dbot catches up with the Mobile Hacking Community at DEF CON 33, exploring baseband analysis, Android internals, and iOS jailbreaking research.",
+      "summary": null,
+      "durationSeconds": 558
     }
   ]
 }
