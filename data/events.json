@@ -81,6 +81,14 @@
       "location": "Caesars Palace, Flamingo, Linq, Las Vegas"
     },
     {
+      "slug": "defcon-china-beta",
+      "name": "DEF CON China Beta",
+      "shortName": "DCCN-BETA",
+      "year": 2018,
+      "dates": "11-13 May 2018",
+      "location": "Kuntai Hotel, Beijing, China"
+    },
+    {
       "slug": "defcon-25",
       "name": "DEF CON 25",
       "shortName": "DC25",
