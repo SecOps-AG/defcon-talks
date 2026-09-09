@@ -67,7 +67,7 @@
       "slug": "o365-squatting",
       "title": "O365 Squatting",
       "speakers": [
-        "Juan Francisco Bolívar",
+        "Juan Francisco Bol\u00edvar",
         "Jose Miguel Marichal"
       ],
       "track": "threat-intel",
@@ -364,7 +364,7 @@
         "lolbas"
       ],
       "teaser": "Uncovers popular Not-PowerShell offensive tools and demonstrates how defenders can spot non-PowerShell tradecraft.",
-      "summary": "The Shift Away from PowerShell Tradecraft\n\nEnhanced security visibility in PowerShell version 5—including Script Block Logging, Constrained Language Mode, and AMSI—pushed red teams toward alternative living-off-the-land techniques.\n\nEmergence of Not-PowerShell Tools\n\nAdversaries increasingly adopt compiled C# binaries, direct API invocations, and LOLBAS utilities that bypass standard PowerShell logging and monitoring configurations.\n\nBuilding Resilient Host Detections\n\nDefenders examine practical detection engineering methods using Sysmon, ETW, and process telemetry to expose unauthorized runtime executions, process injection, and unmanaged code execution.",
+      "summary": "The Shift Away from PowerShell Tradecraft\n\nEnhanced security visibility in PowerShell version 5\u2014including Script Block Logging, Constrained Language Mode, and AMSI\u2014pushed red teams toward alternative living-off-the-land techniques.\n\nEmergence of Not-PowerShell Tools\n\nAdversaries increasingly adopt compiled C# binaries, direct API invocations, and LOLBAS utilities that bypass standard PowerShell logging and monitoring configurations.\n\nBuilding Resilient Host Detections\n\nDefenders examine practical detection engineering methods using Sysmon, ETW, and process telemetry to expose unauthorized runtime executions, process injection, and unmanaged code execution.",
       "durationSeconds": 1895
     },
     {
@@ -384,6 +384,25 @@
       "teaser": "Recounts the investigation and law enforcement aftermath of an internal keylogger breach traced through TeamViewer logs and OSINT.",
       "summary": "Discovering an Internal Network Breach\n\nFollowing attendance at DEF CON Blue Team Village, an analyst uncovers a massive compromise at a non-profit client where a malicious actor deployed keyloggers across more than a hundred workstations.\n\nLog Parsing and OSINT Attribution\n\nLacking enterprise SIEM or IDS infrastructure, the responder manually parses server logs, uncovers suspicious TeamViewer connection artifacts, and leverages OSINT to identify the perpetrator's physical residence.\n\nLaw Enforcement Engagement and Confession\n\nA criminal dossier handed to local cybercrime investigators leads to a search warrant and a full confession, proving definitively that an insider was behind the widespread deployment.\n\nThe Complex Aftermath of Real-World Breaches\n\nDespite conclusive findings, unexpected organizational politics and undisclosed decisions result in no criminal charges being filed, illustrating the challenging real-world dynamics defenders navigate.",
       "durationSeconds": 1472
+    },
+    {
+      "youtubeId": "qFVTy4TgtZk",
+      "slug": "osquery-opensoc-ctf-tool-demo",
+      "title": "Osquery: OpenSOC CTF Tool Demo",
+      "speakers": [
+        "Whitney Champion"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "osquery",
+        "opensoc",
+        "ctf",
+        "incident-response",
+        "endpoint-forensics"
+      ],
+      "teaser": "Demonstrates using Osquery SQL syntax to query endpoint state and investigate security incidents during the OpenSOC defense CTF.",
+      "summary": null,
+      "durationSeconds": 511
     }
   ]
 }
