@@ -26,9 +26,16 @@ export function TalkCard({ talk }: { talk: TalkIndexEntry }) {
           loading="lazy"
           className="aspect-video w-full object-cover opacity-80 transition group-hover:opacity-100"
         />
-        <span className="absolute right-2 top-2 rounded-sm border border-acid/40 bg-void/85 px-1.5 py-0.5 text-[10px] uppercase tracking-[0.14em] text-acid">
-          {talk.eventShortName}
-        </span>
+        <div className="absolute right-2 top-2 flex items-center gap-1">
+          {talk.kind && talk.kind !== "talk" ? (
+            <span className="rounded-sm border border-cyan/40 bg-void/85 px-1.5 py-0.5 text-[10px] uppercase tracking-[0.14em] text-cyan">
+              {talk.kind}
+            </span>
+          ) : null}
+          <span className="rounded-sm border border-acid/40 bg-void/85 px-1.5 py-0.5 text-[10px] uppercase tracking-[0.14em] text-acid">
+            {talk.eventShortName}
+          </span>
+        </div>
         {duration ? (
           <span className="absolute bottom-2 right-2 rounded-sm border border-mint/20 bg-void/90 px-1.5 py-0.5 font-mono text-[10px] text-mint/90">
             {duration}

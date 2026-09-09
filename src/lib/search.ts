@@ -55,6 +55,7 @@ export type Filters = {
   topics: string[];
   speakers: string[];
   lengths: string[];
+  includeExtras: boolean;
   sort: SortKey;
   page: number;
 };
@@ -67,6 +68,7 @@ export const EMPTY_FILTERS: Filters = {
   topics: [],
   speakers: [],
   lengths: [],
+  includeExtras: false,
   sort: "relevance",
   page: 1,
 };
@@ -88,6 +90,7 @@ export function buildIndexEntry(talk: Talk): TalkIndexEntry {
     topics: talk.topics,
     teaser: talk.teaser ?? "",
     durationSeconds: talk.durationSeconds,
+    kind: talk.kind,
   };
 }
 
@@ -108,6 +111,7 @@ export function withHaystack(entries: TalkIndexEntry[]): SearchEntry[] {
       entry.eventShortName,
       entry.trackName,
       entry.topics.join(" "),
+      entry.kind,
     ]
       .join(" ")
       .toLowerCase(),
@@ -132,6 +136,7 @@ function matchesDimension(
   skip: Dimension | null,
 ): boolean {
   if (skip !== "q" && terms.length > 0 && !matchesQuery(entry, terms)) return false;
+  if (!filters.includeExtras && entry.kind !== "talk") return false;
   if (skip !== "years" && filters.years.length > 0 && !filters.years.includes(entry.year))
     return false;
   if (
@@ -204,10 +209,16 @@ export function sortTalks(
           a.title.localeCompare(b.title),
       );
     case "newest":
-      return sorted.sort(
-        (a, b) => b.year - a.year || a.villageName.localeCompare(b.villageName) ||
-          a.title.localeCompare(b.title),
-      );
+      return sorted.sort((a, b) => {
+        const channelA = a.eventSlug === "defcon-channel" ? 1 : 0;
+        const channelB = b.eventSlug === "defcon-channel" ? 1 : 0;
+        if (channelA !== channelB) return channelA - channelB;
+        return (
+          b.year - a.year ||
+          a.villageName.localeCompare(b.villageName) ||
+          a.title.localeCompare(b.title)
+        );
+      });
     case "village":
       return sorted.sort(
         (a, b) =>
@@ -217,10 +228,16 @@ export function sortTalks(
     case "relevance":
     default:
       if (terms.length === 0) {
-        return sorted.sort(
-          (a, b) => b.year - a.year || a.villageName.localeCompare(b.villageName) ||
-            a.title.localeCompare(b.title),
-        );
+        return sorted.sort((a, b) => {
+          const channelA = a.eventSlug === "defcon-channel" ? 1 : 0;
+          const channelB = b.eventSlug === "defcon-channel" ? 1 : 0;
+          if (channelA !== channelB) return channelA - channelB;
+          return (
+            b.year - a.year ||
+            a.villageName.localeCompare(b.villageName) ||
+            a.title.localeCompare(b.title)
+          );
+        });
       }
       return sorted.sort(
         (a, b) =>
@@ -345,7 +362,8 @@ export function countActive(filters: Filters): number {
     filters.tracks.length +
     filters.topics.length +
     filters.speakers.length +
-    filters.lengths.length
+    filters.lengths.length +
+    (filters.includeExtras ? 1 : 0)
   );
 }
 
@@ -396,6 +414,7 @@ export function filtersFromParams(params: URLSearchParams): Filters {
     topics: list("topic"),
     speakers: list("speakers"),
     lengths: list("length").filter((v) => ["under-20", "20-45", "45-plus"].includes(v)),
+    includeExtras: params.get("extras") === "1" || params.get("extras") === "true",
     sort: validSorts.includes(sort as SortKey) ? (sort as SortKey) : "relevance",
     page: Number.isFinite(page) && page > 0 ? page : 1,
   };
@@ -411,6 +430,7 @@ export function filtersToQuery(filters: Filters): string {
     const values = filters[field];
     if (values.length > 0) params.set(key, values.join(","));
   }
+  if (filters.includeExtras) params.set("extras", "1");
   if (filters.sort !== "relevance") params.set("sort", filters.sort);
   if (filters.page > 1) params.set("page", String(filters.page));
   return params.toString();

@@ -25,6 +25,8 @@ export type Taxonomy = {
   topicAliases?: Record<string, string>;
 };
 
+export type TalkKind = "talk" | "clip" | "interview" | "announcement";
+
 /** A talk exactly as authored in data/villages/<event>-<village>.json. */
 export type StoredTalk = {
   youtubeId: string;
@@ -37,6 +39,7 @@ export type StoredTalk = {
   summary?: string | TalkSummary | null;
   durationSeconds?: number;
   publishedAt?: string;
+  kind?: TalkKind;
 };
 
 /** One village at one event — the unit one ingest run produces. */
@@ -94,6 +97,7 @@ export type Talk = StoredTalk & {
   year: number;
   youtubeUrl: string;
   trackName: string;
+  kind: TalkKind;
 };
 
 /**
@@ -119,6 +123,7 @@ export type TalkIndexEntry = {
   topics: string[];
   teaser: string;
   durationSeconds?: number;
+  kind: TalkKind;
 };
 
 /**
