@@ -18,7 +18,7 @@
         "reverse-engineering"
       ],
       "teaser": "Reverse engineering CAN bus communication protocols and electronic control units to extract proprietary secrets and firmware logic from vehicles.",
-      "summary": "Automotive security: CAN i haz car secret plz. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Automotive security: CAN i haz car secret plz. Techniques for vehicle network and system exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1357
     },
     {
@@ -34,7 +34,7 @@
         "heavy-vehicle"
       ],
       "teaser": "Demonstrating low-cost hardware tools and open-source software for analyzing and injecting traffic on J1939 heavy vehicle networks.",
-      "summary": null,
+      "summary": "### Heavy Vehicle Architecture vs. Passenger Cars\nWhile automotive cybersecurity research has predominantly centered on consumer passenger vehicles, heavy-duty commercial vehicles—such as Class 7 and Class 8 semi-trucks, freight haulers, and municipal transit fleets—operate on radically different hardware architectures and communication standards. In this presentation delivered at the DEF CON 24 Car Hacking Village, researchers \"Six Volts\" and \"Haystack\" dismantle the complexities of commercial heavy vehicle networks, detailing their architectural differences from passenger cars and presenting low-cost, open-source hardware tools designed to make heavy vehicle security research accessible.\n\n### Heavy Vehicle Network Protocols: SAE J1939 and J1708\nCommercial truck systems do not utilize the standard OBD-II implementations or 11-bit CAN arbitration IDs found in personal automobiles:\n- **SAE J1939 Protocol:** Built on top of 250 kbps Controller Area Network (CAN), J1939 utilizes 29-bit extended frame identifiers containing Parameter Group Numbers (PGNs). These PGNs structure broadcast and peer-to-peer messages for engine control, transmission, braking, and telematics across multi-vendor components.\n- **Legacy SAE J1708/J1587:** Because commercial diesel engines regularly operate for over two million miles, modern truck chassis frequently incorporate legacy engines running the older J1708 differential serial protocol (operating at 9600 baud). Modern trucks often feature hybrid networks bridging both J1708 and J1939 buses.\n- **Physical Connectors:** Rather than standard 16-pin passenger OBD-II ports, heavy trucks utilize standardized Deutsch 9-pin or older 6-pin round vehicle diagnostic link connectors (DLC) located beneath the steering column.\n\n### The \"Truck in a Box\" Hardware Simulation Bench\nSecurity research on heavy vehicles faces enormous physical and financial barriers: commercial tractors easily exceed $100,000, weigh multiple tons, require specialized commercial driver's licenses (CDLs), and cannot be safely tested on public roads. To bypass these constraints, the researchers engineered a benchtop testbed named the \"Truck in a Box\":\n- **Component Harvest:** The testbed integrates salvaged components pulled directly from decommissioned freight trucks, including a Cummins Engine Control Module (ECM), an instrument cluster, an accelerator pedal assembly, and a power distribution unit.\n- **Sensor Simulation:** The bench incorporates arrays of potentiometers and signal generators to simulate dynamic real-world engine variables—such as oil pressure, coolant temperature, fuel rail pressure, and vehicle speed—allowing the ECM to operate normally in a contained laboratory environment.\n\n### Developing the Open-Source \"Truck Duck\" Adapter\nCommercial diagnostic hardware for heavy vehicles—such as the Dearborn DPA5 or Nexiq USB-Link—is prohibitively expensive, routinely costing between $700 and $1,500 with proprietary driver lock-in. To democratize research, the authors developed the \"Truck Duck\":\n- **Low-Cost Hardware Design:** An open-source hardware adapter built with off-the-shelf microcontrollers and dedicated CAN/J1708 transceivers, manufactured for a fraction of the cost of commercial tools.\n- **Multi-Protocol Support:** Capable of sniffing, filtering, and injecting both high-speed 29-bit J1939 CAN packets and low-speed J1708 serial messages simultaneously.\n- **Open Toolchain:** Interfaces directly with open-source packet capture and analysis utilities, outputting standard SocketCAN and serial streams into Wireshark and Python auditing scripts.\n\n### Parameter Tampering and Fleet Exploitation Scenarios\nUsing their hardware suite, the researchers demonstrate practical attack vectors against heavy truck ECMs:\n- **Governor Limit Modification:** The researchers reverse-engineer proprietary J1939 diagnostic command sessions to overwrite persistent configuration memory in the ECM. By sending forged parameter write commands, they successfully alter the vehicle's hard-coded speed governor, restricting the semi-truck to a maximum speed of 30 mph.\n- **Fleet Diagnostic Software Hijacking:** Commercial freight operators connect diagnostic laptops to every truck returning to maintenance depots to extract engine logs and trip performance metrics. The speakers demonstrate that compromised ECMs can return malformed diagnostic responses to exploit vulnerabilities in proprietary fleet management software, turning trucks into attack vectors against central depot IT networks.\n\n(AI summary — Gemini 3.8 Flash)",
       "durationSeconds": 1283
     },
     {
@@ -50,7 +50,7 @@
         "car-hacking"
       ],
       "teaser": "Using the Yard Stick One sub-1GHz wireless transceiver to capture, analyze, and replay signals from automotive key fobs.",
-      "summary": "Automotive security: Using Yard Stick One for FOB Fun. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Automotive security: Using Yard Stick One for FOB Fun. Techniques for vehicle network and system exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 784
     },
     {
@@ -84,7 +84,7 @@
         "automotive"
       ],
       "teaser": "An exploration of the electronic hardware design, microcontroller architecture, and hacking challenges built into the Car Hacking Village badge.",
-      "summary": "Automotive security: Hacking the CHV Badge. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Automotive security: Hacking the CHV Badge. Techniques for vehicle network and system exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 683
     },
     {
@@ -118,7 +118,7 @@
         "reverse-engineering"
       ],
       "teaser": "A deep dive into cryptographic weaknesses and protocol vulnerabilities discovered in widely deployed automotive immobilizer transponder systems.",
-      "summary": "Automotive security: Vehicle Security Research. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Automotive security: Vehicle Security Research. Techniques for vehicle network and system exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3902
     },
     {
@@ -154,7 +154,7 @@
         "protocols"
       ],
       "teaser": "Evaluating vehicle-to-infrastructure (V2X) communication standards, examining message authentication, wireless protocols, and traffic safety implications.",
-      "summary": "Automotive security: Car Hacking Analysis. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Automotive security: Car Hacking Analysis. Techniques for vehicle network and system exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2272
     },
     {
