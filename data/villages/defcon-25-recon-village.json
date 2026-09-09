@@ -12,13 +12,15 @@
       "speakers": [
         "Tyler Rorabaugh"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
         "osint",
         "automation",
-        "bug-bounty"
+        "reconnaissance",
+        "dfir",
+        "security-tools"
       ],
-      "teaser": "DFIR Automation Orchestration Tools For OSINT Recon",
+      "teaser": "Automate OSINT reconnaissance and digital forensics through orchestration tools that streamline attack surface discovery.",
       "summary": null,
       "durationSeconds": 1140
     },
@@ -27,15 +29,17 @@
       "slug": "tracy-maleeff-into-the-birds-nest-a-comprehensive-look-at-twitte",
       "title": "Into the Bird's Nest: A Comprehensive Look at Twitter",
       "speakers": [
-        "Tracy  Maleeff"
+        "Tracy Maleeff"
       ],
       "track": "osint",
       "topics": [
         "reconnaissance",
         "osint",
-        "social-media"
+        "social-media",
+        "twitter-analysis",
+        "public-intelligence"
       ],
-      "teaser": "Into the Bird's Nest: A Comprehensive Look at Twitter",
+      "teaser": "Comprehensive OSINT techniques for extracting intelligence from Twitter, including metadata analysis, account tracking, and network mapping.",
       "summary": null,
       "durationSeconds": 2105
     },
@@ -44,13 +48,15 @@
       "slug": "winner-announcement-prize-distribution",
       "title": "Winner Announcement Prize Distribution",
       "speakers": [
-        "Winner Announcement Prize Distribution"
+        "DEF CON 25 Recon Village"
       ],
       "track": "community",
       "topics": [
-        "reconnaissance"
+        "community",
+        "competitions",
+        "event-closing"
       ],
-      "teaser": "Winner Announcement Prize Distribution",
+      "teaser": "Recognition and prize distribution for contest winners and top performers in the Recon Village.",
       "summary": null,
       "durationSeconds": 980
     },
@@ -61,13 +67,15 @@
       "speakers": [
         "Simon Roses"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
         "reconnaissance",
         "osint",
-        "source-code-analysis"
+        "source-code-analysis",
+        "developer-intelligence",
+        "github-reconnaissance"
       ],
-      "teaser": "OSINT Tactics on Source Code and Developers",
+      "teaser": "OSINT techniques for tracking developers, analyzing public source code, and identifying sensitive information exposed in repositories.",
       "summary": null,
       "durationSeconds": 2582
     },
@@ -81,9 +89,12 @@
       "track": "osint",
       "topics": [
         "osint",
-        "bug-bounty"
+        "reconnaissance",
+        "bug-bounty",
+        "emerging-techniques",
+        "future-trends"
       ],
-      "teaser": "Keynote:  Seeing is Believing   The Future of Recon",
+      "teaser": "Keynote vision for the evolving landscape of reconnaissance—emerging tools, techniques, and methodologies shaping the future of OSINT.",
       "summary": null,
       "durationSeconds": 2661
     },
@@ -98,9 +109,11 @@
       "topics": [
         "reconnaissance",
         "osint",
-        "mobile-reconnaissance"
+        "mobile-intelligence",
+        "mobile-devices",
+        "target-identification"
       ],
-      "teaser": "Up Close and Personal: Keeping an Eye On Mobile",
+      "teaser": "Mobile-focused OSINT techniques for tracking individuals and organizations through mobile devices and location data.",
       "summary": null,
       "durationSeconds": 927
     },
@@ -111,12 +124,15 @@
       "speakers": [
         "Leah Figueroa"
       ],
-      "track": "osint",
+      "track": "policy",
       "topics": [
         "reconnaissance",
-        "osint"
+        "osint",
+        "education-privacy",
+        "ferpa-violations",
+        "target-profiling"
       ],
-      "teaser": "FERPA: Only Grades Are Safe; OSINT In Higher Education",
+      "teaser": "Explore OSINT vulnerabilities in higher education systems and how institutions' public data can be exploited to profile students and staff.",
       "summary": null,
       "durationSeconds": 2257
     },
@@ -127,13 +143,15 @@
       "speakers": [
         "Kunal Aggarwal"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
         "reconnaissance",
         "osint",
-        "data-analysis"
+        "data-analysis",
+        "automation-tools",
+        "datasploit"
       ],
-      "teaser": "DataSploit Open Source Assistant for OSINT",
+      "teaser": "DataSploit—an open-source tool for automating OSINT tasks including domain analysis, email tracking, and data collection.",
       "summary": null,
       "durationSeconds": 1153
     },
@@ -144,13 +162,15 @@
       "speakers": [
         "Jason Haddix"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
         "reconnaissance",
         "osint",
-        "asset-discovery"
+        "asset-discovery",
+        "domain-enumeration",
+        "scope-expansion"
       ],
-      "teaser": "Domain Discovery:Expanding Your Scope Like A Boss",
+      "teaser": "Comprehensive domain discovery and asset enumeration techniques for expanding attack surface and identifying hidden organizational infrastructure.",
       "summary": null,
       "durationSeconds": 2529
     },
@@ -165,9 +185,11 @@
       "topics": [
         "reconnaissance",
         "osint",
-        "social-media"
+        "social-media",
+        "dating-apps",
+        "bot-analysis"
       ],
-      "teaser": "Do Tinder Bots Dream of Electric Toys",
+      "teaser": "OSINT techniques using dating apps like Tinder for intelligence gathering, profiling, and reconnaissance operations.",
       "summary": null,
       "durationSeconds": 1748
     },
@@ -176,15 +198,17 @@
       "slug": "guillermo-buendia-yael-esquivel-how-to-obtain-100-facebooks-a-da",
       "title": "How To Obtain 100 Facebooks a Day",
       "speakers": [
-        "Guillermo Buendia,  Yael Esquivel"
+        "Guillermo Buendia, Yael Esquivel"
       ],
       "track": "osint",
       "topics": [
         "reconnaissance",
         "osint",
-        "social-media"
+        "social-media",
+        "facebook-intelligence",
+        "bulk-collection"
       ],
-      "teaser": "How To Obtain 100 Facebooks a Day",
+      "teaser": "Large-scale Facebook OSINT techniques for bulk intelligence gathering, account enumeration, and relationship mapping.",
       "summary": null,
       "durationSeconds": 1285
     },
@@ -193,14 +217,17 @@
       "slug": "dakota-nelson-total-recoll",
       "title": "Dakota Nelson -Total Recoll",
       "speakers": [
-        "Dakota Nelson -Total Recoll"
+        "Dakota Nelson"
       ],
       "track": "osint",
       "topics": [
         "reconnaissance",
-        "osint"
+        "osint",
+        "total-recall-tool",
+        "social-media-analysis",
+        "memory-reconnaissance"
       ],
-      "teaser": "Dakota Nelson -Total Recoll",
+      "teaser": "Total Recall tool and techniques for comprehensive social media reconnaissance and data extraction from public profiles.",
       "summary": null,
       "durationSeconds": 663
     },
@@ -215,9 +242,11 @@
       "topics": [
         "reconnaissance",
         "osint",
-        "search-techniques"
+        "search-techniques",
+        "index-building",
+        "deep-search"
       ],
-      "teaser": "Building Google For Criminal Enterprises",
+      "teaser": "Building custom search indices and databases for targeted OSINT—creating specialized search engines for criminal or organizational intelligence.",
       "summary": null,
       "durationSeconds": 2497
     },
@@ -228,13 +257,15 @@
       "speakers": [
         "Andrew Hay"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
         "reconnaissance",
         "osint",
-        "data-analysis"
+        "data-analysis",
+        "graph-theory",
+        "network-analysis"
       ],
-      "teaser": "An Introduction to Graph Theory for OSINT",
+      "teaser": "Apply graph theory and network analysis to OSINT data for uncovering relationships, detecting patterns, and mapping organizational structures.",
       "summary": null,
       "durationSeconds": 2102
     },
@@ -245,12 +276,15 @@
       "speakers": [
         "Abhijeth Dugginapeddi"
       ],
-      "track": "osint",
+      "track": "red-team",
       "topics": [
         "osint",
-        "bug-bounty"
+        "bug-bounty",
+        "reconnaissance",
+        "vulnerability-hunting",
+        "penetration-testing"
       ],
-      "teaser": "Recon and Bug Bounties What A Great Love Story",
+      "teaser": "Combining robust reconnaissance techniques with bug bounty hunting to maximize finding and reporting vulnerabilities at scale.",
       "summary": null,
       "durationSeconds": 1754
     }
