@@ -65,6 +65,14 @@
       "location": "Paris, Bally's, Flamingo, and Planet Hollywood hotels, Las Vegas"
     },
     {
+      "slug": "defcon-china-1",
+      "name": "DEF CON China 1",
+      "shortName": "DCCN1",
+      "year": 2019,
+      "dates": "11-13 May 2019",
+      "location": "751 D-Park, Beijing, China"
+    },
+    {
       "slug": "defcon-26",
       "name": "DEF CON 26",
       "shortName": "DC26",
