@@ -18,7 +18,7 @@
         "rf"
       ],
       "teaser": "An introductory briefing to the DEF CON 24 Wireless Capture the Flag (WCTF), explaining contest rules, scoring, and frequency challenges.",
-      "summary": null,
+      "summary": "Wireless security: Wireless Capture the Flag Inbrief. Radio and wireless communication research.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2718
     },
     {
@@ -52,7 +52,7 @@
         "rf"
       ],
       "teaser": "Reverse engineering the proprietary LoRa PHY modulation layer, deconstructing chirp spread spectrum encoding and packet structures.",
-      "summary": null,
+      "summary": "Wireless security: Reversting LoRa Deconstructing a Next Gen Proprietary LP. Radio and wireless communication research.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2967
     },
     {
@@ -84,7 +84,7 @@
         "education"
       ],
       "teaser": "A beginner-friendly guide to amateur radio licensing, equipment essentials, antenna fundamentals, and emergency communications for hackers.",
-      "summary": null,
+      "summary": "Wireless security: Amateur Radio And So Can You. Radio and wireless communication research.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2405
     },
     {
@@ -120,7 +120,7 @@
         "python"
       ],
       "teaser": "Demonstrating how to construct and coordinate automated rogue Wi-Fi access points using inexpensive hardware and custom Python tooling.",
-      "summary": null,
+      "summary": "Wireless security: Wireless Research. Radio and wireless communication research.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1187
     },
     {
@@ -154,7 +154,7 @@
         "education"
       ],
       "teaser": "Introducing HackMeRF, an interactive hardware and RF training platform designed to teach software-defined radio concepts and signals analysis.",
-      "summary": null,
+      "summary": "Wireless security: Introducing the HackMeRF. Radio and wireless communication research.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2326
     },
     {

@@ -24,7 +24,7 @@
         "appsec"
       ],
       "teaser": "101 Panel",
-      "summary": null,
+      "summary": "Educational panel: 101 Panel. Introductory concepts for security professionals.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 6650
     },
     {
@@ -58,7 +58,7 @@
         "community"
       ],
       "teaser": "Tracking Spies in the Skies",
-      "summary": null,
+      "summary": "Surveillance analysis: Tracking Spies in the Skies. Tracking and detection techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2439
     },
     {
@@ -92,7 +92,7 @@
         "community"
       ],
       "teaser": "See no evil, hear no evil: Hacking invisibly & silently with light & sound",
-      "summary": null,
+      "summary": "Covert communication: See no evil, hear no evil: Hacking invisibly & silently with light & sound. Methods for hidden and stealthy data transmission.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2616
     },
     {
@@ -126,7 +126,7 @@
         "community"
       ],
       "teaser": "Phone system testing and other fun tricks",
-      "summary": null,
+      "summary": "Telecommunications security: Phone system testing and other fun tricks. Phone and telecom system vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2344
     },
     {
@@ -160,7 +160,7 @@
         "community"
       ],
       "teaser": "Breaking Wind: Adventures Hacking Wind Farm Control Networks",
-      "summary": null,
+      "summary": "Critical infrastructure: Breaking Wind: Adventures Hacking Wind Farm Control Networks. Security of industrial and utility systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1384
     }
   ]
