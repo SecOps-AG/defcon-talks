@@ -14,25 +14,32 @@
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking"
+        "automotive-security",
+        "eld-systems",
+        "logging-devices",
+        "heavy-vehicles",
+        "cans-bus"
       ],
-      "teaser": "Heavy Truck and Electronic Logging Devices",
+      "teaser": "Security vulnerabilities in electronic logging devices (ELDs) used in heavy trucks and commercial vehicles.",
       "summary": null,
       "durationSeconds": 1917
     },
     {
       "youtubeId": "0O3pwRHYYKg",
       "slug": "weston-hecker-grand-theft-radio-stopping-sdr-relay-attacks",
-      "title": "Grand Theft Radio  Stopping SDR Relay Attacks",
+      "title": "Grand Theft Radio: Stopping SDR Relay Attacks",
       "speakers": [
         "Weston Hecker"
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "wireless"
+        "relay-attacks",
+        "sdr",
+        "car-key-fobs",
+        "wireless-compromise",
+        "automotive"
       ],
-      "teaser": "Grand Theft Radio  Stopping SDR Relay Attacks",
+      "teaser": "Wireless relay attacks on vehicle key fobs using software-defined radios and mitigation strategies.",
       "summary": null,
       "durationSeconds": 1520
     },
@@ -45,26 +52,34 @@
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "gps-spoofing"
+        "gps-spoofing",
+        "gnss-attacks",
+        "navigation-systems",
+        "automotive",
+        "signal-spoofing"
       ],
-      "teaser": "GPS System Integrity",
+      "teaser": "GPS spoofing attacks against vehicle navigation and autonomous systems.",
       "summary": null,
       "durationSeconds": 1432
     },
     {
       "youtubeId": "LmBixGkhEuI",
       "slug": "tim-b1tbane-mitch-johnson-ehntoo-thats-no-car-its-a-network",
-      "title": "That's No Car  Its a Network",
+      "title": "That's No Car: Its a Network",
       "speakers": [
-        "Tim b1tbane, Mitch Johnson, ehntoo"
+        "Tim b1tbane",
+        "Mitch Johnson",
+        "ehntoo"
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "vehicle-networks"
+        "vehicle-networks",
+        "can-bus",
+        "lin-bus",
+        "automotive-protocols",
+        "network-security"
       ],
-      "teaser": "That's No Car  Its a Network",
+      "teaser": "Vehicle communication networks, protocols, and attack surfaces on automotive bus systems.",
       "summary": null,
       "durationSeconds": 2122
     },
@@ -73,13 +88,18 @@
       "slug": "sheila-ayelen-berta-claudio-caracciolo-the-bicho",
       "title": "The Bicho",
       "speakers": [
-        "Sheila Ayelen Berta, Claudio Caracciolo"
+        "Sheila Ayelen Berta",
+        "Claudio Caracciolo"
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking"
+        "automotive-hacking",
+        "reverse-engineering",
+        "firmware-analysis",
+        "vehicle-hardware",
+        "exploitation"
       ],
-      "teaser": "The Bicho",
+      "teaser": "Reverse engineering and exploitation of vehicle embedded systems and automotive hardware.",
       "summary": null,
       "durationSeconds": 1926
     },
@@ -88,14 +108,18 @@
       "slug": "sameer-dixit-vlad-gostomelsky-abusing-smart-cars-with-qr-codes",
       "title": "Abusing Smart Cars with QR Codes",
       "speakers": [
-        "Sameer Dixit,  Vlad Gostomelsky"
+        "Sameer Dixit",
+        "Vlad Gostomelsky"
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "iot"
+        "qr-code-attacks",
+        "mobile-interfaces",
+        "connected-vehicles",
+        "smart-cars",
+        "iot-security"
       ],
-      "teaser": "Abusing Smart Cars with QR Codes",
+      "teaser": "Using QR codes to exploit smart car interfaces and connected vehicle systems.",
       "summary": null,
       "durationSeconds": 1443
     },
@@ -104,13 +128,19 @@
       "slug": "montalbano-gillispie-connett",
       "title": "Attacking Wireless Interfaces",
       "speakers": [
-        "Montalbano, Gillispie, Connett"
+        "Montalbano",
+        "Gillispie",
+        "Connett"
       ],
       "track": "red-team",
       "topics": [
-        "wireless"
+        "wireless-interfaces",
+        "bluetooth",
+        "wifi-automotive",
+        "vehicle-communication",
+        "rf-attacks"
       ],
-      "teaser": "Attacking Wireless Interfaces",
+      "teaser": "Wireless attack vectors on Bluetooth, WiFi, and RF interfaces in modern vehicles.",
       "summary": null,
       "durationSeconds": 2063
     },
@@ -123,10 +153,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "automotive-security"
+        "autosar",
+        "automotive-software",
+        "secure-coding",
+        "vehicle-firmware",
+        "embedded-security"
       ],
-      "teaser": "An Introduction to AUTOSAR Secure Onboard",
+      "teaser": "AUTOSAR standard and secure onboard diagnostic protocols for automotive embedded systems.",
       "summary": null,
       "durationSeconds": 2625
     },
@@ -135,14 +168,18 @@
       "slug": "woodbury-haltmeyer",
       "title": "Linux Stack Based V2X Framework",
       "speakers": [
-        "Woodbury,  Haltmeyer"
+        "Woodbury",
+        "Haltmeyer"
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "vehicle-communication"
+        "v2x",
+        "vehicle-communication",
+        "dsrc",
+        "connected-vehicles",
+        "linux-automotive"
       ],
-      "teaser": "Linux Stack Based V2X Framework",
+      "teaser": "Vehicle-to-everything (V2X) communication protocols and Linux-based implementations in connected vehicles.",
       "summary": null,
       "durationSeconds": 1711
     },
@@ -150,14 +187,16 @@
       "youtubeId": "-aJUUdKRy_k",
       "slug": "badge-life-defcon-unofficial-badges-panel",
       "title": "Badge Life: DEFCON Unofficial Badges Panel",
-      "speakers": [
-        "Badge Life: DEFCON Unofficial Badges Panel"
-      ],
-      "track": "red-team",
+      "speakers": [],
+      "track": "community",
       "topics": [
-        "car-hacking"
+        "badge-community",
+        "hardware-projects",
+        "defcon-culture",
+        "diy-electronics",
+        "maker-community"
       ],
-      "teaser": "Badge Life: DEFCON Unofficial Badges Panel",
+      "teaser": "Community discussion on DIY electronic badges at DEF CON and the maker culture.",
       "summary": null,
       "durationSeconds": 2991
     },
@@ -166,15 +205,19 @@
       "slug": "mickey-shkatov-jesse-michael-oleksandr-bazhaniuk-driving-down-th",
       "title": "Driving down the rabbit hole",
       "speakers": [
-        "Mickey Shkatov, Jesse Michael, Oleksandr Bazhaniuk"
+        "Mickey Shkatov",
+        "Jesse Michael",
+        "Oleksandr Bazhaniuk"
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "vehicle-networks",
-        "exploitation"
+        "automotive-research",
+        "vulnerability-disclosure",
+        "reverse-engineering",
+        "firmware-hacking",
+        "car-security"
       ],
-      "teaser": "Driving down the rabbit hole",
+      "teaser": "Deep dive into complex vehicle vulnerabilities and the discovery process for modern automotive exploits.",
       "summary": null,
       "durationSeconds": 2286
     }
