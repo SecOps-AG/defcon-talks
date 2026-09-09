@@ -1,0 +1,104 @@
+{
+  "villageSlug": "presentations-crypto",
+  "villageName": "Presentations Crypto",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDK_Lk1DtcxD5X8MoubaBJ_",
+  "description": "Presentations on Cryptography at DEF CON 23 covers secure messaging protocols, applied cryptographic primitives, cryptocurrency brainwallet cracking, and SSL/TLS time synchronization bypasses.",
+  "talks": [
+    {
+      "youtubeId": "S_YRo0iPjYc",
+      "slug": "justin-engler-secure-messaging-for-normal-people",
+      "title": "Secure Messaging for Normal People",
+      "speakers": [
+        "Justin Engler"
+      ],
+      "track": "privacy",
+      "topics": [
+        "messaging",
+        "cryptography",
+        "privacy",
+        "encryption",
+        "secure-communication"
+      ],
+      "teaser": "Justin Engler examines end-to-end encryption usability, key management, and cryptographic challenges in building secure messaging systems for mainstream users.",
+      "summary": null,
+      "durationSeconds": 3010
+    },
+    {
+      "youtubeId": "lTngMxmymX4",
+      "slug": "eijah-crypto-for-hackers",
+      "title": "Crypto for Hackers",
+      "speakers": [
+        "Eijah"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "encryption",
+        "ciphers",
+        "privacy",
+        "decentralization"
+      ],
+      "teaser": "Eijah provides a practical primer on applied cryptography, cipher selection, implementation pitfalls, and decentralization principles for security researchers.",
+      "summary": null,
+      "durationSeconds": 3351
+    },
+    {
+      "youtubeId": "pkh7gUm82QY",
+      "slug": "david-huerta-alice-and-bob-are-really-confused",
+      "title": "Alice and Bob are Really Confused",
+      "speakers": [
+        "David Huerta"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "usability",
+        "privacy",
+        "encryption",
+        "pgp"
+      ],
+      "teaser": "David Huerta explores the human factors and usability failures of cryptographic tools, demonstrating how poor UX undermines real-world privacy and key management.",
+      "summary": null,
+      "durationSeconds": 2621
+    },
+    {
+      "youtubeId": "foil0hzl4Pg",
+      "slug": "ryan-castellucci-cracking-cryptocurrency-brainwallets",
+      "title": "Cracking CryptoCurrency Brainwallets",
+      "speakers": [
+        "Ryan Castellucci"
+      ],
+      "track": "red-team",
+      "topics": [
+        "cryptocurrency",
+        "brainwallets",
+        "bitcoin",
+        "password-cracking",
+        "cryptography"
+      ],
+      "teaser": "Ryan Castellucci details methods and high-performance tooling for auditing and cracking cryptocurrency brainwallets derived from human-generated passphrases.",
+      "summary": null,
+      "durationSeconds": 2569
+    },
+    {
+      "youtubeId": "hkw9tFnJk8k",
+      "slug": "jose-selvi-breaking-ssl-using-time-synchronisation-attacks",
+      "title": "Breaking SSL Using Time Synchronisation Attacks",
+      "speakers": [
+        "Jose Selvi"
+      ],
+      "track": "appsec",
+      "topics": [
+        "ssl",
+        "tls",
+        "ntp",
+        "mitm",
+        "cryptography"
+      ],
+      "teaser": "Jose Selvi demonstrates how manipulating Network Time Protocol (NTP) synchronisation allows bypassing SSL/TLS certificate expiration checks and HSTS protections.",
+      "summary": null,
+      "durationSeconds": 2978
+    }
+  ]
+}
