@@ -1404,6 +1404,26 @@
       "teaser": "Weston Hecker demonstrates magnetic secure transmission (MST) injection attacks against hotel electronic keycards and point-of-sale terminals to manipulate cash drawers and brute-force guest room credentials.",
       "summary": "Flaws in Hotel Keycard Infrastructure\n\nHotel electronic lock systems and property management systems (PMS) rely on predictable data formats encoded onto guest keycards. Weston Hecker analyzes cryptographic and structural weaknesses in room key encoding schemes across hospitality management platforms.\n\nAutomating MST Injection and Brute-Force Key Generation\n\nUsing modified Magnetic Secure Transmission (MST) transmitters, the researcher demonstrates how an attacker can capture legitimate card tracks and extrapolate adjacent guest room codes, enabling automated brute-force attacks against electronic guest room locks.\n\nKeystroke Injection Against Point-of-Sale Terminals\n\nThe presentation reveals vulnerabilities in retail and hotel point-of-sale (POS) card readers, showing how malformed magnetic stripe waveforms can inject arbitrary keystrokes directly into POS operating systems to bypass authentication and open cash drawers.",
       "durationSeconds": 2659
+    },
+    {
+      "youtubeId": "w2A9x1pVXGk",
+      "slug": "zack-fasel-erin-jacobs-i-fight-for-the-users-episode-i",
+      "title": "I Fight For The Users - Episode I",
+      "speakers": [
+        "Zack Fasel",
+        "Erin Jacobs"
+      ],
+      "track": "hardware",
+      "topics": [
+        "consumer-devices",
+        "iot",
+        "firmware",
+        "vulnerability-research",
+        "hardware"
+      ],
+      "teaser": "A consumer reports style walkthrough exposing systemic security flaws across 21 consumer products including DIY home security and fitness trackers.",
+      "summary": null,
+      "durationSeconds": 2599
     }
   ]
 }
