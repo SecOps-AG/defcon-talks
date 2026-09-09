@@ -1,0 +1,451 @@
+{
+  "villageSlug": "cloud-village",
+  "villageName": "Cloud Village",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL5944c_fOMYnjFKURwrmPXeALzq1mXy7c",
+  "description": "DEF CON 33 Cloud Village talks covering cloud security offense and defense across AWS, Azure, GCP, and Kubernetes environments.",
+  "talks": [
+    {
+      "youtubeId": "mBBnhFo6l1U",
+      "slug": "no-server-no-cry-the-ups-and-downs-of-building-a-scalable-securi",
+      "title": "No Server, No Cry: the Ups and Downs of Building a Scalable Security Serverless Platform",
+      "speakers": [
+        "Aviram",
+        "Uri Gutman"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "serverless",
+        "security-engineering"
+      ],
+      "teaser": "Lessons from building a scalable security platform on serverless cloud infrastructure.",
+      "summary": null,
+      "durationSeconds": 1357
+    },
+    {
+      "youtubeId": "P_QZ8noX4HY",
+      "slug": "identity-crisis-the-unmanaged-world-of-azure-managed-identities",
+      "title": "Identity Crisis: The Unmanaged World of Azure Managed Identities - Alon Klayman and Eliraz Levi",
+      "speakers": [
+        "Alon Klayman",
+        "Eliraz Levi"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "azure",
+        "identity"
+      ],
+      "teaser": "Exposing the hidden risks of Azure Managed Identities and how attackers exploit unmanaged identities.",
+      "summary": null,
+      "durationSeconds": 2273
+    },
+    {
+      "youtubeId": "MfGfHHkQppg",
+      "slug": "auths-gone-wild-when-authenticated-means-anyone",
+      "title": "Auths Gone Wild: When ‘Authenticated’ Means Anyone",
+      "speakers": [
+        "Danielle Aminov",
+        "Yaara Shriki"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "azure",
+        "authentication",
+        "appsec"
+      ],
+      "teaser": "How misconfigured authentication allows unauthenticated access to cloud resources.",
+      "summary": null,
+      "durationSeconds": 1212
+    },
+    {
+      "youtubeId": "JyImGHNijTQ",
+      "slug": "transforming-identity-protection-innovating-with-ai-and-attack-p",
+      "title": "Transforming Identity Protection: Innovating with AI and Attack Paths",
+      "speakers": [
+        "Filipi Pires"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "identity",
+        "ai",
+        "attack-paths"
+      ],
+      "teaser": "Combining AI and attack-path analysis to transform cloud identity protection.",
+      "summary": null,
+      "durationSeconds": 1567
+    },
+    {
+      "youtubeId": "HVWN2Y1kzXM",
+      "slug": "no-ip-no-problem-exfiltrating-data-behind-iap",
+      "title": "No IP, No Problem: Exfiltrating Data Behind IAP",
+      "speakers": [
+        "Ariel Kalman"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "gcp",
+        "exfiltration",
+        "red-team"
+      ],
+      "teaser": "Exfiltrating cloud data from behind Google Identity-Aware Proxy without a public IP.",
+      "summary": null,
+      "durationSeconds": 1074
+    },
+    {
+      "youtubeId": "FsfnA4OT5QQ",
+      "slug": "command-and-kubectl-kubernetes-security-for-pentesters-and-defen",
+      "title": "Command and KubeCTL: Kubernetes Security for Pentesters and Defenders",
+      "speakers": [
+        "Mark Manning"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "kubernetes",
+        "red-team",
+        "blue-team"
+      ],
+      "teaser": "Practical Kubernetes security techniques for both offensive and defensive practitioners.",
+      "summary": null,
+      "durationSeconds": 1385
+    },
+    {
+      "youtubeId": "730Qd3gjniU",
+      "slug": "may-the-least-privilege-be-with-you",
+      "title": "May the Least Privilege Be With You",
+      "speakers": [
+        "Marios Gyftos",
+        "Nikos Vourdas"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "iam",
+        "least-privilege",
+        "azure"
+      ],
+      "teaser": "Implementing and enforcing least-privilege IAM policies across cloud environments.",
+      "summary": null,
+      "durationSeconds": 2431
+    },
+    {
+      "youtubeId": "2SFa09fYqW4",
+      "slug": "hypervisor-hangover-persistence-mechanisms-on-esxi-jc-crashwire",
+      "title": "Hypervisor Hangover: Persistence Mechanisms on ESXi - JC(Crashwire) and Nathan",
+      "speakers": [
+        "Crashwire",
+        "Nathan"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "vmware",
+        "esxi",
+        "persistence",
+        "red-team"
+      ],
+      "teaser": "Novel ESXi hypervisor persistence techniques for maintaining long-term access in cloud environments.",
+      "summary": null,
+      "durationSeconds": 1916
+    },
+    {
+      "youtubeId": "dm6vvL7HoUw",
+      "slug": "weaponizing-sagemaker-ai-real-world-offense-in-machine-learning",
+      "title": "Weaponizing SageMaker AI: Real-World Offense in Machine Learning Platforms",
+      "speakers": [
+        "Shani Peled"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "ai-security",
+        "aws",
+        "red-team"
+      ],
+      "teaser": "Exploiting AWS SageMaker to gain persistence and exfiltrate data from ML platforms.",
+      "summary": null,
+      "durationSeconds": 1470
+    },
+    {
+      "youtubeId": "bo5Vz6iOSXw",
+      "slug": "exploring-the-possibilities-of-azure-fabric-abuses",
+      "title": "Exploring The Possibilities of Azure Fabric Abuses",
+      "speakers": [
+        "Viktor Gazdag"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "azure",
+        "red-team",
+        "microsoft-fabric"
+      ],
+      "teaser": "Attack surface analysis and abuse possibilities of Microsoft Azure Fabric services.",
+      "summary": null,
+      "durationSeconds": 1821
+    },
+    {
+      "youtubeId": "lBlqhp1xv90",
+      "slug": "uncovering-hidden-threats-the-risks-of-dangling-issuers-in-feder",
+      "title": "Uncovering Hidden Threats: The Risks of Dangling Issuers in Federated Credentials",
+      "speakers": [
+        "Gautam Peri"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "azure",
+        "identity",
+        "oauth"
+      ],
+      "teaser": "Dangling issuer vulnerabilities in federated cloud credentials and how to exploit them.",
+      "summary": null,
+      "durationSeconds": 1895
+    },
+    {
+      "youtubeId": "LkM2RYiNwI8",
+      "slug": "restless-guests-from-subscription-to-backdoor-intruder",
+      "title": "Restless Guests: From Subscription to Backdoor Intruder",
+      "speakers": [
+        "Simon Maxwell-Stewart"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "azure",
+        "red-team",
+        "persistence"
+      ],
+      "teaser": "Turning Azure subscription access into persistent backdoor access across tenants.",
+      "summary": null,
+      "durationSeconds": 2359
+    },
+    {
+      "youtubeId": "QZstdpqchxA",
+      "slug": "tencentgoat-an-intentionally-vulnerable-tencent-cloud-environmen",
+      "title": "TencentGoat: An Intentionally Vulnerable Tencent Cloud Environment",
+      "speakers": [
+        "Muhammad Yuga Nugraha"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "red-team",
+        "lab-environment",
+        "cloud-security"
+      ],
+      "teaser": "TencentGoat: an intentionally vulnerable Tencent Cloud environment for hands-on cloud security training.",
+      "summary": null,
+      "durationSeconds": 1369
+    },
+    {
+      "youtubeId": "YTMmiIxL9ig",
+      "slug": "squarephish-2-0-turning-qr-codes-into-entra-id-primary-refresh-t",
+      "title": "SquarePhish 2.0 - Turning QR Codes into Entra ID Primary Refresh Tokens",
+      "speakers": [
+        "Nevada",
+        "Kam"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "phishing",
+        "entra-id",
+        "social-engineering"
+      ],
+      "teaser": "Evolving SquarePhish to weaponize QR codes for Entra ID Primary Refresh Token extraction.",
+      "summary": null,
+      "durationSeconds": 1359
+    },
+    {
+      "youtubeId": "JExFqn7aKNs",
+      "slug": "sweet-deception-designing-effective-m365-honey-tokens",
+      "title": "Sweet Deception: Designing Effective M365 Honey Tokens",
+      "speakers": [
+        "Ryan O'Donnell"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "blue-team",
+        "deception",
+        "microsoft-365"
+      ],
+      "teaser": "Designing effective honey tokens in Microsoft 365 to detect and attribute cloud intrusions.",
+      "summary": null,
+      "durationSeconds": 1207
+    },
+    {
+      "youtubeId": "8Hq1MXu6mFk",
+      "slug": "building-the-cross-cloud-kill-chain-a-des-playbook-for-aws-azure",
+      "title": "Building the Cross-Cloud Kill Chain: A DE's Playbook for AWS, Azure & GCP Detections",
+      "speakers": [
+        "Gowthamaraj Rajendran"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "blue-team",
+        "aws",
+        "azure",
+        "detection-engineering"
+      ],
+      "teaser": "Building cross-cloud kill chain detections for AWS, Azure, and GCP attacks.",
+      "summary": null,
+      "durationSeconds": 1686
+    },
+    {
+      "youtubeId": "A1JZSSVYJIg",
+      "slug": "spotter-universal-kubernetes-security-engine",
+      "title": "Spotter - Universal Kubernetes Security Engine",
+      "speakers": [
+        "Madhu Akula"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "kubernetes",
+        "security-tools",
+        "open-source"
+      ],
+      "teaser": "Spotter: a universal Kubernetes security engine for automated runtime threat detection.",
+      "summary": null,
+      "durationSeconds": 1402
+    },
+    {
+      "youtubeId": "700JIVRB4OY",
+      "slug": "threat-modelling-at-scale-breaking-down-cloud-complexity",
+      "title": "Threat Modelling at Scale: Breaking Down Cloud Complexity",
+      "speakers": [
+        "Hanna Papirna",
+        "Emma Yuan Fang"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "threat-modeling",
+        "security-engineering",
+        "risk"
+      ],
+      "teaser": "Scaling threat modeling to handle the complexity of modern multi-cloud architectures.",
+      "summary": null,
+      "durationSeconds": 2191
+    },
+    {
+      "youtubeId": "-yjcRS4GhLo",
+      "slug": "whoami-discovering-and-exploiting-a-large-scale-ami-name-confusi",
+      "title": "whoAMI: Discovering and exploiting a large-scale AMI name confusion attack",
+      "speakers": [
+        "Seth Art"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "aws",
+        "supply-chain",
+        "name-confusion"
+      ],
+      "teaser": "Discovering and exploiting large-scale AMI name confusion attacks across the AWS ecosystem.",
+      "summary": null,
+      "durationSeconds": 1832
+    },
+    {
+      "youtubeId": "wifLvZlAX4A",
+      "slug": "quickstart-for-a-breach-when-official-installations-expose-your",
+      "title": "Quickstart for a Breach! When Official Installations Expose Your K8 and Your Cloud",
+      "speakers": [
+        "Michael Katchinskiy",
+        "Yossi Weizman"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "kubernetes",
+        "red-team",
+        "azure"
+      ],
+      "teaser": "How official cloud installation scripts expose Kubernetes clusters and cloud environments to breach.",
+      "summary": null,
+      "durationSeconds": 1657
+    },
+    {
+      "youtubeId": "v4Zj7Qbkfy8",
+      "slug": "cognito-ergo-some-extra-permissions",
+      "title": "Cognito, Ergo Some Extra Permissions",
+      "speakers": [
+        "Leo Tsaousis"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "aws",
+        "iam",
+        "privilege-escalation"
+      ],
+      "teaser": "Exploiting AWS Cognito misconfigurations to achieve privilege escalation and account takeover.",
+      "summary": null,
+      "durationSeconds": 1598
+    },
+    {
+      "youtubeId": "rnizpZbKyKo",
+      "slug": "weaponizing-ssm-practical-exploits-and-hardening-techniques-for",
+      "title": "Weaponizing SSM: Practical Exploits and Hardening Techniques for AWS",
+      "speakers": [
+        "Rodrigo Montoro"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "aws",
+        "ssm",
+        "red-team",
+        "blue-team"
+      ],
+      "teaser": "Weaponizing AWS Systems Manager for lateral movement and hardening techniques for defenders.",
+      "summary": null,
+      "durationSeconds": 2455
+    },
+    {
+      "youtubeId": "8IK7bxDbUOM",
+      "slug": "dont-trust-rufus-hes-a-mole-introducing-kiempossible",
+      "title": "Don't trust Rufus, he's a mole - introducing KIEMPossible",
+      "speakers": [
+        "Golan Myers"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "azure",
+        "iam",
+        "red-team",
+        "detection"
+      ],
+      "teaser": "KIEMPossible: exploiting KIEM (Key Identity and Execution Manager) weaknesses in Azure environments.",
+      "summary": null,
+      "durationSeconds": 1158
+    },
+    {
+      "youtubeId": "2ce3wOUEW2U",
+      "slug": "braving-the-storm-2372-the-tempest-decoded",
+      "title": "Braving the Storm-2372: The Tempest Decoded",
+      "speakers": [
+        "Jenko Hwong"
+      ],
+      "track": "cloud",
+      "topics": [
+        "cloud",
+        "threat-intel",
+        "microsoft",
+        "cloud-attacks"
+      ],
+      "teaser": "Decoding the Storm-2372 threat actor campaign targeting cloud and identity infrastructure.",
+      "summary": null,
+      "durationSeconds": 1997
+    }
+  ]
+}
