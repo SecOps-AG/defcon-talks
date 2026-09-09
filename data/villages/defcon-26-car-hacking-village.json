@@ -16,7 +16,7 @@
       "topics": [
         "vehicle-networks"
       ],
-      "teaser": "CAN Signal Extraction from OpenXC with Radare2",
+      "teaser": "CAN bus signal extraction and reverse engineering using OpenXC and Radare2.",
       "summary": null,
       "durationSeconds": 1421
     },
@@ -29,9 +29,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking"
+        "car-hacking",
+        "automotive-security",
+        "vehicle-exploitation",
+        "beginners-guide",
+        "tooling"
       ],
-      "teaser": "So You Want To Hack A Car",
+      "teaser": "Introductory guide to car hacking techniques, tools, and methodology.",
       "summary": null,
       "durationSeconds": 723
     },
@@ -44,40 +48,51 @@
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking"
+        "automotive-hacking",
+        "can-bus",
+        "vehicle-networks",
+        "practical-attacks",
+        "exploitation"
       ],
-      "teaser": "Go Hack Cars",
+      "teaser": "Practical automotive hacking techniques and CAN bus exploitation methods.",
       "summary": null,
       "durationSeconds": 857
     },
     {
       "youtubeId": "j3dfgTKa7pQ",
       "slug": "dan-regalado-meet-salinas-1st-sms-commanded-car-infotainment-rat",
-      "title": "Meet Salinas, 1st SMS commanded Car Infotainment RAT",
+      "title": "Meet Salinas: 1st SMS-commanded Car Infotainment RAT",
       "speakers": [
         "Dan Regalado"
       ],
       "track": "red-team",
       "topics": [
-        "car-hacking",
-        "iot"
+        "infotainment-systems",
+        "sms-attacks",
+        "remote-access-trojan",
+        "vehicle-malware",
+        "wireless-exploitation"
       ],
-      "teaser": "Meet Salinas, 1st SMS commanded Car Infotainment RAT",
+      "teaser": "SMS-based remote control of vehicle infotainment systems and malware delivery.",
       "summary": null,
       "durationSeconds": 3660
     },
     {
       "youtubeId": "i3S9wiHF8c0",
       "slug": "vlad-evidence-collection-automotive-driving-aids-and-liability",
-      "title": "Evidence Collection Automotive Driving Aids and Liability",
+      "title": "Evidence Collection: Automotive Driving Aids and Liability",
       "speakers": [
         "Vlad"
       ],
-      "track": "red-team",
+      "track": "policy",
       "topics": [
-        "car-hacking"
+        "digital-forensics",
+        "adas-systems",
+        "liability-analysis",
+        "evidence-preservation",
+        "incident-response"
       ],
-      "teaser": "Evidence Collection Automotive Driving Aids and Liability",
+      "teaser": "Forensic evidence collection and liability assessment from automotive safety systems.",
       "summary": null,
       "durationSeconds": 1370
     },
@@ -93,22 +108,26 @@
         "car-hacking",
         "firmware-analysis"
       ],
-      "teaser": "Flash Bootloaders Exposing Automotive ECU updates",
+      "teaser": "ECU firmware extraction and bootloader vulnerabilities in automotive systems.",
       "summary": null,
       "durationSeconds": 2059
     },
     {
       "youtubeId": "v6uCBNfIfMM",
       "slug": "kevin2600-grand-theft-auto-digital-key-hacking",
-      "title": "Grand Theft Auto Digital Key Hacking",
+      "title": "Grand Theft Auto: Digital Key Hacking",
       "speakers": [
         "KEVIN2600"
       ],
       "track": "red-team",
       "topics": [
-        "exploitation"
+        "digital-key-systems",
+        "keyless-entry",
+        "mobile-access",
+        "vehicle-theft",
+        "authentication-bypass"
       ],
-      "teaser": "Grand Theft Auto Digital Key Hacking",
+      "teaser": "Attacking digital key systems and mobile-based vehicle access mechanisms.",
       "summary": null,
       "durationSeconds": 2741
     },
@@ -119,12 +138,15 @@
       "speakers": [
         "Nathaniel Boggs"
       ],
-      "track": "red-team",
+      "track": "blue-team",
       "topics": [
-        "car-hacking",
-        "security-research"
+        "testing-framework",
+        "automotive-security",
+        "vulnerability-research",
+        "isolated-testing",
+        "security-development"
       ],
-      "teaser": "Automotive Exploitation Sandbox",
+      "teaser": "Sandbox environment for automotive vulnerability research and testing.",
       "summary": null,
       "durationSeconds": 1368
     },
@@ -135,11 +157,15 @@
       "speakers": [
         "Ben"
       ],
-      "track": "red-team",
+      "track": "blue-team",
       "topics": [
-        "vehicle-communication"
+        "v2x-security",
+        "vehicle-communication",
+        "anomaly-detection",
+        "network-security",
+        "connected-vehicles"
       ],
-      "teaser": "Misbehavior Detection in V2X Networks",
+      "teaser": "Detection and prevention of malicious behavior in vehicle-to-everything networks.",
       "summary": null,
       "durationSeconds": 3140
     },
@@ -152,9 +178,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "vehicle-networks"
+        "can-bus-security",
+        "network-attacks",
+        "vehicle-networks",
+        "protocol-analysis",
+        "exploit-development"
       ],
-      "teaser": "CANT",
+      "teaser": "CAN bus analysis and exploitation tools for automotive network attacks.",
       "summary": null,
       "durationSeconds": 2920
     }
