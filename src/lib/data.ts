@@ -283,3 +283,47 @@ export function getEditionPath(edition: VillageEdition): string {
 export function getTalkPath(talk: { slug: string }): string {
   return `/talks/${talk.slug}`;
 }
+
+export type TalkPosition = {
+  talk: Talk;
+  position: number;
+  total: number;
+};
+
+export function getTalkPositionInEdition(
+  talkSlug: string,
+  villageId: string,
+): TalkPosition | undefined {
+  const talks = getTalksForEdition(villageId).sort(
+    (a, b) => (a.slug as any).localeCompare(b.slug),
+  );
+  const index = talks.findIndex((t) => t.slug === talkSlug);
+  if (index === -1) return undefined;
+  return {
+    talk: talks[index],
+    position: index + 1,
+    total: talks.length,
+  };
+}
+
+export function getPreviousTalkInEdition(
+  talkSlug: string,
+  villageId: string,
+): Talk | undefined {
+  const talks = getTalksForEdition(villageId).sort(
+    (a, b) => (a.slug as any).localeCompare(b.slug),
+  );
+  const index = talks.findIndex((t) => t.slug === talkSlug);
+  return index > 0 ? talks[index - 1] : undefined;
+}
+
+export function getNextTalkInEdition(
+  talkSlug: string,
+  villageId: string,
+): Talk | undefined {
+  const talks = getTalksForEdition(villageId).sort(
+    (a, b) => (a.slug as any).localeCompare(b.slug),
+  );
+  const index = talks.findIndex((t) => t.slug === talkSlug);
+  return index < talks.length - 1 ? talks[index + 1] : undefined;
+}
