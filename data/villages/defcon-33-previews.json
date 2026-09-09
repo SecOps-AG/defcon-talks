@@ -96,6 +96,24 @@
       "teaser": "A preview of the policy discussions, regulatory panels, and open governance forums taking place at DEF CON 33.",
       "summary": null,
       "durationSeconds": 83
+    },
+    {
+      "youtubeId": "6BIBQUmJgac",
+      "slug": "malware-village-preview",
+      "title": "Malware Village Preview",
+      "speakers": [
+        "Malware Village Team"
+      ],
+      "track": "malware",
+      "topics": [
+        "malware",
+        "reverse-engineering",
+        "threat-intelligence",
+        "analysis"
+      ],
+      "teaser": "A preview of the interactive workshops, reverse engineering challenges, and malware analysis labs featured at DEF CON 33 Malware Village.",
+      "summary": null,
+      "durationSeconds": 158
     }
   ]
 }
