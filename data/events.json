@@ -207,6 +207,14 @@
       "year": 2000,
       "dates": "28-30 July 2000",
       "location": "Alexis Park Resort, Las Vegas"
+    },
+    {
+      "slug": "defcon-7",
+      "name": "DEF CON 7",
+      "shortName": "DC7",
+      "year": 1999,
+      "dates": "9-11 July 1999",
+      "location": "Alexis Park Resort, Las Vegas"
     }
   ]
 }
