@@ -6,7 +6,28 @@ import type { SearchEntry, Talk, TalkIndexEntry } from "./types";
 
 export const PAGE_SIZE = 24;
 
-export type SortKey = "relevance" | "newest" | "title" | "village";
+export type SortKey = "relevance" | "newest" | "duration" | "title" | "village";
+
+export type LengthBucket = "under-20" | "20-45" | "45-plus";
+
+export function formatDuration(seconds?: number): string | null {
+  if (seconds == null || seconds <= 0 || !Number.isFinite(seconds)) return null;
+  const mins = Math.round(seconds / 60);
+  if (mins < 1) return "< 1 min";
+  if (mins >= 60) {
+    const hours = Math.floor(mins / 60);
+    const remMins = mins % 60;
+    return remMins > 0 ? `${hours} hr ${remMins} min` : `${hours} hr`;
+  }
+  return `${mins} min`;
+}
+
+export function getLengthBucket(durationSeconds?: number): LengthBucket | null {
+  if (!durationSeconds || durationSeconds <= 0) return null;
+  if (durationSeconds < 1200) return "under-20";
+  if (durationSeconds <= 2700) return "20-45";
+  return "45-plus";
+}
 
 /**
  * Speakers have no slug in data/ — the JSON carries display names only, so the
@@ -33,6 +54,7 @@ export type Filters = {
   tracks: string[];
   topics: string[];
   speakers: string[];
+  lengths: string[];
   sort: SortKey;
   page: number;
 };
@@ -44,6 +66,7 @@ export const EMPTY_FILTERS: Filters = {
   tracks: [],
   topics: [],
   speakers: [],
+  lengths: [],
   sort: "relevance",
   page: 1,
 };
@@ -64,6 +87,7 @@ export function buildIndexEntry(talk: Talk): TalkIndexEntry {
     trackName: talk.trackName,
     topics: talk.topics,
     teaser: talk.teaser ?? "",
+    durationSeconds: talk.durationSeconds,
   };
 }
 
@@ -99,7 +123,7 @@ export function queryTerms(q: string): string[] {
   return q.trim().toLowerCase().split(/\s+/).filter(Boolean);
 }
 
-type Dimension = "q" | "years" | "villages" | "tracks" | "topics" | "speakers";
+type Dimension = "q" | "years" | "villages" | "tracks" | "topics" | "speakers" | "lengths";
 
 function matchesDimension(
   entry: SearchEntry,
@@ -109,6 +133,12 @@ function matchesDimension(
 ): boolean {
   if (skip !== "q" && terms.length > 0 && !matchesQuery(entry, terms)) return false;
   if (skip !== "years" && filters.years.length > 0 && !filters.years.includes(entry.year))
+    return false;
+  if (
+    skip !== "lengths" &&
+    filters.lengths.length > 0 &&
+    (!entry.durationSeconds || !filters.lengths.includes(getLengthBucket(entry.durationSeconds) as string))
+  )
     return false;
   if (
     skip !== "villages" &&
@@ -166,6 +196,13 @@ export function sortTalks(
   switch (sort) {
     case "title":
       return sorted.sort((a, b) => a.title.localeCompare(b.title));
+    case "duration":
+      return sorted.sort(
+        (a, b) =>
+          (b.durationSeconds ?? 0) - (a.durationSeconds ?? 0) ||
+          b.year - a.year ||
+          a.title.localeCompare(b.title),
+      );
     case "newest":
       return sorted.sort(
         (a, b) => b.year - a.year || a.villageName.localeCompare(b.villageName) ||
@@ -205,6 +242,7 @@ export type Facets = {
   tracks: FacetOption<string>[];
   topics: FacetOption<string>[];
   speakers: FacetOption<string>[];
+  lengths: FacetOption<string>[];
 };
 
 function tally<T extends string | number>(
@@ -278,7 +316,25 @@ export function computeFacets(entries: SearchEntry[], filters: Filters): Facets 
     (a, b) => b.count - a.count || a.label.localeCompare(b.label),
   );
 
-  return { years, villages, tracks, topics, speakers };
+  const lengthSubset = subset("lengths");
+  const lengthCounts: Record<string, number> = {
+    "under-20": 0,
+    "20-45": 0,
+    "45-plus": 0,
+  };
+  for (const entry of lengthSubset) {
+    const bucket = getLengthBucket(entry.durationSeconds);
+    if (bucket) {
+      lengthCounts[bucket] = (lengthCounts[bucket] ?? 0) + 1;
+    }
+  }
+  const lengths: FacetOption<string>[] = [
+    { value: "under-20", label: "Under 20 min", count: lengthCounts["under-20"] },
+    { value: "20-45", label: "20–45 min", count: lengthCounts["20-45"] },
+    { value: "45-plus", label: "45+ min", count: lengthCounts["45-plus"] },
+  ].filter((opt) => opt.count > 0 || filters.lengths.includes(opt.value));
+
+  return { years, villages, tracks, topics, speakers, lengths };
 }
 
 export function countActive(filters: Filters): number {
@@ -288,7 +344,8 @@ export function countActive(filters: Filters): number {
     filters.villages.length +
     filters.tracks.length +
     filters.topics.length +
-    filters.speakers.length
+    filters.speakers.length +
+    filters.lengths.length
   );
 }
 
@@ -315,6 +372,7 @@ const LIST_KEYS = {
   track: "tracks",
   topic: "topics",
   speakers: "speakers",
+  length: "lengths",
 } as const;
 
 export function filtersFromParams(params: URLSearchParams): Filters {
@@ -326,6 +384,7 @@ export function filtersFromParams(params: URLSearchParams): Filters {
 
   const sort = params.get("sort") as SortKey | null;
   const page = Number.parseInt(params.get("page") ?? "1", 10);
+  const validSorts: readonly SortKey[] = ["relevance", "newest", "duration", "title", "village"];
 
   return {
     q: params.get("q") ?? "",
@@ -336,10 +395,8 @@ export function filtersFromParams(params: URLSearchParams): Filters {
     tracks: list("track"),
     topics: list("topic"),
     speakers: list("speakers"),
-    sort:
-      sort === "newest" || sort === "title" || sort === "village" || sort === "relevance"
-        ? sort
-        : "relevance",
+    lengths: list("length").filter((v) => ["under-20", "20-45", "45-plus"].includes(v)),
+    sort: validSorts.includes(sort as SortKey) ? (sort as SortKey) : "relevance",
     page: Number.isFinite(page) && page > 0 ? page : 1,
   };
 }

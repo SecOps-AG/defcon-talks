@@ -6,7 +6,7 @@ import { TalkCard } from "@/components/TalkCard";
 import { TalkSummaryPanel } from "@/components/TalkSummary";
 import { YouTubeEmbed } from "@/components/YouTubeEmbed";
 import { getTalkBySlug, getTalkIndex, getTalks, getTaxonomy } from "@/lib/data";
-import { slugifySpeaker } from "@/lib/search";
+import { formatDuration, slugifySpeaker } from "@/lib/search";
 import type { Talk } from "@/lib/types";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -54,6 +54,7 @@ export default async function TalkPage({ params }: Props) {
 
   const labels = getTaxonomy().topicLabels;
   const related = getTalkIndex(relatedTalks(talk));
+  const duration = formatDuration(talk.durationSeconds);
 
   return (
     <article className="space-y-8">
@@ -105,6 +106,11 @@ export default async function TalkPage({ params }: Props) {
           <Link href={`/villages/${talk.villageSlug}`} className="chip">
             {talk.villageName}
           </Link>
+          {duration ? (
+            <span className="chip !border-mint/30 !text-mint/80">
+              {duration}
+            </span>
+          ) : null}
           <a href={talk.youtubeUrl} target="_blank" rel="noreferrer" className="chip">
             Open on YouTube ↗
           </a>
@@ -130,6 +136,12 @@ export default async function TalkPage({ params }: Props) {
               <br />
               {talk.eventName}
             </p>
+            {duration ? (
+              <>
+                <p className="label mb-2 mt-4">Duration</p>
+                <p className="text-[13px] leading-relaxed text-mint/80">{duration}</p>
+              </>
+            ) : null}
           </section>
           {talk.topics.length > 0 ? (
             <section className="panel-quiet p-4">

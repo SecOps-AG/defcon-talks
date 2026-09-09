@@ -118,6 +118,7 @@ export type TalkIndexEntry = {
   trackName: string;
   topics: string[];
   teaser: string;
+  durationSeconds?: number;
 };
 
 /**

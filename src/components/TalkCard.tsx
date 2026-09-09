@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { formatDuration } from "@/lib/search";
 import type { TalkIndexEntry } from "@/lib/types";
 
 const MAX_TOPICS = 3;
@@ -9,6 +10,7 @@ const MAX_TOPICS = 3;
 export function TalkCard({ talk }: { talk: TalkIndexEntry }) {
   const shown = talk.topics.slice(0, MAX_TOPICS);
   const overflow = talk.topics.length - shown.length;
+  const duration = formatDuration(talk.durationSeconds);
 
   return (
     <article className="panel group flex h-full flex-col overflow-hidden transition hover:border-acid/50">
@@ -27,6 +29,11 @@ export function TalkCard({ talk }: { talk: TalkIndexEntry }) {
         <span className="absolute right-2 top-2 rounded-sm border border-acid/40 bg-void/85 px-1.5 py-0.5 text-[10px] uppercase tracking-[0.14em] text-acid">
           {talk.eventShortName}
         </span>
+        {duration ? (
+          <span className="absolute bottom-2 right-2 rounded-sm border border-mint/20 bg-void/90 px-1.5 py-0.5 font-mono text-[10px] text-mint/90">
+            {duration}
+          </span>
+        ) : null}
       </Link>
 
       <div className="flex flex-1 flex-col gap-2.5 p-4">
@@ -38,6 +45,12 @@ export function TalkCard({ talk }: { talk: TalkIndexEntry }) {
           <Link href={`/tracks/${talk.track}`} className="text-mag/90 hover:text-acid">
             {talk.trackName}
           </Link>
+          {duration ? (
+            <>
+              <span className="text-mint/25">·</span>
+              <span className="text-mint/60">{duration}</span>
+            </>
+          ) : null}
         </p>
 
         <h3 className="font-display text-base font-semibold leading-snug text-acid">

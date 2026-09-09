@@ -23,7 +23,7 @@ import {
 } from "@/lib/search";
 import type { TalkIndexEntry } from "@/lib/types";
 
-type Dimension = "years" | "villages" | "tracks" | "speakers";
+type Dimension = "years" | "villages" | "tracks" | "speakers" | "lengths";
 
 export type TalkBrowserProps = {
   talks: TalkIndexEntry[];
@@ -45,6 +45,7 @@ export type TalkBrowserProps = {
 const SORTS: { value: SortKey; label: string }[] = [
   { value: "relevance", label: "Relevance" },
   { value: "newest", label: "Newest" },
+  { value: "duration", label: "Duration" },
   { value: "title", label: "Title" },
   { value: "village", label: "Village" },
 ];
@@ -148,6 +149,14 @@ export function TalkBrowser({
           options={facets.years}
           selected={filters.years}
           onToggle={(value) => update({ years: toggleValue(filters.years, value) })}
+        />
+      ) : null}
+      {!hide.includes("lengths") ? (
+        <FacetList
+          label="Length"
+          options={facets.lengths}
+          selected={filters.lengths}
+          onToggle={(value) => update({ lengths: toggleValue(filters.lengths, value) })}
         />
       ) : null}
       {!hide.includes("villages") ? (
