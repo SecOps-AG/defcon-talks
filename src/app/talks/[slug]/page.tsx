@@ -5,6 +5,8 @@ import { SectionHeading } from "@/components/SectionHeading";
 import { TalkCard } from "@/components/TalkCard";
 import { TalkSummaryPanel } from "@/components/TalkSummary";
 import { YouTubeEmbed } from "@/components/YouTubeEmbed";
+import { BookmarkButton } from "@/components/BookmarkButton";
+import { WatchedMarker } from "@/components/WatchedMarker";
 import { getTalkBySlug, getTalkIndex, getTalks, getTaxonomy } from "@/lib/data";
 import { formatDuration, slugifySpeaker } from "@/lib/search";
 import type { Talk } from "@/lib/types";
@@ -140,9 +142,8 @@ export default async function TalkPage({ params }: Props) {
               {duration}
             </span>
           ) : null}
-          <a href={talk.youtubeUrl} target="_blank" rel="noreferrer" className="chip">
-            Open on YouTube ↗
-          </a>
+          <WatchedMarker talkId={talk.id} youtubeUrl={talk.youtubeUrl} />
+          <BookmarkButton talkId={talk.id} variant="full" />
         </div>
       </header>
 
