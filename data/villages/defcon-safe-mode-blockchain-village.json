@@ -184,6 +184,24 @@
       "teaser": "Deconstructs the elliptic curve cryptography, hashing pipelines, and Base58Check encoding used to generate Bitcoin addresses.",
       "summary": null,
       "durationSeconds": 1718
+    },
+    {
+      "youtubeId": "ZRnXDG15nKU",
+      "slug": "peter-kacherginsky-blockchain-village-keynote",
+      "title": "Blockchain Village Keynote",
+      "speakers": [
+        "Peter Kacherginsky"
+      ],
+      "track": "appsec",
+      "topics": [
+        "blockchain",
+        "cryptocurrency",
+        "keynote",
+        "appsec"
+      ],
+      "teaser": "Keynote presentation by Peter Kacherginsky exploring blockchain security challenges, threats, and emerging decentralized technology.",
+      "summary": null,
+      "durationSeconds": 3225
     }
   ]
 }
