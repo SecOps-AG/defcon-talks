@@ -201,7 +201,7 @@
       "slug": "hanno-bock",
       "title": "Abusing Certificate Transparency Logs",
       "speakers": [
-        "Hanno Bõck"
+        "Hanno Bo\u0303ck"
       ],
       "track": "osint",
       "topics": [
@@ -389,7 +389,7 @@
     {
       "youtubeId": "Q0JG_eKLcws",
       "slug": "luke-young-theres-no-place-like-127-001-achieving-reliable-dns-r",
-      "title": "There’s no place like 127.001: Achieving reliable DNS rebinding",
+      "title": "There\u2019s no place like 127.001: Achieving reliable DNS rebinding",
       "speakers": [
         "Luke Young"
       ],
@@ -786,7 +786,7 @@
     {
       "youtubeId": "jAv-le5-NE0",
       "slug": "trey-forgety-inside-the-meet-desai-attack-defending-distributed",
-      "title": "Trey Forgety - Inside the “Meet Desai” Attack Defending Distributed Targets",
+      "title": "Trey Forgety - Inside the \u201cMeet Desai\u201d Attack Defending Distributed Targets",
       "speakers": [],
       "track": "threat-intel",
       "topics": [
@@ -877,7 +877,7 @@
     {
       "youtubeId": "ZBfBYoK_Wr0",
       "slug": "conference-alvaro-munoz-alexandr-mirosh-friday-the-13th-json-att",
-      "title": "Conference - Alvaro Muñoz, Alexandr Mirosh - Friday the 13th JSON attacks",
+      "title": "Conference - Alvaro Mun\u0303oz, Alexandr Mirosh - Friday the 13th JSON attacks",
       "speakers": [],
       "track": "appsec",
       "topics": [
