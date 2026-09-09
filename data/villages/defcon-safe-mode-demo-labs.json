@@ -142,6 +142,25 @@
       "teaser": "A demonstration of Mobile Security Framework (MobSF) for performing automated static and dynamic security analysis of mobile apps.",
       "summary": null,
       "durationSeconds": 1837
+    },
+    {
+      "youtubeId": "jBobjt_8W6o",
+      "slug": "safe-mode-demo-labs-emilio-couto-circo-v2",
+      "title": "CIRCO v2: Stealth Hardware Implant for Network Credential Harvesting",
+      "speakers": [
+        "Emilio Couto"
+      ],
+      "track": "red-team",
+      "topics": [
+        "hardware-implants",
+        "credential-harvesting",
+        "red-team",
+        "raspberry-pi",
+        "network-security"
+      ],
+      "teaser": "Emilio Couto demonstrates CIRCO v2, a stealthy Raspberry Pi hardware implant camouflaged inside a PoE injector that tricks enterprise network automation systems into exposing credentials.",
+      "summary": "Camouflaged Physical Network Implants\n\nPhysical red team engagements frequently require covert implants capable of evading discovery by facility staff and security controls while remaining connected to target networks.\n\nHardware Architecture of CIRCO v2\n\nEmilio Couto presents CIRCO v2, an offensive platform built on a Raspberry Pi form factor and housed within a nondescript PoE injector or surface-mount network outlet box.\n\nStealth Telemetry and Anti-Tamper Controls\n\nThe device incorporates hardware sensors—including ambient light detectors to trigger self-erasure or alert ops upon enclosure opening—and MAC/IP spoofing to evade 802.1X and NAC monitoring.\n\nAutonomous Credential Harvesting and Exfiltration\n\nCouto demonstrates CIRCO's automated decoy services and honeypots that bait IT management systems into authenticating, capturing plaintext credentials via Net-Creds and exfiltrating data covertly.",
+      "durationSeconds": 2178
     }
   ]
 }
