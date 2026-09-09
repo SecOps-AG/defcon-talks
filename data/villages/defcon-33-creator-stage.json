@@ -11,7 +11,7 @@
       "title": "Hacker v. Triage - Inside Bug Bounty Battleground",
       "speakers": [
         "Richard Hyunho Im",
-        "Denis Smajlović"
+        "Denis Smajlovi\u0107"
       ],
       "track": "community",
       "topics": [
@@ -170,7 +170,7 @@
       "slug": "no-brain-no-gain",
       "title": "No Brain No Gain",
       "speakers": [
-        "Mehmet Önder Key",
+        "Mehmet \u00d6nder Key",
         "Temel Demir",
         "Ahmet Furkan Aydogan"
       ],
@@ -281,7 +281,7 @@
         "locks"
       ],
       "teaser": "Shares hard-learned lessons and busted myths from physical penetration tests, covering site surveys, social engineering, and real-time contingency handling.",
-      "summary": "Realities of Covert Entry Operations\n\nCovert physical entry assessments require meticulous planning, calm decision-making, and disciplined operational tradecraft. Relying on cinematic tropes or aggressive improvisations frequently leads to compromised engagements and safety hazards.\n\nPhysical Site Surveys and Reconnaissance\n\nEffective assessments begin with discreet reconnaissance of physical security perimeters, camera coverage, guard rotations, and electronic badge readers. Rushing into an engagement without thorough surveillance increases the likelihood of premature detection.\n\nHuman-Layer Social Engineering and Pretexting\n\nFace-to-face social engineering requires credible pretexting tailored to the target facility. Operators must manage interpersonal interactions smoothly, avoiding high-friction confrontations that trigger security escalations.\n\nTroubleshooting When Operations Go Sideways\n\nWhen unexpected challenges occur—such as encountering altered floor plans, malfunctioning bypass tools, or curious employees—operators must rely on established fallback protocols and de-escalation strategies to maintain safety and compliance.",
+      "summary": "Realities of Covert Entry Operations\n\nCovert physical entry assessments require meticulous planning, calm decision-making, and disciplined operational tradecraft. Relying on cinematic tropes or aggressive improvisations frequently leads to compromised engagements and safety hazards.\n\nPhysical Site Surveys and Reconnaissance\n\nEffective assessments begin with discreet reconnaissance of physical security perimeters, camera coverage, guard rotations, and electronic badge readers. Rushing into an engagement without thorough surveillance increases the likelihood of premature detection.\n\nHuman-Layer Social Engineering and Pretexting\n\nFace-to-face social engineering requires credible pretexting tailored to the target facility. Operators must manage interpersonal interactions smoothly, avoiding high-friction confrontations that trigger security escalations.\n\nTroubleshooting When Operations Go Sideways\n\nWhen unexpected challenges occur\u2014such as encountering altered floor plans, malfunctioning bypass tools, or curious employees\u2014operators must rely on established fallback protocols and de-escalation strategies to maintain safety and compliance.",
       "durationSeconds": 3352
     },
     {
@@ -301,7 +301,7 @@
         "red-teaming"
       ],
       "teaser": "Details custom hardware designs and social engineering tactics to remotely clone RFID access badges from a distance, including HID iClass SE downgrade attacks.",
-      "summary": "Limitations of Traditional RFID Badge Cloning\n\nStandard RFID badge cloning typically requires close physical proximity (under three feet) to a target individual. In modern hybrid work environments with reduced office foot traffic, close-range cloning becomes logistically difficult for physical red teams.\n\nLong-Range and Standalone Hardware Implants\n\nCustom hardware implants—such as high-gain gooseneck readers, hidden wall devices, and modified clipboards—allow operators to capture RFID credential data at extended distances without direct physical interaction with targets.\n\nHID iClass Downgrade and Legacy Attacks\n\nMany physical access control systems configured for HID iClass SE or SEOS maintain backwards compatibility with legacy credential formats. Operators exploit these compatibility modes to execute downgrade attacks that capture cloneable legacy badge identifiers.\n\nCountermeasures for Facility Defense\n\nHardening access control perimeters requires disabling legacy credential compatibility on badge readers, deploying encrypted OSDP wiring, and monitoring reader tamper alerts to detect unauthorized hardware implants.",
+      "summary": "Limitations of Traditional RFID Badge Cloning\n\nStandard RFID badge cloning typically requires close physical proximity (under three feet) to a target individual. In modern hybrid work environments with reduced office foot traffic, close-range cloning becomes logistically difficult for physical red teams.\n\nLong-Range and Standalone Hardware Implants\n\nCustom hardware implants\u2014such as high-gain gooseneck readers, hidden wall devices, and modified clipboards\u2014allow operators to capture RFID credential data at extended distances without direct physical interaction with targets.\n\nHID iClass Downgrade and Legacy Attacks\n\nMany physical access control systems configured for HID iClass SE or SEOS maintain backwards compatibility with legacy credential formats. Operators exploit these compatibility modes to execute downgrade attacks that capture cloneable legacy badge identifiers.\n\nCountermeasures for Facility Defense\n\nHardening access control perimeters requires disabling legacy credential compatibility on badge readers, deploying encrypted OSDP wiring, and monitoring reader tamper alerts to detect unauthorized hardware implants.",
       "durationSeconds": 2224
     },
     {
@@ -361,25 +361,6 @@
       "teaser": "Examines the impending quantum computing threat to healthcare infrastructure and outlines Siemens Healthineers' strategies for migrating to post-quantum cryptography.",
       "summary": "The Quantum Threat to Healthcare Infrastructure\n\nAdvances in quantum computing pose a systemic threat to public-key cryptography used across the healthcare sector. Algorithms securing electronic health records, connected medical devices, and telemedicine communications face obsolescence once cryptographically relevant quantum computers emerge.\n\nLong-Term Data Protection and Eavesdropping\n\nHealthcare data is subject to 'harvest now, decrypt later' threats, where encrypted medical communications and sensitive patient histories are intercepted today for future decryption once quantum decryption capabilities mature.\n\nPost-Quantum Cryptography Migration at Scale\n\nSiemens Healthineers and healthcare device vendors are planning transitions to NIST-standardized post-quantum cryptographic algorithms. Upgrading legacy embedded medical hardware requires evaluating computational overhead, memory constraints, and certificate sizes.\n\nStrategic Considerations for Critical Infrastructure\n\nSecuring medical environments demands proactive cryptographic inventory management, hybrid key-exchange deployments, and backward-compatible firmware update mechanisms to ensure long-term clinical safety.",
       "durationSeconds": 1703
-    },
-    {
-      "youtubeId": "OkVYJx1iLNs",
-      "slug": "post-quantum-panic-when-will-the-cracking-begin-and-can-we-detec",
-      "title": "Post Quantum Panic: When Will the Cracking Begin, & Can We Detect It?",
-      "speakers": [
-        "Konstantinos Karagiannis"
-      ],
-      "track": "blue-team",
-      "topics": [
-        "post-quantum",
-        "cryptography",
-        "quantum-computing",
-        "detection-engineering",
-        "cloud"
-      ],
-      "teaser": "Analyzes algorithmic breakthroughs in Shor's algorithm, hardware roadmaps for cryptographically relevant quantum computers, and methods to detect quantum attacks.",
-      "summary": "Timelines for Cryptographically Relevant Quantum Computing\n\nNIST standards and organizational roadmaps often target 2035 for completing post-quantum cryptography (PQC) migrations. However, accelerated advances in quantum hardware and theoretical algorithms suggest that cryptographically relevant quantum computers (CRQCs) could emerge significantly earlier.\n\nAlgorithmic Advancements in Factoring\n\nAlgorithmic optimizations, such as Oded Regev's multidimensional lattice modifications to Shor's algorithm, substantially reduce the number of logical qubits required for integer factoring and discrete logarithm computation. These breakthroughs accelerate the timeline for cracking RSA and elliptic curve cryptography (ECC).\n\nHardware Scaling and Fault Tolerance\n\nCommercial quantum developers are tracking aggressive roadmaps targeting thousands of physical qubits and early fault-tolerant logical qubits before 2030. These developments compress the available window for enterprise cryptographic migration.\n\nDetecting Unauthorized Quantum Computation\n\nDefenders and cloud quantum service providers can monitor quantum circuit execution patterns, gate depth anomalies, and suspicious API call volumes to detect adversarial attempts to execute cryptanalytic algorithms on cloud-hosted quantum processors.",
-      "durationSeconds": 2369
     },
     {
       "youtubeId": "LrzGrp8L1XI",
@@ -500,25 +481,6 @@
       "durationSeconds": 1455
     },
     {
-      "youtubeId": "mPo-an8BUXc",
-      "slug": "examining-access-control-vulnerabilities-in-graphql-a-feeld-case",
-      "title": "Examining Access Control Vulnerabilities in GraphQL: A Feeld Case Study",
-      "speakers": [
-        "Bogdan Tiron"
-      ],
-      "track": "appsec",
-      "topics": [
-        "graphql",
-        "access-control",
-        "api-security",
-        "privacy",
-        "appsec"
-      ],
-      "teaser": "Examines authorization and access control vulnerabilities in GraphQL and REST APIs, using the Feeld dating app data leak as a case study in data exposure.",
-      "summary": "API Access Control Mechanisms and Pitfalls\n\nGraphQL provides flexible client-driven data querying across complex object graphs. However, decoupling query parsing from granular object-level authorization frequently introduces critical Broken Object Level Authorization (BOLA) vulnerabilities.\n\nCase Study: Feeld Dating App Vulnerability\n\nSecurity review of the Feeld dating application revealed missing access control checks across GraphQL queries and associated REST endpoints. By manipulating user identifiers and object parameters in nested queries, unauthorized clients could retrieve private user data.\n\nImpact on Sensitive Personal Media and Communications\n\nThe authorization bypass exposed sensitive personal records, including unencrypted photos, private videos, and confidential user messages. The flaw illustrates how schema complexity can obscure missing authorization checks at the field resolver level.\n\nRemediation and Secure GraphQL Architecture\n\nPreventing GraphQL authorization flaws requires implementing field-level authorization middleware, validating user ownership at the data resolver layer, and enforcing strict schema querying boundaries.",
-      "durationSeconds": 1520
-    },
-    {
       "youtubeId": "ruVlunKr4BY",
       "slug": "the-worst-ics-ot-love-story-ever-told",
       "title": "The Worst ICS OT Love Story Ever Told",
@@ -581,7 +543,7 @@
       "slug": "pirates-of-the-north-sea",
       "title": "Pirates of the North Sea",
       "speakers": [
-        "John Andre Bjørkhaug"
+        "John Andre Bj\u00f8rkhaug"
       ],
       "track": "red-team",
       "topics": [
@@ -598,7 +560,7 @@
     {
       "youtubeId": "QARwgoJ-IbA",
       "slug": "whats-really-in-the-box-the-case-for-hardware-provenance-and-hbo",
-      "title": "What’s Really in the Box? The Case for Hardware Provenance and HBOMs",
+      "title": "What\u2019s Really in the Box? The Case for Hardware Provenance and HBOMs",
       "speakers": [
         "Allan Friedman"
       ],
@@ -631,7 +593,7 @@
         "safety"
       ],
       "teaser": "Explores how manipulating maritime rudder angle controllers to violate International Regulations for Preventing Collisions at Sea (COLREGs) causes severe disruption.",
-      "summary": "COLREGs and Maritime Navigation Safety\n\nThe International Regulations for Preventing Collisions at Sea (COLREGs) define universal navigation rules that mariners follow to ensure predictable vessel interactions and avoid collisions in congested waterways.\n\nThe Strategic Importance of 'Don't Turn to Port'\n\nA fundamental guideline in maritime navigation is avoiding turns to port (left) in head-on or crossing situations. Under COLREG rules, turning to port directly violates established passing protocols and places full legal and operational liability on the vessel initiating the turn.\n\nCyber-Physical Manipulation of Rudder Controls\n\nManipulating cyber-physical systems—such as digital rudder angle controllers or NMEA-connected autopilots—can force an unexpected port turn. In maritime chokepoints and narrow channels, an induced port turn causes critical collision hazards with oncoming commercial traffic.\n\nLegal Liability and Maritime Cyber Defense\n\nUnderstanding the nautical rules of the road is crucial for maritime cybersecurity researchers and defenders to evaluate the true physical impact and legal liability resulting from compromised shipboard control systems.",
+      "summary": "COLREGs and Maritime Navigation Safety\n\nThe International Regulations for Preventing Collisions at Sea (COLREGs) define universal navigation rules that mariners follow to ensure predictable vessel interactions and avoid collisions in congested waterways.\n\nThe Strategic Importance of 'Don't Turn to Port'\n\nA fundamental guideline in maritime navigation is avoiding turns to port (left) in head-on or crossing situations. Under COLREG rules, turning to port directly violates established passing protocols and places full legal and operational liability on the vessel initiating the turn.\n\nCyber-Physical Manipulation of Rudder Controls\n\nManipulating cyber-physical systems\u2014such as digital rudder angle controllers or NMEA-connected autopilots\u2014can force an unexpected port turn. In maritime chokepoints and narrow channels, an induced port turn causes critical collision hazards with oncoming commercial traffic.\n\nLegal Liability and Maritime Cyber Defense\n\nUnderstanding the nautical rules of the road is crucial for maritime cybersecurity researchers and defenders to evaluate the true physical impact and legal liability resulting from compromised shipboard control systems.",
       "durationSeconds": 1540
     },
     {
@@ -675,7 +637,7 @@
     {
       "youtubeId": "VT-xl42KIpI",
       "slug": "they-deployed-health-ai-on-us-were-bringing-the-rights-and-red-t",
-      "title": "They Deployed Health AI on Us: We’re Bringing the Rights & Red Teams",
+      "title": "They Deployed Health AI on Us: We\u2019re Bringing the Rights & Red Teams",
       "speakers": [
         "Andrea Downing"
       ],
@@ -944,7 +906,7 @@
         "apt"
       ],
       "teaser": "Examines how climate change impacts water and energy infrastructure and how advanced persistent threat groups exploit these stressed OT environments.",
-      "summary": "Convergence of Climate Stress and Cyber Warfare\n\nClimate change is placing unprecedented physical stress on global energy grids, municipal water distribution networks, and agricultural infrastructure. Advanced Persistent Threat (APT) groups strategically exploit these vulnerabilities during periods of extreme environmental stress.\n\nTargeting Strained Critical Infrastructure\n\nNation-state actors recognize that physical infrastructure operating near capacity—such as power grids during severe heatwaves or water management systems during droughts—is exceptionally fragile and vulnerable to cascading disruptions from targeted cyberattacks.\n\nGeopolitical Motivations and APT Tradecraft\n\nCybelle Oliveira examines the geopolitical motivations driving state-sponsored cyber operations against environmental critical infrastructure, analyzing TTPs used to penetrate OT networks and manipulate supervisory control data.\n\nDefensive Resilience and Strategic Planning\n\nStrengthening infrastructure resilience requires integrating physical climate risk models with cybersecurity threat intelligence, prioritizing fail-safe operations, and hardening critical control loops.",
+      "summary": "Convergence of Climate Stress and Cyber Warfare\n\nClimate change is placing unprecedented physical stress on global energy grids, municipal water distribution networks, and agricultural infrastructure. Advanced Persistent Threat (APT) groups strategically exploit these vulnerabilities during periods of extreme environmental stress.\n\nTargeting Strained Critical Infrastructure\n\nNation-state actors recognize that physical infrastructure operating near capacity\u2014such as power grids during severe heatwaves or water management systems during droughts\u2014is exceptionally fragile and vulnerable to cascading disruptions from targeted cyberattacks.\n\nGeopolitical Motivations and APT Tradecraft\n\nCybelle Oliveira examines the geopolitical motivations driving state-sponsored cyber operations against environmental critical infrastructure, analyzing TTPs used to penetrate OT networks and manipulate supervisory control data.\n\nDefensive Resilience and Strategic Planning\n\nStrengthening infrastructure resilience requires integrating physical climate risk models with cybersecurity threat intelligence, prioritizing fail-safe operations, and hardening critical control loops.",
       "durationSeconds": 1427
     },
     {
@@ -1048,7 +1010,7 @@
       "slug": "holoconnect-ai-from-space-to-biohacking-dr-fernando-de-la-pena-l",
       "title": "HoloConnect AI: From Space to Biohacking",
       "speakers": [
-        "Fernando De La Peña Llaca"
+        "Fernando De La Pe\u00f1a Llaca"
       ],
       "track": "ai-security",
       "topics": [
@@ -1136,7 +1098,7 @@
         "firmware"
       ],
       "teaser": "Presents a structured Ghidra methodology for reverse engineering stripped ARM Cortex bare-metal and FreeRTOS embedded binaries using SVD and BSim plugins.",
-      "summary": "Challenges of Bare-Metal Firmware Analysis\n\nReverse engineering stripped bare-metal firmware and RTOS binaries on ARM Cortex platforms is notoriously difficult due to the absence of symbol tables, dynamic loaders, and standard file formats.\n\nMapping Board Support Packages via SVD Loader\n\nUsing the SVD (System View Description) loader plugin in Ghidra, analysts map memory-mapped hardware peripheral registers directly to MCU hardware specifications, instantly contextualizing hardware control routines.\n\nDeconstructing the Hardware Abstraction Layer\n\nCustom type recovery scripts and function pattern matching allow researchers to identify hardware initialization sequences, peripheral clock gating, and GPIO driver logic without source code.\n\nRTOS Kernel Reconstruction with BSim\n\nApplying Ghidra’s BSim plugin facilitates signature matching against FreeRTOS and other embedded kernels, recovering task creation routines, scheduler priorities, and inter-process communication constructs in complex firmware.",
+      "summary": "Challenges of Bare-Metal Firmware Analysis\n\nReverse engineering stripped bare-metal firmware and RTOS binaries on ARM Cortex platforms is notoriously difficult due to the absence of symbol tables, dynamic loaders, and standard file formats.\n\nMapping Board Support Packages via SVD Loader\n\nUsing the SVD (System View Description) loader plugin in Ghidra, analysts map memory-mapped hardware peripheral registers directly to MCU hardware specifications, instantly contextualizing hardware control routines.\n\nDeconstructing the Hardware Abstraction Layer\n\nCustom type recovery scripts and function pattern matching allow researchers to identify hardware initialization sequences, peripheral clock gating, and GPIO driver logic without source code.\n\nRTOS Kernel Reconstruction with BSim\n\nApplying Ghidra\u2019s BSim plugin facilitates signature matching against FreeRTOS and other embedded kernels, recovering task creation routines, scheduler priorities, and inter-process communication constructs in complex firmware.",
       "durationSeconds": 1325
     },
     {
@@ -1162,7 +1124,7 @@
     {
       "youtubeId": "sOkgHfu4lXY",
       "slug": "prompt-scan-exploit-ais-journey-through-0days-and-1000-bugs",
-      "title": "Prompt Scan Exploit AI’s Journey Through 0Days and 1000 Bugs",
+      "title": "Prompt Scan Exploit AI\u2019s Journey Through 0Days and 1000 Bugs",
       "speakers": [
         "D. Jurado",
         "J. Nogue"
@@ -1255,7 +1217,7 @@
         "detection-engineering"
       ],
       "teaser": "Applies offensive techniques from the SPARTA framework to generate behavioral indicators (IoBs) and design realistic intrusion detection systems for spacecraft.",
-      "summary": "The Need for Threat-Informed Space Defense\n\nWhile the SPARTA (Space Attack Research and Tactic Analysis) framework cataloged spaceborne cyber threats, mission operators needed empirical methods to detect these attacks in operational environments.\n\nSimulating Space Attacks and TTP Replay\n\nBrandon Bailey details hands-on offensive testing against simulated spacecraft flight software and telemetry buses to observe behavioral anomalies and telemetry patterns generated during active attacks.\n\nGenerating Indicators of Behavior (IoBs)\n\nFrom these simulations, researchers developed concrete Indicators of Behavior (IoBs)—such as unexpected CPU scheduling spikes, anomalous telemetry packet rates, and out-of-sequence command verifications—tailored to resource-constrained flight computers.\n\nDesigning Spaceborne Intrusion Detection Systems\n\nIntegrating data-driven IoBs into spacecraft IDS architectures enables real-time threat detection aboard satellites without overloading onboard computing resources.",
+      "summary": "The Need for Threat-Informed Space Defense\n\nWhile the SPARTA (Space Attack Research and Tactic Analysis) framework cataloged spaceborne cyber threats, mission operators needed empirical methods to detect these attacks in operational environments.\n\nSimulating Space Attacks and TTP Replay\n\nBrandon Bailey details hands-on offensive testing against simulated spacecraft flight software and telemetry buses to observe behavioral anomalies and telemetry patterns generated during active attacks.\n\nGenerating Indicators of Behavior (IoBs)\n\nFrom these simulations, researchers developed concrete Indicators of Behavior (IoBs)\u2014such as unexpected CPU scheduling spikes, anomalous telemetry packet rates, and out-of-sequence command verifications\u2014tailored to resource-constrained flight computers.\n\nDesigning Spaceborne Intrusion Detection Systems\n\nIntegrating data-driven IoBs into spacecraft IDS architectures enables real-time threat detection aboard satellites without overloading onboard computing resources.",
       "durationSeconds": 1536
     },
     {
@@ -1377,7 +1339,7 @@
     {
       "youtubeId": "CUZhORHp27U",
       "slug": "the-missing-link-drayteks-new-rces-complete-the-chain",
-      "title": "The Missing Link: Draytek’s New RCEs Complete the Chain",
+      "title": "The Missing Link: Draytek\u2019s New RCEs Complete the Chain",
       "speakers": [
         "O. Gianatiempo",
         "G. Aznarez"
@@ -1473,7 +1435,7 @@
     {
       "youtubeId": "o6-H-3Sx6i0",
       "slug": "incident-response-from-a-maritime-sysadmins-war-room",
-      "title": "Incident Response from a Maritime Sysadmin’s War Room",
+      "title": "Incident Response from a Maritime Sysadmin\u2019s War Room",
       "speakers": [
         "Kit Louttit",
         "Steve Winston"

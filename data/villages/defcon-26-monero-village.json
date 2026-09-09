@@ -14,7 +14,9 @@
       ],
       "track": "community",
       "topics": [
-        "monero"
+        "monero",
+        "community",
+        "def-con"
       ],
       "teaser": "Monero Village - Welcome Speech",
       "summary": null,
@@ -29,7 +31,9 @@
       ],
       "track": "community",
       "topics": [
-        "monero"
+        "monero",
+        "community",
+        "def-con"
       ],
       "teaser": "Greatest Questions",
       "summary": null,
@@ -44,7 +48,9 @@
       ],
       "track": "community",
       "topics": [
-        "monero"
+        "monero",
+        "community",
+        "def-con"
       ],
       "teaser": "BCOS Keynote",
       "summary": null,
@@ -60,7 +66,8 @@
       "track": "privacy",
       "topics": [
         "cryptography",
-        "cryptocurrency"
+        "cryptocurrency",
+        "community"
       ],
       "teaser": "Hacking a Crypto Payment Gateway",
       "summary": null,
@@ -75,7 +82,9 @@
       ],
       "track": "privacy",
       "topics": [
-        "monero"
+        "monero",
+        "community",
+        "def-con"
       ],
       "teaser": "We Program Our Stinkin Badges",
       "summary": null,
@@ -90,7 +99,9 @@
       ],
       "track": "privacy",
       "topics": [
-        "monero"
+        "monero",
+        "community",
+        "def-con"
       ],
       "teaser": "We Dont Need No Stinkin Badges",
       "summary": null,
@@ -123,7 +134,8 @@
       "track": "privacy",
       "topics": [
         "monero",
-        "cryptography"
+        "cryptography",
+        "community"
       ],
       "teaser": "Examining Moneros Ring Signatures",
       "summary": null,
@@ -138,7 +150,9 @@
       ],
       "track": "privacy",
       "topics": [
-        "monero"
+        "monero",
+        "community",
+        "def-con"
       ],
       "teaser": "Inside Monero",
       "summary": null,
@@ -154,7 +168,8 @@
       "track": "privacy",
       "topics": [
         "monero",
-        "blockchain-economics"
+        "blockchain-economics",
+        "community"
       ],
       "teaser": "Scaling and Economic Implications",
       "summary": null,
@@ -170,7 +185,8 @@
       "track": "privacy",
       "topics": [
         "monero",
-        "applications"
+        "applications",
+        "community"
       ],
       "teaser": "Moneros Emerging Applications",
       "summary": null,
@@ -185,7 +201,9 @@
       ],
       "track": "community",
       "topics": [
-        "monero"
+        "monero",
+        "community",
+        "def-con"
       ],
       "teaser": "Village Summary",
       "summary": null,
@@ -201,7 +219,8 @@
       "track": "privacy",
       "topics": [
         "monero",
-        "security-research"
+        "security-research",
+        "community"
       ],
       "teaser": "Anonimal- Monero Projects Vulnerability Response Process",
       "summary": null,
@@ -217,7 +236,8 @@
       "track": "privacy",
       "topics": [
         "monero",
-        "network-privacy"
+        "network-privacy",
+        "community"
       ],
       "teaser": "An Introduction to Kovri",
       "summary": null,

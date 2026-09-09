@@ -120,7 +120,8 @@
       "track": "ai-security",
       "topics": [
         "malware-detection",
-        "deep-learning"
+        "deep-learning",
+        "community"
       ],
       "teaser": "Fighting Malware with Deep Learning.",
       "summary": null,
@@ -135,7 +136,9 @@
       ],
       "track": "community",
       "topics": [
-        "orientation"
+        "orientation",
+        "community",
+        "def-con"
       ],
       "teaser": "Opening Remarks.",
       "summary": null,
@@ -151,7 +154,8 @@
       "track": "ai-security",
       "topics": [
         "biometrics",
-        "authentication"
+        "authentication",
+        "community"
       ],
       "teaser": "Behavioral Biometrics and Context Analytics.",
       "summary": null,
@@ -167,7 +171,8 @@
       "track": "community",
       "topics": [
         "machine-learning",
-        "business"
+        "business",
+        "community"
       ],
       "teaser": "A Buyer's Guide to the Market Promise of Automagic AI.",
       "summary": null,
@@ -183,7 +188,8 @@
       "track": "ai-security",
       "topics": [
         "deepfakes",
-        "facial-recognition"
+        "facial-recognition",
+        "community"
       ],
       "teaser": "Clairvoyance: Concurrent Lip Reading for Smart Masses.",
       "summary": null,
@@ -233,7 +239,8 @@
       "track": "policy",
       "topics": [
         "disinformation",
-        "misinformation"
+        "misinformation",
+        "community"
       ],
       "teaser": "Disinformation: It's the Thought that Counts.",
       "summary": null,
@@ -249,7 +256,8 @@
       "track": "red-team",
       "topics": [
         "facial-recognition",
-        "adversarial-attacks"
+        "adversarial-attacks",
+        "community"
       ],
       "teaser": "A Tutorial on Hacking Facial Recognition Systems.",
       "summary": null,
@@ -282,7 +290,8 @@
       "track": "blue-team",
       "topics": [
         "machine-learning",
-        "security-analytics"
+        "security-analytics",
+        "community"
       ],
       "teaser": "Datasciencery by the Splunk Field.",
       "summary": null,
@@ -298,7 +307,8 @@
       "track": "community",
       "topics": [
         "deepfakes",
-        "q-and-a"
+        "q-and-a",
+        "community"
       ],
       "teaser": "Deep Fakes Panel.",
       "summary": null,
@@ -331,7 +341,8 @@
       "track": "community",
       "topics": [
         "machine-learning",
-        "data-quality"
+        "data-quality",
+        "community"
       ],
       "teaser": "From Noisy Distorted Datasets to Excellent Prediction Model.",
       "summary": null,

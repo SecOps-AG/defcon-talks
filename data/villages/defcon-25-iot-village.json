@@ -32,7 +32,8 @@
       "track": "blue-team",
       "topics": [
         "vulnerabilities",
-        "iot"
+        "iot",
+        "community"
       ],
       "teaser": "A year ago, Mudge and I introduced the non-profit Cyber ITL at DEF CON and its approach to automated software safety analysis. Now, we'll be covering highlights from the past year's research findings, including our in...",
       "summary": null,
@@ -138,7 +139,8 @@
       "track": "blue-team",
       "topics": [
         "vulnerabilities",
-        "iot"
+        "iot",
+        "community"
       ],
       "teaser": "The FTC recently conducted a challenge competition aimed at facilitating security updates to home IoT devices. We'll share what we've learned from the challenge, and we hope to announce the winner. We will also give a...",
       "summary": null,
@@ -154,7 +156,8 @@
       "track": "blue-team",
       "topics": [
         "iot",
-        "vulnerabilities"
+        "vulnerabilities",
+        "community"
       ],
       "teaser": "The \u201cInternet of Things\u201d (IoT) is taking over our lives, so we should be constantly questioning the security and integrity of these technologies. As an IoT researcher, this is precisely what I do. During this presenta...",
       "summary": null,

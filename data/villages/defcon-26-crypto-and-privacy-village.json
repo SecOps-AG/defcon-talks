@@ -242,23 +242,6 @@
       "durationSeconds": 1166
     },
     {
-      "youtubeId": "udybyX0Vht4",
-      "slug": "jeff-kosseff",
-      "title": "Hamiltons Private Key American Exceptionalism",
-      "speakers": [
-        "Jeff Kosseff"
-      ],
-      "track": "privacy",
-      "topics": [
-        "cryptography",
-        "privacy",
-        "encryption"
-      ],
-      "teaser": "Presentation on cryptography and privacy technologies.",
-      "summary": null,
-      "durationSeconds": 3154
-    },
-    {
       "youtubeId": "7-Z1HF4W90M",
       "slug": "hardin-and-dalsen",
       "title": "Rethinking Digital Privacy Education",

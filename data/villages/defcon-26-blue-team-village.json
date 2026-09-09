@@ -151,7 +151,8 @@
       "track": "blue-team",
       "topics": [
         "threat-intel",
-        "blue-team"
+        "blue-team",
+        "community"
       ],
       "teaser": "Open Source Endpoint Monitoring",
       "summary": null,

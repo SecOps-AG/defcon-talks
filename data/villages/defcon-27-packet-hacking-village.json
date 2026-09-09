@@ -15,7 +15,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Personalized Wordlists With NLP by Analyzing Tweets",
       "summary": null,
@@ -31,7 +32,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Bestsellers in the Underground Economy",
       "summary": null,
@@ -47,7 +49,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "First Try DNS Cache Poisoning with IPv4 and IPv6",
       "summary": null,
@@ -63,7 +66,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Lessons Learned Running a  Pentesting Competition",
       "summary": null,
@@ -79,7 +83,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Hunting Certificates and Servers",
       "summary": null,
@@ -95,7 +100,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Phishing Freakonomics",
       "summary": null,
@@ -111,7 +117,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "StegoAugmented Malware",
       "summary": null,
@@ -127,7 +134,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Head in the Clouds",
       "summary": null,
@@ -143,7 +151,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Rethinking Security Given the Spectre of a Meltdown",
       "summary": null,
@@ -159,7 +168,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Old Tech vs New Adversaries Round 1",
       "summary": null,
@@ -175,7 +185,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "The Art of Detection",
       "summary": null,
@@ -191,7 +202,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Attacking and Defending Kubernetes",
       "summary": null,
@@ -207,7 +219,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Solving Crimes with Wireless GeoFencing",
       "summary": null,
@@ -223,7 +236,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "CIRCO Cisco Implant Raspberry Controlled Ops",
       "summary": null,
@@ -239,7 +253,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Hacking Corporate Org Socialization",
       "summary": null,
@@ -255,7 +270,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Patching It is Complicated",
       "summary": null,
@@ -271,7 +287,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Security to Make the CFO Happy",
       "summary": null,
@@ -287,7 +304,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Wi Fi Threat Modeling and Monitoring",
       "summary": null,
@@ -303,7 +321,8 @@
       "track": "osint",
       "topics": [
         "packet-analysis",
-        "network-security"
+        "network-security",
+        "community"
       ],
       "teaser": "Sandbox Creative Usage For Fun and Problems",
       "summary": null,

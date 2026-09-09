@@ -14,7 +14,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "vehicle-networks"
+        "vehicle-networks",
+        "community",
+        "def-con"
       ],
       "teaser": "CAN bus signal extraction and reverse engineering using OpenXC and Radare2.",
       "summary": null,
@@ -106,7 +108,8 @@
       "track": "red-team",
       "topics": [
         "car-hacking",
-        "firmware-analysis"
+        "firmware-analysis",
+        "community"
       ],
       "teaser": "ECU firmware extraction and bootloader vulnerabilities in automotive systems.",
       "summary": null,

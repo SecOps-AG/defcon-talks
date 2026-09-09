@@ -30,8 +30,8 @@
       "slug": "andres-blanco-andres-gazzoli-80211-massive-monitoring",
       "title": "802.11 Massive Monitoring",
       "speakers": [
-        "Andrés Blanco",
-        "Andrés Gazzoli"
+        "Andr\u00e9s Blanco",
+        "Andr\u00e9s Gazzoli"
       ],
       "track": "wireless",
       "topics": [
@@ -40,7 +40,7 @@
         "network-security",
         "openwrt"
       ],
-      "teaser": "Andrés Blanco and Andrés Gazzoli present an OpenWrt-based distributed capture architecture to simultaneously monitor and inject frames across all 802.11 channels.",
+      "teaser": "Andr\u00e9s Blanco and Andr\u00e9s Gazzoli present an OpenWrt-based distributed capture architecture to simultaneously monitor and inject frames across all 802.11 channels.",
       "summary": null,
       "durationSeconds": 2264
     }

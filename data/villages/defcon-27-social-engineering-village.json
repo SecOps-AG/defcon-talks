@@ -36,7 +36,7 @@
         "physical-security",
         "geographic-perspective"
       ],
-      "teaser": "Red team operations from an international perspective—techniques and methodologies from down under applied to modern security assessments.",
+      "teaser": "Red team operations from an international perspective\u2014techniques and methodologies from down under applied to modern security assessments.",
       "summary": null,
       "durationSeconds": 2038
     },
@@ -72,7 +72,7 @@
         "reconnaissance",
         "real-world-cases"
       ],
-      "teaser": "Practical OSINT techniques applicable to security careers and daily life—real investigation walkthroughs and personal case studies.",
+      "teaser": "Practical OSINT techniques applicable to security careers and daily life\u2014real investigation walkthroughs and personal case studies.",
       "summary": null,
       "durationSeconds": 1761
     },
@@ -90,7 +90,7 @@
         "ethics",
         "defensive-tactics"
       ],
-      "teaser": "Discussion on the limitations and dangers of vigilantism in child protection—why systemic approaches beat individual action.",
+      "teaser": "Discussion on the limitations and dangers of vigilantism in child protection\u2014why systemic approaches beat individual action.",
       "summary": null,
       "durationSeconds": 1815
     },
@@ -109,7 +109,7 @@
         "manipulation",
         "exploitation"
       ],
-      "teaser": "Insider threat exploitation techniques—manipulating employees to steal data, equipment, or commit sabotage from within an organization.",
+      "teaser": "Insider threat exploitation techniques\u2014manipulating employees to steal data, equipment, or commit sabotage from within an organization.",
       "summary": null,
       "durationSeconds": 1870
     },
@@ -128,7 +128,7 @@
         "government-operations",
         "critical-thinking"
       ],
-      "teaser": "Red team approaches beyond penetration testing—how military, intelligence, and private sector organizations use red teaming for strategic defense.",
+      "teaser": "Red team approaches beyond penetration testing\u2014how military, intelligence, and private sector organizations use red teaming for strategic defense.",
       "summary": null,
       "durationSeconds": 1791
     },
@@ -147,7 +147,7 @@
         "training",
         "behavioral-change"
       ],
-      "teaser": "Neurodivergent perspectives on social engineering—how autism and different thinking styles bring unique strengths to security defense.",
+      "teaser": "Neurodivergent perspectives on social engineering\u2014how autism and different thinking styles bring unique strengths to security defense.",
       "summary": null,
       "durationSeconds": 1910
     },
@@ -165,7 +165,7 @@
         "networking",
         "professional-advancement"
       ],
-      "teaser": "Using social engineering principles for career growth—blending technical skills with human behavior understanding for professional success.",
+      "teaser": "Using social engineering principles for career growth\u2014blending technical skills with human behavior understanding for professional success.",
       "summary": null,
       "durationSeconds": 1674
     },
@@ -184,7 +184,7 @@
         "psychology",
         "target-assessment"
       ],
-      "teaser": "Advanced people-reading techniques—assessing personality, trust signals, and building rapport through behavioral analysis.",
+      "teaser": "Advanced people-reading techniques\u2014assessing personality, trust signals, and building rapport through behavioral analysis.",
       "summary": null,
       "durationSeconds": 3228
     },
@@ -203,7 +203,7 @@
         "confidence-building",
         "self-awareness"
       ],
-      "teaser": "Overcoming impostor syndrome—psychological barriers affecting security professionals and how to break through self-doubt cycles.",
+      "teaser": "Overcoming impostor syndrome\u2014psychological barriers affecting security professionals and how to break through self-doubt cycles.",
       "summary": null,
       "durationSeconds": 1596
     },
@@ -221,7 +221,7 @@
         "community",
         "security-culture"
       ],
-      "teaser": "Retrospective on 10 years of Social Engineering Village—evolution from underground gatherings to mainstream security awareness.",
+      "teaser": "Retrospective on 10 years of Social Engineering Village\u2014evolution from underground gatherings to mainstream security awareness.",
       "summary": null,
       "durationSeconds": 3098
     },
@@ -240,7 +240,7 @@
         "information-extraction",
         "manipulation"
       ],
-      "teaser": "Cold reading techniques for extracting information and building false credibility—how to make targets believe you possess knowledge about them.",
+      "teaser": "Cold reading techniques for extracting information and building false credibility\u2014how to make targets believe you possess knowledge about them.",
       "summary": null,
       "durationSeconds": 1929
     },
@@ -259,7 +259,7 @@
         "fundamentals",
         "methodology"
       ],
-      "teaser": "Fundamentals of social engineering for beginners—you don't need to be charismatic or outgoing to succeed as a social engineer.",
+      "teaser": "Fundamentals of social engineering for beginners\u2014you don't need to be charismatic or outgoing to succeed as a social engineer.",
       "summary": null,
       "durationSeconds": 1477
     },
@@ -278,7 +278,7 @@
         "manipulation",
         "deception"
       ],
-      "teaser": "Voice-based social engineering—leveraging authority and psychological pressure to manipulate victims into compliance.",
+      "teaser": "Voice-based social engineering\u2014leveraging authority and psychological pressure to manipulate victims into compliance.",
       "summary": null,
       "durationSeconds": 1667
     },
@@ -297,7 +297,7 @@
         "transportation",
         "reconnaissance"
       ],
-      "teaser": "OSINT and social engineering via rideshare interactions—gathering intelligence and testing security through Uber and Lyft engagements.",
+      "teaser": "OSINT and social engineering via rideshare interactions\u2014gathering intelligence and testing security through Uber and Lyft engagements.",
       "summary": null,
       "durationSeconds": 1708
     },
@@ -316,7 +316,7 @@
         "control-failure",
         "threat-modeling"
       ],
-      "teaser": "Control failure analysis—why most defensive implementations fail and how attackers exploit misunderstood security risks.",
+      "teaser": "Control failure analysis\u2014why most defensive implementations fail and how attackers exploit misunderstood security risks.",
       "summary": null,
       "durationSeconds": 3013
     },
@@ -335,7 +335,7 @@
         "organizational-security",
         "case-study"
       ],
-      "teaser": "Entertainment industry security failures—lessons from high-profile breaches and vulnerabilities specific to content production.",
+      "teaser": "Entertainment industry security failures\u2014lessons from high-profile breaches and vulnerabilities specific to content production.",
       "summary": null,
       "durationSeconds": 1762
     }

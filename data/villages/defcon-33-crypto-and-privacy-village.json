@@ -64,7 +64,7 @@
     {
       "youtubeId": "C8F5kvm2B5s",
       "slug": "veilid-la-revolucion-your-data-is-yours-to-own",
-      "title": "Veilid la revolución: Your Data Is Yours to Own",
+      "title": "Veilid la revoluci\u00f3n: Your Data Is Yours to Own",
       "speakers": [
         "Katelyn Bowden",
         "Paul Miller"
@@ -155,7 +155,7 @@
         "compliance"
       ],
       "teaser": "Introduces the Quantum Readiness Assurance Maturity Model (QRAMM), an open-source framework assessing organizational agility for post-quantum migrations.",
-      "summary": "Navigating Post-Quantum Cryptographic Migration\n\nWith NIST finalizing post-quantum cryptography standards, enterprises face a massive operational challenge in transitioning legacy encryption, digital signatures, and key exchange protocols to quantum-resistant alternatives.\n\nThe Quantum Readiness Assurance Maturity Model (QRAMM)\n\nEmily Fane and Abdel Sy Fane introduce QRAMM, an open-source framework designed to help organizations assess their post-quantum readiness across four core dimensions: cryptographic visibility, data protection, technical implementation, and governance.\n\nAchieving Cryptographic Agility\n\nQRAMM emphasizes cryptographic agility—the architectural ability to swap cryptographic algorithms and certificate structures seamlessly without re-engineering underlying software applications.\n\nPractical Roadmap for Enterprise Adoption\n\nImplementing QRAMM provides structured maturity roadmaps, risk assessment metrics, and compliance guidelines to help security leaders navigate post-quantum migration deadlines.",
+      "summary": "Navigating Post-Quantum Cryptographic Migration\n\nWith NIST finalizing post-quantum cryptography standards, enterprises face a massive operational challenge in transitioning legacy encryption, digital signatures, and key exchange protocols to quantum-resistant alternatives.\n\nThe Quantum Readiness Assurance Maturity Model (QRAMM)\n\nEmily Fane and Abdel Sy Fane introduce QRAMM, an open-source framework designed to help organizations assess their post-quantum readiness across four core dimensions: cryptographic visibility, data protection, technical implementation, and governance.\n\nAchieving Cryptographic Agility\n\nQRAMM emphasizes cryptographic agility\u2014the architectural ability to swap cryptographic algorithms and certificate structures seamlessly without re-engineering underlying software applications.\n\nPractical Roadmap for Enterprise Adoption\n\nImplementing QRAMM provides structured maturity roadmaps, risk assessment metrics, and compliance guidelines to help security leaders navigate post-quantum migration deadlines.",
       "durationSeconds": 1350
     }
   ]

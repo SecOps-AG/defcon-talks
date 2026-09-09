@@ -134,7 +134,7 @@
         "volatility",
         "blue-team"
       ],
-      "teaser": "Connor Morley analyzes Windows in-memory injection techniques—including process hollowing and thread hijacking—and how defenders detect them.",
+      "teaser": "Connor Morley analyzes Windows in-memory injection techniques\u2014including process hollowing and thread hijacking\u2014and how defenders detect them.",
       "summary": null,
       "durationSeconds": 3574
     },

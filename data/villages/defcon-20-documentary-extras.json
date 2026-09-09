@@ -3,16 +3,20 @@
   "villageName": "Documentary - Extras",
   "eventSlug": "defcon-20",
   "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCqUuVTpnL3T8qvusiuT9X0",
-  "description": "",
+  "description": "Documentary - Extras talks and related uploads.",
   "talks": [
     {
       "youtubeId": "yYron5dvqQo",
       "slug": "documentary-bonus-clips-ballad-of-the-goon",
       "title": "Documentary Bonus Clips - Ballad of the Goon",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - Ballad of the Goon \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 168
     },
@@ -23,9 +27,13 @@
       "speakers": [
         "CDC muxed"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 473
     },
@@ -36,9 +44,13 @@
       "speakers": [
         "Creme Brulee"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 96
     },
@@ -47,9 +59,13 @@
       "slug": "documentary-bonus-clips-hacking-for-charity",
       "title": "Documentary Bonus Clips - Hacking for Charity",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - Hacking for Charity \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 155
     },
@@ -60,9 +76,13 @@
       "speakers": [
         "Mongolian Beef"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 157
     },
@@ -71,9 +91,13 @@
       "slug": "documentary-bonus-clips-not-the-same-anymore",
       "title": "Documentary Bonus Clips - Not the Same Anymore",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - Not the Same Anymore \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 225
     },
@@ -82,9 +106,13 @@
       "slug": "documentary-bonus-clips-peggy-and-her-three-hackers",
       "title": "Documentary Bonus Clips - Peggy and Her Three Hackers",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - Peggy and Her Three Hackers \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 129
     },
@@ -95,9 +123,13 @@
       "speakers": [
         "Porn Santa"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 199
     },
@@ -108,9 +140,13 @@
       "speakers": [
         "Richard Thieme"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 163
     },
@@ -121,9 +157,13 @@
       "speakers": [
         "Service Hallways on Segway"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 178
     },
@@ -132,9 +172,13 @@
       "slug": "documentary-bonus-clips-the-layover",
       "title": "Documentary Bonus Clips - The Layover",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - The Layover \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 49
     },
@@ -143,9 +187,13 @@
       "slug": "documentary-bonus-clips-the-organization",
       "title": "Documentary Bonus Clips - The Organization",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - The Organization \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 131
     },
@@ -156,9 +204,13 @@
       "speakers": [
         "VeraNG"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 136
     },
@@ -167,9 +219,13 @@
       "slug": "documentary-bonus-clips-we-make-no-money-from-you",
       "title": "Documentary Bonus Clips - We Make No Money From You",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - We Make No Money From You \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 85
     },
@@ -180,9 +236,13 @@
       "speakers": [
         "Being a Party Host"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 147
     },
@@ -193,9 +253,13 @@
       "speakers": [
         "Bed Jumping Mafia"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 134
     },
@@ -204,9 +268,13 @@
       "slug": "documentary-bonus-clips-barkode-and-bloodkode",
       "title": "Documentary Bonus Clips - Barkode and Bloodkode",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips - Barkode and Bloodkode \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 159
     },
@@ -217,9 +285,13 @@
       "speakers": [
         "Another Vegas Story"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 55
     },
@@ -230,9 +302,13 @@
       "speakers": [
         "Alexis Park Home Improvement"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 75
     },
@@ -243,9 +319,13 @@
       "speakers": [
         "A Top Qualitty Production"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 129
     },
@@ -256,9 +336,13 @@
       "speakers": [
         "A Toast"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Bonus Clips \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 58
     },
@@ -267,9 +351,13 @@
       "slug": "documentary-teaser-trailer",
       "title": "Documentary Teaser Trailer",
       "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Documentary Teaser Trailer \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 224
     }
