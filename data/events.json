@@ -57,6 +57,14 @@
       "location": "Paris and Bally's Hotels, Las Vegas"
     },
     {
+      "slug": "defcon-china-party-2021",
+      "name": "DEF CON China Party 2021",
+      "shortName": "DCCN-2021",
+      "year": 2021,
+      "dates": "20 March 2021",
+      "location": "DEF CONstruct (VR)"
+    },
+    {
       "slug": "defcon-27",
       "name": "DEF CON 27",
       "shortName": "DC27",
