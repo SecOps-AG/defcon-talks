@@ -10,9 +10,9 @@
       "slug": "se-village-silvers-and-banks-on-the-hunt-hacking-the-hunt-group",
       "title": "On the Hunt Hacking the Hunt Group",
       "speakers": [
-        "Silvers and Banks"
+        "Chris Silvers, Taylor Banks"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "phishing",
@@ -20,7 +20,7 @@
         "red-teaming",
         "intelligence-gathering"
       ],
-      "teaser": "Dynamic duo DEF CON SECTF black badge winner Chris Silvers and ACE Hackware founder Taylor Banks return to the stage to take audiences on a hunt \u00e2\u20ac\u201d of the hunt group, that is.",
+      "teaser": "DEF CON SECTF champions demonstrate advanced hunting techniques—combining phishing, OSINT, and red team tactics to track and engage targets.",
       "summary": null,
       "durationSeconds": 3055
     },
@@ -31,7 +31,7 @@
       "speakers": [
         "Ryan MacDougall"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "psychology",
@@ -39,7 +39,7 @@
         "communication",
         "personal-development"
       ],
-      "teaser": "In 20 years I learned how to step outside my introverted personality to explore the world in a more successful way, but not without bumps and bruises which taught me valuable lessons.",
+      "teaser": "Personal journey from introversion to becoming a skilled social engineer—lessons learned overcoming personality barriers to master manipulation.",
       "summary": null,
       "durationSeconds": 2363
     },
@@ -50,14 +50,15 @@
       "speakers": [
         "Pongolyn"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "red-teaming",
         "persuasion",
-        "psychology"
+        "psychology",
+        "collective-behavior"
       ],
-      "teaser": "What do a flock of starlings, a colony of warrior ants, and a hundred-person flash mob all have in common with the red team? Swarm intelligence, the collective behavior of individuals acting autonomously, is a concept...",
+      "teaser": "Apply swarm intelligence concepts—collective autonomous behavior—to manipulate group dynamics and influence large-scale red team operations.",
       "summary": null,
       "durationSeconds": 1851
     },
@@ -68,12 +69,15 @@
       "speakers": [
         "Neil Fallon"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
-        "persuasion"
+        "persuasion",
+        "manipulation",
+        "psychology",
+        "influence"
       ],
-      "teaser": "Across the globe for millennia upon millennia, a cabal of social engineers have been working to manipulate realities, collective and singular.  They influence decision making processes in a matter of minutes and leave...",
+      "teaser": "Historical and modern manipulation techniques—how social engineers across millennia have influenced decision-making and shaped realities.",
       "summary": null,
       "durationSeconds": 3058
     },
@@ -84,14 +88,15 @@
       "speakers": [
         "Kathleen Mullin"
       ],
-      "track": "social-engineering",
+      "track": "blue-team",
       "topics": [
         "social-engineering",
         "phishing",
         "osint",
-        "culture"
+        "security-culture",
+        "organizational-defense"
       ],
-      "teaser": "Social Engineering is a powerful tool. With the weapons gathered through Open Source Intelligence (OSINT) gathering and well crafted vishing or phishing a Social Engineer wields incredible power to do good.",
+      "teaser": "CISO perspective on defending against social engineering—building organizational resilience through security awareness and cultural transformation.",
       "summary": null,
       "durationSeconds": 1866
     },
@@ -102,15 +107,15 @@
       "speakers": [
         "Hannah Silvers"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "phishing",
         "manipulation",
         "deception",
-        "awareness"
+        "awareness-testing"
       ],
-      "teaser": "You\u2019re mindlessly scrolling through Facebook when you see your friend share a post and comment, \u201cMine is Bubbles Sunset!\u201d",
+      "teaser": "Analysis of a viral Facebook phishing campaign—how seemingly innocent naming games become effective social engineering attacks.",
       "summary": null,
       "durationSeconds": 1688
     },
@@ -121,7 +126,7 @@
       "speakers": [
         "Chris Roberts"
       ],
-      "track": "social-engineering",
+      "track": "policy",
       "topics": [
         "psychology",
         "human-behavior",
@@ -129,7 +134,7 @@
         "future-trends",
         "risk-analysis"
       ],
-      "teaser": "As humans we have four evolutionary paths:",
+      "teaser": "Exploration of human evolutionary paths and future trajectories—understanding psychological and behavioral trends shaping security landscapes.",
       "summary": null,
       "durationSeconds": 3026
     },
@@ -140,11 +145,15 @@
       "speakers": [
         "Chris Hadnagy and Panel"
       ],
-      "track": "social-engineering",
+      "track": "blue-team",
       "topics": [
+        "social-engineering",
+        "defensive-tactics",
+        "child-safety",
+        "predator-hunting",
         "security-research"
       ],
-      "teaser": "It was just about 1 year ago that Chris announced the launching of The Innocent Lives Foundation. What has happened in the last year? What have we accomplished? What are our challenges? What is next in the future? Thi...",
+      "teaser": "Using social engineering techniques defensively—panel discussion on The Innocent Lives Foundation's efforts to identify and stop child predators.",
       "summary": null,
       "durationSeconds": 3041
     },
@@ -155,15 +164,15 @@
       "speakers": [
         "Billy Boatright"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "pretexting",
-        "tools-techniques",
+        "physical-security",
         "red-teaming",
         "methodology"
       ],
-      "teaser": "Without the right tools the engagement can be over before it begins, as upfront resistance can prevent you from entering with your tools. Billy Boatright demonstrates and discusses how to use social engineering tactic...",
+      "teaser": "Physical and social tactics for gaining access—tools, techniques, and psychological approaches to overcome initial resistance in pretexting attacks.",
       "summary": null,
       "durationSeconds": 2162
     },
@@ -174,13 +183,15 @@
       "speakers": [
         "Aunshul Rege"
       ],
-      "track": "social-engineering",
+      "track": "policy",
       "topics": [
         "social-engineering",
         "psychology",
-        "security-research"
+        "security-education",
+        "academic-programs",
+        "research-methodology"
       ],
-      "teaser": "The hard science disciplines (computer science, electrical and computer engineering) have already started investing heavily in cybersecurity education. Security experts, however, note that cybersecurity is a wider dis...",
+      "teaser": "Integrating social engineering and psychology into undergraduate cybersecurity curricula—practical course projects that teach offensive and defensive concepts.",
       "summary": null,
       "durationSeconds": 3046
     }
