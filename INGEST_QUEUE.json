@@ -1,91 +1,61 @@
 {
   "lane": "haiku",
-  "count": 14,
-  "note": "Do NOT delete. Process top-to-bottom until empty. skip-all => mark done and continue. Never ask what is next.",
+  "count": 9,
+  "note": "CRITICAL: A playlist is NOT done just because some/all videos appear in another village file. Your job is to ensure this playlistId has its OWN data/villages/*.json with playlistUrl containing this id. Fetch the playlist; add any youtubeIds not already in the archive; if all ids already exist elsewhere, still scaffold a village file that references them OR mark done only after confirming a village file with this playlistUrl exists on main. Prefer creating the own-file with talks (dedupe by youtubeId against archive). Never ask what is next. Never delete this queue.",
   "playlists": [
+    {
+      "title": "DC33 - Aerospace Village Talks",
+      "id": "PL9fPq3eQfaaCYTaKum8bEwkPrKMNYObI_",
+      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCYTaKum8bEwkPrKMNYObI_",
+      "status": "todo"
+    },
     {
       "title": "DC33 Cryptocurrency Village Talks",
       "id": "PL9fPq3eQfaaAPNrfRyIhYAAB3DXOZ9ywF",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAPNrfRyIhYAAB3DXOZ9ywF",
-      "status": "done"
+      "status": "todo"
     },
     {
-      "title": "DC33 Policy Village Talks",
-      "id": "PL9fPq3eQfaaBOu1qphseWq4f2aqrsrhEd",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBOu1qphseWq4f2aqrsrhEd",
-      "status": "done"
+      "title": "DC33 IoT Village Talks",
+      "id": "PL9fPq3eQfaaC-bZh19aVktTfBlLKP4Psm",
+      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaC-bZh19aVktTfBlLKP4Psm",
+      "status": "todo"
     },
     {
-      "title": "DEF CON 27 Hack the Sea Village",
-      "id": "PL9fPq3eQfaaAq-su0FRSRPrlrnsGO96px",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAq-su0FRSRPrlrnsGO96px",
-      "status": "done"
+      "title": "DC33 Physical Security Village",
+      "id": "PL9fPq3eQfaaCjsw7hMqRHYucglZkITgcW",
+      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCjsw7hMqRHYucglZkITgcW",
+      "status": "todo"
+    },
+    {
+      "title": "DEF CON 22 General",
+      "id": "PL9fPq3eQfaaD2NCYeo0Uvh4TPL5B8z3nQ",
+      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD2NCYeo0Uvh4TPL5B8z3nQ",
+      "status": "todo"
+    },
+    {
+      "title": "DEF CON 27 Car Hacking Village",
+      "id": "PL9fPq3eQfaaDvMO7vLSVVSPEfB7OHHEjy",
+      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDvMO7vLSVVSPEfB7OHHEjy",
+      "status": "todo"
+    },
+    {
+      "title": "DEF CON 32 Policy Village",
+      "id": "PL9fPq3eQfaaB7a0dBUTtwxCb4V0pIQ2YR",
+      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaB7a0dBUTtwxCb4V0pIQ2YR",
+      "status": "todo"
     },
     {
       "title": "DEF CON Safe Mode Friday",
       "id": "PL9fPq3eQfaaBn8oVJZcsyBZkJPbM9CJOg",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBn8oVJZcsyBZkJPbM9CJOg",
-      "status": "done"
-    },
-    {
-      "title": "DC 33 Crypto/Privacy Village Talks",
-      "id": "PL9fPq3eQfaaD4UX-4ccmt2JWBVyrqPxr_",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD4UX-4ccmt2JWBVyrqPxr_",
-      "status": "done"
-    },
-    {
-      "title": "DEF CON 23 Presentations: Packet Hacking Village",
-      "id": "PL9fPq3eQfaaDDVPJi9-HmMvknZrVwKSOf",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDDVPJi9-HmMvknZrVwKSOf",
-      "status": "done"
+      "status": "todo"
     },
     {
       "title": "DEF CON Safe Mode Thursday",
       "id": "PL9fPq3eQfaaA_z4a8GOEy1u-OadPWCxp1",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaA_z4a8GOEy1u-OadPWCxp1",
-      "status": "done"
-    },
-    {
-      "title": "DC33 Hardware Hacking Village Talks",
-      "id": "PL9fPq3eQfaaCqVCguEg0tgDJ-f239-V-Z",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCqVCguEg0tgDJ-f239-V-Z",
-      "status": "done"
-    },
-    {
-      "title": "DEF CON 20 Documentary - Main movie",
-      "id": "PL9fPq3eQfaaCIZajWLyN5f6M0HoU_Avuk",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCIZajWLyN5f6M0HoU_Avuk",
-      "status": "done"
-    },
-    {
-      "title": "DEF CON 32",
-      "id": "PL9fPq3eQfaaBmBnjhio8TNz00bBEINjER",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBmBnjhio8TNz00bBEINjER",
-      "status": "done"
-    },
-    {
-      "title": "DEF CON Safe Mode Saturday",
-      "id": "PL9fPq3eQfaaDRwPhSwjUFL3u8_E6BB2Tf",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDRwPhSwjUFL3u8_E6BB2Tf",
-      "status": "done"
-    },
-    {
-      "title": "DC33 Bug Bounty Village Talks",
-      "id": "PL9fPq3eQfaaBtm6ePthZjnhAqIwrgZYgu",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBtm6ePthZjnhAqIwrgZYgu",
-      "status": "done"
-    },
-    {
-      "title": "DEF CON 27 Aviation Village",
-      "id": "PL9fPq3eQfaaBqpu32JLE215tVt9N8ap-1",
-      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBqpu32JLE215tVt9N8ap-1",
-      "status": "done"
-    },
-    {
-      "title": "DEF CON SG1",
-      "id": "PLa4uOp1l9ruE",
-      "url": "https://www.youtube.com/playlist?list=PLa4uOp1l9ruE",
-      "status": "done"
+      "status": "todo"
     }
   ]
 }

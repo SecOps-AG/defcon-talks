@@ -1,0 +1,129 @@
+{
+  "villageSlug": "iot-village",
+  "villageName": "IoT Village",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaC-bZh19aVktTfBlLKP4Psm",
+  "description": "",
+  "talks": [
+    {
+      "youtubeId": "TtPicirB6G4",
+      "slug": "go-malware-meets-iot-challenges-blind-spots-and-botnets-2",
+      "title": "Go Malware Meets IoT - Challenges, Blind Spots, and Botnets",
+      "speakers": [
+        "Asher Davila"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2856
+    },
+    {
+      "youtubeId": "_ENNd1XMPyk",
+      "slug": "no-brain-no-gain-2",
+      "title": "No Brain No Gain",
+      "speakers": [
+        "Mehmet Önder Key",
+        "Temel Demir",
+        "Dr Ahmet Furkan Aydogan"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 3418
+    },
+    {
+      "youtubeId": "N4Cnso2Vbmw",
+      "slug": "never-enough-about-cameras-firmware-keys-hidden-under-the-rug-2",
+      "title": "Never enough about cameras: Firmware keys hidden under the rug",
+      "speakers": [
+        "Alexandru Lazar"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1571
+    },
+    {
+      "youtubeId": "MTZ9_IfZ7Bk",
+      "slug": "what-is-dead-may-never-die-the-immortality-of-sdk-bugs-2",
+      "title": "What is Dead May Never Die: The Immortality of SDK Bugs",
+      "speakers": [
+        "Richard Lawshae"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 726
+    },
+    {
+      "youtubeId": "TcxVExGxEtk",
+      "slug": "firmware-decryption-for-and-by-the-cryptographically-illiterate-2",
+      "title": "Firmware Decryption: For, and By, the Cryptographically Illiterate",
+      "speakers": [
+        "Craig Heffner"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1253
+    },
+    {
+      "youtubeId": "L4cMPw2uDtc",
+      "slug": "unveiling-iot-vulns-from-backdoors-to-bureaucracy-2",
+      "title": "Unveiling IoT Vulns: From Backdoors to Bureaucracy",
+      "speakers": [
+        "Kai-Ching Wang",
+        "Chiao-Lin Yu"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1186
+    },
+    {
+      "youtubeId": "CM_8gKlz2-o",
+      "slug": "vibe-school-making-dumb-devices-smart-with-ai-2",
+      "title": "Vibe School: Making dumb devices smart with AI",
+      "speakers": [
+        "Dr Katie Paxton Fear"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1348
+    },
+    {
+      "youtubeId": "HqNgsnO5IoU",
+      "slug": "the-things-know-what-you-did-last-session-2",
+      "title": "The Things know What You Did Last Session",
+      "speakers": [
+        "Will Baggett"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1406
+    },
+    {
+      "youtubeId": "rLnlLLKISyY",
+      "slug": "smart-devices-dumb-resets-testing-firmware-persistence-in-commer-2",
+      "title": "Smart Devices, Dumb Resets:Testing Firmware Persistence in Commercial IoT",
+      "speakers": [
+        "Matei Jose"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1735
+    }
+  ]
+}

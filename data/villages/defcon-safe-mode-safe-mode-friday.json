@@ -1,0 +1,127 @@
+{
+  "villageSlug": "safe-mode-friday",
+  "villageName": "Safe Mode Friday",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBn8oVJZcsyBZkJPbM9CJOg",
+  "description": "",
+  "talks": [
+    {
+      "youtubeId": "GZd66uVGKn8",
+      "slug": "safe-mode-jiska-classen-and-francesco-gringoli-2",
+      "title": "Safe Mode - Jiska Classen and Francesco Gringoli",
+      "speakers": [
+        "Spectra—New Wireless Escalation Targets"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1669
+    },
+    {
+      "youtubeId": "CrLJ29quZY8",
+      "slug": "safe-mode-slava-makkaveev-pwn2own-qualcomm-compute-dsp-for-fun-a-2",
+      "title": "Safe Mode - Slava Makkaveev - Pwn2Own Qualcomm Compute DSP for Fun and Profit",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1131
+    },
+    {
+      "youtubeId": "siCk4pGGcqA",
+      "slug": "safe-mode-cooper-quintin-detecting-fake-4g-base-stations-in-real-3",
+      "title": "Safe Mode - Cooper Quintin - Detecting Fake 4G Base Stations in Real Time",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2733
+    },
+    {
+      "youtubeId": "qGpAJxfADjo",
+      "slug": "safe-mode-joshua-maddux-3",
+      "title": "Safe Mode - Joshua Maddux",
+      "speakers": [
+        "When TLS Hacks You"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1190
+    },
+    {
+      "youtubeId": "4weoWSzuCxs",
+      "slug": "safe-mode-jack-baker-finding-and-exploiting-bugs-in-multiplayer-3",
+      "title": "Safe Mode - Jack Baker - Finding and Exploiting Bugs in Multiplayer Game Engines",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2498
+    },
+    {
+      "youtubeId": "iMxquCdAMWI",
+      "slug": "safe-mode-eyal-itkin-dont-be-silly-its-only-a-lightbulb-2",
+      "title": "Safe Mode - Eyal Itkin - Dont Be Silly It's Only a Lightbulb",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2299
+    },
+    {
+      "youtubeId": "suN0IsifTyY",
+      "slug": "safe-mode-bill-graydon-exploiting-key-space-vulnerabilities-in-t-4",
+      "title": "Safe Mode - Bill Graydon - Exploiting Key Space Vulnerabilities in the Physical World",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 6376
+    },
+    {
+      "youtubeId": "oPHWLIo88b8",
+      "slug": "safe-mode-elie-bursztein-a-hackers-guide-to-reducing-side-channe-3",
+      "title": "Safe Mode - Elie Bursztein - A Hacker’s Guide to Reducing Side Channel Attack Surfaces",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2563
+    },
+    {
+      "youtubeId": "Y7IJjnLGqTQ",
+      "slug": "safe-mode-patrick-wardle-3",
+      "title": "Safe Mode - Patrick Wardle",
+      "speakers": [
+        "Office Drama on macOS"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1859
+    },
+    {
+      "youtubeId": "fAU7V3pvj1Q",
+      "slug": "safe-mode-christian-quaddi-dameff-md-and-panel-2",
+      "title": "Safe Mode - Christian “quaddi” Dameff MD and panel",
+      "speakers": [
+        "D0 N0 H4RM Healthcare Security"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 3872
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "villageSlug": "aerospace-village",
+  "villageName": "Aerospace Village",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCYTaKum8bEwkPrKMNYObI_",
+  "description": "",
+  "talks": [
+    {
+      "youtubeId": "KjDaPwtYte4",
+      "slug": "red-teaming-space-hacking-the-final-frontier-2",
+      "title": "Red Teaming Space: Hacking the Final Frontier",
+      "speakers": [
+        "Tim Fowler"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1472
+    },
+    {
+      "youtubeId": "oI3zxDWldKE",
+      "slug": "vdp-in-aviation-how-it-shouldnt-be-done-2",
+      "title": "VDP in Aviation How it shouldn't be done!",
+      "speakers": [
+        "Matt Gaffney"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1287
+    },
+    {
+      "youtubeId": "TAtG8rofxxE",
+      "slug": "vulns-to-end-your-space-mission-2",
+      "title": "Vulns to end your space mission",
+      "speakers": [
+        "A. Olchawa",
+        "M. Starcik",
+        "R. Fradique",
+        "A.Boulaich"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1053
+    },
+    {
+      "youtubeId": "UL_c4K5dTuc",
+      "slug": "hacking-space-to-defend-it-generating-iobs-with-sparta-2",
+      "title": "Hacking Space to Defend It: Generating IoBs with SPARTA",
+      "speakers": [
+        "Brandon Bailey"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1536
+    }
+  ]
+}
