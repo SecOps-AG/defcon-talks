@@ -80,6 +80,26 @@
       "teaser": "Examines the security and privacy implications of augmented reality sensor frameworks and camera feeds on mobile operating systems.",
       "summary": null,
       "durationSeconds": 1676
+    },
+    {
+      "youtubeId": "OJ7a_dnKXnA",
+      "slug": "securing-critical-versions-of-your-reality",
+      "title": "Securing Critical Versions of Your Reality",
+      "speakers": [
+        "Suzanne Borders",
+        "Keenan Skelly",
+        "Bryson Bort"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "virtual-reality",
+        "critical-infrastructure",
+        "ics-ot",
+        "simulation"
+      ],
+      "teaser": "Suzanne Borders, Keenan Skelly, and Bryson Bort discuss how extended reality and immersive spatial data tools are applied to protect critical infrastructure systems.",
+      "summary": null,
+      "durationSeconds": 2739
     }
   ]
 }
