@@ -10,7 +10,7 @@
       "slug": "hacking-democracy-ii-on-securing-an-election",
       "title": "Hacking Democracy II: On Securing an Election",
       "speakers": [
-        "Amélie Koran"
+        "Am\u00e9lie Koran"
       ],
       "track": "policy",
       "topics": [
@@ -29,7 +29,7 @@
       "slug": "see-something-say-something",
       "title": "See Something, Say Something",
       "speakers": [
-        "Mårten Mickos"
+        "M\u00e5rten Mickos"
       ],
       "track": "policy",
       "topics": [
@@ -538,7 +538,7 @@
         "elections"
       ],
       "teaser": "Sang Oun Lee presents an evaluation framework assessing the trustworthiness and security of remote voting methods during pandemic conditions, drawing lessons from South Korea.",
-      "summary": "Evaluating Remote Voting Amidst Public Health Crises\n\nGlobal pandemic containment measures forced election administrators worldwide to evaluate alternative remote voting modalities—including vote-by-mail, online voting, and blockchain-based solutions.\n\nAn Objective Framework for Election Security Evaluation\n\nSang Oun Lee introduces an evaluation methodology to assess the trustworthiness, voter anonymity, and auditability of remote balloting procedures under emergency constraints.\n\nCase Study: South Korea's Pandemic General Election\n\nLee analyzes the Republic of Korea's April 2020 national legislative elections, which achieved record voter turnout during an active epidemic through strict biometric and hygienic protocols without compromising ballot integrity.\n\nPolicy Guidance for Election Administrators\n\nThe presentation outlines policy recommendations for local election jurisdictions, balancing public health necessity against the imperative of verifiable voter authentication and chain of custody.",
+      "summary": "Evaluating Remote Voting Amidst Public Health Crises\n\nGlobal pandemic containment measures forced election administrators worldwide to evaluate alternative remote voting modalities\u2014including vote-by-mail, online voting, and blockchain-based solutions.\n\nAn Objective Framework for Election Security Evaluation\n\nSang Oun Lee introduces an evaluation methodology to assess the trustworthiness, voter anonymity, and auditability of remote balloting procedures under emergency constraints.\n\nCase Study: South Korea's Pandemic General Election\n\nLee analyzes the Republic of Korea's April 2020 national legislative elections, which achieved record voter turnout during an active epidemic through strict biometric and hygienic protocols without compromising ballot integrity.\n\nPolicy Guidance for Election Administrators\n\nThe presentation outlines policy recommendations for local election jurisdictions, balancing public health necessity against the imperative of verifiable voter authentication and chain of custody.",
       "durationSeconds": 1102
     },
     {
@@ -560,6 +560,42 @@
       "teaser": "CISA election security advisors Jack Cable and Alex Zaheer analyze emerging threat vectors and infrastructure attack surfaces resulting from the rapid shift to remote voting.",
       "summary": "Pandemic-Driven Transformations in Election Operations\n\nThe COVID-19 pandemic necessitated an unprecedented shift toward mail-in balloting, consolidated in-person polling facilities, and emergency budget reallocations across thousands of U.S. election jurisdictions.\n\nExpanding Threat Surfaces in State and Local Infrastructure\n\nCISA advisors Jack Cable and Alex Zaheer explore how hastily expanded online voter registration portals, automated ballot processing systems, and third-party logistics vendors created new technical attack surfaces.\n\nFederal Coordination and Technical Assistance\n\nThe speakers detail CISA's operational support framework, offering vulnerability scanning, cyber hygiene evaluations, and incident response coordination to local election officials.\n\nBuilding Public Confidence in Democratic Integrity\n\nThe authors emphasize defensive validation, paper-based audit trails, and transparent risk communications to protect election credibility amidst heightened domestic and foreign adversary interest.",
       "durationSeconds": 1495
+    },
+    {
+      "youtubeId": "7PjeC4UGexs",
+      "slug": "biascilab-dont-go-postal",
+      "title": "Don't Go Postal",
+      "speakers": [
+        "BiaSciLab"
+      ],
+      "track": "policy",
+      "topics": [
+        "voting-village",
+        "vote-by-mail",
+        "election-security",
+        "ballot-integrity"
+      ],
+      "teaser": "Examines security vulnerabilities, tracking gaps, and chain-of-custody risks associated with vote-by-mail election systems.",
+      "summary": null,
+      "durationSeconds": 1050
+    },
+    {
+      "youtubeId": "L7wU1ZatGaQ",
+      "slug": "jody-westby-policy-approach-to-resolving-cybersecurity-problems",
+      "title": "Policy Approach to Resolving Cybersecurity Problems",
+      "speakers": [
+        "Jody Westby"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "election-security",
+        "voting-machines",
+        "regulatory-compliance"
+      ],
+      "teaser": "A policy and legal framework for compelling vendors and election officials to remediate known vulnerabilities in voting infrastructure.",
+      "summary": null,
+      "durationSeconds": 1760
     }
   ]
 }
