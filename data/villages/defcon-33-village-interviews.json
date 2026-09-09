@@ -1,0 +1,651 @@
+{
+  "villageSlug": "village-interviews",
+  "villageName": "Village Interviews",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAZdbZXU0mvEKPzWS71EGDi",
+  "description": "Interviews, village walkthroughs, and contest spotlights produced by the DEF CON Video Team at DEF CON 33.",
+  "talks": [
+    {
+      "youtubeId": "Omfyox5kxUQ",
+      "slug": "hackerpager-engineering-and-teardown",
+      "title": "HackerPager Engineering and Teardown",
+      "speakers": [
+        "HackerPager Team",
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware-hacking",
+        "pagers",
+        "embedded-systems",
+        "rf"
+      ],
+      "teaser": "Silk interviews the engineering team behind the HackerPager hardware project, exploring paging protocols and custom firmware design.",
+      "summary": null,
+      "durationSeconds": 977
+    },
+    {
+      "youtubeId": "073cCPvNit4",
+      "slug": "hacker-hangout-with-the-dark-tangent",
+      "title": "Hacker Hangout with The Dark Tangent",
+      "speakers": [
+        "The Dark Tangent",
+        "Kari",
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "hacker-culture",
+        "hacker-history",
+        "keynote"
+      ],
+      "teaser": "An extended conversation with conference founder The Dark Tangent, reflecting on the evolution of DEF CON, hacker ethos, and the wider security community.",
+      "summary": null,
+      "durationSeconds": 1546
+    },
+    {
+      "youtubeId": "hKLow2hkLxQ",
+      "slug": "tipsybadge-wobble-mode-and-visual-distortions",
+      "title": "TipsyBadge: Wobble Mode and Visual Distortions",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "badgelife",
+        "hardware-hacking",
+        "pcb-design",
+        "embedded-systems"
+      ],
+      "teaser": "A showcase of the TipsyBadge electronic badge, exploring optical manipulation, custom sensors, and interactive firmware effects.",
+      "summary": null,
+      "durationSeconds": 300
+    },
+    {
+      "youtubeId": "JDJoE4wBfzU",
+      "slug": "ics-village-ctf-overview-with-winter",
+      "title": "ICS Village CTF Overview with Winter",
+      "speakers": [
+        "Winter",
+        "DEF CON Video Team"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "scada",
+        "ctf",
+        "critical-infrastructure"
+      ],
+      "teaser": "Winter breaks down the Industrial Control Systems Village CTF challenges, featuring simulated plant automation and PLC exploitation.",
+      "summary": null,
+      "durationSeconds": 87
+    },
+    {
+      "youtubeId": "f-r_JoBd1aw",
+      "slug": "vetcon-community-showcase-with-jim",
+      "title": "VetCon Community Showcase with Jim",
+      "speakers": [
+        "Jim",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "vetcon",
+        "military-veterans",
+        "community",
+        "career"
+      ],
+      "teaser": "Jim shares the mission and background behind the VetCon community, supporting military veterans transitioning into cybersecurity careers.",
+      "summary": null,
+      "durationSeconds": 44
+    },
+    {
+      "youtubeId": "4Z-vELVT150",
+      "slug": "meshtastic-and-mesh-networks-at-ham-radio-village",
+      "title": "Meshtastic and Mesh Networks at Ham Radio Village",
+      "speakers": [
+        "Lucas",
+        "Dan",
+        "DEF CON Video Team"
+      ],
+      "track": "wireless",
+      "topics": [
+        "ham-radio",
+        "meshtastic",
+        "mesh-network",
+        "rf"
+      ],
+      "teaser": "Lucas and Dan from Ham Radio Village discuss off-grid communications, LoRa packet meshes, and Meshtastic deployments across DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 50
+    },
+    {
+      "youtubeId": "PyePoMhMRi8",
+      "slug": "scam-village-countering-fraud-and-social-engineering",
+      "title": "Scam Village: Countering Fraud and Social Engineering",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "social-engineering",
+      "topics": [
+        "scam-baiting",
+        "social-engineering",
+        "fraud",
+        "awareness"
+      ],
+      "teaser": "An introduction to Scam Village, demonstrating safe scam-baiting techniques, telecommunication fraud analysis, and consumer defense.",
+      "summary": null,
+      "durationSeconds": 42
+    },
+    {
+      "youtubeId": "eOnu2J-hDPM",
+      "slug": "crypto-and-privacy-village-overview-with-steven",
+      "title": "Crypto and Privacy Village Overview with Steven",
+      "speakers": [
+        "Steven",
+        "DEF CON Video Team"
+      ],
+      "track": "privacy",
+      "topics": [
+        "cryptography",
+        "privacy",
+        "surveillance",
+        "anonymity"
+      ],
+      "teaser": "Steven outlines hands-on workshops, privacy tool demos, and cryptographic challenges hosted at the Crypto & Privacy Village.",
+      "summary": null,
+      "durationSeconds": 27
+    },
+    {
+      "youtubeId": "woTtS1ri9F4",
+      "slug": "iot-village-spotlight-connected-device-security",
+      "title": "IoT Village Spotlight: Connected Device Security",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot-security",
+        "embedded-systems",
+        "firmware",
+        "vulnerability-research"
+      ],
+      "teaser": "A fast-paced look at the IoT Village at DEF CON 33, highlighting router hacking challenges, zero-day labs, and device auditing.",
+      "summary": null,
+      "durationSeconds": 21
+    },
+    {
+      "youtubeId": "kJa83M_u6z8",
+      "slug": "physical-security-village-walkthrough-dc33",
+      "title": "Physical Security Village Walkthrough",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "recon",
+      "topics": [
+        "physical-security",
+        "lockpicking",
+        "bypass-techniques",
+        "access-control"
+      ],
+      "teaser": "A walkthrough of the Physical Security Village, featuring lockpicking stations, safe manipulation, and physical access control evaluations.",
+      "summary": null,
+      "durationSeconds": 47
+    },
+    {
+      "youtubeId": "lrYBHY8unQ0",
+      "slug": "darpa-ai-cyber-challenge-aixcc-finals-overview",
+      "title": "DARPA AI Cyber Challenge (AIxCC) Finals Overview",
+      "speakers": [
+        "Andrew Carney",
+        "DEF CON Video Team"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "darpa",
+        "aixcc",
+        "ai-security",
+        "automated-defense"
+      ],
+      "teaser": "Andrew Carney from DARPA details the finals of the AI Cyber Challenge, where autonomous AI agents detect and repair software vulnerabilities.",
+      "summary": null,
+      "durationSeconds": 59
+    },
+    {
+      "youtubeId": "gRVk4ZAuab4",
+      "slug": "queercon-community-interview-with-kyle",
+      "title": "QueerCon Community Interview with Kyle",
+      "speakers": [
+        "Kyle",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "queercon",
+        "diversity",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "Kyle discusses the history, community initiatives, and networking spaces organized by QueerCon during DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 34
+    },
+    {
+      "youtubeId": "Ov8GSLqoPvQ",
+      "slug": "aixcc-debrief-team-42-beyond-bugs",
+      "title": "AIxCC Debrief: Team 42 Beyond Bugs",
+      "speakers": [
+        "42 Beyond Bugs Team",
+        "Silk"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "darpa",
+        "aixcc",
+        "vulnerability-repair",
+        "ai-security"
+      ],
+      "teaser": "Silk interviews the 42 Beyond Bugs team about developing autonomous vulnerability finding and patching agents for DARPA's AIxCC.",
+      "summary": null,
+      "durationSeconds": 953
+    },
+    {
+      "youtubeId": "YdJ6NoxzuKs",
+      "slug": "aixcc-behind-the-scenes-team-lacrosse",
+      "title": "AIxCC Behind the Scenes: Team Lacrosse",
+      "speakers": [
+        "Team Lacrosse",
+        "Silk"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "darpa",
+        "aixcc",
+        "program-analysis",
+        "ai-security"
+      ],
+      "teaser": "Silk sits down with Team Lacrosse to explore their autonomous software analysis architecture and strategies during the AIxCC competition.",
+      "summary": null,
+      "durationSeconds": 954
+    },
+    {
+      "youtubeId": "B2zAdGceCIQ",
+      "slug": "behind-the-scenes-with-arts-goon-ch0wn35",
+      "title": "Behind the Scenes with Arts Goon Ch0wn35",
+      "speakers": [
+        "Ch0wn35",
+        "d3dbot"
+      ],
+      "track": "community",
+      "topics": [
+        "goons",
+        "event-operations",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "d3dbot interviews Arts & Entertainment Goon Ch0wn35 about event logistics, stage productions, and running DEF CON 33 operations.",
+      "summary": null,
+      "durationSeconds": 244
+    },
+    {
+      "youtubeId": "sg120BaNHQI",
+      "slug": "ddos-community-interview-with-d3dbot",
+      "title": "DDoS Community Interview with d3dbot",
+      "speakers": [
+        "DDoS Community Team",
+        "d3dbot"
+      ],
+      "track": "community",
+      "topics": [
+        "ddos",
+        "network-defense",
+        "community",
+        "traffic-analysis"
+      ],
+      "teaser": "The DDoS Community shares insights with d3dbot regarding distributed denial of service trends, mitigation strategies, and defensive tooling.",
+      "summary": null,
+      "durationSeconds": 565
+    },
+    {
+      "youtubeId": "Taue9SWH3Os",
+      "slug": "introducing-illumicon-interactive-art-and-hacking",
+      "title": "Introducing Illumicon: Interactive Art and Hacking",
+      "speakers": [
+        "Illumicon Team",
+        "d3dbot"
+      ],
+      "track": "community",
+      "topics": [
+        "illumicon",
+        "hardware-art",
+        "lighting",
+        "community"
+      ],
+      "teaser": "d3dbot interviews the creators of Illumicon, showcasing interactive lighting installations, wearable art, and creative hardware hacking.",
+      "summary": null,
+      "durationSeconds": 944
+    },
+    {
+      "youtubeId": "qYwZoW_dDtw",
+      "slug": "speaking-at-def-con-interview-with-andra-lezza",
+      "title": "Speaking at DEF CON: Interview with Andra Lezza",
+      "speakers": [
+        "Andra Lezza",
+        "Helvetigoth"
+      ],
+      "track": "community",
+      "topics": [
+        "public-speaking",
+        "community",
+        "research-presentation",
+        "career"
+      ],
+      "teaser": "Helvetigoth interviews first-time speaker Andra Lezza on CFP preparation, stage delivery, and presenting technical research at DEF CON.",
+      "summary": null,
+      "durationSeconds": 223
+    },
+    {
+      "youtubeId": "bsls-3hXH4M",
+      "slug": "open-source-in-government-interview-with-jordan-kasper",
+      "title": "Open Source in Government: Interview with Jordan Kasper",
+      "speakers": [
+        "Jordan Kasper",
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "open-source",
+        "government",
+        "policy",
+        "supply-chain"
+      ],
+      "teaser": "Jordan Kasper analyzes the adoption of open-source software in government agencies and public-sector obligations to upstream maintainers.",
+      "summary": null,
+      "durationSeconds": 972
+    },
+    {
+      "youtubeId": "AdQwcvijMXA",
+      "slug": "long-form-interview-torvik-from-tulip-tree-tech",
+      "title": "Long-Form Interview: Torvik from Tulip Tree Tech",
+      "speakers": [
+        "Torvik",
+        "Silk"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware-design",
+        "embedded-systems",
+        "pcb-design",
+        "community"
+      ],
+      "teaser": "Silk conducts a long-form interview with Torvik of Tulip Tree Tech, discussing custom silicon, PCB manufacturing, and indie hardware projects.",
+      "summary": null,
+      "durationSeconds": 1997
+    },
+    {
+      "youtubeId": "PiJwIUGJGmw",
+      "slug": "darpa-aixcc-with-shellphish",
+      "title": "DARPA AIxCC with Shellphish",
+      "speakers": [
+        "Shellphish Team",
+        "Silk"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "shellphish",
+        "darpa",
+        "aixcc",
+        "automated-exploit-generation"
+      ],
+      "teaser": "Silk interviews members of legendary hacking group Shellphish on competing in DARPA's AI Cyber Challenge and automated vulnerability reasoning.",
+      "summary": null,
+      "durationSeconds": 1957
+    },
+    {
+      "youtubeId": "s9GM13q8ltY",
+      "slug": "the-def-con-run-tradition-with-shepard-and-panda",
+      "title": "The DEF CON Run Tradition with Shepard and Panda",
+      "speakers": [
+        "Shepard",
+        "Panda",
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "running",
+        "fitness",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "Shepard and Panda join Silk to share the origins, history, and community camaraderie behind the unofficial DEF CON morning run.",
+      "summary": null,
+      "durationSeconds": 176
+    },
+    {
+      "youtubeId": "hkhuImaSXCs",
+      "slug": "nextgen-hacking-youth-education-and-mentorship",
+      "title": "NextGen Hacking: Youth Education and Mentorship",
+      "speakers": [
+        "DEF CON NextGen Team",
+        "Silk"
+      ],
+      "track": "community",
+      "topics": [
+        "education",
+        "youth-hacking",
+        "nextgen",
+        "community"
+      ],
+      "teaser": "Silk explores DEF CON NextGen, a community initiative providing cybersecurity education, hardware soldering, and safe hacking spaces for youth.",
+      "summary": null,
+      "durationSeconds": 1180
+    },
+    {
+      "youtubeId": "TPLRmpIbQuQ",
+      "slug": "hak5-pager-paging-and-wi-fi-pineapple-features",
+      "title": "Hak5 Pager: Paging and Wi-Fi Pineapple Features",
+      "speakers": [
+        "Darren Kitchen",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hak5",
+        "hardware-tools",
+        "wireless-auditing",
+        "pagers"
+      ],
+      "teaser": "Darren Kitchen presents the Hak5 Pager, exploring retro form factors embedded with modern wireless penetration-testing capabilities.",
+      "summary": null,
+      "durationSeconds": 308
+    },
+    {
+      "youtubeId": "K8fjM9k_AUY",
+      "slug": "kevops-sahara-pool-party-and-community-gathering",
+      "title": "KevOps Sahara Pool Party and Community Gathering",
+      "speakers": [
+        "KevOps",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "social",
+        "community",
+        "hacker-culture",
+        "music"
+      ],
+      "teaser": "A look at the KevOps community pool party at the Sahara, celebrating hacker camaraderie, music, and after-hours social traditions.",
+      "summary": null,
+      "durationSeconds": 149
+    },
+    {
+      "youtubeId": "3YT_tOKHSDA",
+      "slug": "creating-the-electronic-badge-interview-with-mar-williams",
+      "title": "Creating the Electronic Badge: Interview with Mar Williams",
+      "speakers": [
+        "Mar Williams",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "electronic-badge",
+        "hardware-art",
+        "pcb-design",
+        "badgelife"
+      ],
+      "teaser": "Artist and hardware designer Mar Williams discusses creating the official DEF CON 33 electronic badge and convention visual artwork.",
+      "summary": null,
+      "durationSeconds": 585
+    },
+    {
+      "youtubeId": "b5zL6IijpYA",
+      "slug": "retro-tech-community-and-badgelife-live-showcase",
+      "title": "Retro Tech Community and Badgelife Live Showcase",
+      "speakers": [
+        "d3dbot",
+        "psyop",
+        "grrrizzzz"
+      ],
+      "track": "hardware",
+      "topics": [
+        "badgelife",
+        "retro-computing",
+        "hardware-hacking",
+        "community"
+      ],
+      "teaser": "A live panel with d3dbot, psyop, and grrrizzzz exploring the intersection of retro hardware preservation, custom silicon, and badge culture.",
+      "summary": null,
+      "durationSeconds": 1107
+    },
+    {
+      "youtubeId": "D_3mUd7shX4",
+      "slug": "ics-village-water-treatment-plant-simulation",
+      "title": "ICS Village Water Treatment Plant Simulation",
+      "speakers": [
+        "ICS Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "scada",
+        "water-treatment",
+        "critical-infrastructure"
+      ],
+      "teaser": "ICS Village engineers explain their fully operational miniature water treatment plant display and process-level exploitation vectors.",
+      "summary": null,
+      "durationSeconds": 131
+    },
+    {
+      "youtubeId": "Xx94tMP_6ys",
+      "slug": "ten-years-of-the-iot-village-anniversary-preview",
+      "title": "Ten Years of the IoT Village: Anniversary Preview",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot-security",
+        "hardware-hacking",
+        "anniversary",
+        "community"
+      ],
+      "teaser": "A celebration of ten years of the Internet of Things Village, reviewing a decade of embedded router research, zero-days, and bug bounties.",
+      "summary": null,
+      "durationSeconds": 146
+    },
+    {
+      "youtubeId": "AMA6e_oyEH8",
+      "slug": "redalert-ics-ctf-walkthrough",
+      "title": "RedAlert ICS CTF Walkthrough",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "ctf",
+        "scada",
+        "plc-security"
+      ],
+      "teaser": "An introduction to the RedAlert ICS CTF, pitting competitors against simulated critical infrastructure networks and industrial controllers.",
+      "summary": null,
+      "durationSeconds": 87
+    },
+    {
+      "youtubeId": "7eXzwI8uD5M",
+      "slug": "bug-bounty-village-remote-and-in-person-challenges",
+      "title": "Bug Bounty Village Remote and In-Person Challenges",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "appsec",
+      "topics": [
+        "bug-bounty",
+        "vulnerability-disclosure",
+        "appsec",
+        "community"
+      ],
+      "teaser": "Organizers highlight remote and in-person participation options, live target scopes, and bounty opportunities at Bug Bounty Village.",
+      "summary": null,
+      "durationSeconds": 34
+    },
+    {
+      "youtubeId": "Kx86gzmY_NE",
+      "slug": "gensec-ctf-at-def-con-33",
+      "title": "GenSec CTF at DEF CON 33",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "ctf",
+        "general-security",
+        "competition",
+        "community"
+      ],
+      "teaser": "A quick look at the GenSec CTF competition at DEF CON 33, challenging participants across diverse cybersecurity skill sets.",
+      "summary": null,
+      "durationSeconds": 12
+    },
+    {
+      "youtubeId": "-B_rYhHQ_9k",
+      "slug": "red-team-village-at-def-con-33-spotlight",
+      "title": "Red Team Village at DEF CON 33 Spotlight",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation",
+        "community"
+      ],
+      "teaser": "An update on attack workshops, offensive tool releases, and adversary emulation labs happening in the Red Team Village at DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 60
+    },
+    {
+      "youtubeId": "q6ri2BTily4",
+      "slug": "contest-operations-update-with-tiberius",
+      "title": "Contest Operations Update with Tiberius",
+      "speakers": [
+        "Tiberius",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "contest",
+        "event-operations",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "Contest runner Tiberius provides an operational update on official DEF CON 33 contests, scoring protocols, and participant challenges.",
+      "summary": null,
+      "durationSeconds": 360
+    }
+  ]
+}
