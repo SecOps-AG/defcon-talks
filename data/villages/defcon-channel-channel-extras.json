@@ -1,0 +1,225 @@
+{
+  "villageSlug": "channel-extras",
+  "villageName": "Channel extras",
+  "eventSlug": "defcon-channel",
+  "playlistUrl": "https://www.youtube.com/@DEFCONConference/videos",
+  "description": "Leftover DEF CON Conference channel uploads not covered by a village or stage playlist \u2014 talks, trailers, and housekeeping.",
+  "talks": [
+    {
+      "youtubeId": "2b8AWLTq67w",
+      "slug": "youtube-housekeeping-alert",
+      "title": "YouTube Housekeeping Alert",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Channel housekeeping note about copyright strikes and the DEF CON YouTube collection.",
+      "summary": null,
+      "durationSeconds": 40
+    },
+    {
+      "youtubeId": "A9ew4jdLjYY",
+      "slug": "rise-of-the-machines",
+      "title": "RISE OF THE MACHINES",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "trailer",
+        "robots",
+        "def-con"
+      ],
+      "teaser": "DEF CON 24 Rise of the Machines trailer.",
+      "summary": null,
+      "durationSeconds": 103
+    },
+    {
+      "youtubeId": "GXdnAvDDPJ8",
+      "slug": "nye-hacker-jeopardy",
+      "title": "NYE - Hacker Jeopardy",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Teaser for Hacker Jeopardy at the 2020 DEF CON New Year\u2019s Eve virtual party.",
+      "summary": null,
+      "durationSeconds": 19
+    },
+    {
+      "youtubeId": "LmSyb0kBvGE",
+      "slug": "dos-denial-of-shopping-analyzing-shopping-cart-systems-channel",
+      "title": "DoS  Denial of Shopping: Analyzing and Exploiting  Shopping Cart Systems",
+      "speakers": [
+        "Joseph Gabay"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "retail",
+        "denial-of-service",
+        "shopping-carts",
+        "physical-security"
+      ],
+      "teaser": "How supermarket cart locks can be analyzed and abused as a shopping-system denial path.",
+      "summary": null,
+      "durationSeconds": 1343
+    },
+    {
+      "youtubeId": "XR3a4B4W-hQ",
+      "slug": "good-morning",
+      "title": "Good Morning",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Short DEF CON 34 good-morning bump.",
+      "summary": null,
+      "durationSeconds": 14
+    },
+    {
+      "youtubeId": "dUsm26MlA7M",
+      "slug": "save-the-date-def-con-s-first-new-year-s-eve-party",
+      "title": "Save the Date - DEF CON's first New Year's Eve party!",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Save-the-date promo for DEF CON\u2019s first New Year\u2019s Eve party.",
+      "summary": null,
+      "durationSeconds": 30
+    },
+    {
+      "youtubeId": "douawM9UqHc",
+      "slug": "ics-village-seatf-setup",
+      "title": "ICS Village - SEAtf Setup",
+      "speakers": [],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "ctf",
+        "village",
+        "setup"
+      ],
+      "teaser": "DEF CON 30 ICS Village SEAtf setup clip.",
+      "summary": null,
+      "durationSeconds": 75
+    },
+    {
+      "youtubeId": "fWuZJgSikzQ",
+      "slug": "tradecraft-on-public-networks-audio",
+      "title": "Tradecraft on Public Networks - Audio",
+      "speakers": [
+        "Bruce Schneier"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "cryptography",
+        "tradecraft",
+        "audio"
+      ],
+      "teaser": "Brief audio fragment labeled as Schneier Tradecraft on Public Networks from DEF CON 6.",
+      "summary": null,
+      "durationSeconds": 1
+    },
+    {
+      "youtubeId": "iWu_xHI4aDI",
+      "slug": "bring-your-own-print-driver-vulnerability-channel",
+      "title": "Bring Your Own Print Driver Vulnerability",
+      "speakers": [
+        "Jacob Baines"
+      ],
+      "track": "red-team",
+      "topics": [
+        "windows",
+        "privilege-escalation",
+        "print-spooler",
+        "vulnerabilities",
+        "red-team"
+      ],
+      "teaser": "Abusing Windows print driver installation as a path from low privilege toward SYSTEM.",
+      "summary": null,
+      "durationSeconds": 2555
+    },
+    {
+      "youtubeId": "r63ycQyA0cg",
+      "slug": "violin-ninja",
+      "title": "Violin Ninja",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "music",
+        "performance",
+        "culture"
+      ],
+      "teaser": "Violin Ninja performance clip from DEF CON 30.",
+      "summary": null,
+      "durationSeconds": 217
+    },
+    {
+      "youtubeId": "rNdLm1O5uoY",
+      "slug": "trailer-declassified",
+      "title": "Trailer - Declassified!",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "DEF CON 23 conference trailer.",
+      "summary": null,
+      "durationSeconds": 73
+    },
+    {
+      "youtubeId": "uX5o7Xvo7Zg",
+      "slug": "demo-labs-cfp-extended-to-may-12",
+      "title": "Demo Labs CFP extended to May 12!",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "DEF CON 27 Demo Labs CFP deadline extension announcement.",
+      "summary": null,
+      "durationSeconds": 12
+    },
+    {
+      "youtubeId": "vqDvv1sS2os",
+      "slug": "safe-mode-channel",
+      "title": "Safe Mode",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Announcement that DEF CON 28 entered Safe Mode during COVID-19.",
+      "summary": null,
+      "durationSeconds": 48
+    }
+  ]
+}
