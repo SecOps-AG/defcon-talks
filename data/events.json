@@ -167,6 +167,14 @@
       "year": 2005,
       "dates": "29-31 July 2005",
       "location": "Alexis Park Resort, Las Vegas"
+    },
+    {
+      "slug": "defcon-12",
+      "name": "DEF CON 12",
+      "shortName": "DC12",
+      "year": 2004,
+      "dates": "30 July - 1 August 2004",
+      "location": "Alexis Park Resort, Las Vegas"
     }
   ]
 }
