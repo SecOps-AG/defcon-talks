@@ -891,6 +891,25 @@
       "slug": "designing-small-payloads",
       "summary": "Architecture and Background\n\nDescription from DEF CON 9 Speaker\u2019s Page: Designing small payloads This talk presents how to use double injection over an existing network connection to write small remote buffer overflow exploits.\n\nVulnerability Analysis\n\nA number of practical tips and code examples will be given.\n\nExploitation and Demonstrations\n\nIt will also be explained how this design can be used to hide an attack from both network based and host based intrusion detection systems.\n\nRemediation and Defensive Strategies\n\nAnders Ingeborn works with vulnerability assessment and penetration tests at iXsecurity in Sweden. iXsecurity's clients during the last couple of years include government agencies, banks, nuclear power plants and major corporations throughout Scandinavia. Anders also holds a MS in computer security.",
       "durationSeconds": 2113
+    },
+    {
+      "youtubeId": "49kiyXPnrFw",
+      "slug": "the-defendant-so-you-got-your-lame-ass-sued-a-legal-narrative",
+      "title": "So You Got Your Lame Ass Sued: A Legal Narrative",
+      "speakers": [
+        "The Defendant"
+      ],
+      "track": "policy",
+      "topics": [
+        "legal",
+        "litigation",
+        "free-speech",
+        "policy",
+        "whistleblowing"
+      ],
+      "teaser": "A first-person narrative detailing the realities, legal tactics, and defense strategies of facing a massive corporate lawsuit over online speech.",
+      "summary": null,
+      "durationSeconds": 3436
     }
   ]
 }
