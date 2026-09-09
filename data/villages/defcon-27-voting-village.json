@@ -14,11 +14,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "paper-ballots",
+        "security-design",
+        "infrastructure-protection"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Securing voting systems beyond paper ballots\u2014comprehensive approaches to election infrastructure protection.",
       "summary": null,
       "durationSeconds": 1498
     },
@@ -31,11 +33,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "readiness-assessment",
+        "2020-elections",
+        "preparedness",
+        "vulnerability-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "2020 election readiness\u2014assessing whether voting systems are prepared for modern threats.",
       "summary": null,
       "durationSeconds": 2146
     },
@@ -48,11 +52,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
+        "national-security",
+        "policy",
         "election-security",
-        "digital-voting"
+        "government-perspective",
+        "regulatory-framework"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Keynote from Senator Ron Wyden on election security policy and national security implications.",
       "summary": null,
       "durationSeconds": 1900
     },
@@ -65,11 +71,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
+        "incident-response",
         "election-security",
-        "digital-voting"
+        "crisis-management",
+        "response-planning",
+        "recovery"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Incident lifecycle and response planning for election infrastructure emergencies.",
       "summary": null,
       "durationSeconds": 1527
     },
@@ -82,11 +90,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Marian Schneider Voting Systems are Insecure Lets just Vote on Phones - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1227
     },
@@ -99,11 +109,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
-        "election-security",
-        "digital-voting"
+        "organizational-resilience",
+        "cybersecurity",
+        "systems-theory",
+        "election-infrastructure",
+        "adaptation"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Organizational cybernetics approaches to building resilient election infrastructure.",
       "summary": null,
       "durationSeconds": 1437
     },
@@ -116,11 +128,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
-        "election-security",
-        "digital-voting"
+        "coordinated-vulnerability-disclosure",
+        "sbom",
+        "supply-chain",
+        "election-technology",
+        "governance"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Coordinated vulnerability disclosure and software bill of materials for election technology governance.",
       "summary": null,
       "durationSeconds": 1726
     },
@@ -133,11 +147,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
+        "journalism",
         "election-security",
-        "digital-voting"
+        "public-awareness",
+        "transparency",
+        "oversight"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Role of journalists in election security\u2014reporting, awareness, and public oversight mechanisms.",
       "summary": null,
       "durationSeconds": 3049
     },
@@ -150,11 +166,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "policy-discussion",
+        "expert-panel",
+        "governance",
+        "multi-stakeholder"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Expert panel discussion on election security policy, governance, and multi-stakeholder coordination.",
       "summary": null,
       "durationSeconds": 5301
     },
@@ -167,11 +185,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
-        "election-security",
-        "digital-voting"
+        "ballot-manipulation",
+        "image-processing",
+        "voting-vulnerabilities",
+        "attack-techniques",
+        "detection"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Automated ballot image manipulation techniques and detection methods for voting security.",
       "summary": null,
       "durationSeconds": 1711
     },
@@ -184,11 +204,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "research-findings",
+        "lessons-learned",
+        "vulnerability-discovery",
+        "best-practices"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Key lessons from DEF CON Voting Village research and election security discoveries.",
       "summary": null,
       "durationSeconds": 2170
     },
@@ -201,11 +223,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
+        "infrastructure-assessment",
         "election-security",
-        "digital-voting"
+        "vulnerability-testing",
+        "security-audit",
+        "evaluation"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Comprehensive assessment frameworks for evaluating election infrastructure security posture.",
       "summary": null,
       "durationSeconds": 1479
     },
@@ -218,11 +242,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "John Odum Election Security Threats Posed by Very Small Jurisdictions - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1599
     },
@@ -235,11 +261,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Ion Sancho The Factors Preventing Fair Effective and Secure Elections - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1956
     },
@@ -252,11 +280,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Jack Cable Bootstrapping Vulnerability Disclosure For Election Systems - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1477
     },
@@ -269,11 +299,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Dr Philip Stark Trustworthy Elections Evidence and Dispute Resolution - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1620
     },
@@ -286,11 +318,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Evanna Hu While the Bots Distracted You Overt Russian Information Ops - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1697
     },
@@ -303,11 +337,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Eric Geller State and Local Preparations on Election Security - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 3387
     },
@@ -320,11 +356,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Chris Krebs Chris Krebs - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 855
     },
@@ -337,11 +375,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Dr Linton Salmon The DARPA SSITH Program at DEFCON - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1875
     },
@@ -354,11 +394,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Alex Stanev Machine Voting The Bulgarian Experience - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1835
     },
@@ -371,11 +413,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Amber McReynolds Putting Voters First Expanding Options to Vote - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1289
     },
@@ -388,11 +432,13 @@
       ],
       "track": "policy",
       "topics": [
-        "voting-systems",
         "election-security",
-        "digital-voting"
+        "voting-systems",
+        "security-research",
+        "infrastructure-protection",
+        "threat-analysis"
       ],
-      "teaser": "Presentation on voting system security and election infrastructure.",
+      "teaser": "Brian Varner Beyond the Voting Machine Other High Value Targets - election security and voting system protection strategies.",
       "summary": null,
       "durationSeconds": 1388
     }
