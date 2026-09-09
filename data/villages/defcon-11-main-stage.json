@@ -332,9 +332,7 @@
     {
       "youtubeId": "E_V_UAZJcmI",
       "title": "The UPS: Undetectable Packet Sniffer",
-      "speakers": [
-        "Hardware Security Panel"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "hardware-trojans",
@@ -350,9 +348,7 @@
     {
       "youtubeId": "K2RXifvHV2Y",
       "title": "Social Engineering Fundamentals",
-      "speakers": [
-        "Social Engineering Panel"
-      ],
+      "speakers": [],
       "track": "social-engineering",
       "topics": [
         "dumpster-diving",
@@ -368,9 +364,7 @@
     {
       "youtubeId": "3jqr9dwJ8O4",
       "title": "The Luna Correspondence Protocol",
-      "speakers": [
-        "Cryptography Panel"
-      ],
+      "speakers": [],
       "track": "wireless",
       "topics": [
         "wireless-security",
@@ -387,8 +381,7 @@
       "youtubeId": "eyMRWJ0Rfuw",
       "title": "Behind the Remailers: Operators and Developers of Anonymity Services",
       "speakers": [
-        "Len Sassaman",
-        "Anonymous Remailer Panel"
+        "Len Sassaman"
       ],
       "track": "policy",
       "topics": [
@@ -406,8 +399,7 @@
       "youtubeId": "2vWlJlCTQzU",
       "title": "After Napster: the Inevitable Ascent of Peer-to-Peer Networks",
       "speakers": [
-        "Leia Amidon",
-        "P2P Panel"
+        "Leia Amidon"
       ],
       "track": "policy",
       "topics": [
@@ -424,9 +416,7 @@
     {
       "youtubeId": "42an8gV0KUo",
       "title": "Adversary Characterization and Scoring Systems",
-      "speakers": [
-        "Threat Intelligence Panel"
-      ],
+      "speakers": [],
       "track": "threat-intel",
       "topics": [
         "threat-intelligence",
@@ -1172,9 +1162,7 @@
     {
       "youtubeId": "SkbN_EDAqnI",
       "title": "Meet the Feds",
-      "speakers": [
-        "Federal Law Enforcement Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "law-enforcement",

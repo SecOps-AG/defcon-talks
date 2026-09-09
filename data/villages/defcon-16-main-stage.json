@@ -28,7 +28,7 @@
       "title": "Port-Scanning Improved",
       "speakers": [
         "Fabian Fabs Yamaguchi",
-        "FX: New ideas for old practices"
+        "FX"
       ],
       "track": "community",
       "topics": [
@@ -1101,7 +1101,7 @@
       "youtubeId": "axTthxE-z6A",
       "title": "From Bug to 0day",
       "speakers": [
-        "Mati Aharoni: BackTrack Foo"
+        "Mati Aharoni"
       ],
       "track": "ics-ot",
       "topics": [
@@ -1323,7 +1323,7 @@
       "youtubeId": "EKZr5_CG4z4",
       "title": "Take Back the Airwaves",
       "speakers": [
-        "JonM: Ham For Hackers"
+        "JonM"
       ],
       "track": "ics-ot",
       "topics": [
@@ -1687,7 +1687,7 @@
       "youtubeId": "pqWmFkMFzaU",
       "title": "The Next Overlooked Security Hole",
       "speakers": [
-        "Ferdinand Schober: Gaming"
+        "Ferdinand Schober"
       ],
       "track": "ics-ot",
       "topics": [
@@ -2145,7 +2145,7 @@
       "youtubeId": "Oc2uXnb5LUg",
       "title": "What Is Your Data Worth?",
       "speakers": [
-        "Adam Bregenzer: Buying Time"
+        "Adam Bregenzer"
       ],
       "track": "ics-ot",
       "topics": [

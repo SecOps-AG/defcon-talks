@@ -1392,9 +1392,7 @@
     {
       "youtubeId": "xYiMLKtn_u4",
       "title": "Meet the EFF",
-      "speakers": [
-        "Electronic Frontier Foundation Staff"
-      ],
+      "speakers": [],
       "track": "privacy",
       "topics": [
         "surveillance-capitalism",
@@ -1412,8 +1410,7 @@
       "youtubeId": "TnOoTFSvn3U",
       "title": "The Making of DEF CON 20",
       "speakers": [
-        "Jeff Moss",
-        "DEF CON Staff"
+        "Jeff Moss"
       ],
       "track": "community",
       "topics": [

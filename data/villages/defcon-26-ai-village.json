@@ -29,7 +29,7 @@
       "slug": "clarence-chio-and-panel",
       "title": "Opening Remarks",
       "speakers": [
-        "Clarence Chio and Panel"
+        "Clarence Chio"
       ],
       "track": "community",
       "topics": [
@@ -46,7 +46,7 @@
       "slug": "clarence-chio-and-panel-closing-notes-and-prizes",
       "title": "Closing Notes and Prizes",
       "speakers": [
-        "Clarence Chio and Panel"
+        "Clarence Chio"
       ],
       "track": "community",
       "topics": [
@@ -102,7 +102,7 @@
       "slug": "bodaceacat-and-panel",
       "title": "Responsible Offensive Machine Learning",
       "speakers": [
-        "bodaceacat and Panel"
+        "bodaceacat"
       ],
       "track": "ai-security",
       "topics": [
@@ -394,7 +394,7 @@
       "slug": "drhyrum-and-panel",
       "title": "Malware Panel",
       "speakers": [
-        "drhyrum and Panel"
+        "drhyrum"
       ],
       "track": "ai-security",
       "topics": [
@@ -431,7 +431,6 @@
       "slug": "zhao-zhao-adversarial-2-training",
       "title": "Adversarial Training",
       "speakers": [
-        "Zhao",
         "Zhao"
       ],
       "track": "ai-security",
@@ -488,7 +487,7 @@
       "slug": "weilin-xu-the-vanishing-trick-for-self-driving-cars",
       "title": "The Vanishing Trick for Self-Driving Cars",
       "speakers": [
-        "Weilin Xu and Panel"
+        "Weilin Xu"
       ],
       "track": "ai-security",
       "topics": [
@@ -525,7 +524,7 @@
       "slug": "zhuang-zhang-weapons-for-dog-fight-adapting-malware",
       "title": "Weapons for Dog Fight: Adapting Malware",
       "speakers": [
-        "Zhuang Zhang and Panel"
+        "Zhuang Zhang"
       ],
       "track": "ai-security",
       "topics": [
@@ -543,7 +542,7 @@
       "slug": "xingxing-wei-boosting-adversarial-attacks-with-momentum",
       "title": "Boosting Adversarial Attacks with Momentum",
       "speakers": [
-        "Xingxing Wei and Panel"
+        "Xingxing Wei"
       ],
       "track": "ai-security",
       "topics": [

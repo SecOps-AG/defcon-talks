@@ -9,9 +9,7 @@
       "youtubeId": "uYpVg--aFS8",
       "slug": "red-team-village-overview-and-operations",
       "title": "Red Team Village Overview and Operations",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "red-team",
@@ -27,9 +25,7 @@
       "youtubeId": "Iw5aDxe3Yog",
       "slug": "recon-village-walkthrough-and-open-source-intelligence",
       "title": "Recon Village Walkthrough and Open-Source Intelligence",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "osint",
       "topics": [
         "recon",
@@ -45,9 +41,7 @@
       "youtubeId": "IhNRpLWpxYk",
       "slug": "car-hacking-village-can-bus-and-vehicle-research",
       "title": "Car Hacking Village: CAN Bus and Vehicle Research",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "automotive-security",
@@ -63,9 +57,7 @@
       "youtubeId": "wkkevuRpzaM",
       "slug": "hack-the-box-community-showcase",
       "title": "Hack The Box Community Showcase",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "hack-the-box",
@@ -81,9 +73,7 @@
       "youtubeId": "rKOsWMOMe0Q",
       "slug": "apple-tv-spoof-and-hallway-shenanigans",
       "title": "Apple TV Spoof and Hallway Shenanigans",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "prank",
@@ -99,9 +89,7 @@
       "youtubeId": "40R_28PPQ7w",
       "slug": "red-team-village-interview-and-ctf-update",
       "title": "Red Team Village Interview and CTF Update",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "red-team",
@@ -156,8 +144,7 @@
       "slug": "amateur-radio-foxhunt-interview-with-silk",
       "title": "Amateur Radio Foxhunt Interview with Silk",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "wireless",
       "topics": [
@@ -175,8 +162,7 @@
       "slug": "adversary-wars-ctf-interview",
       "title": "Adversary Wars CTF Interview",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "red-team",
       "topics": [
@@ -194,8 +180,7 @@
       "slug": "iot-village-interview",
       "title": "IoT Village Interview",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "hardware",
       "topics": [
@@ -213,8 +198,7 @@
       "slug": "hack-the-box-challenge-interview",
       "title": "Hack The Box Challenge Interview",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "community",
       "topics": [
@@ -270,8 +254,7 @@
       "slug": "tin-foil-hat-contest-overview",
       "title": "Tin Foil Hat Contest Overview",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "community",
       "topics": [
@@ -289,8 +272,7 @@
       "slug": "password-cracking-village-interview",
       "title": "Password Cracking Village Interview",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "appsec",
       "topics": [
@@ -307,9 +289,7 @@
       "youtubeId": "7lL1Fo3Wp5c",
       "slug": "hacker-badges-and-badgelife-interview",
       "title": "Hacker Badges and BadgeLife Interview",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "badgelife",
@@ -326,8 +306,7 @@
       "slug": "policy-village-exploration",
       "title": "Policy Village Exploration",
       "speakers": [
-        "Ali",
-        "DEF CON Video Team"
+        "Ali"
       ],
       "track": "policy",
       "topics": [
@@ -345,8 +324,7 @@
       "slug": "car-hacking-village-showcase",
       "title": "Car Hacking Village Showcase",
       "speakers": [
-        "CauseEffect",
-        "DEF CON Video Team"
+        "CauseEffect"
       ],
       "track": "hardware",
       "topics": [
@@ -364,8 +342,7 @@
       "slug": "top-tips-for-new-def-con-attendees",
       "title": "Top Tips for New DEF CON Attendees",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "community",
       "topics": [
@@ -383,8 +360,7 @@
       "slug": "lock-picking-village-interview",
       "title": "Lock Picking Village Interview",
       "speakers": [
-        "Ali",
-        "DEF CON Video Team"
+        "Ali"
       ],
       "track": "community",
       "topics": [
@@ -402,8 +378,7 @@
       "slug": "tin-foil-hat-contest-interviews",
       "title": "Tin Foil Hat Contest Interviews",
       "speakers": [
-        "CauseEffect",
-        "DEF CON Video Team"
+        "CauseEffect"
       ],
       "track": "community",
       "topics": [
@@ -421,8 +396,7 @@
       "slug": "ai-village-interview",
       "title": "AI Village Interview",
       "speakers": [
-        "Chris",
-        "DEF CON Video Team"
+        "Chris"
       ],
       "track": "ai-security",
       "topics": [
@@ -440,8 +414,7 @@
       "slug": "scavenger-hunt-contest-interview",
       "title": "Scavenger Hunt Contest Interview",
       "speakers": [
-        "Ali",
-        "DEF CON Video Team"
+        "Ali"
       ],
       "track": "community",
       "topics": [
@@ -459,8 +432,7 @@
       "slug": "hack-a-sat-orbital-satellite-hacking-interview",
       "title": "Hack-A-Sat Orbital Satellite Hacking Interview",
       "speakers": [
-        "Ali",
-        "DEF CON Video Team"
+        "Ali"
       ],
       "track": "wireless",
       "topics": [
@@ -478,8 +450,7 @@
       "slug": "red-team-village-behind-the-scenes-preview",
       "title": "Red Team Village Behind the Scenes Preview",
       "speakers": [
-        "Chris",
-        "DEF CON Video Team"
+        "Chris"
       ],
       "track": "red-team",
       "topics": [

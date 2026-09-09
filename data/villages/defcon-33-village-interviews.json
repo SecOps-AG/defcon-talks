@@ -11,8 +11,7 @@
       "title": "HackerPager Engineering and Teardown",
       "speakers": [
         "HackerPager Team",
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "hardware",
       "topics": [
@@ -49,9 +48,7 @@
       "youtubeId": "hKLow2hkLxQ",
       "slug": "tipsybadge-wobble-mode-and-visual-distortions",
       "title": "TipsyBadge: Wobble Mode and Visual Distortions",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "badgelife",
@@ -68,8 +65,7 @@
       "slug": "ics-village-ctf-overview-with-winter",
       "title": "ICS Village CTF Overview with Winter",
       "speakers": [
-        "Winter",
-        "DEF CON Video Team"
+        "Winter"
       ],
       "track": "ics-ot",
       "topics": [
@@ -87,8 +83,7 @@
       "slug": "vetcon-community-showcase-with-jim",
       "title": "VetCon Community Showcase with Jim",
       "speakers": [
-        "Jim",
-        "DEF CON Video Team"
+        "Jim"
       ],
       "track": "community",
       "topics": [
@@ -107,8 +102,7 @@
       "title": "Meshtastic and Mesh Networks at Ham Radio Village",
       "speakers": [
         "Lucas",
-        "Dan",
-        "DEF CON Video Team"
+        "Dan"
       ],
       "track": "wireless",
       "topics": [
@@ -125,9 +119,7 @@
       "youtubeId": "PyePoMhMRi8",
       "slug": "scam-village-countering-fraud-and-social-engineering",
       "title": "Scam Village: Countering Fraud and Social Engineering",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "social-engineering",
       "topics": [
         "scam-baiting",
@@ -144,8 +136,7 @@
       "slug": "crypto-and-privacy-village-overview-with-steven",
       "title": "Crypto and Privacy Village Overview with Steven",
       "speakers": [
-        "Steven",
-        "DEF CON Video Team"
+        "Steven"
       ],
       "track": "privacy",
       "topics": [
@@ -162,9 +153,7 @@
       "youtubeId": "woTtS1ri9F4",
       "slug": "iot-village-spotlight-connected-device-security",
       "title": "IoT Village Spotlight: Connected Device Security",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "iot-security",
@@ -180,9 +169,7 @@
       "youtubeId": "kJa83M_u6z8",
       "slug": "physical-security-village-walkthrough-dc33",
       "title": "Physical Security Village Walkthrough",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "recon",
       "topics": [
         "physical-security",
@@ -199,8 +186,7 @@
       "slug": "darpa-ai-cyber-challenge-aixcc-finals-overview",
       "title": "DARPA AI Cyber Challenge (AIxCC) Finals Overview",
       "speakers": [
-        "Andrew Carney",
-        "DEF CON Video Team"
+        "Andrew Carney"
       ],
       "track": "ai-security",
       "topics": [
@@ -218,8 +204,7 @@
       "slug": "queercon-community-interview-with-kyle",
       "title": "QueerCon Community Interview with Kyle",
       "speakers": [
-        "Kyle",
-        "DEF CON Video Team"
+        "Kyle"
       ],
       "track": "community",
       "topics": [
@@ -351,8 +336,7 @@
       "slug": "open-source-in-government-interview-with-jordan-kasper",
       "title": "Open Source in Government: Interview with Jordan Kasper",
       "speakers": [
-        "Jordan Kasper",
-        "DEF CON Video Team"
+        "Jordan Kasper"
       ],
       "track": "policy",
       "topics": [
@@ -428,7 +412,6 @@
       "slug": "nextgen-hacking-youth-education-and-mentorship",
       "title": "NextGen Hacking: Youth Education and Mentorship",
       "speakers": [
-        "DEF CON NextGen Team",
         "Silk"
       ],
       "track": "community",
@@ -447,8 +430,7 @@
       "slug": "hak5-pager-paging-and-wi-fi-pineapple-features",
       "title": "Hak5 Pager: Paging and Wi-Fi Pineapple Features",
       "speakers": [
-        "Darren Kitchen",
-        "DEF CON Video Team"
+        "Darren Kitchen"
       ],
       "track": "hardware",
       "topics": [
@@ -466,8 +448,7 @@
       "slug": "kevops-sahara-pool-party-and-community-gathering",
       "title": "KevOps Sahara Pool Party and Community Gathering",
       "speakers": [
-        "KevOps",
-        "DEF CON Video Team"
+        "KevOps"
       ],
       "track": "community",
       "topics": [
@@ -485,8 +466,7 @@
       "slug": "creating-the-electronic-badge-interview-with-mar-williams",
       "title": "Creating the Electronic Badge: Interview with Mar Williams",
       "speakers": [
-        "Mar Williams",
-        "DEF CON Video Team"
+        "Mar Williams"
       ],
       "track": "hardware",
       "topics": [
@@ -523,10 +503,7 @@
       "youtubeId": "D_3mUd7shX4",
       "slug": "ics-village-water-treatment-plant-simulation",
       "title": "ICS Village Water Treatment Plant Simulation",
-      "speakers": [
-        "ICS Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "ics-ot",
       "topics": [
         "ics-ot",
@@ -542,9 +519,7 @@
       "youtubeId": "Xx94tMP_6ys",
       "slug": "ten-years-of-the-iot-village-anniversary-preview",
       "title": "Ten Years of the IoT Village: Anniversary Preview",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "iot-security",
@@ -560,9 +535,7 @@
       "youtubeId": "AMA6e_oyEH8",
       "slug": "redalert-ics-ctf-walkthrough",
       "title": "RedAlert ICS CTF Walkthrough",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "ics-ot",
       "topics": [
         "ics-ot",
@@ -578,9 +551,7 @@
       "youtubeId": "7eXzwI8uD5M",
       "slug": "bug-bounty-village-remote-and-in-person-challenges",
       "title": "Bug Bounty Village Remote and In-Person Challenges",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "appsec",
       "topics": [
         "bug-bounty",
@@ -596,9 +567,7 @@
       "youtubeId": "Kx86gzmY_NE",
       "slug": "gensec-ctf-at-def-con-33",
       "title": "GenSec CTF at DEF CON 33",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "ctf",
@@ -614,9 +583,7 @@
       "youtubeId": "-B_rYhHQ_9k",
       "slug": "red-team-village-at-def-con-33-spotlight",
       "title": "Red Team Village at DEF CON 33 Spotlight",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "red-team",
@@ -633,8 +600,7 @@
       "slug": "contest-operations-update-with-tiberius",
       "title": "Contest Operations Update with Tiberius",
       "speakers": [
-        "Tiberius",
-        "DEF CON Video Team"
+        "Tiberius"
       ],
       "track": "community",
       "topics": [
@@ -652,8 +618,7 @@
       "slug": "mobile-hacking-community-spotlight",
       "title": "Mobile Hacking Community Spotlight",
       "speakers": [
-        "d3dbot",
-        "DEF CON Video Team"
+        "d3dbot"
       ],
       "track": "mobile",
       "topics": [

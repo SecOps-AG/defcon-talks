@@ -121,9 +121,7 @@
       "youtubeId": "nB6XFIYGg5o",
       "slug": "joe-gray-decepticon-opsec-to-slow-the-osint-video",
       "title": "Joe Gray- DECEPTICON OPSEC to Slow the OSINT video",
-      "speakers": [
-        "Joe Gray- DECEPTICON OPSEC to Slow the OSINT video"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "osint",

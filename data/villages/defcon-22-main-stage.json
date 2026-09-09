@@ -159,9 +159,7 @@
     {
       "youtubeId": "14Kh016_mhA",
       "title": "Contests Award Ceremony",
-      "speakers": [
-        "DEF CON Contest Goons"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "defcon-contests",
@@ -178,8 +176,7 @@
       "youtubeId": "wbjRjgJi3MI",
       "title": "Closing Ceremonies (Part 1)",
       "speakers": [
-        "Jeff Moss",
-        "DEF CON Senior Staff"
+        "Jeff Moss"
       ],
       "track": "community",
       "topics": [
@@ -768,8 +765,7 @@
       "youtubeId": "MfecapOHkoM",
       "title": "The Mystery, Myth, and Legend",
       "speakers": [
-        "Jeff Moss",
-        "DEF CON Staff"
+        "Jeff Moss"
       ],
       "track": "community",
       "topics": [
@@ -2080,8 +2076,7 @@
       "youtubeId": "GR3pEVW6hZA",
       "title": "Closing Ceremonies (Part 2)",
       "speakers": [
-        "Jeff Moss",
-        "DEF CON Senior Staff"
+        "Jeff Moss"
       ],
       "track": "community",
       "topics": [
@@ -2099,8 +2094,7 @@
       "youtubeId": "BQEHElSwXUM",
       "title": "Hacker Pyramid: Saturday",
       "speakers": [
-        "The Dark Tangent",
-        "DEF CON Goons"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [
@@ -2117,9 +2111,7 @@
     {
       "youtubeId": "3_5rO3abWoM",
       "title": "Hacker Jeopardy: Night 1",
-      "speakers": [
-        "Hacker Jeopardy Goons"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "defcon-contests",
@@ -2135,9 +2127,7 @@
     {
       "youtubeId": "po9Cy0xaK9c",
       "title": "Hacker Jeopardy: Night 2",
-      "speakers": [
-        "Hacker Jeopardy Goons"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "defcon-contests",
@@ -2154,8 +2144,7 @@
       "youtubeId": "GzisJVqRp_g",
       "title": "Hacker Pyramid: Friday",
       "speakers": [
-        "The Dark Tangent",
-        "DEF CON Goons"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [

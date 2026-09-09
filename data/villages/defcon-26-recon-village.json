@@ -235,9 +235,7 @@
       "youtubeId": "B-UQdIBOSa0",
       "slug": "team",
       "title": "Hackathon Product Showcase",
-      "speakers": [
-        "Recon Village Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "defcon-conference",
@@ -253,9 +251,7 @@
       "youtubeId": "Eq2jax963xw",
       "slug": "team-hackathon-and-ctf-prizes-video",
       "title": "Hackathon and CTF Prizes   Video",
-      "speakers": [
-        "Recon Village Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "defcon-conference",

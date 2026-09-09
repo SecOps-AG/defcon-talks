@@ -9,9 +9,7 @@
       "youtubeId": "mHFcecX4RIA",
       "slug": "cryptocurrency-village-preview",
       "title": "Cryptocurrency Village Preview",
-      "speakers": [
-        "Cryptocurrency Village Team"
-      ],
+      "speakers": [],
       "track": "privacy",
       "topics": [
         "cryptocurrency",
@@ -28,9 +26,7 @@
       "youtubeId": "leKO6dphHBY",
       "slug": "hardware-hacking-village-preview",
       "title": "Hardware Hacking Village Preview",
-      "speakers": [
-        "Hardware Hacking Village Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "hardware-hacking",
@@ -46,9 +42,7 @@
       "youtubeId": "T8w5M_RL-9c",
       "slug": "aerospace-village-preview",
       "title": "Aerospace Village Preview",
-      "speakers": [
-        "Aerospace Village Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "aerospace",
@@ -83,9 +77,7 @@
       "youtubeId": "eBkduAj_Ruc",
       "slug": "policy-at-defcon-preview",
       "title": "Policy at DEF CON Preview",
-      "speakers": [
-        "DEF CON Policy Team"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "policy",
@@ -101,9 +93,7 @@
       "youtubeId": "6BIBQUmJgac",
       "slug": "malware-village-preview",
       "title": "Malware Village Preview",
-      "speakers": [
-        "Malware Village Team"
-      ],
+      "speakers": [],
       "track": "malware",
       "topics": [
         "malware",

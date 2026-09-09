@@ -1281,9 +1281,7 @@
       "youtubeId": "ShedHPvT2lw",
       "slug": "bypassing-in-mobile-network-from-red-team-points-of-view",
       "title": "Bypassing in Mobile Network From Red-Team Points of View",
-      "speakers": [
-        "Red Team Village"
-      ],
+      "speakers": [],
       "track": "mobile",
       "topics": [
         "red-team",
@@ -1332,9 +1330,7 @@
       "youtubeId": "gExrK_iWrkY",
       "slug": "how-to-hack-swift-spid-and-spei-with-basic-hacking-techniques-fr",
       "title": "How to hack SWIFT, SPID, and SPEI with basic hacking techniques (from a Red Team Perspective)",
-      "speakers": [
-        "Red Team Village"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "red-team",

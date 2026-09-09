@@ -269,9 +269,7 @@
       "youtubeId": "9DwQgJ1cTnY",
       "slug": "hackers-and-isacs",
       "title": "Hackers and ISACs",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "isac",
@@ -288,9 +286,7 @@
       "youtubeId": "2ykwT5DHPeU",
       "slug": "hacking-aerospace-cybersecurity-regulation",
       "title": "Hacking Aerospace Cybersecurity Regulation",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "regulation",
@@ -481,9 +477,7 @@
       "youtubeId": "XZ0dS-ayQA0",
       "slug": "building-connections-across-the-aviation-ecosystem",
       "title": "Building Connections Across the Aviation Ecosystem",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "aerospace",

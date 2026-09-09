@@ -753,9 +753,7 @@
     {
       "youtubeId": "8L4hwuI1nHM",
       "title": "Meet the VCs",
-      "speakers": [
-        "Venture Capital Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "venture-capital",
@@ -771,9 +769,7 @@
     {
       "youtubeId": "91_dAt9qSmM",
       "title": "Meet the Feds",
-      "speakers": [
-        "Federal Law Enforcement Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "law-enforcement",
@@ -854,9 +850,7 @@
     {
       "youtubeId": "p6qVm5h3dBc",
       "title": "Ask EFF: the Year in Digital Civil Liberties",
-      "speakers": [
-        "Electronic Frontier Foundation Staff"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "eff",

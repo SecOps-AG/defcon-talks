@@ -9,9 +9,7 @@
       "youtubeId": "V8avoNBRbGE",
       "slug": "bcos",
       "title": "Monero Village - Welcome Speech",
-      "speakers": [
-        "DEF CON 26 BCOS"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "monero",
@@ -27,7 +25,7 @@
       "slug": "bcos-monero-village-shamiq-and-panel",
       "title": "Greatest Questions",
       "speakers": [
-        "Shamiq and Panel"
+        "Shamiq"
       ],
       "track": "community",
       "topics": [

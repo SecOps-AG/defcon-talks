@@ -10,8 +10,7 @@
       "slug": "policy-us-cyber-policy-101",
       "title": "US Cyber Policy 101",
       "speakers": [
-        "Harley Geiger",
-        "Panel"
+        "Harley Geiger"
       ],
       "track": "policy",
       "topics": [
@@ -67,9 +66,7 @@
       "youtubeId": "V93p147ag98",
       "slug": "policy-navigating-the-digital-frontier-advancing-cyber-diplomacy",
       "title": "Navigating the Digital Frontier: Advancing Cyber Diplomacy",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "cyber-diplomacy",
@@ -87,8 +84,7 @@
       "slug": "policy-international-cyber-policy-101",
       "title": "International Cyber Policy 101",
       "speakers": [
-        "Peter Stephens",
-        "Panel"
+        "Peter Stephens"
       ],
       "track": "policy",
       "topics": [
@@ -106,9 +102,7 @@
       "youtubeId": "90-o_mlUBms",
       "slug": "policy-how-hackers-can-work-with-govt-to-protect-high-risk-commu",
       "title": "How Hackers Can Work with Govt to Protect High-Risk Communities",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "high-risk-communities",
@@ -145,9 +139,7 @@
       "youtubeId": "Muo__x35ju8",
       "slug": "policy-demystifing-hacking-for-government-officials",
       "title": "Demystifying Hacking for Government Officials",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "election-security",
@@ -164,9 +156,7 @@
       "youtubeId": "6Igptw_KDFA",
       "slug": "policy-cyber-policy-adrift",
       "title": "Cyber Policy Adrift: Securing the Maritime Ecosystem",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "maritime",
@@ -183,9 +173,7 @@
       "youtubeId": "16rrxMS7YX8",
       "slug": "policy-blocking-pathways-into-cybercrime-current-efforts-future",
       "title": "Blocking Pathways into Cybercrime: Current Efforts and Opportunities",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "cybercrime-prevention",
@@ -202,9 +190,7 @@
       "youtubeId": "QTm-rAaELuo",
       "slug": "policy-beyond-the-breach-cyber-policy-hacker-perspectives",
       "title": "Beyond the Breach: Cyber Policy + Hacker Perspectives",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "cyber-policy",
@@ -238,9 +224,7 @@
       "youtubeId": "ODzAs7eJ988",
       "slug": "policy-a-global-approach-to-tackling-software-resilience",
       "title": "A Global Approach to Tackling Software Resilience",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "software-resilience",

@@ -296,7 +296,7 @@
       "slug": "jeff-moss-and-panel",
       "title": "Groups Panel",
       "speakers": [
-        "Jeff Moss and Panel"
+        "Jeff Moss"
       ],
       "track": "community",
       "topics": [
@@ -842,9 +842,7 @@
       "youtubeId": "Ly7uurZ2d9A",
       "slug": "the-dark-tangent-def-con-goons",
       "title": "Closing Ceremonies",
-      "speakers": [
-        "DEF CON Closing Ceremonies"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "defcon-culture",
@@ -972,8 +970,7 @@
       "slug": "conference-josh-schwartz-john-cramb",
       "title": "Conference - Josh Schwartz, John Cramb",
       "speakers": [
-        "MEATPISTOL",
-        "A Modular Malware Implant Framework"
+        "MEATPISTOL"
       ],
       "track": "red-team",
       "topics": [

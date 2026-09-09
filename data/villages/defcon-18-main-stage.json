@@ -588,9 +588,7 @@
     {
       "youtubeId": "35c75rX3ajk",
       "title": "Meet the EFF",
-      "speakers": [
-        "Electronic Frontier Foundation Staff"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "eff",
@@ -606,9 +604,7 @@
     {
       "youtubeId": "Gz_IylUCy2s",
       "title": "Open Letter: Call to Action",
-      "speakers": [
-        "DEF CON Keynote Speakers"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "hacker-culture",
@@ -624,9 +620,7 @@
     {
       "youtubeId": "BF8RKFHKxaw",
       "title": "Of Bytes and Bullets",
-      "speakers": [
-        "Authors Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "eff",
@@ -642,9 +636,7 @@
     {
       "youtubeId": "lhHdu1RJ-0U",
       "title": "OpenCTF: 5 Years in 50 Minutes",
-      "speakers": [
-        "OpenCTF Organizers"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "capture-the-flag",
@@ -660,9 +652,7 @@
     {
       "youtubeId": "iB8kih6svWc",
       "title": "Meet the Feds: Policy, Privacy, Deterrence and Cyber War",
-      "speakers": [
-        "Federal Law Enforcement Panel"
-      ],
+      "speakers": [],
       "track": "privacy",
       "topics": [
         "privacy",

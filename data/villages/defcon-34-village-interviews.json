@@ -9,9 +9,7 @@
       "youtubeId": "86TLtYkpyKI",
       "slug": "scavenger-hunt-slot-machine-walkthrough",
       "title": "Scavenger Hunt Slot Machine Walkthrough",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "hardware-hacking",
@@ -29,8 +27,7 @@
       "title": "I Am the Cavalry Initiative Update",
       "speakers": [
         "Josh Corman",
-        "Dean",
-        "DEF CON Video Team"
+        "Dean"
       ],
       "track": "policy",
       "topics": [
@@ -48,8 +45,7 @@
       "slug": "exploring-hackers-town-and-the-gibson",
       "title": "Exploring Hackers.town and The Gibson",
       "speakers": [
-        "The Gibson",
-        "DEF CON Video Team"
+        "The Gibson"
       ],
       "track": "community",
       "topics": [
@@ -66,10 +62,7 @@
       "youtubeId": "ciQdzBhR1xI",
       "slug": "car-hacking-village-walkthrough",
       "title": "Car Hacking Village Walkthrough",
-      "speakers": [
-        "Car Hacking Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "automotive-security",
@@ -86,9 +79,7 @@
       "slug": "ham-radio-village-and-marvin-goes-ham",
       "title": "Ham Radio Village and Marvin Goes HAM",
       "speakers": [
-        "Marvin",
-        "Ham Radio Village Team",
-        "DEF CON Video Team"
+        "Marvin"
       ],
       "track": "wireless",
       "topics": [
@@ -105,10 +96,7 @@
       "youtubeId": "fqs--Ha7gfw",
       "slug": "embedded-systems-village-walkthrough-dc34",
       "title": "Embedded Systems Village Walkthrough",
-      "speakers": [
-        "Embedded Systems Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "embedded-systems",
@@ -125,8 +113,7 @@
       "slug": "leech-vehicle-firmware-extraction-tool",
       "title": "LEECH Vehicle Firmware Extraction Tool",
       "speakers": [
-        "LEECH Project Team",
-        "DEF CON Video Team"
+        "LEECH Project Team"
       ],
       "track": "hardware",
       "topics": [
@@ -145,8 +132,7 @@
       "slug": "phreakme-old-school-phreaking-contest",
       "title": "PhreakMe: Old-School Phreaking Contest",
       "speakers": [
-        "Soldier of FORTRAN",
-        "DEF CON Video Team"
+        "Soldier of FORTRAN"
       ],
       "track": "hardware",
       "topics": [
@@ -163,10 +149,7 @@
       "youtubeId": "M0-cxePSifs",
       "slug": "physical-security-village-walkthrough",
       "title": "Physical Security Village Walkthrough",
-      "speakers": [
-        "Physical Security Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "physical-security",
@@ -182,10 +165,7 @@
       "youtubeId": "toi0keDnOsc",
       "slug": "voting-machine-hacking-village-spotlight",
       "title": "Voting Machine Hacking Village Spotlight",
-      "speakers": [
-        "Voting Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "voting-machines",
@@ -202,8 +182,7 @@
       "slug": "after-hours-with-cliff-stoll",
       "title": "After Hours with Cliff Stoll",
       "speakers": [
-        "Cliff Stoll",
-        "DEF CON Video Team"
+        "Cliff Stoll"
       ],
       "track": "community",
       "topics": [
@@ -221,8 +200,7 @@
       "slug": "ev-charger-hacking-and-architecture",
       "title": "EV Charger Hacking and Architecture",
       "speakers": [
-        "MajorMalfunction",
-        "DEF CON Video Team"
+        "MajorMalfunction"
       ],
       "track": "hardware",
       "topics": [
@@ -241,8 +219,7 @@
       "slug": "darren-kitchen-on-whats-new-at-hak5",
       "title": "Darren Kitchen on What's New at Hak5",
       "speakers": [
-        "Darren Kitchen",
-        "DEF CON Video Team"
+        "Darren Kitchen"
       ],
       "track": "hardware",
       "topics": [
@@ -259,10 +236,7 @@
       "youtubeId": "Egzf_aWSxZc",
       "slug": "ai-village-low-cost-ai-that-plays-pokemon",
       "title": "AI Village: Low-Cost AI That Plays Pok\u00e9mon",
-      "speakers": [
-        "AI Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "ai-security",
       "topics": [
         "artificial-intelligence",
@@ -279,8 +253,7 @@
       "slug": "no-starch-press-at-defcon-34",
       "title": "No Starch Press at DEF CON 34",
       "speakers": [
-        "No Starch Press Team",
-        "DEF CON Video Team"
+        "No Starch Press Team"
       ],
       "track": "community",
       "topics": [
@@ -298,9 +271,7 @@
       "slug": "goon-questions-life-in-red-shirts",
       "title": "Goon Questions: Life in Red Shirts",
       "speakers": [
-        "Goon Staff",
-        "Guzi Media",
-        "DEF CON Video Team"
+        "Guzi Media"
       ],
       "track": "community",
       "topics": [
@@ -317,10 +288,7 @@
       "youtubeId": "MNtlIEaljOo",
       "slug": "bug-bounty-village-spotlight",
       "title": "Bug Bounty Village Spotlight",
-      "speakers": [
-        "Bug Bounty Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "appsec",
       "topics": [
         "bug-bounty",
@@ -337,9 +305,7 @@
       "slug": "dc-nextgen-community-spotlight-with-bia",
       "title": "DC Nextgen Community Spotlight with Bia",
       "speakers": [
-        "Bia",
-        "DC Nextgen Community",
-        "DEF CON Video Team"
+        "Bia"
       ],
       "track": "community",
       "topics": [
@@ -357,10 +323,7 @@
       "youtubeId": "DPmlH6lCaAg",
       "slug": "maritime-hacking-village-spotlight",
       "title": "Maritime Hacking Village Spotlight",
-      "speakers": [
-        "Maritime Hacking Village Team",
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "maritime-security",
@@ -377,8 +340,7 @@
       "slug": "def-coin-34-badge-architecture-and-teardown",
       "title": "DEF COIN 34 Badge Architecture and Teardown",
       "speakers": [
-        "Bunnie Huang",
-        "DEF CON Video Team"
+        "Bunnie Huang"
       ],
       "track": "hardware",
       "topics": [
@@ -397,8 +359,7 @@
       "slug": "lights-in-dark-rooms-documentary-on-online-scam-economy",
       "title": "Lights in Dark Rooms: Documentary on Online Scam Economy",
       "speakers": [
-        "Vito",
-        "DEF CON Video Team"
+        "Vito"
       ],
       "track": "policy",
       "topics": [
@@ -417,8 +378,7 @@
       "slug": "eff-update-at-defcon-34",
       "title": "EFF Update at DEF CON 34",
       "speakers": [
-        "Cindy Cohn",
-        "DEF CON Video Team"
+        "Cindy Cohn"
       ],
       "track": "policy",
       "topics": [
@@ -438,8 +398,7 @@
       "title": "DC Groups Highlight: DC256 Huntsville",
       "speakers": [
         "Ryan",
-        "DC256 Team",
-        "DEF CON Video Team"
+        "DC256 Team"
       ],
       "track": "community",
       "topics": [
