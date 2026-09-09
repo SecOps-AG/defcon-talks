@@ -26,24 +26,6 @@
       "durationSeconds": 2806
     },
     {
-      "youtubeId": "V_w5u9lONN0",
-      "slug": "gold-bug-puzzle-panel-with-friends-the-gold-bug-team-2025",
-      "title": "Gold Bug: Puzzle Panel with Friends",
-      "speakers": [
-        "The Gold Bug Team"
-      ],
-      "track": "community",
-      "topics": [
-        "contest",
-        "ctf",
-        "competitions",
-        "community"
-      ],
-      "teaser": "Psychoholics puzzle solvers share stories and insights from organizing and competing in DEF CON contests, CTFs, and escape rooms.",
-      "summary": null,
-      "durationSeconds": 3227
-    },
-    {
       "youtubeId": "TtPicirB6G4",
       "slug": "go-malware-meets-iot-challenges-blind-spots-and-botnets",
       "title": "Go Malware Meets IoT: Challenges, Blind Spots, and Botnets",
@@ -261,44 +243,6 @@
       "teaser": "Tutorial on keyboard attack vectors, ranging from hardware keyloggers and Van Eck phreaking electromagnetic emanations to acoustic typing eavesdropping.",
       "summary": "Keyboard Attack Vectors and Data Interception\n\nAttacking keyboards allows adversaries to capture plaintext credentials and confidential input before cryptographic encryption takes place. Intercepting keystrokes at the physical interface bypasses complex network and application security controls.\n\nHardware Keylogging and Inline Interceptors\n\nPhysical keyloggers installed between the keyboard cable and computer port log raw keystroke scancodes to non-volatile memory. Modern inline hardware implants leverage wireless transmitters or cellular modems for remote keystroke exfiltration.\n\nElectromagnetic Emanations and Van Eck Phreaking\n\nUnshielded keyboard cables and internal microcontroller traces emit subtle electromagnetic radiation during typing. By tuning software-defined radios to these unintended emanations, attackers can reconstruct keystrokes from meters away without physical contact.\n\nAcoustic Eavesdropping and Side-Channel Analysis\n\nDifferences in key acoustics allow machine learning models trained on audio recordings to identify individual keystrokes based on typing sound signatures. Defending against keyboard side-channel attacks requires physical inspection, shielded hardware, and acoustic noise generation.",
       "durationSeconds": 2255
-    },
-    {
-      "youtubeId": "OYGtNa0pJec",
-      "slug": "no-spook-leaves-randomness-to-chance",
-      "title": "No Spook Leaves Randomness to Chance",
-      "speakers": [
-        "Shaanan Cohney"
-      ],
-      "track": "policy",
-      "topics": [
-        "cryptography",
-        "cryptanalysis",
-        "standards",
-        "backdoor",
-        "policy"
-      ],
-      "teaser": "Examines historical vulnerabilities in cryptographic random number generator standards and explores how flawed algorithms have been introduced into public specifications.",
-      "summary": "The Critical Role of Cryptographic Randomness\n\nCryptographic systems fundamentally rely on unpredictable random number generators (RNGs) for generating cryptographic keys, nonces, and session tokens. When the underlying randomness is predictable or compromised, all dependent security protocols collapse.\n\nVulnerabilities in Vetted Cryptographic Standards\n\nOver the past two decades, security researchers have uncovered subtle vulnerabilities in widely standardized RNG algorithms. Even algorithms vetted by standard bodies have exhibited predictable internal states or mathematical weaknesses that degrade entropy.\n\nAdversarial Manipulation of Standards\n\nHistorical analysis reveals instances where subtle mathematical structures or state-transition parameters were intentionally introduced into standards, enabling covert decryption by actors with private knowledge of the algorithm's construction.\n\nEnsuring Robust Entropy and Verification\n\nMitigating subtle cryptographic backdoors requires open, peer-reviewed standards processes, transparent parameter generation, and rigorous mathematical verification of random bit generation algorithms.",
-      "durationSeconds": 3298
-    },
-    {
-      "youtubeId": "O7BI4jfEFwA",
-      "slug": "exploiting-shadow-data-from-ai-models-and-embeddings",
-      "title": "Exploiting Shadow Data from AI Models and Embeddings",
-      "speakers": [
-        "Patrick Walsh"
-      ],
-      "track": "ai-security",
-      "topics": [
-        "ai-security",
-        "privacy",
-        "llm",
-        "rag",
-        "embeddings"
-      ],
-      "teaser": "Demonstrates model inversion and embedding inversion attacks against LLMs and RAG systems, showing how sensitive personal data can be extracted from vector databases.",
-      "summary": "Shadow Data Exposure in AI Architectures\n\nModern applications integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) routinely process sensitive personal data. However, data embedded within model weights and vector stores often escapes conventional privacy and DLP scanning.\n\nModel Inversion Attacks on Fine-Tuned LLMs\n\nFine-tuning LLMs on private enterprise datasets creates memorization risks. Attackers craft targeted prompting sequences that force models to emit memorized training data, including personally identifiable information (PII) and credentials.\n\nEmbedding Inversion in Vector Databases\n\nVector embeddings used in semantic search and RAG pipelines are frequently treated as non-reversible mathematical representations. Inversion techniques demonstrate that high-dimensional embeddings can be mathematically reversed to reconstruct original text strings and sensitive records.\n\nPrivacy and Governance Implications\n\nSecuring AI ecosystems requires implementing differential privacy during model training, access controls on vector databases, and rigorous context sanitization to prevent sensitive data leakage.",
-      "durationSeconds": 2903
     },
     {
       "youtubeId": "HJYTMhbtKVU",
@@ -730,25 +674,6 @@
       "durationSeconds": 1509
     },
     {
-      "youtubeId": "iVmS5dPjggU",
-      "slug": "the-worst-ics-ot-love-story-every-told",
-      "title": "The Worst ICS/OT Love Story Ever Told",
-      "speakers": [
-        "Mike Holcomb"
-      ],
-      "track": "ics-ot",
-      "topics": [
-        "ics-ot",
-        "critical-infrastructure",
-        "ransomware",
-        "threat-intelligence",
-        "mitigations"
-      ],
-      "teaser": "Analyzes how the rapid proliferation of advanced tools among low-skilled attackers is reshaping threats against operational technology networks.",
-      "summary": "Rapid Evolution of Industrial Cyber Threats\n\nOperational Technology (OT) and Industrial Control Systems (ICS) are experiencing rapid shifts in adversary capabilities and attack frequency. Industrial environments previously shielded by obscurity now face persistent, targeted scanning and exploitation.\n\nTransition from State Actors to Opportunistic Groups\n\nWhile state-sponsored Advanced Persistent Threats (APTs) historically dominated ICS security discourse, current threat telemetry demonstrates that ransomware gangs and hacktivists are actively probing industrial networks for vulnerable edge appliances and exposed control interfaces.\n\nAccessibility of Advanced Attack Tooling\n\nExploitation frameworks, automated scanners, and default protocol interaction tools are increasingly accessible to low-skilled threat actors. This commoditization enables attackers with minimal industrial expertise to trigger significant operational disruptions.\n\nStrategic Roadmaps for OT Resilience\n\nDefending industrial networks requires establishing active asset inventory, implementing robust network zoning between enterprise IT and operational zones, and training operational staff on cyber-incident recognition.",
-      "durationSeconds": 1567
-    },
-    {
       "youtubeId": "_fXLWaP4Zmo",
       "slug": "pirates-of-the-north-sea",
       "title": "Pirates of the North Sea",
@@ -805,25 +730,6 @@
       "teaser": "Explores how manipulating maritime rudder angle controllers to violate International Regulations for Preventing Collisions at Sea (COLREGs) causes severe disruption.",
       "summary": "COLREGs and Maritime Navigation Safety\n\nThe International Regulations for Preventing Collisions at Sea (COLREGs) define universal navigation rules that mariners follow to ensure predictable vessel interactions and avoid collisions in congested waterways.\n\nThe Strategic Importance of 'Don't Turn to Port'\n\nA fundamental guideline in maritime navigation is avoiding turns to port (left) in head-on or crossing situations. Under COLREG rules, turning to port directly violates established passing protocols and places full legal and operational liability on the vessel initiating the turn.\n\nCyber-Physical Manipulation of Rudder Controls\n\nManipulating cyber-physical systems—such as digital rudder angle controllers or NMEA-connected autopilots—can force an unexpected port turn. In maritime chokepoints and narrow channels, an induced port turn causes critical collision hazards with oncoming commercial traffic.\n\nLegal Liability and Maritime Cyber Defense\n\nUnderstanding the nautical rules of the road is crucial for maritime cybersecurity researchers and defenders to evaluate the true physical impact and legal liability resulting from compromised shipboard control systems.",
       "durationSeconds": 1540
-    },
-    {
-      "youtubeId": "QKHJZ1K-7p0",
-      "slug": "hacking-a-head-unit-with-malicious-png",
-      "title": "Hacking a Head Unit with Malicious PNG",
-      "speakers": [
-        "Danilo Erazo"
-      ],
-      "track": "hardware",
-      "topics": [
-        "automotive",
-        "hardware",
-        "rtos",
-        "reverse-engineering",
-        "vulnerability-research"
-      ],
-      "teaser": "Demonstrates how reverse engineering an automotive real-time operating system uncovered image parser flaws exploitable via a crafted PNG file to backdoor head units.",
-      "summary": "Automotive In-Vehicle Infotainment Architecture\n\nModern automotive head units run complex operating systems that process user media, navigation data, and vehicular status. While many run Linux or Android, thousands of commercial vehicles utilize proprietary real-time operating systems (RTOS).\n\nReverse Engineering Automotive RTOS Firmware\n\nHardware extraction and reverse engineering of proprietary RTOS firmware revealed numerous undocumented diagnostic services, insecure memory management routines, and unhardened media parsing libraries.\n\nExploiting Image Parsers via Malicious PNG Payloads\n\nAnalyzing the built-in image rendering engine uncovered memory corruption vulnerabilities triggered during PNG header and chunk processing. Crafting a malformed PNG file delivered via USB allows arbitrary code execution and establishes an unauthenticated backdoor on the head unit.\n\nImplications for In-Vehicle Security\n\nCompromising head units provides a potential pivot point toward connected vehicle CAN buses, demonstrating the necessity of memory-safe parsing libraries and isolated sandboxes in automotive RTOS designs.",
-      "durationSeconds": 1431
     },
     {
       "youtubeId": "PYFssJoDP1c",
@@ -902,26 +808,6 @@
       "durationSeconds": 1554
     },
     {
-      "youtubeId": "C8F5kvm2B5s",
-      "slug": "veilid-la-revolucion-your-data-is-yours-to-own",
-      "title": "Veilid la revolución: Your Data Is Yours to Own",
-      "speakers": [
-        "Katelyn Bowden",
-        "Paul Miller"
-      ],
-      "track": "privacy",
-      "topics": [
-        "veilid",
-        "privacy",
-        "cryptography",
-        "open-source",
-        "mesh-networking"
-      ],
-      "teaser": "Covers updates, architectural fundamentals, and newly released privacy-preserving applications built upon the decentralized Veilid framework.",
-      "summary": "The Vision of Decentralized Data Sovereignty\n\nVeilid is an open-source, decentralized application framework and peer-to-peer communications protocol designed to eliminate reliance on centralized data collection platforms and restore user privacy.\n\nArchitectural Core of the Veilid Protocol\n\nVeilid utilizes end-to-end cryptography, distributed hash tables (DHTs), and onion-routed relay circuits to route data securely across heterogeneous consumer devices without exposing user IP addresses or metadata.\n\nEcosystem Growth and Released Applications\n\nSince its public launch, the Veilid community has expanded the framework's capabilities and released privacy-focused applications, including encrypted messaging tools, distributed social platforms, and secure file sharing systems.\n\nGetting Involved in Open-Source Privacy Development\n\nDevelopers and security researchers can contribute to Veilid by auditing the Rust core codebase, building decentralized applications, and running relay nodes to strengthen network resilience.",
-      "durationSeconds": 1387
-    },
-    {
       "youtubeId": "N0XFOS1kHaM",
       "slug": "resilient-and-reconfigurable-maritime-comms",
       "title": "Resilient & Reconfigurable Maritime Comms",
@@ -961,25 +847,6 @@
       "durationSeconds": 1472
     },
     {
-      "youtubeId": "K5Kltw5kQpM",
-      "slug": "uncovering-the-secrets-of-tire-pressure-monitoring-systems",
-      "title": "Uncovering the Secrets of Tire Pressure Monitoring Systems",
-      "speakers": [
-        "Yago Lizarribar"
-      ],
-      "track": "wireless",
-      "topics": [
-        "automotive",
-        "tpms",
-        "rf",
-        "spoofing",
-        "tracking"
-      ],
-      "teaser": "Reveals how unencrypted RF broadcasts from direct Tire Pressure Monitoring Systems (TPMS) enable vehicle tracking and custom message injection to spoof ECUs.",
-      "summary": "Wireless Architecture of Direct TPMS\n\nDirect Tire Pressure Monitoring Systems (TPMS) rely on battery-powered sensor modules installed inside each vehicle tire. These sensors periodically broadcast pressure, temperature, and unique sensor identification numbers over unencrypted RF frequencies (typically 315 MHz or 433 MHz).\n\nVehicle Tracking via Unencrypted Sensor IDs\n\nBecause TPMS sensor identifiers remain fixed and transmit in plaintext without cryptographic authentication, low-cost radio receivers positioned along roadways or parking garages can capture these signals to track specific vehicles persistently.\n\nCustom Packet Crafting and ECU Spoofing\n\nUsing software-defined radios (SDR), researchers developed tools to forge custom TPMS packets, transmitting manipulated pressure readings directly to the vehicle's electronic control unit (ECU) to trigger false warning indicators or instrument cluster anomalies.\n\nAutomotive Wireless Security Defenses\n\nSecuring future TPMS architectures requires implementing rolling cryptographic identifiers, authenticated message frames, and RF shielding within wheel wells to prevent passive surveillance and signal spoofing.",
-      "durationSeconds": 1558
-    },
-    {
       "youtubeId": "LbIAmMXCjZ0",
       "slug": "fingerprinting-maritime-nmea2000-networks",
       "title": "Fingerprinting Maritime NMEA2000 Networks",
@@ -1017,46 +884,6 @@
       "teaser": "Demonstrates remote code execution vulnerabilities in popular Dahua perimeter surveillance cameras discovered through firmware key extraction.",
       "summary": null,
       "durationSeconds": 1571
-    },
-    {
-      "youtubeId": "FYHvL8V_m-Q",
-      "slug": "modern-odometer-manipulation-collin-and-oblivion",
-      "title": "Modern Odometer Manipulation",
-      "speakers": [
-        "collin",
-        "oblivion"
-      ],
-      "track": "hardware",
-      "topics": [
-        "automotive",
-        "can-bus",
-        "reverse-engineering",
-        "firmware",
-        "hardware"
-      ],
-      "teaser": "Reverse engineers a commercial odometer rollback tool, extracting locked STM32 firmware and showing how CAN messages are intercepted and rewritten.",
-      "summary": "The Underground Market for Odometer Fraud\n\nCommercial odometer manipulation tools sold on automotive forums claim compatibility with dozens of vehicle brands, enabling illicit mileage rollbacks that undermine vehicle valuation and consumer safety.\n\nHardware Teardown and Glitch Extraction\n\nAnalyzing a commercial inline manipulation tool revealed an STM32 microcontroller wired directly between the vehicle's instrument cluster and the primary CAN bus harness. Researchers extracted internal flash from the protected microcontroller using open-source hardware exploit techniques.\n\nReverse Engineering Binary Interception Logic\n\nDecompiling the extracted firmware showed how the device intercepts broadcast CAN speed and distance frames, modifying payload bytes on the fly before forwarding altered values to the dashboard display.\n\nForensic Detection and Removal Traces\n\nWhile the inline device alters visual display readings, residual mileage data stored across secondary control units (such as transmission and ABS modules) allows forensic investigators to detect prior odometer tampering.",
-      "durationSeconds": 1581
-    },
-    {
-      "youtubeId": "6U_CepoMSl4",
-      "slug": "dont-cry-wolf-evidence-based-assessments-of-ics-threats",
-      "title": "Don’t Cry Wolf: Evidence Based Assessments of ICS Threats",
-      "speakers": [
-        "Jimmy Wylie",
-        "Sam Hanson"
-      ],
-      "track": "threat-intel",
-      "topics": [
-        "ics-ot",
-        "malware",
-        "threat-intelligence",
-        "malware-analysis",
-        "critical-infrastructure"
-      ],
-      "teaser": "Shares practical threat hunting queries and analysis methodologies used by Dragos to differentiate genuine ICS malware from benign research or IT threats on VirusTotal.",
-      "summary": "Hunting for Novel ICS Malware in Public Repositories\n\nWhile bespoke Industrial Control Systems (ICS) malware remains rare, landmark threats such as TRISIS, FrostyGoop, and COSMICENERGY were initially discovered in public repositories like VirusTotal.\n\nFiltering Benign Artifacts from Malicious ICS Code\n\nThreat hunters regularly encounter benign research tools, CTF artifacts, and obfuscated junk code that trigger superficial ICS detection keywords. Establishing rigorous triage queries prevents false alarms and wasted investigative cycles.\n\nAnalytical Workflow and Victim Notification\n\nDragos analysts walk through systematic hunting queries, static binary analysis workflows, and validation protocols used to confirm whether a suspicious binary possesses true operational technology disruption capabilities.\n\nApplying Dragos ICS Malware Classification\n\nApplying a formal, evidence-based ICS malware taxonomy ensures accurate threat reporting, responsible industry alerts, and swift victim notifications when actionable critical infrastructure threats emerge.",
-      "durationSeconds": 1435
     },
     {
       "youtubeId": "BGuaIun8qiA",
@@ -1118,44 +945,6 @@
       "teaser": "Reverse engineers proprietary closed-source electronic engine controls and throttle protocols on modern outboard marine engines for autonomous navigation.",
       "summary": "The Expanding Autonomous Vessel Ecosystem\n\nThe market for autonomous surface vessels and uncrewed boats is expanding rapidly, with open-source autopilots like ArduPilot widely available. However, marine propulsion systems remain closed, proprietary black boxes.\n\nProprietary Engine Control Architecture\n\nUnlike the automotive sector, marine outboard and inboard engine manufacturers tightly restrict interface control documents (ICDs) and utilize proprietary CAN and serial protocols for throttle, shifting, and steering actuation.\n\nReverse Engineering Outboard Protocols\n\nAlex Lorman details the process of reverse engineering electronic engine control units across major marine manufacturers, analyzing CAN message timing, bus arbitration, and throttle position commands from jet-skis to high-horsepower outboard motors.\n\nBridging Open Autopilots to Marine Propulsion\n\nTranslating reverse-engineered CAN commands into open-source flight controller protocols enables seamless, autonomous throttle and steering control, paving the way for low-cost autonomous research vessels.",
       "durationSeconds": 1473
-    },
-    {
-      "youtubeId": "9slY1DllYhw",
-      "slug": "reconfigurable-hsms-future-proofing-hardware-security",
-      "title": "Reconfigurable HSMs: Future Proofing Hardware Security",
-      "speakers": [
-        "Pablo Trujillo"
-      ],
-      "track": "hardware",
-      "topics": [
-        "hsm",
-        "hardware",
-        "cryptography",
-        "post-quantum",
-        "fpga"
-      ],
-      "teaser": "Presents an FPGA-based reconfigurable Hardware Security Module architecture capable of post-deployment updates to support evolving cryptographic standards.",
-      "summary": "Limitations of Fixed-Function HSMs\n\nHardware Security Modules (HSMs) provide isolated cryptographic key storage and accelerated cryptographic operations. However, traditional ASIC-based HSMs are physically immutable, requiring costly hardware replacements when cryptographic algorithms are deprecated.\n\nFPGA-Based Reconfigurable Architecture\n\nPablo Trujillo introduces a reconfigurable HSM design built on Field-Programmable Gate Arrays (FPGArrays). This architecture enables secure post-deployment bitstream updates, allowing organizations to deploy new algorithms as cryptographic standards evolve.\n\nAdapting to Post-Quantum Migrations\n\nAs organizations transition to quantum-resistant primitives, reconfigurable HSMs allow rapid implementation and performance tuning of lattice-based algorithms without redesigning physical security enclosures.\n\nSecure Provisioning and Cryptographic Isolation\n\nMaintaining hardware security assurance requires authenticated bitstream loading, physical anti-tamper sensing, and hardware-enforced memory isolation within the reconfigurable logic fabric.",
-      "durationSeconds": 1499
-    },
-    {
-      "youtubeId": "0r_trFFPVYc",
-      "slug": "locked-down-not-locked-out-how-i-escaped-yr-secure-operator-work",
-      "title": "Locked Down, Not Locked Out: How I Escaped Yr Secure Operator Workstation",
-      "speakers": [
-        "Aaron Boyd"
-      ],
-      "track": "red-team",
-      "topics": [
-        "privilege-escalation",
-        "red-teaming",
-        "ics-ot",
-        "windows",
-        "security-controls"
-      ],
-      "teaser": "Details breakout and privilege escalation tradecraft against hardened industrial operator workstations using living-off-the-land techniques.",
-      "summary": "The False Sense of Workstation Hardening\n\nCritical infrastructure facilities and manufacturing plants rely on locked-down operator workstations to safeguard operational control systems. However, restrictive shell configurations often fail to prevent local breakout and privilege escalation.\n\nCommon Breakout Vectors in Industrial Kiosks\n\nPenetration tester Aaron Boyd demonstrates how standard operator accounts exploit misconfigured file dialogues, help menus, shortcut keys, and administrative helper utilities to spawn interactive command prompts.\n\nLiving Off the Land in Constrained Environments\n\nOnce a shell is established, operators leverage native Windows executables, PowerShell scripts, and diagnostic tools already present on the endpoint to enumerate local permissions, bypass application whitelisting, and escalate to SYSTEM privileges.\n\nPractical Hardening and Monitoring Controls\n\nSecuring industrial workstations requires enforcing AppLocker and Windows Defender Application Control (WDAC) in block mode, disabling unnecessary OS shortcut hooks, and monitoring for anomalous process spawning from operator interfaces.",
-      "durationSeconds": 1475
     },
     {
       "youtubeId": "3V-URruNQck",
@@ -1410,25 +1199,6 @@
       "durationSeconds": 1253
     },
     {
-      "youtubeId": "AXN3sTAr9R4",
-      "slug": "safeguarding-the-industrial-frontier-ot-soc-and-incident-respons",
-      "title": "Safeguarding the Industrial Frontier: OT SOC & Incident Response",
-      "speakers": [
-        "Adam Robbie"
-      ],
-      "track": "blue-team",
-      "topics": [
-        "ics-ot",
-        "incident-response",
-        "blue-team",
-        "soc",
-        "monitoring"
-      ],
-      "teaser": "Explores specialized incident response strategies and operational considerations required to build and run effective Security Operations Centers in OT environments.",
-      "summary": "Bridging IT and OT Security Operations\n\nAs industrial enterprises connect operational technology (OT) to enterprise IT networks, building dedicated OT Security Operations Center (SOC) capabilities has become essential to safeguard physical processes from cyber threats.\n\nUnique Operational Constraints in Industrial SOCs\n\nUnlike traditional IT SOCs that focus on data confidentiality and endpoint isolation, OT SOCs prioritize system availability, process safety, and physical uptime. Standard IT containment actions—such as shutting down hosts or blocking subnets—can cause catastrophic physical shutdowns.\n\nSpecialized OT Incident Response Playbooks\n\nAdam Robbie details how organizations must develop incident response playbooks tailored to programmable logic controllers (PLCs), distributed control systems (DCS), and proprietary industrial protocols.\n\nContinuous Monitoring and Threat Telemetry\n\nEffective OT defense relies on passive network monitoring, protocol anomaly detection, and close collaboration between cybersecurity analysts and frontline plant control engineers.",
-      "durationSeconds": 1207
-    },
-    {
       "youtubeId": "xdl08cPDgtE",
       "slug": "your-passkey-is-weak-phishing-the-unphishable",
       "title": "Your Passkey is Weak: Phishing the Unphishable",
@@ -1526,44 +1296,6 @@
       "durationSeconds": 1473
     },
     {
-      "youtubeId": "arvFqkI4770",
-      "slug": "the-depths-that-marketers-will-plummet-to",
-      "title": "The depths that marketers will plummet to",
-      "speakers": [
-        "4dw@r3"
-      ],
-      "track": "privacy",
-      "topics": [
-        "privacy",
-        "tracking",
-        "surveillance",
-        "data-protection",
-        "digital-rights"
-      ],
-      "teaser": "Exposes server-side data harvesting techniques developed by digital marketing agencies to track consumers across smart TVs, devices, and ISPs without cookies.",
-      "summary": "The Post-Cookie Tracking Landscape\n\nAs major web browsers deprecate third-party cookies, the multi-trillion-dollar digital advertising industry has engineered invasive server-side tracking mechanisms to maintain granular consumer surveillance.\n\nServer-Side Data Harvesting Across Device Layers\n\nDrawing from insider experience at a major independent marketing firm, the speaker reveals how agencies correlate user activity across streaming platforms, smart TVs, mobile operating systems, and ISP-level network data.\n\nEvasion of Privacy Controls and Consent Frameworks\n\nServer-side data aggregation bypasses client-side ad blockers and browser privacy protections, packaging invasive identity resolution and cross-device graph matching under the guise of first-party data management.\n\nTechnical Countermeasures and Regulatory Oversight\n\nCombating omnipresent behavioral tracking requires consumer network-level filtering, encrypted DNS adoption, and rigorous legal enforcement against deceptive data aggregation practices.",
-      "durationSeconds": 1270
-    },
-    {
-      "youtubeId": "_ghyf3J92UQ",
-      "slug": "defe-con-33-deploying-deception-in-depth-for-ics",
-      "title": "Deploying Deception in Depth for ICS",
-      "speakers": [
-        "Brent Muir"
-      ],
-      "track": "blue-team",
-      "topics": [
-        "ics-ot",
-        "deception",
-        "honeypot",
-        "critical-infrastructure",
-        "blue-team"
-      ],
-      "teaser": "Presents strategies for designing and deploying cyber deception across industrial control systems using the MITRE Engage framework, focused on APT44 TTPs.",
-      "summary": "Cyber Deception in Critical Infrastructure\n\nDeploying defensive deception within Industrial Control Systems (ICS) provides high-fidelity early warning alerts and alters adversary economics by injecting decoys into operational networks.\n\nOperationalizing the MITRE Engage Framework\n\nBrent Muir outlines how industrial defenders can adapt the MITRE Engage framework to map deception activities directly to adversary goals, establishing intentional decoys across OT DMZs and control zones.\n\nCase Study: Defending Against APT44 TTPs\n\nFocusing on threat actor APT44 (Sandworm), the presentation illustrates how emulated programmable logic controllers (PLCs), synthetic industrial protocol responders, and deceptive engineering workstations trap sophisticated attackers.\n\nEngineering Considerations and Safety Guardrails\n\nDesigning OT deception requires strict safety controls to prevent honeypot systems from interfering with real-time industrial processes or creating operational hazards.",
-      "durationSeconds": 1339
-    },
-    {
       "youtubeId": "oI3zxDWldKE",
       "slug": "vdp-in-aviation-how-it-shouldnt-be-done",
       "title": "VDP in Aviation: How it Shouldn't be Done!",
@@ -1581,44 +1313,6 @@
       "teaser": "Shares firsthand experiences navigating vulnerability disclosure programs in the aviation industry, highlighting common pitfalls and best practices.",
       "summary": "Vulnerability Disclosure Dynamics in Aviation\n\nVulnerability Disclosure Programs (VDPs) in the aviation sector operate under intense regulatory scrutiny and safety sensitivities, creating friction between independent researchers and aircraft manufacturers.\n\nFirsthand Perspectives from Submissions and Triage\n\nMatt Gaffney shares real-world case studies from both submitting and receiving vulnerability disclosures within the aerospace industry, illustrating how bureaucratic delays and legal threats undermine constructive security research.\n\nCommon Institutional Pitfalls\n\nKey shortcomings include ambiguous scope definitions, defensive legal posturing, failure to provide receipt acknowledgments, and lack of safe harbor protections for good-faith researchers.\n\nFrameworks for Constructive Aerospace VDPs\n\nImproving aviation vulnerability handling requires adopting standardized ISO/IEC 29147 disclosure practices, establishing dedicated aerospace CERT channels, and fostering open dialogue with the research community.",
       "durationSeconds": 1287
-    },
-    {
-      "youtubeId": "qNuS0rvqc8c",
-      "slug": "how-api-flaws-led-to-admin-access-to-1k-usa-dealers-and-control",
-      "title": "How API Flaws Led to Admin Access to 1k+ USA Dealers & Control of Yr Car",
-      "speakers": [
-        "Eaton Zveare"
-      ],
-      "track": "appsec",
-      "topics": [
-        "automotive",
-        "api-security",
-        "access-control-bypass",
-        "web",
-        "appsec"
-      ],
-      "teaser": "Reveals critical API vulnerabilities in a major automotive dealer platform that allowed national admin account creation and remote vehicle command access.",
-      "summary": "Centralized Dealer Management Platforms\n\nAutomotive dealerships across the United States rely on centralized software platforms to manage inventory, service appointments, customer records, and connected vehicle features.\n\nDiscovering Broken Object Level Authorization Flaws\n\nEaton Zveare identified fundamental access control vulnerabilities in a leading automaker's dealer platform APIs. Unauthenticated parameter tampering allowed researchers to elevate privileges and create national administrative accounts.\n\nRemote Vehicle Telematics Compromise\n\nWith national administrator access, researchers could query customer profiles, retrieve vehicle identification numbers (VINs), and transmit remote commands to lock, unlock, start, and track thousands of customer vehicles nationwide.\n\nLessons for Connected Automotive Ecosystems\n\nSecuring automotive dealer management portals demands strict API authentication, multi-factor authorization on administrative endpoints, and rigorous architectural reviews of third-party vendor platforms.",
-      "durationSeconds": 1346
-    },
-    {
-      "youtubeId": "VchCd-o25z0",
-      "slug": "context-aware-anomaly-detection-in-automotive-can-without-decodi",
-      "title": "Context Aware Anomaly Detection in Automotive CAN Without Decoding",
-      "speakers": [
-        "Ravi Rajput"
-      ],
-      "track": "blue-team",
-      "topics": [
-        "automotive",
-        "can-bus",
-        "anomaly-detection",
-        "telemetry",
-        "machine-learning"
-      ],
-      "teaser": "Introduces a sequence-learning approach that analyzes inter-signal correlations in raw CAN bus payloads to detect stealthy contextual automotive attacks.",
-      "summary": "Limitations of Traditional Automotive CAN Anomaly Detectors\n\nTraditional CAN bus intrusion detection systems rely on message frequency tracking or require proprietary DBC decoding files to inspect signal contents. However, sophisticated attackers can inject plausible payloads that blend into expected frequencies.\n\nContext-Aware Sequence Learning on Raw Payloads\n\nRavi Rajput introduces a deep sequence-learning model that analyzes temporal correlations and contextual relationships across raw CAN payloads without requiring proprietary reverse engineering of message structures.\n\nDetecting Contextual Manipulation Attacks\n\nBy learning multi-signal correlations (such as vehicle speed relative to wheel tick sensors and steering angle), the model detects stealthy state manipulation attacks that traditional rule-based detectors miss.\n\nValidation on Automotive Datasets and Testbeds\n\nEvaluating the architecture against real-world vehicular CAN traffic and simulated attack benchmarks demonstrated high detection accuracy and low latency suitable for real-time in-vehicle deployment.",
-      "durationSeconds": 1121
     },
     {
       "youtubeId": "TAtG8rofxxE",
@@ -1643,25 +1337,6 @@
       "durationSeconds": 1053
     },
     {
-      "youtubeId": "YBPYYk8FIkc",
-      "slug": "there-and-back-again-detecting-ot-devices-across-protocol-gatewa",
-      "title": "There and Back Again: Detecting OT Devices Across Protocol Gateways",
-      "speakers": [
-        "Rob King"
-      ],
-      "track": "recon",
-      "topics": [
-        "ics-ot",
-        "recon",
-        "cip",
-        "dnp3",
-        "network-scanning"
-      ],
-      "teaser": "Details network discovery tradecraft for enumerating OT assets behind protocol translation gateways using CIP message forwarding and DNP3 discovery.",
-      "summary": "The Reality of OT/IT Network Convergence\n\nIndustrial Control Systems (ICS) increasingly adopt commodity TCP/IP networking, connecting proprietary field devices to enterprise networks through protocol translation gateways.\n\nVisibility Challenges Behind Protocol Gateways\n\nProtocol gateways translate standard TCP/IP traffic into proprietary serial or fieldbus communications. Standard IT network scanners cannot enumerate devices residing behind these gateway boundaries, creating major asset visibility blind spots.\n\nCIP Message Forwarding and DNP3 Discovery\n\nRob King details practical techniques for querying devices through gateways, demonstrating how Common Industrial Protocol (CIP) routing and DNP3 address discovery mechanisms can be leveraged to enumerate hidden field assets.\n\nActionable Reconnaissance for Industrial Defenders\n\nImplementing protocol-aware discovery techniques enables defenders to build accurate asset inventories, identify legacy endpoints, and enforce proper network segmentation across industrial facilities.",
-      "durationSeconds": 1314
-    },
-    {
       "youtubeId": "UL_c4K5dTuc",
       "slug": "hacking-space-to-defend-it-generating-iobs-with-sparta",
       "title": "Hacking Space to Defend It: Generating IoBs with SPARTA",
@@ -1679,25 +1354,6 @@
       "teaser": "Applies offensive techniques from the SPARTA framework to generate behavioral indicators (IoBs) and design realistic intrusion detection systems for spacecraft.",
       "summary": "The Need for Threat-Informed Space Defense\n\nWhile the SPARTA (Space Attack Research and Tactic Analysis) framework cataloged spaceborne cyber threats, mission operators needed empirical methods to detect these attacks in operational environments.\n\nSimulating Space Attacks and TTP Replay\n\nBrandon Bailey details hands-on offensive testing against simulated spacecraft flight software and telemetry buses to observe behavioral anomalies and telemetry patterns generated during active attacks.\n\nGenerating Indicators of Behavior (IoBs)\n\nFrom these simulations, researchers developed concrete Indicators of Behavior (IoBs)—such as unexpected CPU scheduling spikes, anomalous telemetry packet rates, and out-of-sequence command verifications—tailored to resource-constrained flight computers.\n\nDesigning Spaceborne Intrusion Detection Systems\n\nIntegrating data-driven IoBs into spacecraft IDS architectures enables real-time threat detection aboard satellites without overloading onboard computing resources.",
       "durationSeconds": 1536
-    },
-    {
-      "youtubeId": "Y4ziT89VmAk",
-      "slug": "back-to-basics-building-resilient-cyber-defenses",
-      "title": "Back to Basics: Building Resilient Cyber Defenses",
-      "speakers": [
-        "Yael Grauer"
-      ],
-      "track": "community",
-      "topics": [
-        "privacy",
-        "community",
-        "defense-in-depth",
-        "security-controls",
-        "education"
-      ],
-      "teaser": "Critiques viral but ineffective cybersecurity advice, highlighting practical, foundational defensive measures to mitigate high-likelihood digital threats.",
-      "summary": "Evaluating Viral Cybersecurity Advice\n\nIn the wake of high-profile cyberattacks and data breaches, viral security advice often spreads across social media. However, much of this advice focuses on obscure edge cases while ignoring foundational security hygiene.\n\nAnalyzing High-Profile Threats vs. Everyday Risks\n\nYael Grauer compares sensationalized threat scenarios with the everyday risks individuals and organizations actually face, such as credential stuffing, SIM swapping, and basic phishing.\n\nPractical and Actionable Defensive Steps\n\nEffective defense centers on proven core controls: adopting password managers, enabling hardware-backed multi-factor authentication, keeping software updated, and auditing account recovery workflows.\n\nBuilding Proactive and Reactive Resilience\n\nEstablishing practical response plans and cultivating security habits before incidents occur ensures long-term digital privacy and resilience against persistent threat actors.",
-      "durationSeconds": 1299
     },
     {
       "youtubeId": "WHD8NAY9BhU",
@@ -1778,45 +1434,6 @@
       "durationSeconds": 1186
     },
     {
-      "youtubeId": "Qf7oNWKGL2I",
-      "slug": "crossing-the-line-advanced-techniques-to-breach-the-ot-dmz",
-      "title": "Crossing the Line: Advanced Techniques to Breach the OT DMZ",
-      "speakers": [
-        "Christopher Nourrie"
-      ],
-      "track": "red-team",
-      "topics": [
-        "ics-ot",
-        "red-teaming",
-        "lateral-movement",
-        "remote-access",
-        "security-controls"
-      ],
-      "teaser": "Explores offensive tradecraft for bypassing DMZ segmentation and pivoting from enterprise footholds into industrial control networks.",
-      "summary": "The OT DMZ as a Critical Security Boundary\n\nThe demilitarized zone (DMZ) separating enterprise IT networks from operational technology (OT) control zones is designed to enforce strict isolation. However, operational conveniences often introduce severe segmentation weaknesses.\n\nPivoting from Enterprise Footholds\n\nChristopher Nourrie demonstrates how red team operators leverage initial IT access to identify and abuse misconfigured remote access solutions, jump hosts, Citrix gateways, and RDP relays spanning the IT/OT boundary.\n\nLateral Movement and Credential Abuse in the DMZ\n\nTechniques for proxying traffic, abusing dual-homed systems, and extracting cached administrative credentials within the DMZ allow attackers to bypass intended Purdue Model network boundaries.\n\nHardening Industrial Perimeter Defenses\n\nDefending the OT perimeter requires eliminating dual-homed jump hosts, enforcing dedicated multi-factor authentication on industrial access portals, and monitoring east-west network traffic across the DMZ.",
-      "durationSeconds": 1041
-    },
-    {
-      "youtubeId": "MJV5FQztfi4",
-      "slug": "let-ai-autogenerate-neural-asr-rules-for-ot-attacks-via-nlp",
-      "title": "Let AI Autogenerate Neural ASR Rules for OT Attacks via NLP",
-      "speakers": [
-        "Mars Cheng",
-        "Jr Wei-Huang"
-      ],
-      "track": "ai-security",
-      "topics": [
-        "ai-security",
-        "ics-ot",
-        "machine-learning",
-        "detection-engineering",
-        "malware"
-      ],
-      "teaser": "Introduces Suspicious2Vec, an NLP-based multimodal AI model that establishes baseline industrial operations to generate neural attack surface reduction rules.",
-      "summary": "Living-Off-the-Land Attacks in Industrial Networks\n\nSophisticated threat actors targeting industrial control systems (such as Sandworm in Ukraine) routinely abuse benign OT-specific protocols, LOLBins, and native engineering utilities to evade conventional EDR detection.\n\nSuspicious2Vec: Multimodal AI for Industrial Baselines\n\nMars Cheng and Jr Wei-Huang present Suspicious2Vec, an NLP-inspired multimodal AI framework that learns contextual baselines of normal factory operations by converting industrial system behaviors into numerical vector embeddings.\n\nAutogenerating Neural Attack Surface Reduction Rules\n\nTrained on a massive dataset of 2,000,000 operational events and malware profiles from VirusTotal, the model autogenerates neural Attack Surface Reduction (ASR) rules that accurately differentiate benign operational anomalies from malicious Living-Off-the-Land techniques.\n\nValidation on Factory Environments\n\nDeploying Suspicious2Vec across operational manufacturing plants successfully detected 12 novel variant OT malware strains across more than 52,000 program files with minimal false positives.",
-      "durationSeconds": 1324
-    },
-    {
       "youtubeId": "SJ-kfVUoENk",
       "slug": "the-powerpoint-glove",
       "title": "The PowerPoint Glove",
@@ -1834,45 +1451,6 @@
       "teaser": "Walks through hacking the retro NES Power Glove with an ESP32 microcontroller to build a custom Bluetooth presentation controller.",
       "summary": "Hacking Retro Gaming Accessories\n\nThe iconic Nintendo Power Glove, released for the NES in 1989, remains a beloved cult accessory. Modern microcontrollers allow enthusiasts to repurpose its sensors for practical computing tasks.\n\nReverse Engineering the NES Controller Protocol\n\nParsia Hakimian breaks down the proprietary shift register communication protocol used by the original NES controller port, explaining how flex sensors and keypad buttons report physical state.\n\nInterfacing with the ESP32 Microcontroller\n\nWiring the Power Glove to an ESP32 development board enables reading button scancodes and flex sensor resistance in real time, translating gestures and button presses into standard HID keyboard commands.\n\nBuilding a Wireless Bluetooth Presentation Tool\n\nConfiguring the ESP32 as a Bluetooth HID device turns the Power Glove into an interactive PowerPoint remote controller, demonstrating accessible microcontroller hacking for conference presentations.",
       "durationSeconds": 1402
-    },
-    {
-      "youtubeId": "SfWOqqDZEWI",
-      "slug": "qramm-the-cryptographic-migration-to-a-post-quantum-world",
-      "title": "QRAMM: The Cryptographic Migration to a Post Quantum World",
-      "speakers": [
-        "Emily Fane",
-        "Abdel Sy Fane"
-      ],
-      "track": "policy",
-      "topics": [
-        "post-quantum",
-        "cryptography",
-        "policy",
-        "standards",
-        "compliance"
-      ],
-      "teaser": "Introduces the Quantum Readiness Assurance Maturity Model (QRAMM), an open-source framework assessing organizational agility for post-quantum migrations.",
-      "summary": "Navigating Post-Quantum Cryptographic Migration\n\nWith NIST finalizing post-quantum cryptography standards, enterprises face a massive operational challenge in transitioning legacy encryption, digital signatures, and key exchange protocols to quantum-resistant alternatives.\n\nThe Quantum Readiness Assurance Maturity Model (QRAMM)\n\nEmily Fane and Abdel Sy Fane introduce QRAMM, an open-source framework designed to help organizations assess their post-quantum readiness across four core dimensions: cryptographic visibility, data protection, technical implementation, and governance.\n\nAchieving Cryptographic Agility\n\nQRAMM emphasizes cryptographic agility—the architectural ability to swap cryptographic algorithms and certificate structures seamlessly without re-engineering underlying software applications.\n\nPractical Roadmap for Enterprise Adoption\n\nImplementing QRAMM provides structured maturity roadmaps, risk assessment metrics, and compliance guidelines to help security leaders navigate post-quantum migration deadlines.",
-      "durationSeconds": 1350
-    },
-    {
-      "youtubeId": "S7mPcEPaKHU",
-      "slug": "intro-to-common-industrial-protocol-exploitation",
-      "title": "Intro to Common Industrial Protocol Exploitation",
-      "speakers": [
-        "Trevor Flynn"
-      ],
-      "track": "ics-ot",
-      "topics": [
-        "ics-ot",
-        "cip",
-        "protocols",
-        "vulnerability-research",
-        "hardware"
-      ],
-      "teaser": "Introduces the fundamentals of the Common Industrial Protocol (CIP) used in factory automation and demonstrates techniques for industrial protocol testing.",
-      "summary": null,
-      "durationSeconds": 1404
     },
     {
       "youtubeId": "JPCKg_3XLP8",
@@ -1912,26 +1490,6 @@
       "teaser": "Discloses two unauthenticated remote code execution vulnerabilities in Draytek routers (CVE-2024-51138 and CVE-2024-51139) that enable full edge device takeovers.",
       "summary": "Edge Router Vulnerabilities in Corporate Networks\n\nDraytek routers are widely deployed as edge gateways across enterprise and small business networks. Their internet-exposed management interfaces make them prime targets for botnets and state-sponsored threat actors.\n\nUnauthenticated Remote Code Execution Flaws\n\nResearchers disclose two critical zero-day vulnerabilities in Draytek firmware: CVE-2024-51138 (a buffer overflow in STUN CGI handling) and CVE-2024-51139 (an integer overflow in CGI query parsing).\n\nEnd-to-End Exploitation and Persistence Chain\n\nChaining these RCE vulnerabilities with previously documented firmware persistence techniques allows unauthenticated attackers to achieve root access from the WAN interface and install persistent backdoors.\n\nTooling and Edge Device Defense\n\nThe researchers release Draytek Arsenal, an open-source firmware analysis toolkit, emphasizing the necessity of rapid edge device patching and disabling external management interfaces.",
       "durationSeconds": 1492
-    },
-    {
-      "youtubeId": "AOp0QtUORBc",
-      "slug": "smart-bus-smart-hacking-free-wifi-to-total-control",
-      "title": "Smart Bus Smart Hacking: Free WiFi to Total Control",
-      "speakers": [
-        "Kai Ching Wang",
-        "Chiao-Lin Yu"
-      ],
-      "track": "wireless",
-      "topics": [
-        "automotive",
-        "wifi",
-        "iot",
-        "transportation",
-        "vulnerability-research"
-      ],
-      "teaser": "Demonstrates an attack chain starting from passenger public Wi-Fi to breach vehicular routers, hijack on-board units, and manipulate smart bus displays.",
-      "summary": "Connected Public Transit Architecture\n\nModern smart buses integrate On-Board Units (OBUs), passenger Wi-Fi routers, automated fare collection, and Advanced Public Transportation Services (APTS) communicating over internal vehicle networks.\n\nFrom Passenger Wi-Fi to Vehicular Router Compromise\n\nKai Ching Wang and Chiao-Lin Yu demonstrate over ten vulnerabilities discovered across connected transit systems, showing how connecting to unsegmented passenger Wi-Fi allows attackers to exploit vehicular routers and access private internal subnets.\n\nHijacking ADAS, APTS, and Onboard Displays\n\nOnce inside the vehicular network, attackers can manipulate LED route displays, intercept passenger and driver telemetry, spoof GPS coordinates, and pivot to transport company backend API servers.\n\nPolicy and Supply Chain Recommendations\n\nAddressing smart transit vulnerabilities requires enforcing strict network isolation between public Wi-Fi and vehicle telemetry, removing vendor backdoors, and updating public transit cybersecurity specifications.",
-      "durationSeconds": 1265
     },
     {
       "youtubeId": "CM_8gKlz2-o",
@@ -2010,25 +1568,6 @@
       "durationSeconds": 1735
     },
     {
-      "youtubeId": "-ElW725i8z4",
-      "slug": "critically-neglected-cybersecurity-for-buildings",
-      "title": "Critically Neglected: Cybersecurity for buildings",
-      "speakers": [
-        "Thomas Pope"
-      ],
-      "track": "ics-ot",
-      "topics": [
-        "critical-infrastructure",
-        "building-automation",
-        "ics-ot",
-        "access-control",
-        "network-security"
-      ],
-      "teaser": "Explores systemic cybersecurity vulnerabilities in building management systems, HVAC controls, and physical facility automation networks.",
-      "summary": "The Overlooked Landscape of Building Automation\n\nModern commercial facilities rely on Building Management Systems (BMS) to control HVAC systems, power distribution, fire suppression, and physical access. These automation systems are frequently deployed with minimal cybersecurity oversight.\n\nInsecure Protocols in Facility Automation\n\nProtocols like BACnet, Modbus, and LonWorks were designed decades ago without authentication or encryption. When building automation networks are connected to corporate IT or exposed to the internet, attackers can manipulate physical environmental controls.\n\nCase Studies of Building Compromises\n\nThomas Pope reviews real-world security assessments where compromised HVAC controllers allowed attackers to pivot into corporate subnets, manipulate datacenter cooling, or trigger physical facility lockouts.\n\nHardening Facility Control Systems\n\nSecuring building automation requires isolating BMS networks from corporate IT, deploying protocol-aware firewalls, disabling unneeded remote management portals, and establishing strict vendor maintenance access controls.",
-      "durationSeconds": 1393
-    },
-    {
       "youtubeId": "o6-H-3Sx6i0",
       "slug": "incident-response-from-a-maritime-sysadmins-war-room",
       "title": "Incident Response from a Maritime Sysadmin’s War Room",
@@ -2068,26 +1607,6 @@
       "teaser": "Hard Hat Brigade creators discuss custom electronic construction hat builds, wearable modifications, and community maker projects.",
       "summary": null,
       "durationSeconds": 2199
-    },
-    {
-      "youtubeId": "SQz4nySj4hg",
-      "slug": "one-modem-to-brick-them-all-vulns-in-ev-charging-comms",
-      "title": "One Modem to Brick Them All -Vulns in EV Charging Comms",
-      "speakers": [
-        "Jan Berens",
-        "Marcell Szakaly"
-      ],
-      "track": "hardware",
-      "topics": [
-        "ev-charging",
-        "hardware",
-        "firmware",
-        "v2g",
-        "vulnerability-research"
-      ],
-      "teaser": "Discloses vulnerabilities in QCA 7000 HomePlug modems used across CCS and NACS EV charging systems that enable communication hijacking and denial of service.",
-      "summary": "Power-Line Communication in EV Charging Systems\n\nElectric Vehicle (EV) charging systems rely on Combined Charging System (CCS) and North American Charging Standard (NACS) protocols, which utilize HomePlug Green PHY power-line communication (PLC) for vehicle-to-grid data exchange.\n\nVulnerabilities in the QCA 7000 Modem Series\n\nJan Berens and Marcell Szakaly analyze the widely used Qualcomm QCA 7000 modem series, uncovering multiple critical vulnerabilities in PLC message processing and firmware execution.\n\nRemote Communication Hijacking and Denial of Service\n\nExploiting flaws in HomePlug link negotiation allows attackers to intercept charging session telemetry at a distance, inject spoofed control commands, or trigger persistent denial-of-service conditions that prevent vehicle charging.\n\nFirmware Reverse Engineering and Code Execution\n\nReverse engineering the QCA 7000 firmware revealed memory corruption vulnerabilities enabling arbitrary code execution on the modem hardware, highlighting urgent security needs across global EV charging infrastructure.",
-      "durationSeconds": 2603
     }
   ]
 }

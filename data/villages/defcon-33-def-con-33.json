@@ -1043,17 +1043,6 @@
       "durationSeconds": 6980
     },
     {
-      "youtubeId": "V_w5u9lONN0",
-      "slug": "gold-bug-puzzle-panel-with-friends-the-gold-bug-team-2025-2",
-      "title": "Gold Bug - Puzzle Panel with Friends - The Gold Bug Team 2025",
-      "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 3227
-    },
-    {
       "youtubeId": "TtPicirB6G4",
       "slug": "go-malware-meets-iot-challenges-blind-spots-and-botnets-2",
       "title": "Go Malware Meets IoT - Challenges, Blind Spots, and Botnets",
@@ -1446,19 +1435,6 @@
       "durationSeconds": 2237
     },
     {
-      "youtubeId": "OYGtNa0pJec",
-      "slug": "no-spook-leaves-randomness-to-chance-2",
-      "title": "No Spook Leaves Randomness to Chance",
-      "speakers": [
-        "Shaanan Cohney"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 3298
-    },
-    {
       "youtubeId": "SRALfyEspms",
       "slug": "revault-compromised-by-your-secure-soc-2",
       "title": "ReVault! Compromised by your Secure SoC",
@@ -1470,19 +1446,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 2521
-    },
-    {
-      "youtubeId": "O7BI4jfEFwA",
-      "slug": "exploiting-shadow-data-from-ai-models-and-embeddings-2",
-      "title": "Exploiting Shadow Data from AI Models and Embeddings",
-      "speakers": [
-        "Patrick Walsh"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2903
     },
     {
       "youtubeId": "KhWtkZmOPn4",
@@ -2661,19 +2624,6 @@
       "durationSeconds": 1975
     },
     {
-      "youtubeId": "iVmS5dPjggU",
-      "slug": "the-worst-ics-ot-love-story-every-told-2",
-      "title": "The Worst ICS/OT Love Story Every Told",
-      "speakers": [
-        "2025 Mike Holcomb"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1567
-    },
-    {
       "youtubeId": "cFFhHXPsilw",
       "slug": "escaping-the-privacy-sandbox-with-client-side-deanonymization-at-2",
       "title": "Escaping the Privacy Sandbox with Client Side Deanonymization Attacks",
@@ -2768,19 +2718,6 @@
       "durationSeconds": 2123
     },
     {
-      "youtubeId": "QKHJZ1K-7p0",
-      "slug": "hacking-a-head-unit-with-malicious-png-2",
-      "title": "Hacking a head unit with malicious PNG",
-      "speakers": [
-        "Danilo Erazo"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1431
-    },
-    {
       "youtubeId": "PYFssJoDP1c",
       "slug": "full-disclosure-full-color-story-of-this-years-bbv-badge-2",
       "title": "Full Disclosure, Full Color: Story of This Year's BBV Badge",
@@ -2847,20 +2784,6 @@
       "durationSeconds": 1554
     },
     {
-      "youtubeId": "C8F5kvm2B5s",
-      "slug": "veilid-la-revolucion-your-data-is-yours-to-own-2",
-      "title": "Veilid la revoluçion : Your data is yours to own",
-      "speakers": [
-        "Katelyn Bowden",
-        "Paul Miller"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1387
-    },
-    {
       "youtubeId": "Eo5lwnTft8U",
       "slug": "welcome-to-def-con-33-the-dark-tangent-2",
       "title": "Welcome to DEF CON 33 - The Dark Tangent",
@@ -2912,19 +2835,6 @@
       "durationSeconds": 1358
     },
     {
-      "youtubeId": "K5Kltw5kQpM",
-      "slug": "uncovering-the-secrets-of-tire-pressure-monitoring-systems-2",
-      "title": "Uncovering the Secrets of Tire Pressure Monitoring Systems",
-      "speakers": [
-        "Yago Lizarribar"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1558
-    },
-    {
       "youtubeId": "LbIAmMXCjZ0",
       "slug": "fingerprinting-maritime-nmea2000-networks-2",
       "title": "Fingerprinting Maritime NMEA2000 Networks",
@@ -2952,17 +2862,6 @@
       "durationSeconds": 1571
     },
     {
-      "youtubeId": "FYHvL8V_m-Q",
-      "slug": "modern-odometer-manipulation-collin-and-oblivion-2",
-      "title": "Modern Odometer Manipulation - collin & oblivion",
-      "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1581
-    },
-    {
       "youtubeId": "DqC4LZTTCa0",
       "slug": "virtualization-based-insecurity-weaponizing-vbs-enclaves-2",
       "title": "Virtualization Based Insecurity: Weaponizing VBS Enclaves",
@@ -2974,20 +2873,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 2190
-    },
-    {
-      "youtubeId": "6U_CepoMSl4",
-      "slug": "dont-cry-wolf-evidence-based-assessments-of-ics-threats-2",
-      "title": "Don’t Cry Wolf: Evidence based assessments of ICS Threats",
-      "speakers": [
-        "Jimmy Wylie",
-        "Sam Hanson"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1435
     },
     {
       "youtubeId": "BGuaIun8qiA",
@@ -3041,32 +2926,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1473
-    },
-    {
-      "youtubeId": "9slY1DllYhw",
-      "slug": "reconfigurable-hsms-future-proofing-hardware-security-2",
-      "title": "Reconfigurable HSMs: Future Proofing Hardware Security",
-      "speakers": [
-        "Pablo Trujillo"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1499
-    },
-    {
-      "youtubeId": "0r_trFFPVYc",
-      "slug": "locked-down-not-locked-out-how-i-escaped-yr-secure-operator-work-2",
-      "title": "Locked Down, Not Locked Out: How I Escaped Yr Secure Operator Workstation",
-      "speakers": [
-        "Aaron Boyd"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1475
     },
     {
       "youtubeId": "1uNneo9L_jU",
@@ -3317,19 +3176,6 @@
       "durationSeconds": 1253
     },
     {
-      "youtubeId": "AXN3sTAr9R4",
-      "slug": "safeguarding-the-industrial-frontier-ot-soc-and-incident-respons-2",
-      "title": "Safeguarding the Industrial Frontier OT SOC & Incident Response",
-      "speakers": [
-        "Adam Robbie"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1207
-    },
-    {
       "youtubeId": "xdl08cPDgtE",
       "slug": "your-passkey-is-weak-phishing-the-unphishable-2",
       "title": "Your Passkey is Weak: Phishing the Unphishable",
@@ -3503,19 +3349,6 @@
       "durationSeconds": 1215
     },
     {
-      "youtubeId": "arvFqkI4770",
-      "slug": "the-depths-that-marketers-will-plummet-to-2",
-      "title": "The depths that marketers will plummet to",
-      "speakers": [
-        "4dw@r3"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1270
-    },
-    {
       "youtubeId": "br2RPtCOzB0",
       "slug": "cybersecurity-in-latin-america-stories-of-resilience-and-innovat-2",
       "title": "Cybersecurity in Latin America - Stories of Resilience & Innovation",
@@ -3527,19 +3360,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1030
-    },
-    {
-      "youtubeId": "_ghyf3J92UQ",
-      "slug": "defe-con-33-deploying-deception-in-depth-for-ics-2",
-      "title": "DEFE CON 33 - Deploying Deception in Depth for ICS",
-      "speakers": [
-        "Brent Muir"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1339
     },
     {
       "youtubeId": "nUh9GVVhjD8",
@@ -3583,19 +3403,6 @@
       "durationSeconds": 1287
     },
     {
-      "youtubeId": "qNuS0rvqc8c",
-      "slug": "how-api-flaws-led-to-admin-access-to-1k-usa-dealers-and-control-2",
-      "title": "How API flaws led to admin access to 1k+ USA dealers & control of yr car",
-      "speakers": [
-        "Eaton Zveare"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1346
-    },
-    {
       "youtubeId": "XHoH4ic8fX8",
       "slug": "shaking-out-shells-with-sshamble-2",
       "title": "Shaking Out Shells with SSHamble",
@@ -3623,19 +3430,6 @@
       "durationSeconds": 1284
     },
     {
-      "youtubeId": "VchCd-o25z0",
-      "slug": "context-aware-anomaly-detection-in-automotive-can-without-decodi-2",
-      "title": "Context Aware Anomaly Detection in Automotive CAN Without Decoding",
-      "speakers": [
-        "Ravi Rajput"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1121
-    },
-    {
       "youtubeId": "TAtG8rofxxE",
       "slug": "vulns-to-end-your-space-mission-2",
       "title": "Vulns to end your space mission",
@@ -3652,19 +3446,6 @@
       "durationSeconds": 1053
     },
     {
-      "youtubeId": "YBPYYk8FIkc",
-      "slug": "there-and-back-again-detecting-ot-devices-across-protocol-gatewa-2",
-      "title": "There and Back Again: Detecting OT Devices Across Protocol Gateways",
-      "speakers": [
-        "Rob King"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1314
-    },
-    {
       "youtubeId": "UL_c4K5dTuc",
       "slug": "hacking-space-to-defend-it-generating-iobs-with-sparta-2",
       "title": "Hacking Space to Defend It: Generating IoBs with SPARTA",
@@ -3676,19 +3457,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1536
-    },
-    {
-      "youtubeId": "Y4ziT89VmAk",
-      "slug": "back-to-basics-building-resilient-cyber-defenses-2",
-      "title": "Back to Basics: Building Resilient Cyber Defenses",
-      "speakers": [
-        "Yael Grauer"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1299
     },
     {
       "youtubeId": "UdNhZ17t8M4",
@@ -3758,33 +3526,6 @@
       "durationSeconds": 1186
     },
     {
-      "youtubeId": "Qf7oNWKGL2I",
-      "slug": "crossing-the-line-advanced-techniques-to-breach-the-ot-dmz-2",
-      "title": "Crossing the Line: Advanced Techniques to Breach the OT DMZ",
-      "speakers": [
-        "Christopher Nourrie"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1041
-    },
-    {
-      "youtubeId": "MJV5FQztfi4",
-      "slug": "let-ai-autogenerate-neural-asr-rules-for-ot-attacks-via-nlp-2",
-      "title": "Let AI Autogenerate Neural ASR Rules for OT Attacks via NLP",
-      "speakers": [
-        "Mars Cheng",
-        "Jr Wei-Huang"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1324
-    },
-    {
       "youtubeId": "SJ-kfVUoENk",
       "slug": "the-powerpoint-glove-2",
       "title": "The PowerPoint Glove",
@@ -3796,33 +3537,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1402
-    },
-    {
-      "youtubeId": "SfWOqqDZEWI",
-      "slug": "qramm-the-cryptographic-migration-to-a-post-quantum-world-2",
-      "title": "QRAMM: The Cryptographic Migration to a Post Quantum World",
-      "speakers": [
-        "Emily Fane",
-        "Abdel Sy Fane"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1350
-    },
-    {
-      "youtubeId": "S7mPcEPaKHU",
-      "slug": "intro-to-common-industrial-protocol-exploitation-2",
-      "title": "Intro to Common Industrial Protocol Exploitation",
-      "speakers": [
-        "Trevor Flynn"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1404
     },
     {
       "youtubeId": "O0-0u4zJWEM",
@@ -3876,20 +3590,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1492
-    },
-    {
-      "youtubeId": "AOp0QtUORBc",
-      "slug": "smart-bus-smart-hacking-free-wifi-to-total-control-2",
-      "title": "Smart Bus Smart Hacking: Free WiFi to Total Control",
-      "speakers": [
-        "Kai Ching Wang",
-        "Chiao-Lin Yu"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1265
     },
     {
       "youtubeId": "9-a4OhOChss",
@@ -4021,19 +3721,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1735
-    },
-    {
-      "youtubeId": "-ElW725i8z4",
-      "slug": "critically-neglected-cybersecurity-for-buildings-2",
-      "title": "Critically Neglected: Cybersecurity for buildings",
-      "speakers": [
-        "Thomas Pope"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1393
     },
     {
       "youtubeId": "o6-H-3Sx6i0",
@@ -4196,20 +3883,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 301
-    },
-    {
-      "youtubeId": "SQz4nySj4hg",
-      "slug": "one-modem-to-brick-them-all-vulns-in-ev-charging-comms-2",
-      "title": "One Modem to Brick Them All -Vulns in EV Charging Comms",
-      "speakers": [
-        "Jan Berens",
-        "Marcell Szakaly"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2603
     },
     {
       "youtubeId": "wclvPznv5v4",
