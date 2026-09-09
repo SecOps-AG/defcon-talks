@@ -19,24 +19,26 @@
         "reverse-engineering",
         "appsec"
       ],
-      "teaser": "Ghost Telephonist Impersonates You Through LTE CSF",
+      "teaser": "LTE cellular network impersonation attacks enabling identity spoofing and call interception.",
       "summary": null,
       "durationSeconds": 2528
     },
     {
       "youtubeId": "isiuTNh5P34",
       "slug": "david-robinson-using-gps-spoofing-to-control-time",
-      "title": "Using GPS Spoofing to control time",
+      "title": "Using GPS Spoofing to Control Time",
       "speakers": [
         "David Robinson"
       ],
-      "track": "appsec",
+      "track": "red-team",
       "topics": [
-        "wireless",
-        "reverse-engineering",
-        "appsec"
+        "gps-spoofing",
+        "positioning-attacks",
+        "time-based-attacks",
+        "mobile-vulnerabilities",
+        "wireless-exploitation"
       ],
-      "teaser": "Using GPS Spoofing to control time",
+      "teaser": "GPS spoofing techniques to manipulate location-based systems and time-dependent functions.",
       "summary": null,
       "durationSeconds": 2123
     },
@@ -48,13 +50,15 @@
         "Haoqi Shan",
         "Jian Yuan"
       ],
-      "track": "appsec",
+      "track": "red-team",
       "topics": [
-        "wireless",
-        "reverse-engineering",
-        "appsec"
+        "nfc-attacks",
+        "near-field-communication",
+        "relay-attacks",
+        "mobile-payments",
+        "wireless-security"
       ],
-      "teaser": "Man in the NFC",
+      "teaser": "NFC interception and relay attacks on mobile payment and communication systems.",
       "summary": null,
       "durationSeconds": 2059
     },
@@ -65,13 +69,15 @@
       "speakers": [
         "Chaosdata"
       ],
-      "track": "appsec",
+      "track": "red-team",
       "topics": [
+        "android-exploitation",
+        "application-hijacking",
         "reverse-engineering",
-        "appsec",
-        "wireless"
+        "spectre-attacks",
+        "mobile-malware"
       ],
-      "teaser": "Ghost in the Droid: Possessing Android Applications with ParaSpectre",
+      "teaser": "Advanced Android application possession and hijacking techniques using ParaSpectre.",
       "summary": null,
       "durationSeconds": 1108
     }
