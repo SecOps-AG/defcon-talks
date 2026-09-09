@@ -226,6 +226,60 @@
       "teaser": "Drawing the connections between how human biology is affecting the evolution of malware. This talk will discuss how malware can affect biological virus research and be used for future medical research. Basically, a co...",
       "summary": null,
       "durationSeconds": 1318
+    },
+    {
+      "youtubeId": "9mEqKsJDzXk",
+      "slug": "steve-lewis-cyberbiosecurity-and-the-full-stack-biotechnologist",
+      "title": "Cyberbiosecurity and the Full Stack Biotechnologist",
+      "speakers": [
+        "Steve Lewis"
+      ],
+      "track": "appsec",
+      "topics": [
+        "cyberbiosecurity",
+        "biohacking",
+        "biotechnology",
+        "automation"
+      ],
+      "teaser": "Exploring cyberbiosecurity considerations across biotechnology design, automated manufacturing, and healthcare infrastructure.",
+      "summary": null,
+      "durationSeconds": 1872
+    },
+    {
+      "youtubeId": "xuoHgEVY9XY",
+      "slug": "jj-hastings-the-l33t-shall-inherit-the-cosmo",
+      "title": "The L33T Shall Inherit the Cosmo",
+      "speakers": [
+        "JJ Hastings"
+      ],
+      "track": "community",
+      "topics": [
+        "biohacking",
+        "space-exploration",
+        "diy-biology",
+        "extreme-environments"
+      ],
+      "teaser": "Adapting human biological systems and DIY hacking methodologies for survival and autonomy in space environments.",
+      "summary": null,
+      "durationSeconds": 1828
+    },
+    {
+      "youtubeId": "7du1TltZOJg",
+      "slug": "corey-m-hudson-from-buffer-overflowing-genomics-tools-to-securing",
+      "title": "From Buffer Overflowing Genomics Tools to Securing",
+      "speakers": [
+        "Corey M Hudson"
+      ],
+      "track": "appsec",
+      "topics": [
+        "genomics",
+        "buffer-overflow",
+        "bioinformatics",
+        "vulnerability-research"
+      ],
+      "teaser": "Demonstrating a buffer overflow exploit in popular genomics alignment software (BWA) and steps to secure bioinformatics tools.",
+      "summary": null,
+      "durationSeconds": 2301
     }
   ]
 }
