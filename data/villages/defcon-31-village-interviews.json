@@ -1,0 +1,174 @@
+{
+  "villageSlug": "village-interviews",
+  "villageName": "Village Interviews",
+  "eventSlug": "defcon-31",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaB6AwXgry-pv1QagvSibGpW",
+  "description": "Interviews, village walkthroughs, and hardware spotlights produced by the DEF CON Video Team at DEF CON 31.",
+  "talks": [
+    {
+      "youtubeId": "uYpVg--aFS8",
+      "slug": "red-team-village-overview-and-operations",
+      "title": "Red Team Village Overview and Operations",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation",
+        "community"
+      ],
+      "teaser": "An overview of the Red Team Village at DEF CON 31 highlighting adversary emulation workshops, attack demonstrations, and offensive tradecraft.",
+      "summary": null,
+      "durationSeconds": 39
+    },
+    {
+      "youtubeId": "Iw5aDxe3Yog",
+      "slug": "recon-village-walkthrough-and-open-source-intelligence",
+      "title": "Recon Village Walkthrough and Open-Source Intelligence",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "osint",
+      "topics": [
+        "recon",
+        "osint",
+        "asset-discovery",
+        "community"
+      ],
+      "teaser": "A walkthrough of Recon Village at DEF CON 31 exploring open-source intelligence methodologies, attack surface discovery, and recon CTF challenges.",
+      "summary": null,
+      "durationSeconds": 25
+    },
+    {
+      "youtubeId": "IhNRpLWpxYk",
+      "slug": "car-hacking-village-can-bus-and-vehicle-research",
+      "title": "Car Hacking Village: CAN Bus and Vehicle Research",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive-security",
+        "can-bus",
+        "vehicle-hacking",
+        "community"
+      ],
+      "teaser": "A tour of the Car Hacking Village at DEF CON 31 featuring vehicle test benches, instrument cluster analysis, and automotive security research.",
+      "summary": null,
+      "durationSeconds": 29
+    },
+    {
+      "youtubeId": "wkkevuRpzaM",
+      "slug": "hack-the-box-community-showcase",
+      "title": "Hack The Box Community Showcase",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "hack-the-box",
+        "ctf",
+        "cybersecurity-training",
+        "community"
+      ],
+      "teaser": "A showcase of Hack The Box community activities, training labs, and interactive cybersecurity challenges hosted at DEF CON 31.",
+      "summary": null,
+      "durationSeconds": 17
+    },
+    {
+      "youtubeId": "rKOsWMOMe0Q",
+      "slug": "apple-tv-spoof-and-hallway-shenanigans",
+      "title": "Apple TV Spoof and Hallway Shenanigans",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "prank",
+        "hacker-culture",
+        "ble",
+        "community"
+      ],
+      "teaser": "A humorous video team spotlight capturing Bluetooth Low Energy broadcast spoofs and hallway interactive antics across DEF CON 31.",
+      "summary": null,
+      "durationSeconds": 14
+    },
+    {
+      "youtubeId": "40R_28PPQ7w",
+      "slug": "red-team-village-interview-and-ctf-update",
+      "title": "Red Team Village Interview and CTF Update",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "ctf",
+        "offensive-security",
+        "community"
+      ],
+      "teaser": "An update from Red Team Village organizers detailing competition standings, badge challenges, and offensive tactics at DEF CON 31.",
+      "summary": null,
+      "durationSeconds": 35
+    },
+    {
+      "youtubeId": "z13QA6n_N-0",
+      "slug": "hackerboxes-interview-with-silk",
+      "title": "HackerBoxes Interview with Silk",
+      "speakers": [
+        "HackerBoxes Team",
+        "Silk"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hackerboxes",
+        "hardware-hacking",
+        "electronics",
+        "community"
+      ],
+      "teaser": "Silk interviews the HackerBoxes team at DEF CON 31 discussing DIY hardware kits, electronics education, and hands-on component tinkering.",
+      "summary": null,
+      "durationSeconds": 129
+    },
+    {
+      "youtubeId": "pmW6lMCEaJc",
+      "slug": "soda-machine-hardware-hack-with-duald",
+      "title": "SODA Machine Hardware Hack with DualD",
+      "speakers": [
+        "DualD",
+        "CauseEffect"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware-hacking",
+        "vending-machines",
+        "embedded-systems",
+        "community"
+      ],
+      "teaser": "CauseEffect investigates an unusual custom hardware-modified soda machine developed by DualD on display at DEF CON 31.",
+      "summary": null,
+      "durationSeconds": 143
+    },
+    {
+      "youtubeId": "Gwft7ZVlLLQ",
+      "slug": "amateur-radio-foxhunt-interview-with-silk",
+      "title": "Amateur Radio Foxhunt Interview with Silk",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "wireless",
+      "topics": [
+        "foxhunt",
+        "ham-radio",
+        "rf-direction-finding",
+        "wireless"
+      ],
+      "teaser": "Silk learns the rules, antenna techniques, and transmitter hunting lore behind the classic DEF CON Amateur Radio Foxhunt competition.",
+      "summary": null,
+      "durationSeconds": 205
+    }
+  ]
+}
