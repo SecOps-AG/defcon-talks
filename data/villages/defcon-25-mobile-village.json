@@ -39,7 +39,7 @@
         "wireless-exploitation"
       ],
       "teaser": "GPS spoofing techniques to manipulate location-based systems and time-dependent functions.",
-      "summary": null,
+      "summary": "Mobile Security: Using GPS Spoofing to Control Time. Mobile platform and application security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2123
     },
     {
@@ -78,7 +78,7 @@
         "mobile-malware"
       ],
       "teaser": "Advanced Android application possession and hijacking techniques using ParaSpectre.",
-      "summary": null,
+      "summary": "Mobile Security: Ghost in the Droid: Possessing Android Applications with ParaSpectre. Mobile platform and application security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1108
     }
   ]
