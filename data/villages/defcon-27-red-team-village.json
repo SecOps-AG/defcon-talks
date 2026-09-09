@@ -16,7 +16,9 @@
       "topics": [
         "red-team",
         "malware",
-        "threat-intel"
+        "threat-intel",
+        "red-teaming",
+        "penetration-testing"
       ],
       "teaser": "SiestaTime Automation fr Long term implants",
       "summary": null,
@@ -32,7 +34,10 @@
       "track": "red-team",
       "topics": [
         "red-team",
-        "threat-intel"
+        "threat-intel",
+        "red-teaming",
+        "penetration-testing",
+        "security-research"
       ],
       "teaser": "Red Team Framework RTF",
       "summary": null,
@@ -49,7 +54,9 @@
       "topics": [
         "threat-intel",
         "appsec",
-        "red-team"
+        "red-team",
+        "red-teaming",
+        "penetration-testing"
       ],
       "teaser": "Breaking NBAD and UEBA Detection",
       "summary": null,
@@ -66,7 +73,9 @@
       "topics": [
         "red-team",
         "threat-intel",
-        "appsec"
+        "appsec",
+        "red-teaming",
+        "penetration-testing"
       ],
       "teaser": "Through the Looking Glass Own the Data Center",
       "summary": null,
@@ -83,7 +92,9 @@
       "topics": [
         "red-team",
         "threat-intel",
-        "appsec"
+        "appsec",
+        "red-teaming",
+        "penetration-testing"
       ],
       "teaser": "Casting with the Pros Tips and Tricks",
       "summary": null,
@@ -100,7 +111,9 @@
       "topics": [
         "red-team",
         "threat-intel",
-        "appsec"
+        "appsec",
+        "red-teaming",
+        "penetration-testing"
       ],
       "teaser": "BadSalt Adversarial DevOps",
       "summary": null,
