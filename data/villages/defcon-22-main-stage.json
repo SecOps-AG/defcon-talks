@@ -2185,7 +2185,7 @@
         "hardware"
       ],
       "teaser": "Low-tech, low-cost hardware and signal analysis techniques to detect electronic bugs, hidden trackers, and high-tech surveillance.",
-      "summary": null,
+      "summary": "Talk on security: Am I Being Spied On? Low-tech Ways of Detecting High-tech Surveillance. A presentation about practical security techniques and common vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2523
     },
     {
@@ -2223,7 +2223,7 @@
         "vulnerability-research"
       ],
       "teaser": "An extensive multi-vendor analysis of systemic security and architectural flaws across commercial consumer Internet of Things devices.",
-      "summary": null,
+      "summary": "Talk on security: The Internet of Fails: Where IoT Has Gone Wrong. A presentation about practical security techniques and common vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2787
     }
   ]
