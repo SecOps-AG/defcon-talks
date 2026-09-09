@@ -14,7 +14,10 @@
       ],
       "track": "blue-team",
       "topics": [
-        "malware-analysis"
+        "malware-analysis",
+        "blue-team",
+        "defense",
+        "security-operations"
       ],
       "teaser": "A mostly live demo of base concepts of malware analysis using a multitude of tools on a Dridex sample pulled from a phishing campaign from PDF attachment to executable installation. The main point is to show people so...",
       "summary": null,
@@ -31,7 +34,9 @@
       "topics": [
         "active-directory",
         "threat-detection",
-        "threat-intelligence"
+        "threat-intelligence",
+        "blue-team",
+        "defense"
       ],
       "teaser": "BloodHound was originally built for Pentesters to easily identify highly complex attack paths but it can also be used to improve the overall security posture of your Active Directory. We will start with a short introd...",
       "summary": null,
@@ -67,7 +72,10 @@
       "track": "blue-team",
       "topics": [
         "malware-analysis",
-        "persistence"
+        "persistence",
+        "blue-team",
+        "defense",
+        "security-operations"
       ],
       "teaser": "When the shadow brokers released a large number of Equation Group tools in 2017, many researchers jumped on the analysis of EternalBlue, FuzzBunch etc. The exploits of the leak have now been thoroughly analysed and mo...",
       "summary": null,
@@ -118,7 +126,10 @@
       ],
       "track": "blue-team",
       "topics": [
-        "soc-operations"
+        "soc-operations",
+        "blue-team",
+        "defense",
+        "security-operations"
       ],
       "teaser": "The security industry is facing a severe talent shortage, but the threats are growing in number and sophistication. Finding talent, honing it to meet your specific mission, and retaining it have become immense challen...",
       "summary": null,
@@ -151,7 +162,10 @@
       ],
       "track": "blue-team",
       "topics": [
-        "soc-operations"
+        "soc-operations",
+        "blue-team",
+        "defense",
+        "security-operations"
       ],
       "teaser": "Security Strategy for Small Medium Business",
       "summary": null,
@@ -167,7 +181,10 @@
       "track": "blue-team",
       "topics": [
         "incident-analysis",
-        "threat-intelligence"
+        "threat-intelligence",
+        "blue-team",
+        "defense",
+        "security-operations"
       ],
       "teaser": "Following testimony in Congress and a lengthy investigation of the Equifax breach in 2016, U.S. House of Representatives drafted a report. The report is AMAZING! It includes details of Equifax corporate structure, IT ...",
       "summary": null,
@@ -220,7 +237,10 @@
       ],
       "track": "blue-team",
       "topics": [
-        "threat-intelligence"
+        "threat-intelligence",
+        "blue-team",
+        "defense",
+        "security-operations"
       ],
       "teaser": "The InfoSec industry was born out of fear. Initially it was fear from virus infections and later, external attacks. We capitalized on that fear to build more secure environments. But fear is hard to manage: too much f...",
       "summary": null,
