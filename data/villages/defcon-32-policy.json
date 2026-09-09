@@ -1,0 +1,26 @@
+{
+  "villageSlug": "policy",
+  "villageName": "Policy",
+  "eventSlug": "defcon-32",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBVQMmIp3EUhYsUpxXiwI63",
+  "description": "DEF CON 32 Policy presentations and discussions focusing on cybersecurity policy, government initiatives, and digital governance.",
+  "talks": [
+    {
+      "youtubeId": "uNb8VacA8Xw",
+      "slug": "policy-village-overview",
+      "title": "Policy Village Overview",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "community",
+        "government"
+      ],
+      "teaser": "Welcomes attendees to DEF CON 32 Policy Village with an overview of what to expect from the track.",
+      "summary": null,
+      "durationSeconds": 35
+    }
+  ]
+}
