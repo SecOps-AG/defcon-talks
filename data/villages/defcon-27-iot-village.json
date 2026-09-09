@@ -145,7 +145,9 @@
       "topics": [
         "iot",
         "exploitation",
-        "device-hacking"
+        "device-hacking",
+        "iot-security",
+        "vulnerability-research"
       ],
       "teaser": "This talk is about how an unauthenticated heap-based buffer overflow vulnerability was discovered and exploited within a router distributed by a market-leading ISP. Despite the targeted process utilizing mitigations s...",
       "summary": null,
@@ -180,7 +182,9 @@
       "topics": [
         "iot",
         "firmware-analysis",
-        "wearables"
+        "wearables",
+        "iot-security",
+        "vulnerability-research"
       ],
       "teaser": "We will show how the Fitbit ecosystem works based on the Fitbit Flex and Fitbit Charge HR as well as the Fitbit Ionic smartwatch. We also show how we modified the firmware of the Fitbit Flex and discuss several vulner...",
       "summary": null,
