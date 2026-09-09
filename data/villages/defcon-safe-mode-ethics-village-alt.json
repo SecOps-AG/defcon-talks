@@ -1,0 +1,28 @@
+{
+  "villageSlug": "ethics-village-alt",
+  "villageName": "Ethics Village (alt)",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBBBsm91yt-UHHD-n-5Fiu5",
+  "description": "DEF CON Safe Mode Ethics Village alternate playlist features discussions on digital civil liberties, government surveillance oversight, and constitutional protections in cybersecurity.",
+  "talks": [
+    {
+      "youtubeId": "bS10sRfpKyE",
+      "slug": "safe-mode-ethics-village-travis-leblanc-us-privacy-and-civil-lib",
+      "title": "US Privacy and Civil Liberties Oversight Board",
+      "speakers": [
+        "Travis LeBlanc"
+      ],
+      "track": "policy",
+      "topics": [
+        "privacy",
+        "civil-liberties",
+        "policy",
+        "ethics",
+        "governance"
+      ],
+      "teaser": "PCLOB Board Member Travis LeBlanc analyzes government surveillance authorities, constitutional protections, and civil liberties oversight.",
+      "summary": null,
+      "durationSeconds": 2956
+    }
+  ]
+}
