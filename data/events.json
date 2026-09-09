@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "slug": "defcon-34",
+      "name": "DEF CON 34",
+      "shortName": "DC34",
+      "year": 2026,
+      "dates": "6\u20139 August 2026",
+      "location": "Las Vegas Convention Center"
+    },
+    {
       "slug": "defcon-sg1",
       "name": "DEF CON SG1",
       "shortName": "DCSG1",
