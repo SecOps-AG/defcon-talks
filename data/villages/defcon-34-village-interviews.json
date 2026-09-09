@@ -1,0 +1,456 @@
+{
+  "villageSlug": "village-interviews",
+  "villageName": "Village Interviews",
+  "eventSlug": "defcon-34",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLDWTIMqT0FMU",
+  "description": "Interviews, village walkthroughs, and contest spotlights produced by the DEF CON Video Team at DEF CON 34.",
+  "talks": [
+    {
+      "youtubeId": "86TLtYkpyKI",
+      "slug": "scavenger-hunt-slot-machine-walkthrough",
+      "title": "Scavenger Hunt Slot Machine Walkthrough",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware-hacking",
+        "retro-computing",
+        "arcade",
+        "electronics"
+      ],
+      "teaser": "The DEF CON Video Team showcases a restored 1988 Japanese slot machine featured as an interactive puzzle in the DEF CON Scavenger Hunt.",
+      "summary": null,
+      "durationSeconds": 198
+    },
+    {
+      "youtubeId": "KKSRwtMGYQU",
+      "slug": "i-am-the-cavalry-initiative-update",
+      "title": "I Am the Cavalry Initiative Update",
+      "speakers": [
+        "Josh Corman",
+        "Dean",
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "public-interest-tech",
+        "cyber-safety",
+        "iot-security"
+      ],
+      "teaser": "Josh Corman and Dean catch up with the DEF CON Video Team to provide an update on the I Am the Cavalry public safety and cybersecurity initiative.",
+      "summary": null,
+      "durationSeconds": 259
+    },
+    {
+      "youtubeId": "-uDOV46yzcI",
+      "slug": "exploring-hackers-town-and-the-gibson",
+      "title": "Exploring Hackers.town and The Gibson",
+      "speakers": [
+        "The Gibson",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "community",
+        "fediverse",
+        "hacker-culture",
+        "mastodon"
+      ],
+      "teaser": "The DEF CON Video Team catches up with The Gibson to explore Hackers.town and fediverse community building for hackers.",
+      "summary": null,
+      "durationSeconds": 126
+    },
+    {
+      "youtubeId": "ciQdzBhR1xI",
+      "slug": "car-hacking-village-walkthrough",
+      "title": "Car Hacking Village Walkthrough",
+      "speakers": [
+        "Car Hacking Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive-security",
+        "car-hacking",
+        "can-bus",
+        "embedded-systems"
+      ],
+      "teaser": "The DEF CON Video Team tours the Car Hacking Village to highlight hands-on test rigs, vehicle telemetry research, and community workshops.",
+      "summary": null,
+      "durationSeconds": 439
+    },
+    {
+      "youtubeId": "f02wH61gk8M",
+      "slug": "ham-radio-village-and-marvin-goes-ham",
+      "title": "Ham Radio Village and Marvin Goes HAM",
+      "speakers": [
+        "Marvin",
+        "Ham Radio Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "wireless",
+      "topics": [
+        "amateur-radio",
+        "rf",
+        "wireless-security",
+        "ham-radio"
+      ],
+      "teaser": "The DEF CON Video Team visits the Ham Radio Village as young Marvin explores amateur radio gear, frequencies, and antenna setups.",
+      "summary": null,
+      "durationSeconds": 268
+    },
+    {
+      "youtubeId": "fqs--Ha7gfw",
+      "slug": "embedded-systems-village-walkthrough-dc34",
+      "title": "Embedded Systems Village Walkthrough",
+      "speakers": [
+        "Embedded Systems Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "embedded-systems",
+        "firmware",
+        "hardware-hacking",
+        "microcontrollers"
+      ],
+      "teaser": "The DEF CON Video Team gets the full overview of hands-on hardware labs, firmware analysis, and microelectronics at the Embedded Systems Village.",
+      "summary": null,
+      "durationSeconds": 545
+    },
+    {
+      "youtubeId": "OqswVKiCN4w",
+      "slug": "leech-vehicle-firmware-extraction-tool",
+      "title": "LEECH Vehicle Firmware Extraction Tool",
+      "speakers": [
+        "LEECH Project Team",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive-security",
+        "car-hacking",
+        "ecu",
+        "firmware",
+        "reverse-engineering"
+      ],
+      "teaser": "The DEF CON Video Team explores LEECH, an open-source automotive toolchain designed to extract and analyze vehicle ECU firmware directly.",
+      "summary": null,
+      "durationSeconds": 845
+    },
+    {
+      "youtubeId": "uAZi-dCehuI",
+      "slug": "phreakme-old-school-phreaking-contest",
+      "title": "PhreakMe: Old-School Phreaking Contest",
+      "speakers": [
+        "Soldier of FORTRAN",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "phreaking",
+        "telephony",
+        "hacker-culture",
+        "contest"
+      ],
+      "teaser": "Soldier of FORTRAN joins the DEF CON Video Team to introduce PhreakMe, a hands-on contest bringing vintage phreaking techniques and tones to the modern era.",
+      "summary": null,
+      "durationSeconds": 511
+    },
+    {
+      "youtubeId": "M0-cxePSifs",
+      "slug": "physical-security-village-walkthrough",
+      "title": "Physical Security Village Walkthrough",
+      "speakers": [
+        "Physical Security Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "red-team",
+      "topics": [
+        "physical-security",
+        "lockpicking",
+        "bypass",
+        "access-control"
+      ],
+      "teaser": "The DEF CON Video Team tours the Physical Security Village to check out lock bypass stations, door access mechanisms, and safe manipulation challenges.",
+      "summary": null,
+      "durationSeconds": 322
+    },
+    {
+      "youtubeId": "toi0keDnOsc",
+      "slug": "voting-machine-hacking-village-spotlight",
+      "title": "Voting Machine Hacking Village Spotlight",
+      "speakers": [
+        "Voting Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "voting-machines",
+        "election-security",
+        "hardware-hacking",
+        "vulnerability-disclosure"
+      ],
+      "teaser": "The Voting Machine Hacking Village returns to DEF CON 34 to evaluate the security and resilience of critical election equipment.",
+      "summary": null,
+      "durationSeconds": 767
+    },
+    {
+      "youtubeId": "AJCWsoozg0Q",
+      "slug": "after-hours-with-cliff-stoll",
+      "title": "After Hours with Cliff Stoll",
+      "speakers": [
+        "Cliff Stoll",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "hacker-culture",
+        "history",
+        "community",
+        "klein-bottles"
+      ],
+      "teaser": "The DEF CON Video Team sits down for an animated after-hours conversation with astronomer, hacker-hunter, and author Cliff Stoll.",
+      "summary": null,
+      "durationSeconds": 624
+    },
+    {
+      "youtubeId": "uF8c7Ty-5zA",
+      "slug": "ev-charger-hacking-and-architecture",
+      "title": "EV Charger Hacking and Architecture",
+      "speakers": [
+        "MajorMalfunction",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive-security",
+        "ev-charging",
+        "hardware-hacking",
+        "ocpp",
+        "embedded-systems"
+      ],
+      "teaser": "MajorMalfunction breaks down electric vehicle charger architectures, hardware interfaces, and security vulnerabilities with the DEF CON Video Team.",
+      "summary": null,
+      "durationSeconds": 502
+    },
+    {
+      "youtubeId": "bAeM22SDQLk",
+      "slug": "darren-kitchen-on-whats-new-at-hak5",
+      "title": "Darren Kitchen on What's New at Hak5",
+      "speakers": [
+        "Darren Kitchen",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "hardware-tools",
+        "pentesting-tools",
+        "hak5",
+        "usb"
+      ],
+      "teaser": "Darren Kitchen catches up with the DEF CON Video Team to discuss the latest hardware penetration testing gear and community developments from Hak5.",
+      "summary": null,
+      "durationSeconds": 65
+    },
+    {
+      "youtubeId": "Egzf_aWSxZc",
+      "slug": "ai-village-low-cost-ai-that-plays-pokemon",
+      "title": "AI Village: Low-Cost AI That Plays Pok\u00e9mon",
+      "speakers": [
+        "AI Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "artificial-intelligence",
+        "machine-learning",
+        "gaming",
+        "reinforcement-learning"
+      ],
+      "teaser": "The AI Village demonstrates an innovative artificial intelligence setup capable of playing Pok\u00e9mon autonomously without expensive API token bills.",
+      "summary": null,
+      "durationSeconds": 810
+    },
+    {
+      "youtubeId": "HWmkoxGeR2c",
+      "slug": "no-starch-press-at-defcon-34",
+      "title": "No Starch Press at DEF CON 34",
+      "speakers": [
+        "No Starch Press Team",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "books",
+        "education",
+        "publishing",
+        "hacker-culture"
+      ],
+      "teaser": "The DEF CON Video Team drops by the No Starch Press booth to see the latest computer security titles and publications released at DEF CON 34.",
+      "summary": null,
+      "durationSeconds": 26
+    },
+    {
+      "youtubeId": "dscfpKM0V60",
+      "slug": "goon-questions-life-in-red-shirts",
+      "title": "Goon Questions: Life in Red Shirts",
+      "speakers": [
+        "Goon Staff",
+        "Guzi Media",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "goons",
+        "event-operations",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "The DEF CON Video Team and Guzi Media ask the red-shirted Goon staff what it takes to organize, protect, and run DEF CON.",
+      "summary": null,
+      "durationSeconds": 57
+    },
+    {
+      "youtubeId": "MNtlIEaljOo",
+      "slug": "bug-bounty-village-spotlight",
+      "title": "Bug Bounty Village Spotlight",
+      "speakers": [
+        "Bug Bounty Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "appsec",
+      "topics": [
+        "bug-bounty",
+        "web-security",
+        "vulnerability-research",
+        "community"
+      ],
+      "teaser": "A quick spotlight on the Bug Bounty Village highlighting collaborative hunting events, live hacking, and educational sessions at DEF CON 34.",
+      "summary": null,
+      "durationSeconds": 15
+    },
+    {
+      "youtubeId": "YEkvj70zFx8",
+      "slug": "dc-nextgen-community-spotlight-with-bia",
+      "title": "DC Nextgen Community Spotlight with Bia",
+      "speakers": [
+        "Bia",
+        "DC Nextgen Community",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "youth-hacking",
+        "nextgen",
+        "education",
+        "community",
+        "mentorship"
+      ],
+      "teaser": "Bia discusses welcoming young hackers, running interactive STEM workshops, and mentoring the next generation in the DC Nextgen Community.",
+      "summary": null,
+      "durationSeconds": 30
+    },
+    {
+      "youtubeId": "DPmlH6lCaAg",
+      "slug": "maritime-hacking-village-spotlight",
+      "title": "Maritime Hacking Village Spotlight",
+      "speakers": [
+        "Maritime Hacking Village Team",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "maritime-security",
+        "ais",
+        "vessel-tracking",
+        "embedded-systems"
+      ],
+      "teaser": "A rapid spotlight on the Maritime Hacking Village exploring shipboard control networks, satellite navigation, and vessel cybersecurity at DEF CON 34.",
+      "summary": null,
+      "durationSeconds": 48
+    },
+    {
+      "youtubeId": "1plmJlWSKa0",
+      "slug": "def-coin-34-badge-architecture-and-teardown",
+      "title": "DEF COIN 34 Badge Architecture and Teardown",
+      "speakers": [
+        "Bunnie Huang",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "electronic-badge",
+        "hardware-design",
+        "pcb",
+        "embedded-systems",
+        "microcontrollers"
+      ],
+      "teaser": "Bunnie Huang breaks down the hardware engineering, cryptographic features, and silicon design choices behind the DEF COIN 34 conference badge.",
+      "summary": null,
+      "durationSeconds": 515
+    },
+    {
+      "youtubeId": "1RrXin4gtoo",
+      "slug": "lights-in-dark-rooms-documentary-on-online-scam-economy",
+      "title": "Lights in Dark Rooms: Documentary on Online Scam Economy",
+      "speakers": [
+        "Vito",
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "documentary",
+        "cyber-crime",
+        "social-engineering",
+        "fraud",
+        "scams"
+      ],
+      "teaser": "Filmmaker Vito introduces Lights in Dark Rooms, a documentary detailing the human cost of the cybercrime and online scam economies screened at DEF CON 34.",
+      "summary": null,
+      "durationSeconds": 34
+    },
+    {
+      "youtubeId": "Oz6n6xYNmfs",
+      "slug": "eff-update-at-defcon-34",
+      "title": "EFF Update at DEF CON 34",
+      "speakers": [
+        "Cindy Cohn",
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "eff",
+        "digital-rights",
+        "privacy",
+        "civil-liberties",
+        "policy"
+      ],
+      "teaser": "Cindy Cohn provides an update on the Electronic Frontier Foundation's active legal battles, digital rights campaigns, and DEF CON 34 activities.",
+      "summary": null,
+      "durationSeconds": 32
+    },
+    {
+      "youtubeId": "u-SsrNy-cK0",
+      "slug": "dc-groups-highlight-dc256-huntsville",
+      "title": "DC Groups Highlight: DC256 Huntsville",
+      "speakers": [
+        "Ryan",
+        "DC256 Team",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "defcon-groups",
+        "local-chapters",
+        "community",
+        "meetups"
+      ],
+      "teaser": "Ryan from the DEF CON Video Team highlights DC256 in Huntsville, Alabama, discussing how local chapters sustain hacker culture and meetups all year long.",
+      "summary": null,
+      "durationSeconds": 344
+    }
+  ]
+}
