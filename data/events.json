@@ -87,6 +87,14 @@
       "year": 2015,
       "dates": "6-9 August 2015",
       "location": "Paris and Bally's Hotels, Las Vegas"
+    },
+    {
+      "slug": "defcon-22",
+      "name": "DEF CON 22",
+      "shortName": "DC22",
+      "year": 2014,
+      "dates": "7-10 August 2014",
+      "location": "The Rio Hotel & Casino, Las Vegas"
     }
   ]
 }
