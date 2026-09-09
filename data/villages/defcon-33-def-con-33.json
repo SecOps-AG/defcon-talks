@@ -1367,20 +1367,6 @@
       "durationSeconds": 3825
     },
     {
-      "youtubeId": "JSDwexw90zs",
-      "slug": "carding-is-dead-long-live-carding-2",
-      "title": "Carding is Dead, Long Live Carding",
-      "speakers": [
-        "Federico Valentini",
-        "Allesandro Strino"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2253
-    },
-    {
       "youtubeId": "PqPMyhA4NSI",
       "slug": "amber64-mining-hacker-history-from-over-500k-commodore-64-disks-2",
       "title": "Amber64 - Mining Hacker History from Over 500k Commodore 64 Disks",
@@ -1528,20 +1514,6 @@
       "durationSeconds": 2784
     },
     {
-      "youtubeId": "EiXbzVlNYro",
-      "slug": "3-red-teaming-fraud-prevention-systems-with-genai-2",
-      "title": "3- Red teaming fraud prevention systems with GenAI",
-      "speakers": [
-        "Karthik Tadinada",
-        "Martyn Higson"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2777
-    },
-    {
       "youtubeId": "FXIScbxJTZw",
       "slug": "playing-dirty-w-o-cheating-getting-banned-for-fun-2",
       "title": "Playing Dirty w/o Cheating - Getting Banned for Fun",
@@ -1687,19 +1659,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 2905
-    },
-    {
-      "youtubeId": "0KGhP4qjmXk",
-      "slug": "scamming-scammers-weaponizing-oss-against-pig-butchering-organiz-2",
-      "title": "Scamming Scammers - Weaponizing OSS Against Pig Butchering, Organized Crime",
-      "speakers": [
-        "Erin West"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 3239
     },
     {
       "youtubeId": "AviifoOuaBE",
@@ -1940,19 +1899,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1959
-    },
-    {
-      "youtubeId": "_fGpR4Fqni0",
-      "slug": "how-extra-features-in-contactless-payments-break-security-what-w-2",
-      "title": "How Extra Features In Contactless Payments Break Security, What We Can Do",
-      "speakers": [
-        "Tom Chotia"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2103
     },
     {
       "youtubeId": "XSzXaD6A73s",
@@ -2542,19 +2488,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1665
-    },
-    {
-      "youtubeId": "auoEA8ZD8YA",
-      "slug": "take-all-my-money-penetrating-atms-2",
-      "title": "Take all my money - penetrating ATMs",
-      "speakers": [
-        "Fredrik Sandstom"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1445
     },
     {
       "youtubeId": "bpUxuOdfGHM",
