@@ -1252,6 +1252,47 @@
       "teaser": "Dr. Christian Dameff, Dr. Jeff Tully, Jessica Wilkerson, and Josh Corman answer live community questions on protecting hospitals from cyber extortion.",
       "summary": "Live Community Q&A on Healthcare Cybersecurity\n\nFollowing the panel presentation, the authors engage with the DEF CON community in a live session on protecting healthcare facilities from cyber threats.\n\nAddressing Practical Clinical Security Challenges\n\nThe speakers answer questions regarding medical device patch management, clinical workflow continuity during network outages, and open-source medical security research.\n\nOpportunities for Security Researcher Engagement\n\nThe panel provides concrete guidance for security professionals to volunteer with local healthcare providers and participate in medical device coordinated disclosure programs.",
       "durationSeconds": 5017
+    },
+    {
+      "youtubeId": "IiMladUbL6E",
+      "slug": "cedric-owens-gone-apple-pickin-red-teaming-macos-environments",
+      "title": "Gone Apple Pickin': Red Teaming macOS Environments in 2021",
+      "speakers": [
+        "Cedric Owens"
+      ],
+      "track": "red-team",
+      "topics": [
+        "macos",
+        "red-team",
+        "gatekeeper",
+        "post-exploitation",
+        "initial-access"
+      ],
+      "teaser": "Cedric Owens details modern attack paths in non-Active Directory macOS environments, including Gatekeeper bypasses, cloud IdaaS targeting, and post-exploitation tradecraft.",
+      "summary": "Attacking macOS Enterprise Environments\n\nWhile most enterprise environments traditionally rely on Active Directory and Windows, many modern technology companies operate predominantly on macOS managed via cloud and identity-as-a-service (IdaaS) platforms.\n\nInitial Access and Gatekeeper Bypasses\n\nCedric Owens explores common attack surfaces in macOS deployments, detailing weaponization techniques and a novel Gatekeeper bypass vulnerability used to execute untrusted payloads without user warnings.\n\nPost-Exploitation and Lateral Movement\n\nThe presentation covers post-exploitation methodology tailored for macOS endpoints, including credential access, bypassing Transparency, Consent, and Control (TCC), and pivoting through CI/CD pipelines.\n\nDetection Opportunities and Defensive Hardening\n\nOwens highlights high-signal telemetry sources for defenders, providing actionable detection strategies and behavioral analytics to catch macOS offensive operations.",
+      "durationSeconds": 3124
+    },
+    {
+      "youtubeId": "lYrNH5hmorY",
+      "slug": "sagi-sheinfeld-using-machine-in-the-middle-to-attack-active-directory",
+      "title": "Using M(achine)ITM to Attack Active Directory",
+      "speakers": [
+        "Sagi Sheinfeld",
+        "Eyal Karni",
+        "Yaron Zinar"
+      ],
+      "track": "red-team",
+      "topics": [
+        "active-directory",
+        "mitm",
+        "kerberos",
+        "ntlm",
+        "authentication",
+        "relay-attacks"
+      ],
+      "teaser": "Researchers reveal machine-in-the-middle attacks targeting Active Directory authentication protocols, extending relay attacks beyond NTLM to Kerberos and hybrid environments.",
+      "summary": "Machine-in-the-Middle on Active Directory Protocols\n\nAdversaries have long leveraged Machine-in-the-Middle (MitM) attacks against Windows authentication, exploiting the lack of mutual authentication and cryptographic signing across legacy network protocols.\n\nRelay Attacks Beyond NTLM\n\nSagi Sheinfeld, Eyal Karni, and Yaron Zinar demonstrate that credential relay attacks are not restricted to NTLM, revealing novel injection techniques targeting Kerberos authentication workflows.\n\nCompromising Critical and Hybrid Infrastructure\n\nThe speakers detail attack vectors that compromise client systems, domain-joined Unix machines, virtualization clusters, and hybrid cloud Active Directory deployments to achieve remote code execution.\n\nMitigation and Defensive Guidance\n\nThe authors present defensive recommendations, auditing procedures, and protocol hardening configurations to neutralize machine-in-the-middle relay threats across enterprise networks.",
+      "durationSeconds": 2803
     }
   ]
 }
