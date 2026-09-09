@@ -20,6 +20,39 @@
       "teaser": "DEF CON Safe Mode Ethics Village presentation.",
       "summary": null,
       "durationSeconds": 2956
+    },
+    {
+      "youtubeId": "4SdqQP_4jrI",
+      "slug": "comm-geoffrey-starks-federal-communications-commission",
+      "title": "Comm Geoffrey Starks - Federal Communications Commission",
+      "speakers": [
+        "DEF CON Safe Mode Ethics Village"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics",
+        "policy"
+      ],
+      "teaser": "DEF CON Safe Mode Ethics Village presentation.",
+      "summary": null,
+      "durationSeconds": 1682
+    },
+    {
+      "youtubeId": "3uOjkJ4BwkE",
+      "slug": "travis-leblanc-us-privacy-and-civil-liberties-oversight-board",
+      "title": "Travis LeBlanc - US Privacy and Civil Liberties Oversight Board",
+      "speakers": [
+        "DEF CON Safe Mode Ethics Village"
+      ],
+      "track": "policy",
+      "topics": [
+        "ethics",
+        "privacy",
+        "policy"
+      ],
+      "teaser": "DEF CON Safe Mode Ethics Village presentation.",
+      "summary": null,
+      "durationSeconds": 2956
     }
   ]
 }
