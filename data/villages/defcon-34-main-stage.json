@@ -1,0 +1,88 @@
+{
+  "villageSlug": "main-stage",
+  "villageName": "Main Stage",
+  "eventSlug": "defcon-34",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLHNz-wMcmx0g",
+  "description": "Main stage keynote and presentation talks delivered at DEF CON 34.",
+  "talks": [
+    {
+      "youtubeId": "eEBv0STiYhI",
+      "slug": "hacking-ai",
+      "title": "Hacking AI",
+      "speakers": [
+        "Bruce Schneier"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "artificial-intelligence",
+        "ai-security",
+        "policy",
+        "social-systems",
+        "vulnerability-research"
+      ],
+      "teaser": "Bruce Schneier examines how artificial intelligence systems hack human institutions, tax codes, financial markets, and legal frameworks.",
+      "summary": null,
+      "durationSeconds": 2674
+    },
+    {
+      "youtubeId": "PcK-TDmzshc",
+      "slug": "esp32-as-counter-surveillance-platform",
+      "title": "ESP32 as Counter-Surveillance Platform",
+      "speakers": [
+        "Cybertiger",
+        "Colonel Panic",
+        "The Wrew"
+      ],
+      "track": "privacy",
+      "topics": [
+        "surveillance",
+        "esp32",
+        "hardware-hacking",
+        "privacy",
+        "counter-surveillance",
+        "embedded-systems"
+      ],
+      "teaser": "Cybertiger, Colonel Panic, and The Wrew introduce low-cost counter-surveillance hardware built around the ESP32 to detect tracking devices.",
+      "summary": null,
+      "durationSeconds": 2667
+    },
+    {
+      "youtubeId": "WyPmt8CE5L4",
+      "slug": "norecognition-could-a-pattern-on-clothing-fool-facial-recognition",
+      "title": "noRecognition: Could a Pattern on Clothing Fool Facial Recognition?",
+      "speakers": [
+        "Bill Swearingen"
+      ],
+      "track": "privacy",
+      "topics": [
+        "facial-recognition",
+        "computer-vision",
+        "privacy",
+        "counter-surveillance",
+        "evasion"
+      ],
+      "teaser": "Bill Swearingen explores whether adversarial patterns printed on everyday clothing can effectively fool commercial and municipal facial recognition algorithms.",
+      "summary": null,
+      "durationSeconds": 2779
+    },
+    {
+      "youtubeId": "656058JxTM0",
+      "slug": "stalking-the-wily-hacker-40-years-later",
+      "title": "Stalking the Wily Hacker: 40 Years Later",
+      "speakers": [
+        "Cliff Stoll"
+      ],
+      "track": "community",
+      "topics": [
+        "hacker-history",
+        "incident-response",
+        "forensics",
+        "espionage",
+        "unix"
+      ],
+      "teaser": "Cliff Stoll reflects on the 40th anniversary of tracking down an international KGB cyber espionage ring originating from a 75-cent accounting error.",
+      "summary": null,
+      "durationSeconds": 3426
+    }
+  ]
+}
