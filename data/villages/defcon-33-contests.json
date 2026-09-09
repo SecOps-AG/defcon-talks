@@ -1,0 +1,83 @@
+{
+  "villageSlug": "contests",
+  "villageName": "Contests",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/@DEFCONConference/videos",
+  "description": "Contests, game shows, and award ceremonies held at DEF CON 33, including Hacker Jeopardy, Whose Slide Is It Anyway, and the annual Pwnie Awards.",
+  "talks": [
+    {
+      "youtubeId": "G6WNcAK29hw",
+      "slug": "hacker-jeopardy-friday-night-dc33",
+      "title": "Hacker Jeopardy: Friday Night",
+      "speakers": [
+        "Hacker Jeopardy Staff"
+      ],
+      "track": "community",
+      "topics": [
+        "contest",
+        "trivia",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "The Friday night edition of Hacker Jeopardy at DEF CON 33, featuring intense cybersecurity trivia, obscure hacker lore, and adult beverages.",
+      "summary": null,
+      "durationSeconds": 6979
+    },
+    {
+      "youtubeId": "5gGUh9-oPhk",
+      "slug": "hacker-jeopardy-saturday-night-dc33",
+      "title": "Hacker Jeopardy: Saturday Night",
+      "speakers": [
+        "Hacker Jeopardy Staff"
+      ],
+      "track": "community",
+      "topics": [
+        "contest",
+        "trivia",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "The Saturday night championship round of Hacker Jeopardy at DEF CON 33, testing the brightest minds in infosec across high-stakes categories.",
+      "summary": null,
+      "durationSeconds": 5911
+    },
+    {
+      "youtubeId": "i-wKxAAeWt8",
+      "slug": "whose-slide-is-it-anyway-dc33",
+      "title": "Whose Slide Is It Anyway?",
+      "speakers": [
+        "Contest Staff"
+      ],
+      "track": "community",
+      "topics": [
+        "contest",
+        "comedy",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "Hacker contestants improvise technical presentations on the fly using completely unfamiliar and absurd slide decks at DEF CON 33.",
+      "summary": null,
+      "durationSeconds": 2365
+    },
+    {
+      "youtubeId": "Gpx6JsZ0Vzw",
+      "slug": "the-2025-pwnie-awards",
+      "title": "The 2025 Pwnie Awards",
+      "speakers": [
+        "Ian Roos",
+        "Mark Trumpbour"
+      ],
+      "track": "community",
+      "topics": [
+        "awards",
+        "pwnie-awards",
+        "vulnerability-research",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "Ian Roos and Mark Trumpbour host the 2025 Pwnie Awards celebrating the year's greatest security achievements, best bugs, and epic fails.",
+      "summary": null,
+      "durationSeconds": 2194
+    }
+  ]
+}
