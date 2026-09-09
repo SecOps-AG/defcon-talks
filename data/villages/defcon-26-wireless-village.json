@@ -220,7 +220,7 @@
       "track": "red-team",
       "topics": [
         "zigbee-security",
-        "802.15.4-protocols",
+        "ieee-802-15-4",
         "iot-hacking",
         "wireless-protocols",
         "threat-landscape"
