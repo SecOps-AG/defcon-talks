@@ -15,9 +15,10 @@
       "track": "community",
       "topics": [
         "social-engineering",
-        "defense"
+        "defense",
+        "event-keynote"
       ],
-      "teaser": "DEF CON 27 Social Engineering Village",
+      "teaser": "Opening keynote from renowned social engineer and security researcher R Paul Wilson at DEF CON 27.",
       "summary": null,
       "durationSeconds": 1925
     },
@@ -32,9 +33,10 @@
       "topics": [
         "red-teaming",
         "social-engineering",
-        "defense"
+        "physical-security",
+        "geographic-perspective"
       ],
-      "teaser": "Presentation from DEF CON 27 Social Engineering Village",
+      "teaser": "Red team operations from an international perspective—techniques and methodologies from down under applied to modern security assessments.",
       "summary": null,
       "durationSeconds": 2038
     },
@@ -48,9 +50,11 @@
       "track": "community",
       "topics": [
         "social-engineering",
-        "defense"
+        "defense",
+        "rapport-building",
+        "behavioral-analysis"
       ],
-      "teaser": "The SEPodcast Ep 120 Live Guest Robin Dreeke",
+      "teaser": "Live podcast episode featuring Robin Dreeke discussing rapport building, behavioral analysis, and defensive social engineering strategies.",
       "summary": null,
       "durationSeconds": 4423
     },
@@ -65,10 +69,10 @@
       "topics": [
         "osint",
         "social-engineering",
-        "career",
-        "defense"
+        "reconnaissance",
+        "real-world-cases"
       ],
-      "teaser": "Practical OSINT techniques are not just applicable in a day-to-day infosec job but can also benefit every aspect of your life. Expressed through personal stories and walk-throughs of real investigations I will show yo...",
+      "teaser": "Practical OSINT techniques applicable to security careers and daily life—real investigation walkthroughs and personal case studies.",
       "summary": null,
       "durationSeconds": 1761
     },
@@ -79,13 +83,14 @@
       "speakers": [
         "Shane McCombs"
       ],
-      "track": "community",
+      "track": "policy",
       "topics": [
         "social-engineering",
-        "rapport",
-        "defense"
+        "child-safety",
+        "ethics",
+        "defensive-tactics"
       ],
-      "teaser": "Fighting child abuse is dirty work. Does getting dirty justify the ends? Join our new COO as he discusses the very important topic.",
+      "teaser": "Discussion on the limitations and dangers of vigilantism in child protection—why systemic approaches beat individual action.",
       "summary": null,
       "durationSeconds": 1815
     },
@@ -100,9 +105,11 @@
       "topics": [
         "insider-threat",
         "social-engineering",
-        "psychology"
+        "psychology",
+        "manipulation",
+        "exploitation"
       ],
-      "teaser": "Countless tactics exist in exploiting corporate infrastructure; stealing equipment, data, or committing rampant sabotage. In the aftermath these can decimate an enterprise in numerous ways.You cannot allow such disast...",
+      "teaser": "Insider threat exploitation techniques—manipulating employees to steal data, equipment, or commit sabotage from within an organization.",
       "summary": null,
       "durationSeconds": 1870
     },
@@ -115,11 +122,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "social-engineering",
         "red-teaming",
-        "defense"
+        "organizational-testing",
+        "military-strategy",
+        "government-operations",
+        "critical-thinking"
       ],
-      "teaser": "Red Teaming isn\u2019t just pen testing. Red team approaches and techniques are widely used in the military, intelligence community, and throughout the private sector. Every institution, from the Marines Corps to pharmaceu...",
+      "teaser": "Red team approaches beyond penetration testing—how military, intelligence, and private sector organizations use red teaming for strategic defense.",
       "summary": null,
       "durationSeconds": 1791
     },
@@ -134,10 +143,11 @@
       "topics": [
         "social-engineering",
         "security-awareness",
-        "career",
-        "defense"
+        "neurodiversity",
+        "training",
+        "behavioral-change"
       ],
-      "teaser": "Perry Carpenter is the author of, \u201cTransformational Security Awareness: What Neuroscientists, Storytellers, and Marketers Can Teach Us About Driving Secure Behaviors\u201d from Wiley Publishing, and he currently serves as ...",
+      "teaser": "Neurodivergent perspectives on social engineering—how autism and different thinking styles bring unique strengths to security defense.",
       "summary": null,
       "durationSeconds": 1910
     },
@@ -151,11 +161,11 @@
       "track": "community",
       "topics": [
         "social-engineering",
-        "security-awareness",
-        "career",
-        "defense"
+        "career-development",
+        "networking",
+        "professional-advancement"
       ],
-      "teaser": "Social engineering is a special form of hacking that bridges our technical skills with a deep understanding of human behavior. Many of us use this special blend of techniques to assist in our various colors of hacking...",
+      "teaser": "Using social engineering principles for career growth—blending technical skills with human behavior understanding for professional success.",
       "summary": null,
       "durationSeconds": 1674
     },
@@ -166,13 +176,15 @@
       "speakers": [
         "Robin Dreeke"
       ],
-      "track": "community",
+      "track": "red-team",
       "topics": [
         "social-engineering",
-        "security-awareness",
-        "rapport"
+        "rapport-building",
+        "behavioral-profiling",
+        "psychology",
+        "target-assessment"
       ],
-      "teaser": "You learned how to build rapport from Robin. Then you learned about the code of trust\u2026 but blending all of it together to now master \u2013 SIZING PEOPLE UP.",
+      "teaser": "Advanced people-reading techniques—assessing personality, trust signals, and building rapport through behavioral analysis.",
       "summary": null,
       "durationSeconds": 3228
     },
@@ -186,11 +198,12 @@
       "track": "blue-team",
       "topics": [
         "social-engineering",
-        "security-awareness",
-        "career",
-        "defense"
+        "psychology",
+        "career-development",
+        "confidence-building",
+        "self-awareness"
       ],
-      "teaser": "\u201cIt is estimated that nearly 70% of people will experience signs or symptoms of Impostor Syndrome.\u201d Too many people get stuck in a self-doubt loop. This is when feelings of being an impostor creep in. Billy Boatright ...",
+      "teaser": "Overcoming impostor syndrome—psychological barriers affecting security professionals and how to break through self-doubt cycles.",
       "summary": null,
       "durationSeconds": 1596
     },
@@ -204,9 +217,11 @@
       "track": "community",
       "topics": [
         "social-engineering",
-        "defense"
+        "history",
+        "community",
+        "security-culture"
       ],
-      "teaser": "t was 10 years ago it all started in a tiny little squalid room. Hundreds of people packed in to see a new type of event \u2013 one that made headlines and scared the world. 10 years later \u2013 what has changed, where are we?...",
+      "teaser": "Retrospective on 10 years of Social Engineering Village—evolution from underground gatherings to mainstream security awareness.",
       "summary": null,
       "durationSeconds": 3098
     },
@@ -219,13 +234,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "osint",
-        "insider-threat",
-        "social-engineering",
         "cold-reading",
-        "rapport"
+        "social-engineering",
+        "psychology",
+        "information-extraction",
+        "manipulation"
       ],
-      "teaser": "Cold reading is a technique to make others believe that you have psychic powers. After reading everything I could find on cold reading, I ran a two-day experiment during the Veracode Hackathon, where I gave psychic re...",
+      "teaser": "Cold reading techniques for extracting information and building false credibility—how to make targets believe you possess knowledge about them.",
       "summary": null,
       "durationSeconds": 1929
     },
@@ -241,9 +256,10 @@
         "pretexting",
         "social-engineering",
         "physical-security",
-        "defense"
+        "fundamentals",
+        "methodology"
       ],
-      "teaser": "Ever wanted to get into Social Engineering (SE), but thought you needed to know body language, facial expressions, be charming, and outgoing to succeed? This is a common misconception and you don\u2019t need to know or be ...",
+      "teaser": "Fundamentals of social engineering for beginners—you don't need to be charismatic or outgoing to succeed as a social engineer.",
       "summary": null,
       "durationSeconds": 1477
     },
@@ -257,29 +273,31 @@
       "track": "red-team",
       "topics": [
         "social-engineering",
-        "rapport",
         "physical-security",
-        "defense"
+        "authority-exploitation",
+        "manipulation",
+        "deception"
       ],
-      "teaser": "Corporate colors and logos characteristic of a brand are easily and freely accessed on the network. As consumers we have been advised to distrust an email with these identities.",
+      "teaser": "Voice-based social engineering—leveraging authority and psychological pressure to manipulate victims into compliance.",
       "summary": null,
       "durationSeconds": 1667
     },
     {
       "youtubeId": "ozQXIMbuUG8",
       "slug": "edward-miro-rideshare-osint-carbased-se-for-fun-and-profit-def-c",
-      "title": "Edward Miro\u00a0- Rideshare OSINT CarBased SE For Fun and Profit",
+      "title": "Rideshare OSINT Car-Based SE For Fun and Profit",
       "speakers": [
-        "Edward Miro\u00a0- Rideshare OSINT CarBased SE For Fun and Profit"
+        "Edward Miro"
       ],
       "track": "red-team",
       "topics": [
         "osint",
         "social-engineering",
         "physical-security",
-        "defense"
+        "transportation",
+        "reconnaissance"
       ],
-      "teaser": "Have you considered the social engineering implications of ride share(Uber/Lyft) interactions? Want to get better at social skills and get comfortable with people? In this talk I will explain the potential to use ride...",
+      "teaser": "OSINT and social engineering via rideshare interactions—gathering intelligence and testing security through Uber and Lyft engagements.",
       "summary": null,
       "durationSeconds": 1708
     },
@@ -294,9 +312,11 @@
       "topics": [
         "social-engineering",
         "insider-threat",
-        "defense"
+        "risk-analysis",
+        "control-failure",
+        "threat-modeling"
       ],
-      "teaser": "Attackers love it when defenses fail. Implementing defenses without properly understanding the risks and threats is usually a waste of money and resources. This is a frank discussion of what control failures an attack...",
+      "teaser": "Control failure analysis—why most defensive implementations fail and how attackers exploit misunderstood security risks.",
       "summary": null,
       "durationSeconds": 3013
     },
@@ -310,9 +330,12 @@
       "track": "red-team",
       "topics": [
         "social-engineering",
-        "defense"
+        "entertainment-industry",
+        "intellectual-property",
+        "organizational-security",
+        "case-study"
       ],
-      "teaser": "The Sony hack proved that content producers are unprepared for attacks and unaware of the damage that can be caused to their IPs. Hacking Hollywood is a glimpse into the filmmaking process from a security minded and s...",
+      "teaser": "Entertainment industry security failures—lessons from high-profile breaches and vulnerabilities specific to content production.",
       "summary": null,
       "durationSeconds": 1762
     }
