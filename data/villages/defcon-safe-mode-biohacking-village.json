@@ -356,7 +356,7 @@
       "slug": "making-next-generation-drugs-at-home",
       "title": "Making Next Generation Drugs at Home",
       "speakers": [
-        "Mixæl Laufer"
+        "Mix\u00e6l Laufer"
       ],
       "track": "community",
       "topics": [
@@ -504,6 +504,25 @@
       "teaser": "Security researchers and medical device manufacturers share insights on coordinated vulnerability disclosure and addressing legacy devices.",
       "summary": "Navigating the Researcher-Manufacturer Relationship\n\nLeading security researchers share experiences collaborating with Medical Device Manufacturers (MDMs), discussing historical points of friction and emerging partnerships.\n\nMaturing Product Security Programs\n\nEmbracing external vulnerability reports and maintaining open dialogue with independent researchers enables medical device manufacturers to transition from reactive patching to proactive security postures.\n\nTackling Legacy Medical Devices\n\nThe panel explores technical and regulatory strategies for addressing legacy devices in clinical use that lack native update mechanisms or long-term vendor support.",
       "durationSeconds": 4571
+    },
+    {
+      "youtubeId": "RXAt8lE2TNI",
+      "slug": "why-is-security-hard",
+      "title": "Why Is Security Hard?",
+      "speakers": [
+        "Seth Carmody"
+      ],
+      "track": "policy",
+      "topics": [
+        "medical-devices",
+        "healthcare",
+        "fda",
+        "regulation",
+        "policy"
+      ],
+      "teaser": "Seth Carmody examines the structural, economic, and regulatory obstacles to achieving effective cybersecurity across the medical device ecosystem.",
+      "summary": "Understanding Inherent Complexities in Healthcare\n\nFormer FDA cybersecurity strategist Seth Carmody explores why securing healthcare environments and medical technology remains notoriously challenging compared to other sectors.\n\nRegulatory Frameworks and Market Incentives\n\nThe presentation examines how economic constraints, legacy clinical infrastructure, and lengthy regulatory approval cycles create unique hurdles for vulnerability remediation.\n\nPragmatic Approaches to Product Security\n\nCarmody outlines realistic paths forward for manufacturers and healthcare delivery organizations to align safety, usability, and proactive security engineering.",
+      "durationSeconds": 1398
     }
   ]
 }
