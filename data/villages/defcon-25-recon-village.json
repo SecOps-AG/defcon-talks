@@ -94,7 +94,7 @@
         "emerging-techniques",
         "future-trends"
       ],
-      "teaser": "Keynote vision for the evolving landscape of reconnaissance—emerging tools, techniques, and methodologies shaping the future of OSINT.",
+      "teaser": "Keynote vision for the evolving landscape of reconnaissance\u2014emerging tools, techniques, and methodologies shaping the future of OSINT.",
       "summary": null,
       "durationSeconds": 2661
     },
@@ -151,7 +151,7 @@
         "automation-tools",
         "datasploit"
       ],
-      "teaser": "DataSploit—an open-source tool for automating OSINT tasks including domain analysis, email tracking, and data collection.",
+      "teaser": "DataSploit\u2014an open-source tool for automating OSINT tasks including domain analysis, email tracking, and data collection.",
       "summary": null,
       "durationSeconds": 1153
     },
@@ -246,7 +246,7 @@
         "index-building",
         "deep-search"
       ],
-      "teaser": "Building custom search indices and databases for targeted OSINT—creating specialized search engines for criminal or organizational intelligence.",
+      "teaser": "Building custom search indices and databases for targeted OSINT\u2014creating specialized search engines for criminal or organizational intelligence.",
       "summary": null,
       "durationSeconds": 2497
     },
@@ -287,6 +287,25 @@
       "teaser": "Combining robust reconnaissance techniques with bug bounty hunting to maximize finding and reporting vulnerabilities at scale.",
       "summary": null,
       "durationSeconds": 1754
+    },
+    {
+      "youtubeId": "kWrdxuFaEVg",
+      "slug": "jonathan-cran-attack-surface-discovery-with-intrigue",
+      "title": "Attack Surface Discovery with Intrigue",
+      "speakers": [
+        "Jonathan Cran"
+      ],
+      "track": "recon",
+      "topics": [
+        "intrigue",
+        "attack-surface-discovery",
+        "osint",
+        "recon",
+        "asset-discovery"
+      ],
+      "teaser": "Jonathan Cran demonstrates using open-source Intrigue Core for automated external asset discovery and attack surface mapping.",
+      "summary": null,
+      "durationSeconds": 1887
     }
   ]
 }
