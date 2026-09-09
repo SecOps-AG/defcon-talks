@@ -20,7 +20,7 @@
         "vulnerability-research"
       ],
       "teaser": "Trace the evolution of how hackers have shaped security practices, tools, and industry standards over time.",
-      "summary": null,
+      "summary": "### The Pre-Hacker Security Era: Compliance vs. Vulnerability\nAt 00:00, Chris Wysopal (known in the hacker underground as Weld Pond) takes the stage at the Packet Hacking Village to reflect on how hacker culture revolutionized the cybersecurity industry. He contrasts the modern vulnerability-driven ecosystem with the pre-hacker paradigm of the 1980s and early 1990s, where computer security was defined strictly by feature checklists, military-style access control matrices (Orange Book), and perimeter firewalls, with zero attention paid to software flaws.\n\n### L0pht Heavy Industries and the Birth of Vulnerability Research\nAt 07:45 and 15:20, Wysopal recounts the history of L0pht Heavy Industries, the legendary hacker think-tank based in Boston. The L0pht pioneered the discipline of independent software vulnerability research, discovering and publishing catastrophic buffer overflows in commercial software. Wysopal discusses authoring L0phtCrack, the pioneering password auditing tool that demonstrated that Microsoft's LAN Manager (LM) hashing algorithms were trivially crackable, shocking enterprise IT administrators who had assumed Windows NT passwords were secure.\n\n### The Landmark 1998 Senate Testimony\nAt 24:17, Wysopal reflects on the historic May 1998 US Senate testimony where seven L0pht members testified before the Committee on Governmental Affairs. Testifying that they could take down the entire Internet in 30 minutes due to vulnerabilities in BGP routing and DNS, the group captured global headlines. Wysopal explains how this pivotal hearing forced corporate software giants and federal agencies to acknowledge that software vendors bore responsibility for systemic software flaws.\n\n### The Evolution of Disclosure and Application Security\nAt 32:40, the presentation charts the contentious evolution of vulnerability disclosure—from the initial corporate hostility of cease-and-desist letters, through the confrontational era of Full Disclosure mailing lists, to modern coordinated disclosure and bug bounty programs. Wysopal details how his experiences reverse-engineering proprietary binaries led him to co-found Veracode, helping pioneer static application security testing (SAST) to eliminate vulnerabilities during software compilation.\n\n### The Enduring Hacker Ethos in Modern InfoSec\nConcluding between 40:10 and 47:16, Wysopal delivers an inspiring message on the role of the hacker mindset. He argues that automated scanners and compliance frameworks alone will never secure cyberspace: defenders must maintain the adversary's relentless curiosity, lateral thinking, and willingness to dissect complex systems down to their constituent parts. He urges attendees to preserve the collaborative spirit that transformed an underground counterculture into the foundation of global security.\n\n(AI summary — Gemini 3.8 Flash)",
       "durationSeconds": 2860
     },
     {
@@ -38,7 +38,7 @@
         "risk-management"
       ],
       "teaser": "Strategies for communicating security incidents and breaches to stakeholders, media, and the public.",
-      "summary": "Network Security: Breaking the Bad News. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Network Security: Breaking the Bad News. Packet analysis and network security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2692
     },
     {
@@ -57,7 +57,7 @@
         "network-tools"
       ],
       "teaser": "Build a custom 802.11AC monitor mode device for advanced wireless packet capture and analysis.",
-      "summary": null,
+      "summary": "### The Scalability Crisis in Gigabit Wi-Fi Sniffing\nAt 00:00, Vivek Ramachandran and Thomas d'Otreppe (lead author of the Aircrack-ng suite) open this advanced workshop in the Packet Hacking Village by addressing the obsolescence of traditional wireless penetration testing hardware. For over a decade, researchers relied on portable USB Wi-Fi dongles (such as Alfa cards with Atheros AR9271 chipsets). However, the rise of 802.11ac (Wi-Fi 5) renders USB 2.0 adapters completely incapable of monitoring multi-gigabit wireless traffic.\n\n### Architectural Complexities of 802.11ac VHT Networks\nAt 08:30 and 16:15, the speakers analyze the physical and MAC layer innovations that make 802.11ac difficult to audit. Very High Throughput (VHT) networks utilize wide channel allocations (up to 80 MHz and 160 MHz), complex 256-QAM modulation, and Multi-User Multiple-Input Multiple-Output (MU-MIMO) beamforming. Capturing these signals requires immense radio receiver bandwidth, sophisticated radio frequency front-ends, and high-throughput bus interfaces to prevent massive packet drop rates.\n\n### Building a High-Performance 802.11ac Monitoring Appliance\nAt 23:45 and 30:21, the presenters walk through assembling an affordable, enterprise-grade 802.11ac monitoring rig. Rather than waiting for functional USB 3.0 adapters, they recommend utilizing mini-PCIe or PCIe cards equipped with Qualcomm Atheros QCA9880 or Intel 7260 chipsets mounted onto single-board computers or laptop PCIe slots. They discuss driver architectures, detailing how the open-source `ath10k` driver and Linux `mac80211` subsystem handle 802.11ac frame aggregation (A-MPDU and A-MSDU).\n\n### Driver Patching, Monitor Mode, and Packet Injection\nAt 38:50 and 46:30, Thomas d'Otreppe demonstrates patching driver source code to enable true monitor mode and raw frame injection across 5 GHz channels. He explains common pitfalls, such as driver firmware crashing when exposed to malformed Radiotap headers or failing to capture VHT management frames. Participants are guided through compiling modified kernel modules, verifying monitor mode via `iw`, and executing packet captures in Wireshark.\n\n### Advanced Wireless Auditing: Unusual Channel Widths and MU-MIMO\nConcluding between 52:10 and 59:19, the speakers demonstrate capturing aggregated wireless frames across non-standard channel widths (including 5, 10, and 80 MHz channels). They showcase Aircrack-ng interoperability with high-speed captures, demonstrating how analysts can reliably capture WPA2/WPA3 four-way handshakes and perform real-time protocol analysis in dense, modern 5 GHz enterprise wireless deployments.\n\n(AI summary — Gemini 3.8 Flash)",
       "durationSeconds": 3611
     },
     {
@@ -76,7 +76,7 @@
         "red-teaming"
       ],
       "teaser": "Techniques for evading detection when targeted by domain admin hunters during red team engagements.",
-      "summary": "Network Security: Fooling the Hound  Deceiving Doman Admin Hunters. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Network Security: Fooling the Hound  Deceiving Doman Admin Hunters. Packet analysis and network security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2095
     },
     {
@@ -95,7 +95,7 @@
         "incident-analysis"
       ],
       "teaser": "Real-world attack patterns and exploitation techniques captured through a monitored SMB honeypot deployment.",
-      "summary": null,
+      "summary": "### The Post-WannaCry Threat Landscape\nAt 00:00, Tan Kean Siong opens by recounting the global cybersecurity crisis of May 2017: the explosive outbreak of the WannaCry ransomware worm. Weaponizing the leaked NSA exploit EternalBlue (MS17-010), WannaCry crippled hospitals, logistics networks, and corporate systems across the globe in a matter of hours. In response to this historic event, Kean Siong designed and deployed an experimental SMB honeypot infrastructure to capture, dissect, and monitor weaponized worm traffic in real time.\n\n### Architecture of the 15-Day SMB Honeypot Deployment\nAt 06:15 and 12:40, the speaker details the deployment methodology used to monitor Server Message Block (SMB) exploitation. Utilizing the open-source Dionaea honeypot framework paired with virtualized Windows 7 and Samba instances, the team exposed raw TCP ports 139 and 445 directly to public Internet IP ranges. The architecture was engineered to emulate vulnerable SMBv1 protocol handshakes, capture DoublePulsar backdoor pings, and log incoming binary payloads into secure, isolated analysis sandboxes.\n\n### Analyzing the Mechanics of EternalBlue and DoublePulsar\nAt 19:46, Kean Siong breaks down the telemetry collected across the 15-day recording period. He illustrates how automated threat actors continuously probed the IPv4 address space for vulnerable SMBv1 endpoints. He explains the exact payload exchange: attackers first injected EternalBlue to achieve kernel-level execution via an SrvTransaction2 buffer overflow, installed the in-memory DoublePulsar ring-0 implant, and subsequently leveraged DoublePulsar to upload and execute secondary malware payloads.\n\n### The Rise of SambaCry and Multi-Platform Exploitation\nAt 27:30 and 33:15, the presentation examines the simultaneous emergence of SambaCry (CVE-2017-7494), an arbitrary code execution vulnerability affecting Samba file-sharing daemons on Unix and Linux systems. Kean Siong shows how attackers rapidly weaponized SambaCry to upload malicious shared libraries (`.so` files) into world-writable network shares, successfully recruiting networked storage appliances, home routers, and Linux servers into distributed cryptocurrency mining botnets.\n\n### Honeypot Forensics, Threat Intelligence, and SMB Hardening\nConcluding between 36:50 and 39:42, Kean Siong shares lessons learned from managing high-exposure honeypots. He emphasizes that unpatched legacy protocols like SMBv1 remain continuous targets for automated cybercrime syndicates. He urges network administrators to completely disable SMBv1 across enterprise fleets, enforce strict perimeter filtering on ports 139 and 445 at Internet edge gateways, and deploy active network deception to detect early reconnaissance in internal subnets.\n\n(AI summary — Gemini 3.8 Flash)",
       "durationSeconds": 2411
     },
     {
@@ -113,8 +113,8 @@
         "security-failures",
         "lessons-learned"
       ],
-      "teaser": "Deep analysis of the OPM breach\u2014what went wrong, how attackers exploited systemic vulnerabilities, and key lessons.",
-      "summary": "Network Security: Demystifying The OPM breach, WTF Really Happened. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
+      "teaser": "Deep analysis of the OPM breach—what went wrong, how attackers exploited systemic vulnerabilities, and key lessons.",
+      "summary": "Network Security: Demystifying The OPM breach, WTF Really Happened. Packet analysis and network security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3274
     },
     {
@@ -133,7 +133,7 @@
         "web-application-hacking"
       ],
       "teaser": "Effective cross-site scripting (XSS) exploitation techniques and strategies for maximizing impact in penetration tests.",
-      "summary": null,
+      "summary": "### Moving Beyond the Trivial Alert Box\nAt 00:00, renowned web application security researcher Brute Logic takes the stage at the Packet Hacking Village to present \"XSS For the Win.\" He begins with a critique of how Cross-Site Scripting (XSS) is commonly perceived by developers and penetration testers: all too often, XSS vulnerabilities are dismissed as low-impact issues simply because researchers demonstrate them with a harmless `<script>alert(1)</script>` pop-up window.\n\n### The True Exploitation Potential of Client-Side Injection\nAt 03:15 and 06:40, Brute Logic demonstrates why XSS remains one of the most lethal vulnerability classes on the web. Because an XSS payload executes arbitrary JavaScript directly within the victim's authenticated browser context, the attacker effectively inherits the victim's entire identity and permissions. He demonstrates techniques for hijacking session cookies (bypassing loose cookie configurations), dynamically exfiltrating localStorage tokens, and stealthily reading sensitive personal data from Document Object Model (DOM) trees.\n\n### Automated Credential Harvesting and Intranet Reconnaissance\nAt 07:48 and 10:25, the speaker showcases advanced JavaScript payloads that transform a compromised browser into an active offensive foothold. He details creating fake, CSS-styled overlay login forms that prompt users to re-authenticate, harvesting plaintext passwords directly from browser autofill caches. Furthermore, he explains how JavaScript running in the browser can be weaponized to execute internal port scanning and intranet host discovery, allowing external attackers to map and target internal network routers and firewalls behind corporate perimeter NATs.\n\n### Evading Modern WAFs and Filter Mechanics\nAt 12:10, Brute Logic shares signature-evasion techniques designed to bypass Web Application Firewalls (WAFs) and input sanitization filters. He demonstrates character encoding tricks, alternative execution contexts (such as SVG vector handlers and autofocus attributes), and string concatenation techniques that circumvent keyword blocklists while remaining fully executable in modern browser rendering engines.\n\n### Practical Defensive Architecture and Content Security Policy\nConcluding around 14:49, Brute Logic reviews essential defense-in-depth principles for web developers. He stresses that input filtering alone is insufficient: developers must implement contextual context-aware output encoding across all user reflection points, deploy `HttpOnly` flags on session cookies, and enforce strict, non-bypassable Content Security Policy (CSP) headers to neutralize inline script execution across modern web applications.\n\n(AI summary — Gemini 3.8 Flash)",
       "durationSeconds": 926
     },
     {
@@ -152,7 +152,7 @@
         "man-in-the-middle"
       ],
       "teaser": "Explore DNS-based attack vectors that cause users to connect to attacker-controlled domains instead of intended targets.",
-      "summary": "Network Security: You're Going to Connect to the Wrong Domain Name. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Network Security: You're Going to Connect to the Wrong Domain Name. Packet analysis and network security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1384
     },
     {
@@ -171,7 +171,7 @@
         "post-exploitation"
       ],
       "teaser": "Techniques for establishing persistent backdoors and maintaining access in cloud environments.",
-      "summary": null,
+      "summary": "### Shifting Threat Landscapes in Amazon Web Services\nAt 00:00, Peter Ewane opens by examining the rapid migration of modern enterprise infrastructure to Amazon Web Services (AWS). While cloud computing provides unmatched scalability and deployment speed, security teams frequently struggle to adapt traditional on-premises defensive concepts to cloud environments. Ewane explains that once an adversary compromises initial AWS credentials, the game shifts to establishing stealthy, resilient persistence mechanisms that survive credential rotation.\n\n### Post-Exploitation and Initial IAM Compromise\nAt 05:45 and 10:20, Ewane outlines common initial access vectors, such as leaked access key pairs in public GitHub repositories, server-side request forgery (SSRF) vulnerabilities accessing the EC2 instance metadata service (`169.254.169.254`), and overly permissive IAM roles. He demonstrates how an attacker evaluates initial privileges, using AWS CLI commands to enumerate permissions, discover attached policies, and map accessible cloud resources without generating immediate alarms.\n\n### Establishing Stealthy Persistence in AWS Environments\nAt 16:40, the presentation explores sophisticated persistence techniques within AWS. Ewane details how an attacker can create secondary administrative access keys on dormant IAM user accounts, attach custom policy versions with subtle privilege escalation paths, or inject malicious startup commands into EC2 User Data launch configurations. He also demonstrates deploying rogue AWS Lambda functions triggered by S3 bucket events, creating serverless backdoors that execute automatically upon legitimate business activity.\n\n### Evasion of CloudTrail and Security Telemetry\nAt 22:15 and 27:30, Ewane examines how attackers evade detection from AWS monitoring services like CloudTrail and GuardDuty. He reviews methods for locating unmonitored AWS geographic regions where logging is disabled by default, modifying CloudTrail trail configurations, and creating ephemeral compute instances that are spawned, executed, and terminated between standard log aggregation polling cycles.\n\n### Cloud Incident Response and Hardening Methodologies\nConcluding between 30:50 and 33:47, Ewane provides comprehensive defensive guidance for cloud security architects. He advocates enforcing strict least-privilege IAM policies, activating multi-region CloudTrail logging with cryptographic log file validation, implementing service control policies (SCPs) via AWS Organizations, and utilizing automated security auditing tools to continuously identify shadow administrator permissions and exposed cloud assets.\n\n(AI summary — Gemini 3.8 Flash)",
       "durationSeconds": 2040
     },
     {
@@ -190,7 +190,7 @@
         "command-and-control"
       ],
       "teaser": "Innovative covert TCP techniques for hiding malicious traffic and establishing undetectable command-and-control channels.",
-      "summary": "Network Security: Covert TCP with a Twist. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Network Security: Covert TCP with a Twist. Packet analysis and network security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3369
     },
     {
@@ -208,7 +208,7 @@
         "portia-tool",
         "security-automation"
       ],
-      "teaser": "Introduction to Portia\u2014a network analysis tool for reconnaissance, packet manipulation, and security testing.",
+      "teaser": "Introduction to Portia—a network analysis tool for reconnaissance, packet manipulation, and security testing.",
       "summary": null,
       "durationSeconds": 1967
     },
@@ -228,7 +228,7 @@
         "security-culture"
       ],
       "teaser": "How neurodivergent perspectives strengthen security operations and improve team effectiveness in incident response.",
-      "summary": "Research: Strengthen Secops  By Leveraging Neurodiversity. Security research methodologies and findings.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Research: Strengthen Secops  By Leveraging Neurodiversity. Security research methodologies and findings.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 993
     },
     {
@@ -246,7 +246,7 @@
         "dos-attacks",
         "network-exploitation"
       ],
-      "teaser": "Techniques and defense mechanisms for IP spoofing attacks\u2014a foundational network-layer exploitation method.",
+      "teaser": "Techniques and defense mechanisms for IP spoofing attacks—a foundational network-layer exploitation method.",
       "summary": null,
       "durationSeconds": 3125
     },
@@ -266,7 +266,7 @@
         "threat-detection"
       ],
       "teaser": "Strategies for gaining complete visibility into network traffic and data flows to detect suspicious activity.",
-      "summary": "Data Analytics: Iron Sights for Your Data. Security analytics and data analysis.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Data Analytics: Iron Sights for Your Data. Security analytics and data analysis.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1365
     },
     {
@@ -303,8 +303,8 @@
         "security-architecture",
         "network-performance"
       ],
-      "teaser": "Evolution of high-speed packet processing technology\u2014from historical methods to modern security infrastructure.",
-      "summary": "Network Security: Past, Present and Future of High Speed Packet. Packet analysis and network security.\n\n(AI summary \u2014 Claude Haiku)",
+      "teaser": "Evolution of high-speed packet processing technology—from historical methods to modern security infrastructure.",
+      "summary": "Network Security: Past, Present and Future of High Speed Packet. Packet analysis and network security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1217
     },
     {
@@ -342,7 +342,7 @@
         "incident-planning"
       ],
       "teaser": "Move beyond tabletop exercises to conduct realistic incident response drills that test actual security procedures.",
-      "summary": "Incident Response: Go Beyond Tabletop Scenarios. Incident handling and response planning.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Incident Response: Go Beyond Tabletop Scenarios. Incident handling and response planning.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3467
     },
     {
@@ -360,7 +360,7 @@
         "enterprise-security",
         "cost-effective-security"
       ],
-      "teaser": "Building enterprise-grade security programs with limited budgets\u2014practical strategies for maximizing impact.",
+      "teaser": "Building enterprise-grade security programs with limited budgets—practical strategies for maximizing impact.",
       "summary": null,
       "durationSeconds": 2985
     },
@@ -379,8 +379,8 @@
         "threat-intelligence",
         "vulnerability-management"
       ],
-      "teaser": "Deep dive into the CVE identification and disclosure process\u2014how vulnerabilities are cataloged and standardized.",
-      "summary": "Vulnerability Disclosure: CVE IDs. CVE processes and vulnerability management.\n\n(AI summary \u2014 Claude Haiku)",
+      "teaser": "Deep dive into the CVE identification and disclosure process—how vulnerabilities are cataloged and standardized.",
+      "summary": "Vulnerability Disclosure: CVE IDs. CVE processes and vulnerability management.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2800
     },
     {
@@ -398,7 +398,7 @@
         "social-engineering",
         "security-awareness"
       ],
-      "teaser": "Why 'Layer 8' (people) are the most critical security layer\u2014addressing human behavior in security programs.",
+      "teaser": "Why 'Layer 8' (people) are the most critical security layer—addressing human behavior in security programs.",
       "summary": null,
       "durationSeconds": 2402
     },
@@ -418,7 +418,7 @@
         "forensic-investigation"
       ],
       "teaser": "Visual forensics techniques for analyzing network traffic and file systems to reconstruct attack timelines.",
-      "summary": "Forensics: Visual Network and File Forensics. Network and file system forensic techniques.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Forensics: Visual Network and File Forensics. Network and file system forensic techniques.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1738
     }
   ]
