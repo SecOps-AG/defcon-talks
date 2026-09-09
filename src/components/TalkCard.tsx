@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { formatDuration } from "@/lib/search";
 import type { SearchEntry, TalkIndexEntry } from "@/lib/types";
+import { BookmarkButton } from "@/components/BookmarkButton";
 
 const MAX_TOPICS = 3;
 
@@ -8,8 +9,8 @@ const MAX_TOPICS = 3;
  * Cards take a TalkIndexEntry, or optionally a SearchEntry with matched summary info.
  */
 export function TalkCard({ talk }: { talk: TalkIndexEntry | Partial<SearchEntry> }) {
-  const shown = talk.topics.slice(0, MAX_TOPICS);
-  const overflow = talk.topics.length - shown.length;
+  const shown = (talk.topics ?? []).slice(0, MAX_TOPICS);
+  const overflow = (talk.topics ?? []).length - shown.length;
   const duration = formatDuration(talk.durationSeconds);
 
   return (
@@ -60,14 +61,17 @@ export function TalkCard({ talk }: { talk: TalkIndexEntry | Partial<SearchEntry>
           ) : null}
         </p>
 
-        <h3 className="font-display text-base font-semibold leading-snug text-acid">
-          <Link href={`/talks/${talk.slug}`} className="hover:text-cyan">
-            {talk.title}
-          </Link>
-        </h3>
+        <div className="flex items-start justify-between gap-2">
+          <h3 className="font-display text-base font-semibold leading-snug text-acid">
+            <Link href={`/talks/${talk.slug}`} className="hover:text-cyan">
+              {talk.title}
+            </Link>
+          </h3>
+          {talk.id ? <BookmarkButton talkId={talk.id} /> : null}
+        </div>
 
-        {talk.speakers.length > 0 ? (
-          <p className="text-xs text-mint/65">{talk.speakers.join(" · ")}</p>
+        {(talk.speakers ?? []).length > 0 ? (
+          <p className="text-xs text-mint/65">{(talk.speakers ?? []).join(" · ")}</p>
         ) : null}
 
         {(talk as Partial<SearchEntry>).matchedInSummary ? (
