@@ -106,6 +106,24 @@
       "teaser": "Accountability w/o accountability  A censorship measurement case study",
       "summary": null,
       "durationSeconds": 2093
+    },
+    {
+      "youtubeId": "GcgIfYLCrDQ",
+      "slug": "david-scott-lewis-hack-back-not-an-option-but-a-necessity",
+      "title": "Hack Back: Not An Option But A Necessity",
+      "speakers": [
+        "David Scott Lewis"
+      ],
+      "track": "policy",
+      "topics": [
+        "hack-back",
+        "active-defense",
+        "policy",
+        "cyber-warfare"
+      ],
+      "teaser": "An examination of active defense and hack back as necessary offensive cyber deterrence from ethical, policy, and strategic perspectives.",
+      "summary": null,
+      "durationSeconds": 5571
     }
   ]
 }
