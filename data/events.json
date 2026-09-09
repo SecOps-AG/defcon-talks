@@ -119,6 +119,14 @@
       "year": 2011,
       "dates": "4-7 August 2011",
       "location": "The Rio Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-18",
+      "name": "DEF CON 18",
+      "shortName": "DC18",
+      "year": 2010,
+      "dates": "30 July - 1 August 2010",
+      "location": "The Rio Hotel & Casino, Las Vegas"
     }
   ]
 }
