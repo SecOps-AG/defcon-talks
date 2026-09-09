@@ -15,7 +15,10 @@
       "track": "appsec",
       "topics": [
         "appsec",
-        "threat-intel"
+        "threat-intel",
+        "application-security",
+        "vulnerability-research",
+        "exploitation"
       ],
       "teaser": "Automate Pen Testing in Dockerized CI CD Environment",
       "summary": null,
@@ -32,7 +35,9 @@
       "topics": [
         "appsec",
         "threat-intel",
-        "community"
+        "community",
+        "application-security",
+        "vulnerability-research"
       ],
       "teaser": "huskyCI Finding  Flaws in CI Before Deploying Them",
       "summary": null,
@@ -49,7 +54,9 @@
       "topics": [
         "appsec",
         "threat-intel",
-        "community"
+        "community",
+        "application-security",
+        "vulnerability-research"
       ],
       "teaser": "Purple Team Strategies for Application Security",
       "summary": null,
@@ -66,7 +73,9 @@
       "topics": [
         "community",
         "threat-intel",
-        "appsec"
+        "appsec",
+        "application-security",
+        "vulnerability-research"
       ],
       "teaser": "Keynote The Unabridged History of Application Security",
       "summary": null,
@@ -83,7 +92,9 @@
       "topics": [
         "threat-intel",
         "appsec",
-        "community"
+        "community",
+        "application-security",
+        "vulnerability-research"
       ],
       "teaser": "Vulnerabilities that Hide from Your Tools",
       "summary": null,
@@ -100,7 +111,9 @@
       "topics": [
         "appsec",
         "threat-intel",
-        "community"
+        "community",
+        "application-security",
+        "vulnerability-research"
       ],
       "teaser": "Crypto Failures and how to avoid them",
       "summary": null,
@@ -117,7 +130,9 @@
       "topics": [
         "policy",
         "threat-intel",
-        "appsec"
+        "appsec",
+        "application-security",
+        "vulnerability-research"
       ],
       "teaser": "How bad could it be Inside Law Enforcement",
       "summary": null,
@@ -134,7 +149,9 @@
       "topics": [
         "community",
         "threat-intel",
-        "appsec"
+        "appsec",
+        "application-security",
+        "vulnerability-research"
       ],
       "teaser": "Welcome and Introductions",
       "summary": null,
