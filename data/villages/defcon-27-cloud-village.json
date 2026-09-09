@@ -17,7 +17,7 @@
         "cloud",
         "appsec"
       ],
-      "teaser": "DYI Azure Security Assesment",
+      "teaser": "DIY methodology for assessing and auditing Azure cloud security posture.",
       "summary": null,
       "durationSeconds": 2010
     },
@@ -28,13 +28,15 @@
       "speakers": [
         "Setu Parimi"
       ],
-      "track": "cloud",
+      "track": "blue-team",
       "topics": [
-        "cloud",
-        "appsec",
-        "policy"
+        "policy-as-code",
+        "cloud-compliance",
+        "automated-compliance",
+        "governance",
+        "cloud-security"
       ],
-      "teaser": "PacBot Policy as Code from T Mobile OSS",
+      "teaser": "Policy-as-code automation for managing cloud security and compliance policies.",
       "summary": null,
       "durationSeconds": 1601
     },
@@ -45,64 +47,72 @@
       "speakers": [
         "Rod Soto"
       ],
-      "track": "cloud",
+      "track": "blue-team",
       "topics": [
-        "cloud",
-        "blue-team",
-        "appsec"
+        "cloud-auditing",
+        "siem",
+        "splunk",
+        "elk-stack",
+        "security-monitoring"
       ],
-      "teaser": "Using Splunk or ELK for Auditing AWS GCP Azure Security",
+      "teaser": "SIEM tools (Splunk, ELK) for cloud security auditing and threat detection.",
       "summary": null,
       "durationSeconds": 1534
     },
     {
       "youtubeId": "6NQeop_47EM",
       "slug": "rotem-bar-hacking-into-automative-clouds",
-      "title": "Hacking into Automative Clouds",
+      "title": "Hacking into Automotive Clouds",
       "speakers": [
         "Rotem Bar"
       ],
-      "track": "cloud",
+      "track": "red-team",
       "topics": [
-        "cloud",
-        "car-hacking",
-        "red-team"
+        "automotive-cloud",
+        "cloud-exploitation",
+        "vehicle-connectivity",
+        "connected-cars",
+        "remote-attacks"
       ],
-      "teaser": "Hacking into Automative Clouds",
+      "teaser": "Cloud-based attacks on automotive systems and connected vehicle platforms.",
       "summary": null,
       "durationSeconds": 1945
     },
     {
       "youtubeId": "m5NxE9yZjR4",
       "slug": "erick-galinkin-your-blacklist-is-dead-airgap-everything",
-      "title": "Your Blacklist is Dead Airgap Everything",
+      "title": "Your Blacklist is Dead: Airgap Everything",
       "speakers": [
         "Erick Galinkin"
       ],
-      "track": "cloud",
+      "track": "blue-team",
       "topics": [
-        "cloud",
-        "defense",
-        "appsec"
+        "network-segmentation",
+        "airgapping",
+        "zero-trust",
+        "defense-strategy",
+        "cloud-architecture"
       ],
-      "teaser": "Your Blacklist is Dead Airgap Everything",
+      "teaser": "Network segmentation and airgapping strategies for cloud infrastructure defense.",
       "summary": null,
       "durationSeconds": 1602
     },
     {
       "youtubeId": "RiZxb98sGTk",
       "slug": "ayman-elsawah-using-paretos-principle-for-securing-aws-with-scps",
-      "title": "Using Paretos Principle for Securing AWS with SCPs",
+      "title": "Using Pareto's Principle for Securing AWS with SCPs",
       "speakers": [
         "Ayman Elsawah"
       ],
-      "track": "cloud",
+      "track": "blue-team",
       "topics": [
-        "cloud",
-        "appsec",
-        "policy"
+        "aws-security",
+        "service-control-policies",
+        "cloud-governance",
+        "compliance-automation",
+        "security-prioritization"
       ],
-      "teaser": "Using Paretos Principle for Securing AWS with SCPs",
+      "teaser": "AWS Service Control Policies for efficient cloud security and compliance management.",
       "summary": null,
       "durationSeconds": 1888
     },
@@ -113,13 +123,15 @@
       "speakers": [
         "Chris Le Roy"
       ],
-      "track": "cloud",
+      "track": "red-team",
       "topics": [
-        "cloud",
-        "red-team",
-        "appsec"
+        "cloud-exploitation",
+        "devsecops",
+        "infrastructure-attacks",
+        "ci-cd-security",
+        "build-pipeline-hacking"
       ],
-      "teaser": "Build to Hack Hack to Build",
+      "teaser": "Exploiting cloud infrastructure and CI/CD pipelines through build process compromises.",
       "summary": null,
       "durationSeconds": 1818
     }
