@@ -3,6 +3,7 @@ import { IBM_Plex_Mono, Orbitron } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
+import { CommandPaletteProvider } from "@/components/CommandPaletteProvider";
 import "./globals.css";
 
 const orbitron = Orbitron({
@@ -56,6 +57,7 @@ export default function RootLayout({
           </main>
           <SiteFooter />
         </div>
+        <CommandPaletteProvider />
         <Analytics />
       </body>
     </html>

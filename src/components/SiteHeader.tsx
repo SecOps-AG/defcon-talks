@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 
 const NAV = [
@@ -6,7 +8,12 @@ const NAV = [
   { href: "/tracks", label: "Tracks" },
   { href: "/topics", label: "Topics" },
   { href: "/speakers", label: "Speakers" },
+  { href: "/saved", label: "Saved" },
 ];
+
+function openPalette() {
+  document.dispatchEvent(new KeyboardEvent("keydown", { key: "k", ctrlKey: true, bubbles: true }));
+}
 
 export function SiteHeader() {
   return (
@@ -26,16 +33,26 @@ export function SiteHeader() {
             Unofficial
           </span>
         </div>
-        <nav
-          aria-label="Primary"
-          className="flex flex-wrap items-center gap-x-5 gap-y-1 text-[11px] uppercase tracking-[0.16em] text-mint/80"
-        >
-          {NAV.map((item) => (
-            <Link key={item.href} href={item.href} className="hover:text-cyan">
-              {item.label}
-            </Link>
-          ))}
-        </nav>
+        <div className="flex items-center gap-4">
+          <nav
+            aria-label="Primary"
+            className="flex flex-wrap items-center gap-x-5 gap-y-1 text-[11px] uppercase tracking-[0.16em] text-mint/80"
+          >
+            {NAV.map((item) => (
+              <Link key={item.href} href={item.href} className="hover:text-cyan">
+                {item.label}
+              </Link>
+            ))}
+          </nav>
+          <button
+            type="button"
+            onClick={openPalette}
+            aria-label="Open command palette (Ctrl+K)"
+            className="hidden sm:flex items-center gap-1.5 rounded border border-acid/20 px-2 py-1 font-mono text-[10px] text-mint/40 transition hover:border-acid/50 hover:text-mint/70"
+          >
+            <span>⌘K</span>
+          </button>
+        </div>
       </div>
     </header>
   );
