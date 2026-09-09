@@ -117,7 +117,7 @@
         "sdr"
       ],
       "teaser": "Details building open-source 2G, 4G, and 5G cellular base station testbeds with SDRs to evaluate and benchmark EFF's Rayhunter IMSI catcher detector.",
-      "summary": "Benchmarking Cell-Site Simulator Detectors\n\nThe Electronic Frontier Foundation’s open-source Rayhunter project turns commercial mobile hotspots into monitors that detect malicious cellular base stations and Stingray interception.\n\nBuilding Open-Source Cellular Testbeds\n\nRon Broberg details how researchers deploy open-source software cellular stacks—including OpenAirInterface (OAI) 5G, srsRAN 4G, OpenBTS, and YateBTS—on software-defined radio hardware.\n\nSimulating Rogue Base Station Attacks\n\nEmulating malicious cell-site behaviors (such as forced 2G cipher downgrades, IMSI harvesting, and silent SMS pinging) enables rigorous validation of Rayhunter's detection algorithms.\n\nAdvancing Cellular Privacy and Defense\n\nOpen testbeds provide an accessible foundation for security researchers to develop and verify new counter-surveillance capabilities against illicit cellular monitoring.",
+      "summary": "Benchmarking Cell-Site Simulator Detectors\n\nThe Electronic Frontier Foundation\u2019s open-source Rayhunter project turns commercial mobile hotspots into monitors that detect malicious cellular base stations and Stingray interception.\n\nBuilding Open-Source Cellular Testbeds\n\nRon Broberg details how researchers deploy open-source software cellular stacks\u2014including OpenAirInterface (OAI) 5G, srsRAN 4G, OpenBTS, and YateBTS\u2014on software-defined radio hardware.\n\nSimulating Rogue Base Station Attacks\n\nEmulating malicious cell-site behaviors (such as forced 2G cipher downgrades, IMSI harvesting, and silent SMS pinging) enables rigorous validation of Rayhunter's detection algorithms.\n\nAdvancing Cellular Privacy and Defense\n\nOpen testbeds provide an accessible foundation for security researchers to develop and verify new counter-surveillance capabilities against illicit cellular monitoring.",
       "durationSeconds": 1586
     },
     {
@@ -235,6 +235,25 @@
       "teaser": "Eric Escobar details building an out-of-band command-and-control infrastructure using $25 Meshtastic LoRa radios to manage remote Linux dropboxes.",
       "summary": "Out-of-Band Remote Host Management\n\nMaintaining reliable command-and-control (C2) to remote physical dropboxes or isolated hardware in denied network environments presents major connectivity challenges.\n\nMeshtastic LoRa as an Out-of-Band C2 Channel\n\nEric Escobar demonstrates how low-cost ($25) LoRa hardware and the open Meshtastic mesh network can serve as a decentralized, long-range command transport.\n\nExecuting Remote Shell Commands Over LoRa\n\nEncoding encrypted terminal commands and diagnostic scripts into LoRa text messages enables operators to manage Linux endpoints without cellular modems or local Wi-Fi.\n\nOperational Advantages and Constraints\n\nWhile constrained by low LoRa bandwidth, Meshtastic C2 provides a resilient, off-grid communication channel for troubleshooting, exfiltration, and stealthy endpoint management.",
       "durationSeconds": 2351
+    },
+    {
+      "youtubeId": "B6_my_bDSx0",
+      "slug": "layer-2-liberation-things-your-ap-never-dreamed-of",
+      "title": "Layer 2 Liberation: Things Your AP Never Dreamed Of",
+      "speakers": [
+        "Allan Riordan Ball"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wifi",
+        "802-11",
+        "scapy",
+        "rf",
+        "wireless"
+      ],
+      "teaser": "Allan Riordan Ball demonstrates bypassing SSIDs, handshakes, and IP stacks to sling raw 802.11 frames with Scapy as a peer-to-peer data transport pipe.",
+      "summary": "Bypassing Higher Network Layers\n\nAllan Riordan Ball explores subverting the traditional Wi-Fi model by stripping away SSIDs, authentication handshakes, and IP routing to treat 802.11 strictly as a blank RF data pipe.\n\nCrafting Raw 802.11 Frames with Scapy\n\nUsing Python and Scapy alongside standard USB Wi-Fi adapters in monitor and injection modes, Ball constructs custom management and action frames capable of arbitrary data payload delivery.\n\nPractical Point-to-Point Wireless Hacks\n\nThe presentation demonstrates practical wireless hacks including ad-hoc file transfers, covert signaling, and beacon stuffing without requiring an intervening access point.\n\nDetection and Defensive Implications\n\nBecause raw frame transmissions bypass typical firewalling and connection logging, detecting non-standard layer 2 traffic requires specialized RF monitoring and frame-level anomaly detection.",
+      "durationSeconds": 1504
     }
   ]
 }
