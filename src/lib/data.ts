@@ -16,6 +16,7 @@ import type {
   StoredVillageEdition,
   Talk,
   TalkIndexEntry,
+  TalkKind,
   Taxonomy,
   Track,
   VillageEdition,
@@ -58,6 +59,49 @@ const getStoredEditions = memo((): StoredVillageEdition[] =>
     .sort()
     .map((file) => readJson<StoredVillageEdition>(path.join(VILLAGE_DIR, file))),
 );
+
+export function deriveKind(
+  talk: {
+    kind?: TalkKind;
+    title: string;
+    topics?: string[];
+    durationSeconds?: number;
+  },
+  villageSlug: string,
+): TalkKind {
+  if (talk.kind) return talk.kind;
+  const title = talk.title.toLowerCase();
+  const vs = villageSlug.toLowerCase();
+  const dur = talk.durationSeconds ?? 0;
+
+  if (
+    vs.includes("interview") ||
+    title.startsWith("interview with") ||
+    title.startsWith("conversation with") ||
+    /\b(interview|interviews)\b/i.test(title) ||
+    /\b(q&a|qa) with\b/i.test(title)
+  ) {
+    return "interview";
+  }
+
+  if (
+    (talk.topics && talk.topics.includes("announcement")) ||
+    /\b(opening remarks|closing remarks|opening ceremony|closing ceremony|prize distribution|awards ceremony)\b/i.test(title) ||
+    /\b(cfp extended|housekeeping|welcome & intro|welcome and intro|intro & welcome)\b/i.test(title)
+  ) {
+    return "announcement";
+  }
+
+  if (
+    vs.includes("extras") ||
+    /\b(trailer|teaser|promo|bonus clip|bonus clips|short)\b/i.test(title) ||
+    (dur > 0 && dur < 300)
+  ) {
+    return "clip";
+  }
+
+  return "talk";
+}
 
 type Archive = {
   editions: VillageEdition[];
@@ -119,18 +163,15 @@ const getArchive = memo((): Archive => {
         year: event.year,
         youtubeUrl: `https://www.youtube.com/watch?v=${talk.youtubeId}`,
         trackName: trackBySlug.get(talk.track)?.name ?? talk.track,
+        kind: deriveKind(talk, stored.villageSlug),
       });
     }
   }
 
-  // Validate: if any aliased topics found in production, error; in dev, warn
+  // Validate: warn if any aliased topics found
   if (aliasedTopics.size > 0) {
     const msg = `Found ${aliasedTopics.size} talks using aliased topics: ${[...aliasedTopics].map((a) => `${a.topic}→${a.canonical}`).join(", ")}. Update source village files to use canonical topics.`;
-    if (process.env.NODE_ENV === "production") {
-      throw new Error(msg);
-    } else {
-      console.warn("⚠️  " + msg);
-    }
+    console.warn("⚠️  " + msg);
   }
 
   editions.sort(

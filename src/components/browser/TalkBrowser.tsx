@@ -70,6 +70,9 @@ export function TalkBrowser({
   const [ready, setReady] = useState(false);
   const resultsRef = useRef<HTMLDivElement>(null);
 
+  const hasExtras = useMemo(() => talks.some((t) => t.kind !== "talk"), [talks]);
+  const allExtras = useMemo(() => talks.length > 0 && talks.every((t) => t.kind !== "talk"), [talks]);
+
   // Read deep-linked state after mount rather than during render: the page is
   // statically rendered, so reading the URL in the initial state would mismatch.
   useEffect(() => {
@@ -79,10 +82,14 @@ export function TalkBrowser({
         const parsed = filtersFromParams(params);
         setFilters(parsed);
         setDraftQuery(parsed.q);
+      } else if (allExtras) {
+        setFilters((f) => ({ ...f, includeExtras: true }));
       }
+    } else if (allExtras) {
+      setFilters((f) => ({ ...f, includeExtras: true }));
     }
     setReady(true);
-  }, [syncUrl]);
+  }, [syncUrl, allExtras]);
 
   // Typing stays responsive at thousands of talks: the list lags a frame, the input never does.
   const deferredQuery = useDeferredValue(draftQuery);
@@ -138,11 +145,24 @@ export function TalkBrowser({
 
   const clearAll = () => {
     setDraftQuery("");
-    setFilters({ ...EMPTY_FILTERS, sort: filters.sort });
+    setFilters({ ...EMPTY_FILTERS, includeExtras: allExtras, sort: filters.sort });
   };
 
   const renderPanel = () => (
     <div className="space-y-5">
+      {hasExtras ? (
+        <div className="border-b border-acid/15 pb-4">
+          <label className="flex cursor-pointer select-none items-center gap-2 text-[12px] text-mint/80 transition hover:text-acid">
+            <input
+              type="checkbox"
+              checked={filters.includeExtras}
+              onChange={(e) => update({ includeExtras: e.target.checked })}
+              className="rounded-sm border border-acid/40 bg-void accent-cyan"
+            />
+            <span>Include clips &amp; extras</span>
+          </label>
+        </div>
+      ) : null}
       {!hide.includes("years") ? (
         <FacetList
           label="Year"
@@ -282,7 +302,18 @@ export function TalkBrowser({
                 <span className="text-mint/30"> / {talks.length}</span>
               ) : null}
             </p>
-            <div className="flex items-center gap-2">
+            <div className="flex flex-wrap items-center gap-3">
+              {hasExtras ? (
+                <label className="flex cursor-pointer select-none items-center gap-1.5 text-[11px] uppercase tracking-[0.14em] text-mint/70 transition hover:text-acid">
+                  <input
+                    type="checkbox"
+                    checked={filters.includeExtras}
+                    onChange={(e) => update({ includeExtras: e.target.checked })}
+                    className="rounded-sm border border-acid/40 bg-void accent-cyan"
+                  />
+                  <span>Clips &amp; extras</span>
+                </label>
+              ) : null}
               {activeCount > 0 ? (
                 <button
                   type="button"
@@ -292,21 +323,23 @@ export function TalkBrowser({
                   Clear
                 </button>
               ) : null}
-              <label htmlFor="talk-sort" className="label">
-                Sort
-              </label>
-              <select
-                id="talk-sort"
-                value={filters.sort}
-                onChange={(event) => update({ sort: event.target.value as SortKey })}
-                className="rounded-sm border border-acid/25 bg-void px-2 py-1 font-mono text-[11px] text-mint outline-none focus:border-cyan"
-              >
-                {SORTS.map((option) => (
-                  <option key={option.value} value={option.value}>
-                    {option.label}
-                  </option>
-                ))}
-              </select>
+              <div className="flex items-center gap-2">
+                <label htmlFor="talk-sort" className="label">
+                  Sort
+                </label>
+                <select
+                  id="talk-sort"
+                  value={filters.sort}
+                  onChange={(event) => update({ sort: event.target.value as SortKey })}
+                  className="rounded-sm border border-acid/25 bg-void px-2 py-1 font-mono text-[11px] text-mint outline-none focus:border-cyan"
+                >
+                  {SORTS.map((option) => (
+                    <option key={option.value} value={option.value}>
+                      {option.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
             </div>
           </div>
 

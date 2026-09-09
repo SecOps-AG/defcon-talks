@@ -100,6 +100,11 @@ export default async function TalkPage({ params }: Props) {
           </p>
         ) : null}
         <div className="flex flex-wrap items-center gap-2">
+          {talk.kind && talk.kind !== "talk" ? (
+            <span className="chip !border-cyan/40 !text-cyan">
+              {talk.kind}
+            </span>
+          ) : null}
           <Link href={`/tracks/${talk.track}`} className="chip">
             {talk.trackName}
           </Link>
