@@ -1,0 +1,280 @@
+{
+  "villageSlug": "packet-hacking-village",
+  "villageName": "Packet Hacking Village",
+  "eventSlug": "defcon-23",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDDVPJi9-HmMvknZrVwKSOf",
+  "description": "",
+  "talks": [
+    {
+      "youtubeId": "lPsK_1Bi4dM",
+      "slug": "packet-capture-village-wayne-crowder-2",
+      "title": "Packet Capture Village - Wayne Crowder",
+      "speakers": [
+        "Fishing To Phishing"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2634
+    },
+    {
+      "youtubeId": "4yHko5upDSQ",
+      "slug": "packet-capture-village-vivek-ramachandran-80211-monitoring-with-2",
+      "title": "Packet Capture Village - Vivek Ramachandran - 80211 Monitoring with PCAP2XML",
+      "speakers": [
+        "SQLite"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2835
+    },
+    {
+      "youtubeId": "sh9ROo4OKsk",
+      "slug": "packet-capture-village-tony-martin-from-xss-to-root-on-your-nas-2",
+      "title": "Packet Capture Village - Tony Martin - From XSS to Root on Your NAS",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1724
+    },
+    {
+      "youtubeId": "2cQRSPFSY-s",
+      "slug": "packet-capture-village-theodora-titonis-how-machine-learning-fin-2",
+      "title": "Packet Capture Village - Theodora Titonis - How Machine Learning Finds Malware",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2689
+    },
+    {
+      "youtubeId": "JJr6hxcOB1Y",
+      "slug": "packet-capture-village-sam-bowne-is-your-android-app-secure-2",
+      "title": "Packet Capture Village - Sam Bowne - Is Your Android App Secure",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2833
+    },
+    {
+      "youtubeId": "4e-ENa1ygC0",
+      "slug": "packet-capture-village-robert-simmons-the-digital-cockroach-bait-2",
+      "title": "Packet Capture Village - Robert Simmons - The Digital Cockroach Bait Station",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2271
+    },
+    {
+      "youtubeId": "ab3gjFkUa1A",
+      "slug": "packet-capture-village-ron-taylor-2",
+      "title": "Packet Capture Village - Ron Taylor",
+      "speakers": [
+        "Violating Web Services"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2208
+    },
+    {
+      "youtubeId": "yb_KxMA2w2I",
+      "slug": "packet-capture-village-paul-vixie-passive-dns-collection-and-ana-2",
+      "title": "Packet Capture Village - Paul Vixie - Passive DNS Collection and Analysis",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2693
+    },
+    {
+      "youtubeId": "kBBhlhLqBjQ",
+      "slug": "packet-capture-village-mike-raggo-remaining-covert-in-an-overt-w-2",
+      "title": "Packet Capture Village - Mike Raggo - Remaining Covert in an Overt World",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1911
+    },
+    {
+      "youtubeId": "63zB7nCnqU0",
+      "slug": "packet-capture-village-ming-chow-tools-and-techniques-used-at-th-2",
+      "title": "Packet Capture Village - Ming Chow - Tools and Techniques Used at the Wall of Sheep",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1074
+    },
+    {
+      "youtubeId": "yAzULqBllXc",
+      "slug": "packet-capture-village-monzy-merza-real-world-automation-for-rap-2",
+      "title": "Packet Capture Village - Monzy Merza - Real World Automation for Rapid Response",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1034
+    },
+    {
+      "youtubeId": "PezFo2Y1BUA",
+      "slug": "packet-capture-village-nikhil-mittal-powershell-for-penetraton-t-2",
+      "title": "Packet Capture Village - Nikhil Mittal - Powershell for Penetraton Testers",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 3058
+    },
+    {
+      "youtubeId": "_yd2rzd9494",
+      "slug": "packet-capture-village-jay-beale-2",
+      "title": "Packet Capture Village - Jay Beale",
+      "speakers": [
+        "Jailing Programs via Docker"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 3516
+    },
+    {
+      "youtubeId": "SvQi6bkm-5A",
+      "slug": "packet-capture-village-joseph-muniz-and-aamir-lakhani-pen-testin-2",
+      "title": "Packet Capture Village - Joseph Muniz & Aamir Lakhani - Pen Testing with Raspberry Pi",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1604
+    },
+    {
+      "youtubeId": "4vPptUmyv4U",
+      "slug": "packet-capture-village-karl-koscher-2",
+      "title": "Packet Capture Village - Karl Koscher",
+      "speakers": [
+        "Sniffing SCADA"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1781
+    },
+    {
+      "youtubeId": "r_qViQBX7jE",
+      "slug": "packet-capture-village-leon-ward-the-packets-made-me-do-it-using-2",
+      "title": "Packet Capture Village - Leon Ward - The Packets Made Me Do It - Using OpenFPC",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2816
+    },
+    {
+      "youtubeId": "W7gSE7msPiU",
+      "slug": "packet-capture-village-lokesh-pidawekar-2",
+      "title": "Packet Capture Village - Lokesh Pidawekar",
+      "speakers": [
+        "Hackers Practice Ground"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2458
+    },
+    {
+      "youtubeId": "nnRo-sCnLas",
+      "slug": "packet-capture-village-michael-raggo-mobile-data-loss-threats-an-2",
+      "title": "Packet Capture Village - Michael Raggo - Mobile Data Loss - Threats and Countermeasures",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2131
+    },
+    {
+      "youtubeId": "bImHBLFrrdc",
+      "slug": "packet-capture-village-bob-simpson-mitm-101-2",
+      "title": "Packet Capture Village - Bob Simpson - MITM 101",
+      "speakers": [
+        "Easy Traffic Interception Techniques"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2016
+    },
+    {
+      "youtubeId": "0eRkQOlFn50",
+      "slug": "packet-capture-village-brian-wohlwinder-and-andrew-beard-2",
+      "title": "Packet Capture Village - Brian Wohlwinder and Andrew Beard",
+      "speakers": [
+        "I See You"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1920
+    },
+    {
+      "youtubeId": "HC1ychmVdA4",
+      "slug": "packet-capture-village-david-schwartzberg-hacking-the-next-gener-2",
+      "title": "Packet Capture Village - David Schwartzberg - Hacking the Next Generation",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2084
+    },
+    {
+      "youtubeId": "rjd-r4WA0PU",
+      "slug": "packet-capture-village-elliot-brink-2",
+      "title": "Packet Capture Village - Elliot Brink",
+      "speakers": [
+        "Global Honeypot Trends"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2244
+    },
+    {
+      "youtubeId": "ZUp6uOkHIcI",
+      "slug": "packet-capture-village-grecs-creating-real-threat-intelligence-w-2",
+      "title": "Packet Capture Village - Grecs - Creating REAL Threat Intelligence With Evernote",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 3136
+    }
+  ]
+}

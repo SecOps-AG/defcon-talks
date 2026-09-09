@@ -1,0 +1,101 @@
+{
+  "villageSlug": "safe-mode-thursday",
+  "villageName": "Safe Mode Thursday",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaA_z4a8GOEy1u-OadPWCxp1",
+  "description": "",
+  "talks": [
+    {
+      "youtubeId": "oGeEoaplMWA",
+      "slug": "safe-mode-feng-xiao-discovering-hidden-properties-to-attack-node-3",
+      "title": "Safe Mode - Feng Xiao - Discovering Hidden Properties to Attack Node js Ecosystem",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1785
+    },
+    {
+      "youtubeId": "DeU3H6-9zCE",
+      "slug": "safe-mode-oleksandr-mirosh-alvaro-munoz-scribbling-outside-the-l-2",
+      "title": "Safe Mode - Oleksandr Mirosh, Alvaro Munoz - Scribbling Outside the Lines of Template Sec",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2700
+    },
+    {
+      "youtubeId": "q1cnsIM1w7c",
+      "slug": "safe-mode-hadrien-barral-and-remi-geraud-stewart-dnssection-a-pr-2",
+      "title": "Safe Mode - Hadrien Barral and Rémi Géraud Stewart - DNSSECTION A practical attack on DN",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2261
+    },
+    {
+      "youtubeId": "AR5aLszXA2E",
+      "slug": "safe-mode-sean-metcalf-hacking-the-hybrid-cloud-2",
+      "title": "Safe Mode - Sean Metcalf - Hacking the Hybrid Cloud",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2630
+    },
+    {
+      "youtubeId": "L9UUD3a7xP4",
+      "slug": "safe-mode-wesley-neelen-and-rik-van-duijn-2",
+      "title": "Safe Mode - Wesley Neelen and Rik van Duijn",
+      "speakers": [
+        "Hacking Traffic Lights"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1177
+    },
+    {
+      "youtubeId": "wHsjf2mAHIM",
+      "slug": "safe-mode-shlomi-oberman-moshe-kol-ariel-schon-hacking-the-suppl-2",
+      "title": "Safe Mode - Shlomi Oberman, Moshe Kol, Ariel Schön - Hacking the Supply Chain",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2650
+    },
+    {
+      "youtubeId": "1H9tEfkjFXs",
+      "slug": "safe-mode-bill-demirkapi-3",
+      "title": "Safe Mode - Bill Demirkapi",
+      "speakers": [
+        "Demystifying Modern Windows Rootkits"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 2310
+    },
+    {
+      "youtubeId": "TDg092qe50g",
+      "slug": "safe-mode-erik-hunstad-domain-fronting-is-dead-long-live-domain-3",
+      "title": "Safe Mode - Erik Hunstad - Domain Fronting is Dead, Long Live Domain Fronting Using TLS 1.3",
+      "speakers": [],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1851
+    }
+  ]
+}

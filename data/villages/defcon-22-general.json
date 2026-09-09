@@ -3,103 +3,88 @@
   "villageName": "General",
   "eventSlug": "defcon-22",
   "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD2NCYeo0Uvh4TPL5B8z3nQ",
-  "description": "DEF CON 22 General track presentations covering a wide range of cybersecurity, hacking, and technology topics.",
+  "description": "",
   "talks": [
     {
       "youtubeId": "_ychb95jDdE",
-      "slug": "def-con-22-social-engineering-contest-interview",
-      "title": "DEF CON 22 Social Engineering Contest Interview",
+      "slug": "social-engineering-contest-interview",
+      "title": "Social Engineering Contest Interview",
       "speakers": [],
-      "track": "general",
-      "topics": [
-        "cybersecurity",
-        "hacking"
-      ],
-      "teaser": "DEF CON 22 general track presentation covering cybersecurity topics and research.",
+      "track": "",
+      "topics": [],
+      "teaser": "",
       "summary": null,
       "durationSeconds": 125
     },
     {
       "youtubeId": "LnBS4o6f5tw",
-      "slug": "def-con-22-ftc-zapping-rachel-contest-update",
-      "title": "DEF CON 22 FTC ZAPPING RACHEL Contest Update",
+      "slug": "ftc-zapping-rachel-contest-update",
+      "title": "FTC ZAPPING RACHEL Contest Update",
       "speakers": [],
-      "track": "general",
-      "topics": [
-        "cybersecurity",
-        "hacking"
-      ],
-      "teaser": "DEF CON 22 general track presentation covering cybersecurity topics and research.",
+      "track": "",
+      "topics": [],
+      "teaser": "",
       "summary": null,
       "durationSeconds": 76
     },
     {
       "youtubeId": "GzisJVqRp_g",
-      "slug": "friday---hacker-pyramid",
-      "title": "Friday - Hacker Pyramid",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "cybersecurity",
-        "hacking"
+      "slug": "friday",
+      "title": "Friday",
+      "speakers": [
+        "Hacker Pyramid"
       ],
-      "teaser": "DEF CON 22 general track presentation covering cybersecurity topics and research.",
+      "track": "",
+      "topics": [],
+      "teaser": "",
       "summary": null,
       "durationSeconds": 3161
     },
     {
       "youtubeId": "GR3pEVW6hZA",
-      "slug": "closing-ceremonies",
+      "slug": "closing-ceremonies-5",
       "title": "Closing Ceremonies",
       "speakers": [],
-      "track": "general",
-      "topics": [
-        "cybersecurity",
-        "hacking"
-      ],
-      "teaser": "DEF CON 22 general track presentation covering cybersecurity topics and research.",
+      "track": "",
+      "topics": [],
+      "teaser": "",
       "summary": null,
       "durationSeconds": 3784
     },
     {
       "youtubeId": "BQEHElSwXUM",
-      "slug": "saturday---hacker-pyramid",
-      "title": "Saturday - Hacker Pyramid",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "cybersecurity",
-        "hacking"
+      "slug": "saturday",
+      "title": "Saturday",
+      "speakers": [
+        "Hacker Pyramid"
       ],
-      "teaser": "DEF CON 22 general track presentation covering cybersecurity topics and research.",
+      "track": "",
+      "topics": [],
+      "teaser": "",
       "summary": null,
       "durationSeconds": 4133
     },
     {
       "youtubeId": "3_5rO3abWoM",
-      "slug": "hacker-jeopardy---night-1",
-      "title": "Hacker Jeopardy - Night 1",
-      "speakers": [],
-      "track": "general",
-      "topics": [
-        "cybersecurity",
-        "hacking"
+      "slug": "hacker-jeopardy",
+      "title": "Hacker Jeopardy",
+      "speakers": [
+        "Night 1"
       ],
-      "teaser": "DEF CON 22 general track presentation covering cybersecurity topics and research.",
+      "track": "",
+      "topics": [],
+      "teaser": "",
       "summary": null,
       "durationSeconds": 5571
     },
     {
       "youtubeId": "po9Cy0xaK9c",
-      "slug": "hacker-jeopardy--night-2",
+      "slug": "hacker-jeopardy-night-2-3",
       "title": "HACKER JEOPARDY- Night 2",
       "speakers": [],
-      "track": "general",
-      "topics": [
-        "cybersecurity",
-        "hacking"
-      ],
-      "teaser": "DEF CON 22 general track presentation covering cybersecurity topics and research.",
+      "track": "",
+      "topics": [],
+      "teaser": "",
       "summary": null,
       "durationSeconds": 6103
     }

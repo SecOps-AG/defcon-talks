@@ -2,7 +2,7 @@
   "villageSlug": "policy-village",
   "villageName": "Policy Village",
   "eventSlug": "defcon-32",
-  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBVQMmIp3EUhYsUpxXiwI63",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaB7a0dBUTtwxCb4V0pIQ2YR",
   "description": "DEF CON 32 Policy Village brings together hackers, policymakers, legal scholars, and government officials to explore cybersecurity legislation, regulation, and digital rights. Sessions focus on vulnerability disclosure policies, national cyber strategy, privacy protections, and the legal implications of emerging technologies.",
   "talks": [
     {
@@ -22,41 +22,6 @@
       "teaser": "Previews the schedule, major themes, and community events featured at DEF CON 32 Policy Village.",
       "summary": null,
       "durationSeconds": 174
-    },
-    {
-      "youtubeId": "uNb8VacA8Xw",
-      "slug": "video-team-policy-village-showcase",
-      "title": "Policy Village Showcase",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
-      "track": "community",
-      "topics": [
-        "policy",
-        "community",
-        "culture"
-      ],
-      "teaser": "The DEF CON Video Team captures highlights, attendee discussions, and the community atmosphere at DEF CON 32 Policy Village.",
-      "summary": null,
-      "durationSeconds": 35
-    },
-    {
-      "youtubeId": "0TdY9JUaybc",
-      "slug": "jake-braun-franklin-project",
-      "title": "The Franklin Project",
-      "speakers": [
-        "Jake Braun"
-      ],
-      "track": "policy",
-      "topics": [
-        "policy",
-        "critical-infrastructure",
-        "community",
-        "government"
-      ],
-      "teaser": "Jake Braun introduces the Franklin Project, an initiative connecting volunteer security researchers with vulnerable public utilities to protect critical infrastructure.",
-      "summary": null,
-      "durationSeconds": 1150
     }
   ]
 }
