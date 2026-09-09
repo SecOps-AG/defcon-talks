@@ -1925,6 +1925,44 @@
       "teaser": "The Contest Goons announce competition winners, present awards, and recap tournament highlights across all official contests at DEF CON 31.",
       "summary": null,
       "durationSeconds": 3255
+    },
+    {
+      "youtubeId": "fMxSRFYXMV0",
+      "slug": "the-art-of-compromising-c2-servers",
+      "title": "The Art of Compromising C2 Servers: A Web App Vulns Perspective",
+      "speakers": [
+        "Vangelis Stykas"
+      ],
+      "track": "appsec",
+      "topics": [
+        "c2",
+        "malware",
+        "web-application-security",
+        "threat-actors",
+        "appsec"
+      ],
+      "teaser": "Vangelis Stykas demonstrates how typical web application flaws in abandoned malware C2 infrastructure allow researchers to compromise admin panels and identify threat actors.",
+      "summary": "Targeting Abandoned Command and Control Servers\n\nCommand-and-control (C2) servers deployed by mobile and Windows malware operators are frequently abandoned after campaigns conclude. Vangelis Stykas investigates the attack surface of exposed C2 backends to uncover adversary infrastructure and operator identities.\n\nWeb Application Flaws in Malicious Infrastructure\n\nWhile reverse engineering malware payloads requires specialized skills, exploiting C2 administrative panels often relies on fundamental web application vulnerabilities easily surfaced by automated security scanners.\n\nExtracting Malware Source Code and Threat Intelligence\n\nExploiting low-hanging fruit in web panels yields administrative access across botnet endpoints, revealing proprietary malware source code and actionable attribution data regarding cybercrime rings.",
+      "durationSeconds": 2105
+    },
+    {
+      "youtubeId": "w_l2q_Gyqfo",
+      "slug": "certmitm-automatic-exploitation-of-tls-certificate-validation",
+      "title": "certmitm: Automatic Exploitation of TLS Certificate Validation Vulnerabilities",
+      "speakers": [
+        "Aapo Oksman"
+      ],
+      "track": "appsec",
+      "topics": [
+        "tls",
+        "certificates",
+        "mitm",
+        "cryptography",
+        "appsec"
+      ],
+      "teaser": "Aapo Oksman introduces certmitm, an automated tool designed to discover and exploit insecure TLS client certificate validation flaws across iOS, Windows 11, and embedded devices.",
+      "summary": "Persistent Insecurities in TLS Client Validation\n\nTLS remains the industry standard for encrypting network communications, yet developers and libraries continually struggle to implement rigorous certificate chain validation in client endpoints.\n\nIntroducing the certmitm Tool\n\nAapo Oksman presents certmitm, an open-source testing framework developed to automatically detect and exploit flawed TLS certificate verification logic during active man-in-the-middle engagements.\n\nDemonstrating Exploits Across Modern Operating Systems\n\nThe author demonstrates practical certificate bypass attacks compromising high-profile applications on iOS and Windows 11, illustrating how insecure trust configurations expose encrypted sessions to interception.",
+      "durationSeconds": 3009
     }
   ]
 }
