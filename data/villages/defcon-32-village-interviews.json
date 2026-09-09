@@ -1,0 +1,539 @@
+{
+  "villageSlug": "village-interviews",
+  "villageName": "Village Interviews",
+  "eventSlug": "defcon-32",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaD_2THtBVamFKcNv-5Bl8xP",
+  "description": "Interviews, village walkthroughs, and contest spotlights produced by the DEF CON Video Team at DEF CON 32.",
+  "talks": [
+    {
+      "youtubeId": "i0cXyiZv_qc",
+      "slug": "whiterabbitneo-open-source-red-team-ai-model",
+      "title": "WhiteRabbitNeo: Open-Source Red Team AI Model",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "artificial-intelligence",
+        "large-language-models",
+        "red-team",
+        "ai-security"
+      ],
+      "teaser": "An interview exploring WhiteRabbitNeo, an open-source offensive security and red-teaming large language model demonstrated at DEF CON 32.",
+      "summary": null,
+      "durationSeconds": 723
+    },
+    {
+      "youtubeId": "G9hAgitK-wE",
+      "slug": "scanning-with-daniel-badge-and-rf-reconnaissance",
+      "title": "Scanning with Daniel: Badge and RF Reconnaissance",
+      "speakers": [
+        "Daniel",
+        "DEF CON Video Team"
+      ],
+      "track": "recon",
+      "topics": [
+        "reconnaissance",
+        "scanning",
+        "rf",
+        "community"
+      ],
+      "teaser": "A walkthrough with Daniel exploring wireless and hardware scanning techniques across the DEF CON 32 convention floor.",
+      "summary": null,
+      "durationSeconds": 604
+    },
+    {
+      "youtubeId": "6OHoi1sylx4",
+      "slug": "bug-bounty-village-walkthrough",
+      "title": "Bug Bounty Village Walkthrough",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "bug-bounty",
+        "community",
+        "vulnerability-disclosure"
+      ],
+      "teaser": "A walkthrough of Bug Bounty Village at DEF CON 32 showcasing live hacking events, bounty platforms, and community workshops.",
+      "summary": null,
+      "durationSeconds": 16
+    },
+    {
+      "youtubeId": "91uoI7tcjxA",
+      "slug": "embedded-systems-village-spotlight",
+      "title": "Embedded Systems Village Spotlight",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "embedded-systems",
+        "hardware-hacking",
+        "firmware",
+        "community"
+      ],
+      "teaser": "A showcase of the Embedded Systems Village at DEF CON 32 highlighting firmware extraction, bus analysis, and hardware exploitation labs.",
+      "summary": null,
+      "durationSeconds": 20
+    },
+    {
+      "youtubeId": "AOAh3P5NFCw",
+      "slug": "interview-with-deadmau5",
+      "title": "Interview with deadmau5",
+      "speakers": [
+        "deadmau5",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "music",
+        "community",
+        "technology",
+        "culture"
+      ],
+      "teaser": "An interview with electronic music producer and performer deadmau5 discussing music production technology, tech culture, and DEF CON.",
+      "summary": null,
+      "durationSeconds": 348
+    },
+    {
+      "youtubeId": "CVflCxKFE8Y",
+      "slug": "owasp-at-def-con-32",
+      "title": "OWASP at DEF CON 32",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "appsec",
+      "topics": [
+        "owasp",
+        "appsec",
+        "web-security",
+        "community"
+      ],
+      "teaser": "A feature on OWASP community initiatives, open-source application security projects, and developer outreach at DEF CON 32.",
+      "summary": null,
+      "durationSeconds": 576
+    },
+    {
+      "youtubeId": "v9Ii5V1kqXc",
+      "slug": "def-con-groups-community-across-the-globe",
+      "title": "Organizing DEF CON Groups: Global Hacker Communities",
+      "speakers": [
+        "Alethe",
+        "Mike",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "defcon-groups",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "Alethe and Mike discuss the worldwide network of DEF CON Groups, local meetups, and year-round hacker community organizing.",
+      "summary": null,
+      "durationSeconds": 180
+    },
+    {
+      "youtubeId": "S-B4LlkjN7c",
+      "slug": "interview-with-cory-doctorow",
+      "title": "Interview with Cory Doctorow",
+      "speakers": [
+        "Cory Doctorow",
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "digital-rights",
+        "policy",
+        "privacy",
+        "copyright"
+      ],
+      "teaser": "Author and activist Cory Doctorow discusses technological monopoly, digital rights, anti-trust policy, and preserving open computing.",
+      "summary": null,
+      "durationSeconds": 395
+    },
+    {
+      "youtubeId": "OJbQS36xVIU",
+      "slug": "tsa-security-simulator-walkthrough-with-erik",
+      "title": "TSA Security Simulator Walkthrough with Erik",
+      "speakers": [
+        "Erik",
+        "DEF CON Video Team"
+      ],
+      "track": "recon",
+      "topics": [
+        "physical-security",
+        "tsa",
+        "aviation-security",
+        "scanning"
+      ],
+      "teaser": "Erik provides a detailed walkthrough of the airport security screening simulator and hardware initiatives at DEF CON 32.",
+      "summary": null,
+      "durationSeconds": 215
+    },
+    {
+      "youtubeId": "INOGwDyJ-8M",
+      "slug": "women-in-security-and-privacy-wisp-spotlight",
+      "title": "Women in Security and Privacy (WISP) Spotlight",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "wisp",
+        "diversity",
+        "community",
+        "privacy"
+      ],
+      "teaser": "An overview of Women in Security and Privacy (WISP) programs, mentorship opportunities, and events hosted at DEF CON 32.",
+      "summary": null,
+      "durationSeconds": 80
+    },
+    {
+      "youtubeId": "QwYXbb2-zNU",
+      "slug": "iot-village-walkthrough-dc32",
+      "title": "IoT Village Walkthrough",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot",
+        "iot-security",
+        "embedded-systems",
+        "community"
+      ],
+      "teaser": "A tour of the IoT Village at DEF CON 32 exploring hands-on router hacking, connected device vulnerability research, and zero-day labs.",
+      "summary": null,
+      "durationSeconds": 39
+    },
+    {
+      "youtubeId": "1qTuH5rUa2A",
+      "slug": "red-team-village-contest-room-overview",
+      "title": "Red Team Village Contest Room Overview",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "ctf",
+        "adversary-emulation",
+        "community"
+      ],
+      "teaser": "An inside look at the Red Team Village contest room featuring real-time offensive exercises, flag capture, and network penetration labs.",
+      "summary": null,
+      "durationSeconds": 24
+    },
+    {
+      "youtubeId": "2tcdFN34hfo",
+      "slug": "history-of-the-tin-foil-hat-contest",
+      "title": "History of the Tin Foil Hat Contest",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "tin-foil-hat",
+        "contest",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "A retrospective on the legendary DEF CON Tin Foil Hat Contest, celebrating absurd RF shielding designs and conference tradition.",
+      "summary": null,
+      "durationSeconds": 26
+    },
+    {
+      "youtubeId": "bgtaGcN6FZU",
+      "slug": "clue-hunt-winner-interview-marco",
+      "title": "Clue Hunt Winner Interview: Marco",
+      "speakers": [
+        "Marco",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "clue-hunt",
+        "contest",
+        "puzzle-solving",
+        "community"
+      ],
+      "teaser": "An interview with Marco, winner of the DEF CON 32 Clue Hunt contest, discussing puzzle solving strategies and badge hunting adventures.",
+      "summary": null,
+      "durationSeconds": 434
+    },
+    {
+      "youtubeId": "yrnXRmONOlE",
+      "slug": "lockpicking-fundamentals-with-hypu-from-toool",
+      "title": "Lockpicking Fundamentals with HYPU from TOOOL",
+      "speakers": [
+        "HYPU",
+        "DEF CON Video Team"
+      ],
+      "track": "recon",
+      "topics": [
+        "lockpicking",
+        "physical-security",
+        "toool",
+        "community"
+      ],
+      "teaser": "HYPU from The Open Organisation of Lockpickers (TOOOL) demonstrates lock mechanics, pin tumbler picking, and bypass fundamentals.",
+      "summary": null,
+      "durationSeconds": 730
+    },
+    {
+      "youtubeId": "S2e6RFpptEE",
+      "slug": "iot-security-deep-dive-with-ken-pyle",
+      "title": "IoT Security Deep Dive with Ken Pyle",
+      "speakers": [
+        "Ken Pyle",
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "iot-security",
+        "firmware",
+        "embedded-systems",
+        "vulnerability-research"
+      ],
+      "teaser": "Ken Pyle explores embedded device vulnerability discovery, firmware analysis techniques, and securing connected IoT ecosystems.",
+      "summary": null,
+      "durationSeconds": 605
+    },
+    {
+      "youtubeId": "hHvIKmgvLJY",
+      "slug": "the-def-con-bike-ride-tradition",
+      "title": "The DEF CON Bike Ride Tradition",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "bike-ride",
+        "community",
+        "hacker-culture",
+        "social"
+      ],
+      "teaser": "An introduction to the annual DEF CON Bike Ride tradition, bringing cyclists together across the Las Vegas desert before the conference.",
+      "summary": null,
+      "durationSeconds": 351
+    },
+    {
+      "youtubeId": "Fy-3P8v5e8g",
+      "slug": "hardware-hacking-and-soldering-skills-village",
+      "title": "Hardware Hacking and Soldering Skills Village",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "soldering",
+        "hardware-hacking",
+        "electronics",
+        "community"
+      ],
+      "teaser": "A walkthrough of the Soldering Skills Village at DEF CON 32 teaching surface-mount assembly, circuit debugging, and badge assembly.",
+      "summary": null,
+      "durationSeconds": 78
+    },
+    {
+      "youtubeId": "OWlPWtNPCzw",
+      "slug": "la-villa-en-espanol-at-def-con-32",
+      "title": "La Villa en Espa\u00f1ol at DEF CON 32",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "la-villa",
+        "community",
+        "diversity",
+        "hacker-culture"
+      ],
+      "teaser": "A showcase of La Villa en Espa\u00f1ol at DEF CON 32, highlighting Spanish-language technical presentations, networking, and workshops.",
+      "summary": null,
+      "durationSeconds": 47
+    },
+    {
+      "youtubeId": "-1a0usTKyY0",
+      "slug": "tin-foil-hat-contestant-showcase",
+      "title": "Tin Foil Hat Contestant Showcase",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "tin-foil-hat",
+        "contest",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "Contestants at DEF CON 32 showcase creative, elaborate, and scientifically questionable tin foil hat shielding contraptions.",
+      "summary": null,
+      "durationSeconds": 53
+    },
+    {
+      "youtubeId": "XjBsKUi7a3g",
+      "slug": "intigriti-at-bug-bounty-village",
+      "title": "Intigriti at Bug Bounty Village",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "appsec",
+      "topics": [
+        "bug-bounty",
+        "vulnerability-disclosure",
+        "appsec",
+        "community"
+      ],
+      "teaser": "European crowdsourced security platform Intigriti highlights bug bounty initiatives, researcher engagement, and community events at DEF CON 32.",
+      "summary": null,
+      "durationSeconds": 36
+    },
+    {
+      "youtubeId": "ntqNaFysYI0",
+      "slug": "car-hacking-village-showcase-dc32",
+      "title": "Car Hacking Village Showcase",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "automotive-security",
+        "can-bus",
+        "vehicle-hacking",
+        "community"
+      ],
+      "teaser": "A tour of the Car Hacking Village at DEF CON 32 featuring CAN bus testing benches, instrument cluster fuzzing, and connected vehicle targets.",
+      "summary": null,
+      "durationSeconds": 36
+    },
+    {
+      "youtubeId": "nJ8_DmbqAuY",
+      "slug": "darpa-ai-cyber-challenge-aixcc-finals-preview",
+      "title": "DARPA AI Cyber Challenge (AIxCC) Finals Preview",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "ai-security",
+      "topics": [
+        "darpa",
+        "aixcc",
+        "ai-security",
+        "automated-defense"
+      ],
+      "teaser": "A preview of the multi-million-dollar finals of the DARPA AI Cyber Challenge (AIxCC), evaluating autonomous cyber reasoning systems.",
+      "summary": null,
+      "durationSeconds": 58
+    },
+    {
+      "youtubeId": "azw49c4AV0w",
+      "slug": "beverage-chilling-contraption-contest-bccc",
+      "title": "Beverage Chilling Contraption Contest (BCCC)",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "bccc",
+        "hardware-engineering",
+        "contest",
+        "community"
+      ],
+      "teaser": "A spotlight on the Beverage Chilling Contraption Contest, featuring thermodynamics, extreme engineering, and rapid cooling contraptions.",
+      "summary": null,
+      "durationSeconds": 100
+    },
+    {
+      "youtubeId": "8U5XiPZ700c",
+      "slug": "bug-bounty-village-live-hacking-and-demos",
+      "title": "Bug Bounty Village Live Hacking and Demos",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "appsec",
+      "topics": [
+        "bug-bounty",
+        "live-hacking",
+        "vulnerability-research",
+        "community"
+      ],
+      "teaser": "An overview of live hacking demos, ethical disclosure talks, and hands-on target scopes in the Bug Bounty Village at DEF CON 32.",
+      "summary": null,
+      "durationSeconds": 32
+    },
+    {
+      "youtubeId": "EuuXHQNztZc",
+      "slug": "badgelife-the-art-and-engineering-of-custom-badges",
+      "title": "Badgelife: The Art and Engineering of Custom Badges",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "hardware",
+      "topics": [
+        "badgelife",
+        "hardware-hacking",
+        "pcb-design",
+        "community"
+      ],
+      "teaser": "DEF CON 32 attendees and indie hardware creators showcase custom electronic badges, artistic circuit designs, and #badgelife culture.",
+      "summary": null,
+      "durationSeconds": 143
+    },
+    {
+      "youtubeId": "AN-0D35o_C0",
+      "slug": "policy-village-at-def-con-32-overview",
+      "title": "Policy Village at DEF CON 32 Overview",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "policy",
+        "government",
+        "regulation",
+        "community"
+      ],
+      "teaser": "A primer on the DEF CON 32 Policy Village agenda covering critical infrastructure protection, copyright law, and researcher rights.",
+      "summary": null,
+      "durationSeconds": 22
+    },
+    {
+      "youtubeId": "K7piwYa5LCw",
+      "slug": "voting-village-at-def-con-32-preview",
+      "title": "Voting Village at DEF CON 32 Preview",
+      "speakers": [
+        "DEF CON Video Team"
+      ],
+      "track": "policy",
+      "topics": [
+        "election-security",
+        "voting-machines",
+        "hardware-security",
+        "community"
+      ],
+      "teaser": "A preview of the Voting Village at DEF CON 32 featuring voting machine research labs, paper ballot audits, and election resilience panels.",
+      "summary": null,
+      "durationSeconds": 47
+    },
+    {
+      "youtubeId": "fXStkCVKHBM",
+      "slug": "the-def-con-scavenger-hunt-challenge",
+      "title": "The DEF CON Scavenger Hunt Challenge",
+      "speakers": [
+        "Silk",
+        "DEF CON Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "scavenger-hunt",
+        "contest",
+        "community",
+        "hacker-culture"
+      ],
+      "teaser": "Organizer Silk outlines bizarre challenges, scavenger hunt item lists, and rules for the longest-running contest at DEF CON.",
+      "summary": null,
+      "durationSeconds": 93
+    }
+  ]
+}
