@@ -22,6 +22,7 @@ export type Taxonomy = {
   notes: string[];
   tracks: Track[];
   topicLabels: Record<string, string>;
+  topicAliases?: Record<string, string>;
 };
 
 /** A talk exactly as authored in data/villages/<event>-<village>.json. */
