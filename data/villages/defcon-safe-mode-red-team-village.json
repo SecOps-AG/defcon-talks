@@ -1055,6 +1055,761 @@
       "teaser": "Ibad Shah shares the journey of discovering critical flaws in a million-user Android app, navigating vendor communication, and executing coordinated vulnerability disclosure.",
       "summary": "Vulnerability Discovery in Large-Scale Android Apps\n\nWhen auditing an Android application with over 1.5 million downloads, security researcher Ibad Shah discovered flaws that compromised premium feature controls and user data.\n\nTechnical Flaws in Mobile Application Architecture\n\nShah analyzes the decompiled APK, demonstrating client-side validation bypasses, insecure local data storage, and improper authorization checks communicating with backend APIs.\n\nThe Challenges of Responsible Vulnerability Disclosure\n\nFinding vulnerabilities is often easier than finding the right point of contact; the speaker details navigating organizational hierarchies, legal hurdles, and vendor responsiveness.\n\nBest Practices for Researchers and Organizations\n\nThe presentation offers actionable advice for bug hunters approaching vendors professionally, alongside guidance for development teams to establish clear vulnerability disclosure programs.",
       "durationSeconds": 900
+    },
+    {
+      "youtubeId": "V5oHuSnZDFg",
+      "slug": "combining-notebooks-datasets-and-cloud-for-the-ultimate-automati",
+      "title": "Combining notebooks, datasets, and cloud for the ultimate automation factory by Ryan Elkins",
+      "speakers": [
+        "Ryan Elkins"
+      ],
+      "track": "cloud",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "cloud"
+      ],
+      "teaser": "Combining notebooks, datasets, and cloud for the ultimate automation factory.",
+      "summary": null,
+      "durationSeconds": 3146
+    },
+    {
+      "youtubeId": "Tc8gWwf3KAc",
+      "slug": "evil-genius-why-you-shouldn-t-trust-that-keyboard-by-mauro-cacer",
+      "title": "Evil Genius: Why you shouldn't trust that keyboard by Mauro Caceres & Farith Perez",
+      "speakers": [
+        "Mauro Caceres"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Evil Genius: Why you shouldn't trust that keyboard.",
+      "summary": null,
+      "durationSeconds": 1370
+    },
+    {
+      "youtubeId": "6P0-Mp6XMpE",
+      "slug": "zero-trust-a-vision-for-securing-cloud-and-redefining-security-b",
+      "title": "Zero Trust - A Vision for Securing Cloud and Redefining Security by Vandana Verma",
+      "speakers": [
+        "Vandana Verma"
+      ],
+      "track": "cloud",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "cloud"
+      ],
+      "teaser": "Zero Trust - A Vision for Securing Cloud and Redefining Security.",
+      "summary": null,
+      "durationSeconds": 2308
+    },
+    {
+      "youtubeId": "gIz_yn0Uvb8",
+      "slug": "the-bug-hunter-s-methodology-jason-haddix",
+      "title": "The Bug Hunter’s Methodology Jason Haddix",
+      "speakers": [
+        "Jason Haddix"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "The Bug Hunter’s Methodology Jason Haddix.",
+      "summary": null,
+      "durationSeconds": 4576
+    },
+    {
+      "youtubeId": "Fj9T1fRUrCk",
+      "slug": "protecting-wi-fi-beacons-from-outsider-forgeries-and-how-to-abus",
+      "title": "Protecting Wi-Fi Beacons from Outsider Forgeries (and how to abuse them) by Mathy Vanhoef",
+      "speakers": [
+        "Mathy Vanhoef"
+      ],
+      "track": "wireless",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Protecting Wi-Fi Beacons from Outsider Forgeries (and how to abuse them).",
+      "summary": null,
+      "durationSeconds": 1210
+    },
+    {
+      "youtubeId": "un2EbYjp3Zg",
+      "slug": "ou-having-a-laugh-petros-koutroumpis",
+      "title": "OU having a laugh? - Petros Koutroumpis",
+      "speakers": [
+        "Petros Koutroumpis"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "OU having a laugh?.",
+      "summary": null,
+      "durationSeconds": 1820
+    },
+    {
+      "youtubeId": "-f7B-N7yHm8",
+      "slug": "modern-red-team-tradecraft-sajal-thomas",
+      "title": "Modern Red Team Tradecraft - Sajal Thomas",
+      "speakers": [
+        "Sajal Thomas"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Modern Red Team Tradecraft.",
+      "summary": null,
+      "durationSeconds": 3601
+    },
+    {
+      "youtubeId": "by3PzLYaiqM",
+      "slug": "sounds-legit-why-you-shouldn-t-trust-that-speaker-mauro-eldritch",
+      "title": "Sounds Legit: Why you shouldn't trust that speaker - Mauro Eldritch & Luis Ramírez",
+      "speakers": [
+        "Mauro Eldritch"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Sounds Legit: Why you shouldn't trust that speaker.",
+      "summary": null,
+      "durationSeconds": 1345
+    },
+    {
+      "youtubeId": "IrX5uVCgUGM",
+      "slug": "catch-me-if-you-can-eduardo-arriols",
+      "title": "Catch Me if You Can - Eduardo Arriols",
+      "speakers": [
+        "Eduardo Arriols"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Catch Me if You Can.",
+      "summary": null,
+      "durationSeconds": 3616
+    },
+    {
+      "youtubeId": "_i17MaZaJHM",
+      "slug": "weaponized-xss-moving-beyond-alert-1-by-ray-doyle",
+      "title": "Weaponized XSS - Moving Beyond Alert(1) by Ray Doyle",
+      "speakers": [
+        "Ray Doyle"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "appsec"
+      ],
+      "teaser": "Weaponized XSS.",
+      "summary": null,
+      "durationSeconds": 2792
+    },
+    {
+      "youtubeId": "hIGbgm-HlZA",
+      "slug": "attpwn-adversarial-emulation-and-offensive-techniques-collaborat",
+      "title": "ATTPwn: Adversarial Emulation and Offensive Techniques Collaborative Project",
+      "speakers": [
+        "Collaborative Project"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "ATTPwn: Adversarial Emulation and Offensive Techniques Collaborative Project.",
+      "summary": null,
+      "durationSeconds": 2774
+    },
+    {
+      "youtubeId": "T2XNUnNGXtA",
+      "slug": "yippee-ki-yay-mfa-er-justin-hutchens-hutch",
+      "title": "Yippee-Ki-Yay MFA'er - Justin Hutchens (\"Hutch\")",
+      "speakers": [
+        "Justin Hutchens"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Yippee-Ki-Yay MFA'er.",
+      "summary": null,
+      "durationSeconds": 2572
+    },
+    {
+      "youtubeId": "bgvKQF0oNoA",
+      "slug": "guerrilla-red-team-decentralize-the-adversary-christopher-cottre",
+      "title": "Guerrilla Red Team: Decentralize the Adversary - Christopher Cottrell",
+      "speakers": [
+        "Christopher Cottrell"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "Guerrilla Red Team: Decentralize the Adversary.",
+      "summary": null,
+      "durationSeconds": 3278
+    },
+    {
+      "youtubeId": "ShedHPvT2lw",
+      "slug": "bypassing-in-mobile-network-from-red-team-points-of-view",
+      "title": "Bypassing in Mobile Network From Red-Team Points of View",
+      "speakers": [
+        "Red Team Village"
+      ],
+      "track": "mobile",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "mobile"
+      ],
+      "teaser": "Bypassing in Mobile Network From Red-Team Points of View.",
+      "summary": null,
+      "durationSeconds": 1408
+    },
+    {
+      "youtubeId": "rLWySkU0U1U",
+      "slug": "apts-love-powershell-and-why-you-should-too-anthony-rose-jake-kr",
+      "title": "APTs LOVE  PowerShell and Why You Should Too - Anthony Rose & Jake Krasnov",
+      "speakers": [
+        "Anthony Rose"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "malware"
+      ],
+      "teaser": "APTs LOVE  PowerShell and Why You Should Too.",
+      "summary": null,
+      "durationSeconds": 3578
+    },
+    {
+      "youtubeId": "2R7MqSURj28",
+      "slug": "erpwnage-a-red-team-approach-to-targeting-sap-austin-marck-icryo",
+      "title": "ERPwnage - A Red Team Approach to Targeting SAP - Austin Marck (@icryo)",
+      "speakers": [
+        "Austin Marck"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "ERPwnage - A Red Team Approach to Targeting SAP.",
+      "summary": null,
+      "durationSeconds": 1436
+    },
+    {
+      "youtubeId": "gExrK_iWrkY",
+      "slug": "how-to-hack-swift-spid-and-spei-with-basic-hacking-techniques-fr",
+      "title": "How to hack SWIFT, SPID, and SPEI with basic hacking techniques (from a Red Team Perspective)",
+      "speakers": [
+        "Red Team Village"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "How to hack SWIFT, SPID, and SPEI with basic hacking techniques (from a Red Team Perspective).",
+      "summary": null,
+      "durationSeconds": 1651
+    },
+    {
+      "youtubeId": "QnJ7BKpr-mE",
+      "slug": "executing-red-team-scenarios-with-built-in-scenario-place-gokber",
+      "title": "Executing Red Team Scenarios with Built-in Scenario Place  Gokberk Gulgun and Erdener Uyan",
+      "speakers": [
+        "Erdener Uyan"
+      ],
+      "track": "mobile",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Executing Red Team Scenarios with Built-in Scenario Place  Gokberk Gulgun and Erdener Uyan.",
+      "summary": null,
+      "durationSeconds": 2126
+    },
+    {
+      "youtubeId": "QHz935awNDY",
+      "slug": "from-discovery-to-disclosure-by-ibad-shah",
+      "title": "From Discovery to Disclosure by Ibad Shah",
+      "speakers": [
+        "Ibad Shah"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "From Discovery to Disclosure.",
+      "summary": null,
+      "durationSeconds": 901
+    },
+    {
+      "youtubeId": "PUR7sk4mjLo",
+      "slug": "hacking-zoom-a-hacker-s-journey-into-zoom-security-by-mazin-ahme",
+      "title": "Hacking Zoom: a Hacker's Journey into Zoom Security by Mazin Ahmed",
+      "speakers": [
+        "Mazin Ahmed"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Hacking Zoom: a Hacker's Journey into Zoom Security.",
+      "summary": null,
+      "durationSeconds": 3295
+    },
+    {
+      "youtubeId": "b6JLcHJYWCc",
+      "slug": "redteamops-managing-red-team-infrastructure-as-a-red-teamer-mert",
+      "title": "RedTeamOps - Managing Red Team Infrastructure as a Red Teamer  Mert Can Coskuner",
+      "speakers": [
+        "Can Coskuner"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "RedTeamOps.",
+      "summary": null,
+      "durationSeconds": 1497
+    },
+    {
+      "youtubeId": "uTRo6WpGctw",
+      "slug": "patrowl-red-flavour-of-soc-automation-nicolas-mattiocco",
+      "title": "PatrOwl - Red flavour of SOC automation -Nicolas MATTIOCCO",
+      "speakers": [
+        "Nicolas MATTIOCCO"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "PatrOwl - Red flavour of SOC automation -Nicolas MATTIOCCO.",
+      "summary": null,
+      "durationSeconds": 2708
+    },
+    {
+      "youtubeId": "0JRcJVv0uXU",
+      "slug": "have-my-keys-been-pwned-api-edition-by-jose-hernandez-and-rod-so",
+      "title": "Have my keys been pwned? - API Edition by Jose Hernandez and Rod Soto",
+      "speakers": [
+        "Jose Hernandez"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Have my keys been pwned? - API Edition.",
+      "summary": null,
+      "durationSeconds": 2588
+    },
+    {
+      "youtubeId": "-GuC0R9L0nw",
+      "slug": "your-adversary-within-adam-mashinchi-and-bryson-bort",
+      "title": "Your Adversary Within Adam Mashinchi and Bryson Bort",
+      "speakers": [
+        "Bryson Bort"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "Your Adversary Within Adam Mashinchi and Bryson Bort.",
+      "summary": null,
+      "durationSeconds": 2241
+    },
+    {
+      "youtubeId": "DLeKpVhDsT4",
+      "slug": "hashes-smothered-covered-and-scattered-modern-password-cracking",
+      "title": "Hashes; Smothered, Covered, and Scattered: Modern Password Cracking as a Methodology- Lee Wangenheim",
+      "speakers": [
+        "Lee Wangenheim"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "password-cracking"
+      ],
+      "teaser": "Hashes; Smothered, Covered, and Scattered: Modern Password Cracking as a Methodology- Lee Wangenheim.",
+      "summary": null,
+      "durationSeconds": 2966
+    },
+    {
+      "youtubeId": "FULfnGwL2JM",
+      "slug": "50-shades-of-sudo-abuse-tyler-boykin",
+      "title": "50 Shades of Sudo Abuse Tyler Boykin",
+      "speakers": [
+        "Tyler Boykin"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "50 Shades of Sudo Abuse Tyler Boykin.",
+      "summary": null,
+      "durationSeconds": 3467
+    },
+    {
+      "youtubeId": "EkhlyE63Mxg",
+      "slug": "securing-and-pentesting-the-great-spaghetti-monster-k8s-by-kat-f",
+      "title": "Securing AND Pentesting the Great Spaghetti Monster (k8s) by Kat FItzgerald",
+      "speakers": [
+        "Kat FItzgerald"
+      ],
+      "track": "cloud",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Securing AND Pentesting the Great Spaghetti Monster (k8s).",
+      "summary": null,
+      "durationSeconds": 3150
+    },
+    {
+      "youtubeId": "i_44Y_u-kSE",
+      "slug": "introducing-dropengine-a-malleable-payload-creation-framework-by",
+      "title": "Introducing DropEngine: A Malleable Payload Creation Framework by Gabriel Ryan",
+      "speakers": [
+        "Gabriel Ryan"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Introducing DropEngine: A Malleable Payload Creation Framework.",
+      "summary": null,
+      "durationSeconds": 3226
+    },
+    {
+      "youtubeId": "PtCk3OMeV5g",
+      "slug": "what-college-kids-always-get-wrong-the-art-of-attacking-newbies",
+      "title": "What college kids always get wrong, the art of attacking newbies to blueteam - Forrest Fuqua (JRWR)",
+      "speakers": [
+        "Forrest Fuqua"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "What college kids always get wrong, the art of attacking newbies to blueteam.",
+      "summary": null,
+      "durationSeconds": 2965
+    },
+    {
+      "youtubeId": "0n6iMDQRljc",
+      "slug": "trust-but-verify-maintaining-democracy-in-spite-of-by-allie-mell",
+      "title": "Trust, but Verify: Maintaining Democracy In Spite of Информационные контрмеры by Allie Mellen",
+      "speakers": [
+        "Allie Mellen"
+      ],
+      "track": "policy",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Trust, but Verify: Maintaining Democracy In Spite of Информационные контрмеры.",
+      "summary": null,
+      "durationSeconds": 2149
+    },
+    {
+      "youtubeId": "3tZTo4mcnaQ",
+      "slug": "total-e-a-gression-alvaro-rueda",
+      "title": "Total E(A)gression - Alvaro Rueda",
+      "speakers": [
+        "Alvaro Rueda"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Total E(A)gression.",
+      "summary": null,
+      "durationSeconds": 1350
+    },
+    {
+      "youtubeId": "II5X0lj-Zjk",
+      "slug": "all-of-the-threats-intelligence-modelling-and-hunting-through-an",
+      "title": "All of the threats: Intelligence, modelling and hunting through an ATT&CKers lens - Tim Wadhwa-Brown",
+      "speakers": [
+        "Tim Wadhwa-Brown"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "All of the threats: Intelligence, modelling and hunting through an ATT&CKers lens.",
+      "summary": null,
+      "durationSeconds": 3061
+    },
+    {
+      "youtubeId": "CJfzzjqP8Uw",
+      "slug": "y-all-tryna-bypass-python-3-8-audit-hooks-or-nah-leron-gray",
+      "title": "Y'all Tryna Bypass Python 3.8 Audit Hooks or Nah? - Leron Gray",
+      "speakers": [
+        "Leron Gray"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Y'all Tryna Bypass Python 3.8 Audit Hooks or Nah?.",
+      "summary": null,
+      "durationSeconds": 2413
+    },
+    {
+      "youtubeId": "nlAH46h2npk",
+      "slug": "inside-the-mind-of-a-threat-actor-beyond-pentesting-by-phillip-w",
+      "title": "Inside the Mind of a Threat Actor: Beyond Pentesting - by  Phillip Wylie",
+      "speakers": [
+        "Phillip Wylie"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "Inside the Mind of a Threat Actor: Beyond Pentesting - by  Phillip Wylie.",
+      "summary": null,
+      "durationSeconds": 2307
+    },
+    {
+      "youtubeId": "F2J08oOH70Q",
+      "slug": "the-art-of-balancing-a-burnout-talk-chloe-messdaghi",
+      "title": "The Art of Balancing: A Burnout Talk - Chloe Messdaghi",
+      "speakers": [
+        "Chloe Messdaghi"
+      ],
+      "track": "community",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "The Art of Balancing: A Burnout Talk.",
+      "summary": null,
+      "durationSeconds": 3118
+    },
+    {
+      "youtubeId": "YWxbA1jB1Dk",
+      "slug": "indicators-of-emulation-extra-spicy-adversary-emulation-ch33r10",
+      "title": "Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 & haydnjohnson",
+      "speakers": [
+        "Ch33r10",
+        "haydnjohnson"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 & haydnjohnson.",
+      "summary": null,
+      "durationSeconds": 2706
+    },
+    {
+      "youtubeId": "bEzxyijPkSI",
+      "slug": "emulating-an-adversary-with-imperfect-intelligence-adam-penningt",
+      "title": "Emulating an Adversary with Imperfect Intelligence - Adam Pennington",
+      "speakers": [
+        "Adam Pennington"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "Emulating an Adversary with Imperfect Intelligence.",
+      "summary": null,
+      "durationSeconds": 3445
+    },
+    {
+      "youtubeId": "BFGSpO-plos",
+      "slug": "pwn-the-world-by-chris-kubecka",
+      "title": "PWN The World by Chris Kubecka",
+      "speakers": [
+        "Chris Kubecka"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "PWN The World.",
+      "summary": null,
+      "durationSeconds": 3446
+    },
+    {
+      "youtubeId": "pfThijBWm2s",
+      "slug": "kubernetes-goat-vulnerable-by-design-kubernetes-cluster-environm",
+      "title": "Kubernetes Goat - Vulnerable by Design Kubernetes Cluster Environment by Madhu Akula",
+      "speakers": [
+        "Design Kubernetes Cluster"
+      ],
+      "track": "cloud",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "cloud"
+      ],
+      "teaser": "Kubernetes Goat - Vulnerable.",
+      "summary": null,
+      "durationSeconds": 3421
+    },
+    {
+      "youtubeId": "eMX3Uj82E_g",
+      "slug": "breaking-the-attack-chain-by-corey-ham-matt-eidelberg",
+      "title": "Breaking the Attack Chain by Corey Ham & Matt Eidelberg",
+      "speakers": [
+        "Corey Ham"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "Breaking the Attack Chain.",
+      "summary": null,
+      "durationSeconds": 3502
+    },
+    {
+      "youtubeId": "W5htGHdIc-M",
+      "slug": "knock-knock-who-s-there-identifying-assets-in-the-cloud-by-and-s",
+      "title": "Knock knock, Who's There? Identifying Assets in the Cloud by  and StaticFlow",
+      "speakers": [
+        "NahamSec",
+        "StaticFlow"
+      ],
+      "track": "cloud",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "cloud"
+      ],
+      "teaser": "Knock knock, Who's There? Identifying Assets in the Cloud by  and StaticFlow.",
+      "summary": null,
+      "durationSeconds": 3545
+    },
+    {
+      "youtubeId": "0ZSsiH2-AwA",
+      "slug": "owasp-amass-red-team-village-training-by-jeff-foley-cafffix",
+      "title": "OWASP Amass Red Team Village Training - by Jeff Foley (Cafffix)",
+      "speakers": [
+        "Jeff Foley"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "OWASP Amass Red Team Village Training -.",
+      "summary": null,
+      "durationSeconds": 6519
+    },
+    {
+      "youtubeId": "9zE7BAtLHGs",
+      "slug": "attacking-layer-3-lab-by-lee-mcwhorter",
+      "title": "Attacking Layer 3 ( Lab ) by Lee McWhorter",
+      "speakers": [
+        "Lee McWhorter"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security",
+        "adversary-emulation"
+      ],
+      "teaser": "Attacking Layer 3 ( Lab ).",
+      "summary": null,
+      "durationSeconds": 6737
+    },
+    {
+      "youtubeId": "Db_w5LinhZc",
+      "slug": "the-student-roadmap-to-becoming-a-penetration-tester-by-jonathan",
+      "title": "The Student Roadmap to Becoming A Penetration Tester by Jonathan Helmus",
+      "speakers": [
+        "Jonathan Helmus"
+      ],
+      "track": "community",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "The Student Roadmap to Becoming A Penetration Tester.",
+      "summary": null,
+      "durationSeconds": 3645
+    },
+    {
+      "youtubeId": "q_ckjdVG9Ww",
+      "slug": "the-joy-of-coordinating-vulnerability-disclosure-2",
+      "title": "The Joy of Coordinating Vulnerability Disclosure",
+      "speakers": [
+        "Vulnerability Disclosure"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "The Joy of Coordinating Vulnerability Disclosure.",
+      "summary": null,
+      "durationSeconds": 3417
+    },
+    {
+      "youtubeId": "uKWu6yhnhbQ",
+      "slug": "the-bug-hunter-s-methodology-full-2-hour-training-by-jason-haddi",
+      "title": "The Bug Hunter's Methodology Full 2-hour Training by Jason Haddix",
+      "speakers": [
+        "Jason Haddix"
+      ],
+      "track": "red-team",
+      "topics": [
+        "red-team",
+        "offensive-security"
+      ],
+      "teaser": "The Bug Hunter's Methodology Full 2-hour Training.",
+      "summary": null,
+      "durationSeconds": 6833
     }
   ]
 }
