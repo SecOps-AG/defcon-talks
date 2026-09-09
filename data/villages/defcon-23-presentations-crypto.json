@@ -40,7 +40,7 @@
         "decentralization"
       ],
       "teaser": "Eijah provides a practical primer on applied cryptography, cipher selection, implementation pitfalls, and decentralization principles for security researchers.",
-      "summary": null,
+      "summary": "Cryptography presentation: Crypto for Hackers. Technical discussion of cryptographic concepts and attacks.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3351
     },
     {
@@ -78,7 +78,7 @@
         "cryptography"
       ],
       "teaser": "Ryan Castellucci details methods and high-performance tooling for auditing and cracking cryptocurrency brainwallets derived from human-generated passphrases.",
-      "summary": null,
+      "summary": "Cryptography presentation: Cracking CryptoCurrency Brainwallets. Technical discussion of cryptographic concepts and attacks.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2569
     },
     {

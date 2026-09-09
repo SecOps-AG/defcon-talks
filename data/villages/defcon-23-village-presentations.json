@@ -59,7 +59,7 @@
         "appsec"
       ],
       "teaser": "Ron Taylor analyzes structural security vulnerabilities in SOAP, XML-RPC, and RESTful web services, demonstrating automated exploitation techniques.",
-      "summary": null,
+      "summary": "Web application security: Violating Web Services. Exploitation of web service vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2208
     },
     {
@@ -518,7 +518,7 @@
         "hardware"
       ],
       "teaser": "K. Reid Wightman investigates vulnerability inheritance in industrial PLCs, demonstrating how shared third-party network stacks propagate critical zero-days.",
-      "summary": null,
+      "summary": "Industrial control systems: Vulnerability Inheritance in Programmable Logic Controllers. Security analysis of critical infrastructure control systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2335
     },
     {
@@ -649,7 +649,7 @@
         "hardware-hacking"
       ],
       "teaser": "A foundational hands-on guide to soldering electronics, covering temperature control, flux types, through-hole components, surface-mount soldering, and rework.",
-      "summary": null,
+      "summary": "Hardware security: Soldering 101: Melting Metal for Fun and Profit. Deep dive into hardware-level security issues and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 734
     },
     {
