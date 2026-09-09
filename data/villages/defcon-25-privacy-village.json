@@ -10,31 +10,37 @@
       "slug": "cooper-quintin-kashmir-hill-the-internet-already-knows-im-pregna",
       "title": "The Internet Already Knows I'm Pregnant",
       "speakers": [
-        "Cooper Quintin, Kashmir Hill"
+        "Cooper Quintin",
+        "Kashmir Hill"
       ],
       "track": "privacy",
       "topics": [
-        "privacy",
-        "threat-intel",
-        "appsec"
+        "data-tracking",
+        "privacy-invasion",
+        "data-collection",
+        "corporate-surveillance",
+        "personal-data"
       ],
-      "teaser": "The Internet Already Knows I'm Pregnant",
+      "teaser": "How internet tracking reveals intimate personal information through data collection and analysis.",
       "summary": null,
       "durationSeconds": 2222
     },
     {
       "youtubeId": "gnUZddaPvUA",
       "slug": "jim-nitterauer-dns-devious-name-services-destroying-privacy-and",
-      "title": "DNS: Devious Name Services Destroying Privacy & Anonymity w/o consent",
+      "title": "DNS: Devious Name Services Destroying Privacy & Anonymity",
       "speakers": [
         "Jim Nitterauer"
       ],
       "track": "privacy",
       "topics": [
-        "privacy",
-        "threat-intel"
+        "dns-tracking",
+        "dns-privacy",
+        "query-logging",
+        "isp-surveillance",
+        "anonymity"
       ],
-      "teaser": "DNS: Devious Name Services Destroying Privacy & Anonymity w/o consent",
+      "teaser": "DNS query monitoring and tracking as a privacy threat to user anonymity.",
       "summary": null,
       "durationSeconds": 2425
     },
@@ -47,11 +53,13 @@
       ],
       "track": "privacy",
       "topics": [
-        "threat-intel",
-        "privacy",
-        "appsec"
+        "government-surveillance",
+        "state-actors",
+        "surveillance-tools",
+        "spyware",
+        "digital-rights"
       ],
-      "teaser": "Learning about Government Surveillance Software",
+      "teaser": "Analysis of government surveillance software tools and their privacy implications.",
       "summary": null,
       "durationSeconds": 1175
     },
@@ -64,11 +72,13 @@
       ],
       "track": "privacy",
       "topics": [
-        "privacy",
-        "threat-intel",
-        "appsec"
+        "tor",
+        "onion-services",
+        "anonymity",
+        "hidden-services",
+        "network-privacy"
       ],
-      "teaser": "Next Generation Tor Onion Services",
+      "teaser": "Tor's next-generation onion services architecture and improvements for hidden service security.",
       "summary": null,
       "durationSeconds": 2587
     },
@@ -79,47 +89,53 @@
       "speakers": [
         "Richard Thieme"
       ],
-      "track": "privacy",
+      "track": "policy",
       "topics": [
-        "privacy",
-        "threat-intel",
-        "appsec"
+        "privacy-erosion",
+        "surveillance-state",
+        "social-change",
+        "policy-implications",
+        "digital-future"
       ],
-      "teaser": "When Privacy Goes Poof! Why It's Gone and Never Coming Back",
+      "teaser": "The fundamental erosion of privacy in modern society and the societal implications.",
       "summary": null,
       "durationSeconds": 2724
     },
     {
       "youtubeId": "UjsL7K2ga4A",
       "slug": "tess-schrodinger-total-recall-implanting-passwords-in-cognitive",
-      "title": "Total Recall  Implanting Passwords in Cognitive Memory",
+      "title": "Total Recall: Implanting Passwords in Cognitive Memory",
       "speakers": [
         "Tess Schrodinger"
       ],
       "track": "privacy",
       "topics": [
-        "appsec",
-        "threat-intel",
-        "privacy"
+        "password-security",
+        "cognitive-science",
+        "memory-techniques",
+        "authentication",
+        "user-security"
       ],
-      "teaser": "Total Recall  Implanting Passwords in Cognitive Memory",
+      "teaser": "Cognitive techniques for securely memorizing strong passwords without written records.",
       "summary": null,
       "durationSeconds": 2254
     },
     {
       "youtubeId": "IXciNThY764",
       "slug": "weston-hecker-opt-out-or-deauth-trying-antitracking-bots-and-key",
-      "title": "Opt Out or Deauth Trying! AntiTracking Bots  & Keystroke Injection",
+      "title": "Opt Out or Deauth Trying! AntiTracking Bots & Keystroke Injection",
       "speakers": [
         "Weston Hecker"
       ],
-      "track": "privacy",
+      "track": "blue-team",
       "topics": [
-        "threat-intel",
-        "appsec",
-        "defense"
+        "anti-tracking",
+        "tracking-prevention",
+        "bot-defense",
+        "privacy-protection",
+        "privacy-tools"
       ],
-      "teaser": "Opt Out or Deauth Trying! AntiTracking Bots  & Keystroke Injection",
+      "teaser": "Anti-tracking techniques and tools for preventing online surveillance and behavioral tracking.",
       "summary": null,
       "durationSeconds": 2189
     }
