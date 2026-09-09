@@ -209,9 +209,7 @@
       "youtubeId": "aK3kWXH-3vE",
       "slug": "meet-a-mentor-program",
       "title": "Meet-a-Mentor Program",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "mentorship",
@@ -227,9 +225,7 @@
       "youtubeId": "fyFdoMKyNU8",
       "slug": "incident-response-panel",
       "title": "Incident Response Panel",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "blue-team",
       "topics": [
         "incident-response",

@@ -176,6 +176,17 @@ for (const file of files) {
       error(at, "speakers must all be non-empty strings");
     } else if (talk.speakers.length === 0) {
       warn(at, "no speakers listed");
+    } else {
+      for (const speaker of talk.speakers) {
+        const name = speaker.trim();
+        if (
+          /^(panels?|video\s*team|videoteam)$/i.test(name) ||
+          /\bvillage\b/i.test(name) ||
+          /^def\s*con\b/i.test(name)
+        ) {
+          warn(at, `speaker "${speaker}" looks like a village/event label, not a person`);
+        }
+      }
     }
 
     if (!talk.track) error(at, "track is empty — pick one from data/taxonomy.json");

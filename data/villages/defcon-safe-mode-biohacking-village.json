@@ -221,8 +221,7 @@
       "slug": "advancing-medical-device-security",
       "title": "Advancing Medical Device Security",
       "speakers": [
-        "Mitchell Parker",
-        "Panel"
+        "Mitchell Parker"
       ],
       "track": "community",
       "topics": [
@@ -240,9 +239,7 @@
       "youtubeId": "4a2Kmq74z5A",
       "slug": "diabetes-panel",
       "title": "Diabetes Panel",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "diabetes",
@@ -490,9 +487,7 @@
       "youtubeId": "nDXS19Dpa0A",
       "slug": "how-independent-researchers-work-with-mdms",
       "title": "How Independent Researchers Work with MDMs",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "medical-devices",

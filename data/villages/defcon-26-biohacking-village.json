@@ -129,9 +129,7 @@
       "youtubeId": "uDxVS8ok4Iw",
       "slug": "bio-hacking-village",
       "title": "DAY ONE",
-      "speakers": [
-        "DAY ONE"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "biohacking",

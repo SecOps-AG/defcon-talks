@@ -46,9 +46,7 @@
       "youtubeId": "xpvtdJV5DnU",
       "slug": "policy-panel-ransomwares-big-year-from-nuisance-to-scourge",
       "title": "Ransomware's Big Year: From Nuisance to Scourge (Live Panel)",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "ransomware",
@@ -65,9 +63,7 @@
       "youtubeId": "DwpkF2alTOQ",
       "slug": "policy-panel-hackers-into-the-un-cyber-discussions-on-war-and-pe",
       "title": "Hackers into the UN: Cyber Discussions on War and Peace (Live Policy Panel)",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "united-nations",
@@ -84,9 +80,7 @@
       "youtubeId": "ZLGBHxs7rTU",
       "slug": "panel-rebooting-critical-infrastructure-protection",
       "title": "Rebooting Critical Infrastructure Protection (Live Panel)",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "critical-infrastructure",
@@ -238,8 +232,7 @@
       "slug": "the-dark-tangent-panel-def-con-102",
       "title": "Community Panel: DEF CON 102 (Live)",
       "speakers": [
-        "The Dark Tangent",
-        "Panel"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [

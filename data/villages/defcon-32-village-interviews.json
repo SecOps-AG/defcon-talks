@@ -9,9 +9,7 @@
       "youtubeId": "i0cXyiZv_qc",
       "slug": "whiterabbitneo-open-source-red-team-ai-model",
       "title": "WhiteRabbitNeo: Open-Source Red Team AI Model",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "ai-security",
       "topics": [
         "artificial-intelligence",
@@ -28,8 +26,7 @@
       "slug": "scanning-with-daniel-badge-and-rf-reconnaissance",
       "title": "Scanning with Daniel: Badge and RF Reconnaissance",
       "speakers": [
-        "Daniel",
-        "DEF CON Video Team"
+        "Daniel"
       ],
       "track": "recon",
       "topics": [
@@ -46,9 +43,7 @@
       "youtubeId": "6OHoi1sylx4",
       "slug": "bug-bounty-village-walkthrough",
       "title": "Bug Bounty Village Walkthrough",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "bug-bounty",
@@ -63,9 +58,7 @@
       "youtubeId": "91uoI7tcjxA",
       "slug": "embedded-systems-village-spotlight",
       "title": "Embedded Systems Village Spotlight",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "embedded-systems",
@@ -82,8 +75,7 @@
       "slug": "interview-with-deadmau5",
       "title": "Interview with deadmau5",
       "speakers": [
-        "deadmau5",
-        "DEF CON Video Team"
+        "deadmau5"
       ],
       "track": "community",
       "topics": [
@@ -100,9 +92,7 @@
       "youtubeId": "CVflCxKFE8Y",
       "slug": "owasp-at-def-con-32",
       "title": "OWASP at DEF CON 32",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "appsec",
       "topics": [
         "owasp",
@@ -120,8 +110,7 @@
       "title": "Organizing DEF CON Groups: Global Hacker Communities",
       "speakers": [
         "Alethe",
-        "Mike",
-        "DEF CON Video Team"
+        "Mike"
       ],
       "track": "community",
       "topics": [
@@ -138,8 +127,7 @@
       "slug": "interview-with-cory-doctorow",
       "title": "Interview with Cory Doctorow",
       "speakers": [
-        "Cory Doctorow",
-        "DEF CON Video Team"
+        "Cory Doctorow"
       ],
       "track": "policy",
       "topics": [
@@ -157,8 +145,7 @@
       "slug": "tsa-security-simulator-walkthrough-with-erik",
       "title": "TSA Security Simulator Walkthrough with Erik",
       "speakers": [
-        "Erik",
-        "DEF CON Video Team"
+        "Erik"
       ],
       "track": "recon",
       "topics": [
@@ -175,9 +162,7 @@
       "youtubeId": "INOGwDyJ-8M",
       "slug": "women-in-security-and-privacy-wisp-spotlight",
       "title": "Women in Security and Privacy (WISP) Spotlight",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "wisp",
@@ -193,9 +178,7 @@
       "youtubeId": "QwYXbb2-zNU",
       "slug": "iot-village-walkthrough-dc32",
       "title": "IoT Village Walkthrough",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "iot",
@@ -211,9 +194,7 @@
       "youtubeId": "1qTuH5rUa2A",
       "slug": "red-team-village-contest-room-overview",
       "title": "Red Team Village Contest Room Overview",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "red-team",
       "topics": [
         "red-team",
@@ -229,9 +210,7 @@
       "youtubeId": "2tcdFN34hfo",
       "slug": "history-of-the-tin-foil-hat-contest",
       "title": "History of the Tin Foil Hat Contest",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "tin-foil-hat",
@@ -248,8 +227,7 @@
       "slug": "clue-hunt-winner-interview-marco",
       "title": "Clue Hunt Winner Interview: Marco",
       "speakers": [
-        "Marco",
-        "DEF CON Video Team"
+        "Marco"
       ],
       "track": "community",
       "topics": [
@@ -267,8 +245,7 @@
       "slug": "lockpicking-fundamentals-with-hypu-from-toool",
       "title": "Lockpicking Fundamentals with HYPU from TOOOL",
       "speakers": [
-        "HYPU",
-        "DEF CON Video Team"
+        "HYPU"
       ],
       "track": "recon",
       "topics": [
@@ -286,8 +263,7 @@
       "slug": "iot-security-deep-dive-with-ken-pyle",
       "title": "IoT Security Deep Dive with Ken Pyle",
       "speakers": [
-        "Ken Pyle",
-        "DEF CON Video Team"
+        "Ken Pyle"
       ],
       "track": "hardware",
       "topics": [
@@ -304,9 +280,7 @@
       "youtubeId": "hHvIKmgvLJY",
       "slug": "the-def-con-bike-ride-tradition",
       "title": "The DEF CON Bike Ride Tradition",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "bike-ride",
@@ -322,9 +296,7 @@
       "youtubeId": "Fy-3P8v5e8g",
       "slug": "hardware-hacking-and-soldering-skills-village",
       "title": "Hardware Hacking and Soldering Skills Village",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "soldering",
@@ -340,9 +312,7 @@
       "youtubeId": "OWlPWtNPCzw",
       "slug": "la-villa-en-espanol-at-def-con-32",
       "title": "La Villa en Espa\u00f1ol at DEF CON 32",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "la-villa",
@@ -358,9 +328,7 @@
       "youtubeId": "-1a0usTKyY0",
       "slug": "tin-foil-hat-contestant-showcase",
       "title": "Tin Foil Hat Contestant Showcase",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "tin-foil-hat",
@@ -376,9 +344,7 @@
       "youtubeId": "XjBsKUi7a3g",
       "slug": "intigriti-at-bug-bounty-village",
       "title": "Intigriti at Bug Bounty Village",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "appsec",
       "topics": [
         "bug-bounty",
@@ -394,9 +360,7 @@
       "youtubeId": "ntqNaFysYI0",
       "slug": "car-hacking-village-showcase-dc32",
       "title": "Car Hacking Village Showcase",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "automotive-security",
@@ -412,9 +376,7 @@
       "youtubeId": "nJ8_DmbqAuY",
       "slug": "darpa-ai-cyber-challenge-aixcc-finals-preview",
       "title": "DARPA AI Cyber Challenge (AIxCC) Finals Preview",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "ai-security",
       "topics": [
         "darpa",
@@ -430,9 +392,7 @@
       "youtubeId": "azw49c4AV0w",
       "slug": "beverage-chilling-contraption-contest-bccc",
       "title": "Beverage Chilling Contraption Contest (BCCC)",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "bccc",
@@ -448,9 +408,7 @@
       "youtubeId": "8U5XiPZ700c",
       "slug": "bug-bounty-village-live-hacking-and-demos",
       "title": "Bug Bounty Village Live Hacking and Demos",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "appsec",
       "topics": [
         "bug-bounty",
@@ -466,9 +424,7 @@
       "youtubeId": "EuuXHQNztZc",
       "slug": "badgelife-the-art-and-engineering-of-custom-badges",
       "title": "Badgelife: The Art and Engineering of Custom Badges",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "hardware",
       "topics": [
         "badgelife",
@@ -484,9 +440,7 @@
       "youtubeId": "AN-0D35o_C0",
       "slug": "policy-village-at-def-con-32-overview",
       "title": "Policy Village at DEF CON 32 Overview",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "policy",
@@ -502,9 +456,7 @@
       "youtubeId": "K7piwYa5LCw",
       "slug": "voting-village-at-def-con-32-preview",
       "title": "Voting Village at DEF CON 32 Preview",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "election-security",
@@ -521,8 +473,7 @@
       "slug": "the-def-con-scavenger-hunt-challenge",
       "title": "The DEF CON Scavenger Hunt Challenge",
       "speakers": [
-        "Silk",
-        "DEF CON Video Team"
+        "Silk"
       ],
       "track": "community",
       "topics": [
@@ -539,9 +490,7 @@
       "youtubeId": "Mdqh2n8f_uQ",
       "slug": "blacks-in-cybersecurity-village-spotlight",
       "title": "Blacks In Cybersecurity Village Spotlight",
-      "speakers": [
-        "DEF CON Video Team"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "blacks-in-cybersecurity",

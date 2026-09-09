@@ -363,8 +363,7 @@
       "slug": "darpa-ai-cyber-challenge-announcement",
       "title": "DARPA AI Cyber Challenge Announcement",
       "speakers": [
-        "Perri Adams",
-        "Panel"
+        "Perri Adams"
       ],
       "track": "ai-security",
       "topics": [
@@ -1089,9 +1088,7 @@
       "youtubeId": "zs3e6Xqrznk",
       "slug": "internet-censorship-what-governments-have-in-store-for-you-panel",
       "title": "Internet Censorship: What Governments Have in Store for You",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "censorship",
@@ -1148,8 +1145,7 @@
       "slug": "hacker-court-interactive-scenario-winn0na-and-panel",
       "title": "Hacker Court Interactive Scenario",
       "speakers": [
-        "winn0na",
-        "Panel"
+        "winn0na"
       ],
       "track": "policy",
       "topics": [
@@ -1444,9 +1440,7 @@
       "youtubeId": "yGvEIvrjGL0",
       "slug": "dc101-welcome-to-def-con",
       "title": "DC101: Welcome to DEF CON",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "orientation",
@@ -1894,8 +1888,7 @@
       "slug": "closing-ceremonies-awards-dc31",
       "title": "Closing Ceremonies & Awards",
       "speakers": [
-        "The Dark Tangent",
-        "DEF CON Senior Staff"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [
@@ -1912,9 +1905,7 @@
       "youtubeId": "GmFqIFiteM4",
       "slug": "contest-closing-ceremonies-awards-dc31",
       "title": "Contest Closing Ceremonies & Awards",
-      "speakers": [
-        "Contest Goons"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "contest",

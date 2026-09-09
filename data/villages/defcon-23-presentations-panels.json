@@ -107,9 +107,7 @@
       "youtubeId": "XA1h8L5S9I4",
       "slug": "panel-6",
       "title": "Panel",
-      "speakers": [
-        "DEF CON Comedy Inception"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "community",
@@ -156,9 +154,7 @@
       "youtubeId": "JUt9PiMyRsA",
       "slug": "panel-7",
       "title": "Panel",
-      "speakers": [
-        "Abusing Adobe Readers JavaScript APIs"
-      ],
+      "speakers": [],
       "track": "appsec",
       "topics": [
         "appsec",

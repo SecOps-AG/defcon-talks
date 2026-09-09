@@ -234,10 +234,10 @@ export function TalkBrowser({
       {/* Search comes first; the facet rail refines from there. */}
       {search ? <div key="search">{search}</div> : null}
 
-      <div className="grid gap-6 lg:grid-cols-[15rem_minmax(0,1fr)] lg:gap-8">
-        {/* Desktop rail */}
+      <div className="grid gap-6 lg:grid-cols-[15rem_minmax(0,1fr)] lg:items-start lg:gap-8">
+        {/* Desktop rail: own overflow so it can scroll without waiting out the results list. */}
         <aside className="hidden lg:block">
-          <div className="sticky top-20 space-y-5">
+          <div className="sticky top-20 max-h-[calc(100vh-5.5rem)] space-y-5 overflow-y-auto overscroll-contain scroll-list pr-1">
             <div className="flex items-center justify-between">
               <p className="font-display text-xs uppercase tracking-[0.2em] text-acid">Filters</p>
               {activeCount > 0 ? (

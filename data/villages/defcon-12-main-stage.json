@@ -228,8 +228,7 @@
       "youtubeId": "YE2XzttRi1Y",
       "title": "Meet the Feds",
       "speakers": [
-        "Jim Christy",
-        "Federal Law Enforcement Panel"
+        "Jim Christy"
       ],
       "track": "policy",
       "topics": [
@@ -246,9 +245,7 @@
     {
       "youtubeId": "6zNfmUSKj3E",
       "title": "Ask EFF: Discussion on the State of Digital Liberties",
-      "speakers": [
-        "Electronic Frontier Foundation Staff"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "hacker-culture",
@@ -924,8 +921,7 @@
       "youtubeId": "M_ZiGNrmDfs",
       "title": "Award Ceremonies and Contest Results",
       "speakers": [
-        "The Dark Tangent",
-        "DEF CON Staff"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [

@@ -171,7 +171,7 @@
       "youtubeId": "SGE03xCxCI0",
       "title": "Creating Genetic: Mutations",
       "speakers": [
-        "Chris Eagle: Ripples in the Gene Pool"
+        "Chris Eagle"
       ],
       "track": "mobile",
       "topics": [
@@ -261,8 +261,7 @@
       "youtubeId": "DOj9ppctNiU",
       "title": "Award Ceremonies and Contest Results",
       "speakers": [
-        "The Dark Tangent",
-        "DEF CON Staff"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [
@@ -297,9 +296,7 @@
     {
       "youtubeId": "IVW7cAEXM9o",
       "title": "Ask EFF: the Year in Digital Civil Liberties",
-      "speakers": [
-        "Electronic Frontier Foundation Staff"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "eff",
@@ -497,8 +494,7 @@
       "youtubeId": "na8n5EKXM-8",
       "title": "Meet the Feds: OODA Loop and the Science of Security",
       "speakers": [
-        "James Christy",
-        "Federal Law Enforcement Panel"
+        "James Christy"
       ],
       "track": "policy",
       "topics": [
@@ -642,8 +638,7 @@
       "youtubeId": "iZp7y82h1Pk",
       "title": "Traffic Analysis and Surveillance Countermeasures",
       "speakers": [
-        "Jon Callas",
-        "Traffic Analysis Panel"
+        "Jon Callas"
       ],
       "track": "policy",
       "topics": [
@@ -877,8 +872,7 @@
       "youtubeId": "5qg4KOX7adI",
       "title": "Internet Wars 2006",
       "speakers": [
-        "Gadi Evron",
-        "Internet Operations Panel"
+        "Gadi Evron"
       ],
       "track": "policy",
       "topics": [
@@ -987,7 +981,7 @@
       "youtubeId": "zVjbKk5r53Q",
       "title": "The Beauty of Graphs",
       "speakers": [
-        "Raffael Marty: Visual Log Analysis"
+        "Raffael Marty"
       ],
       "track": "policy",
       "topics": [
@@ -1133,7 +1127,7 @@
       "youtubeId": "896QLoQljM8",
       "title": "A Year in Review",
       "speakers": [
-        "Robert Clark: Legal Aspects of Internet",
+        "Robert Clark",
         "Computer Network Defense"
       ],
       "track": "policy",

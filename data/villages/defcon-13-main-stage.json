@@ -395,9 +395,7 @@
     {
       "youtubeId": "LPk91z-GJio",
       "title": "The Hacker Foundation: Doing Not-For-Profit Tech",
-      "speakers": [
-        "The Hacker Foundation Staff"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "hacker-culture",
@@ -414,8 +412,7 @@
       "youtubeId": "7Vi956UVRcg",
       "title": "Meet the Feds",
       "speakers": [
-        "Jim Christy",
-        "Federal Law Enforcement Panel"
+        "Jim Christy"
       ],
       "track": "policy",
       "topics": [
@@ -979,8 +976,7 @@
       "youtubeId": "wLQNs0vqxsk",
       "title": "CISO Q&A with the Dark Tangent",
       "speakers": [
-        "The Dark Tangent",
-        "CISO Executive Panel"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [
@@ -1033,9 +1029,7 @@
     {
       "youtubeId": "e98YT5TB210",
       "title": "Regional DEF CON Groups Panel Discussion",
-      "speakers": [
-        "Regional DEF CON Groups"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "defcon-groups",
@@ -1070,8 +1064,7 @@
       "youtubeId": "w09rbilifJU",
       "title": "Award Ceremonies and Contest Results",
       "speakers": [
-        "The Dark Tangent",
-        "DEF CON Staff"
+        "The Dark Tangent"
       ],
       "track": "community",
       "topics": [

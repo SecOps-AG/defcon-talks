@@ -1575,9 +1575,7 @@
     {
       "youtubeId": "E_ZPdk1RKM0",
       "title": "Ask the EFF: the Year in Digital Civil Liberties",
-      "speakers": [
-        "Electronic Frontier Foundation Staff"
-      ],
+      "speakers": [],
       "track": "mobile",
       "topics": [
         "mobile-security",
@@ -1708,8 +1706,7 @@
       "youtubeId": "dJoWgjowJWU",
       "title": "Represent! DEF CON Groups, Hackerspaces, and You",
       "speakers": [
-        "Blakdayz",
-        "DC Groups Staff"
+        "Blakdayz"
       ],
       "track": "community",
       "topics": [

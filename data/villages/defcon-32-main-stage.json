@@ -1768,9 +1768,7 @@
       "youtubeId": "jfX4YIWScoo",
       "slug": "hacker-jeopardy-night-1-dc32",
       "title": "Hacker Jeopardy: Night 1",
-      "speakers": [
-        "Hacker Jeopardy Staff"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "hacker-jeopardy",
@@ -1787,9 +1785,7 @@
       "youtubeId": "WZJJgkftzOs",
       "slug": "whose-slide-is-it-anyway-dc32",
       "title": "Whose Slide Is It Anyway?",
-      "speakers": [
-        "Contest Staff"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "contest",

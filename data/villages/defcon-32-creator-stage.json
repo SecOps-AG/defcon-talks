@@ -223,9 +223,7 @@
       "youtubeId": "slpJQmm3L8k",
       "slug": "the-past-present-and-future-of-bioweapons",
       "title": "The Past, Present, and Future of Bioweapons",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "policy",
       "topics": [
         "policy",
@@ -357,9 +355,7 @@
       "youtubeId": "dGSPysbdvJo",
       "slug": "preparing-for-the-future-a-discussion-of-our-rapidly-evolving-threat-landscape",
       "title": "Preparing for the Future: A Discussion of Our Rapidly Evolving Threat Landscape",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "threat-intel",
       "topics": [
         "threat-intelligence",
@@ -782,9 +778,7 @@
       "youtubeId": "vRjB6TutzuM",
       "slug": "the-village-peoples-panel-what-really-goes-on-in-a-village",
       "title": "The Village Peoples' Panel: What Really Goes On in a Village",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "community",
@@ -1169,9 +1163,7 @@
       "youtubeId": "fs0QR7fPnJg",
       "slug": "d0n0h4rm-cyber-stem-storytime",
       "title": "D0N0H4RM: Cyber STEM Storytime",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "community",
@@ -1207,9 +1199,7 @@
       "youtubeId": "Q-rGVE9xCKw",
       "slug": "responding-to-breaches-ransomware-and-state-sponsored-threat-actors",
       "title": "Responding to Breaches, Ransomware, and State-Sponsored Threat Actors",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "threat-intel",
       "topics": [
         "ransomware",
@@ -1362,9 +1352,7 @@
       "youtubeId": "9IN1Aj56hYA",
       "slug": "hunters-and-gatherers-a-deep-dive-into-the-world-of-bug-bounties",
       "title": "Hunters and Gatherers: A Deep Dive into the World of Bug Bounties",
-      "speakers": [
-        "Panel"
-      ],
+      "speakers": [],
       "track": "community",
       "topics": [
         "bug-bounty",
