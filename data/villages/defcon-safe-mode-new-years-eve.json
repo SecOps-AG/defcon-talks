@@ -1,0 +1,82 @@
+{
+  "villageSlug": "new-years-eve",
+  "villageName": "New Year's Eve 2020",
+  "eventSlug": "defcon-safe-mode",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaAen3dLvFc-CnhoSclI4ES_",
+  "description": "Performances and competitions from DEF CON Safe Mode's inaugural New Year's Eve Party, featuring the Hacker Jeopardy championship tiebreaker and virtual DJ sets.",
+  "talks": [
+    {
+      "youtubeId": "gOruB8NXGvs",
+      "slug": "hacker-jeopardy-tiebreaker-church-of-wifi-vs-show-and-telnet",
+      "title": "Hacker Jeopardy Tiebreaker: Church of WiFi vs Show&TELNET",
+      "speakers": [
+        "Church of WiFi",
+        "Show&TELNET"
+      ],
+      "track": "community",
+      "topics": [
+        "contest",
+        "trivia",
+        "hacker-culture",
+        "community"
+      ],
+      "teaser": "The legendary tiebreaker match of Hacker Jeopardy at the DEF CON 2020 New Year's Eve Party between Church of WiFi and Show&TELNET.",
+      "summary": null,
+      "durationSeconds": 4572
+    },
+    {
+      "youtubeId": "Ut6d6SaS3e4",
+      "slug": "new-years-eve-live-set-skittish-and-bus",
+      "title": "New Year's Eve Live Set: Skittish & Bus",
+      "speakers": [
+        "Skittish & Bus"
+      ],
+      "track": "community",
+      "topics": [
+        "music",
+        "entertainment",
+        "party",
+        "culture"
+      ],
+      "teaser": "Skittish and Bus perform a live DJ and music video set to ring in 2021 during the inaugural DEF CON New Year's Eve virtual celebration.",
+      "summary": null,
+      "durationSeconds": 2759
+    },
+    {
+      "youtubeId": "V9kae0iTr6E",
+      "slug": "new-years-eve-live-set-yesterday-and-tomorrow",
+      "title": "New Year's Eve Live Set: Yesterday & Tomorrow",
+      "speakers": [
+        "Yesterday & Tomorrow"
+      ],
+      "track": "community",
+      "topics": [
+        "music",
+        "entertainment",
+        "party",
+        "culture"
+      ],
+      "teaser": "Yesterday & Tomorrow deliver a live DJ set and visual music video celebrating the transition into 2021 at the DEF CON New Year's Eve Party.",
+      "summary": null,
+      "durationSeconds": 3037
+    },
+    {
+      "youtubeId": "XKyqli9qFM8",
+      "slug": "new-years-eve-live-set-miss-jackalope",
+      "title": "New Year's Eve Live Set: Miss Jackalope",
+      "speakers": [
+        "Miss Jackalope"
+      ],
+      "track": "community",
+      "topics": [
+        "music",
+        "entertainment",
+        "party",
+        "hacker-culture"
+      ],
+      "teaser": "Miss Jackalope hits the decks for a high-energy live electronic music set during the 2020 DEF CON New Year's Eve virtual party.",
+      "summary": null,
+      "durationSeconds": 2991
+    }
+  ]
+}
