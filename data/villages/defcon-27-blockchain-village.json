@@ -8,17 +8,19 @@
     {
       "youtubeId": "ItBRStAD2hA",
       "slug": "rod-soto-a-smart-contract-killchain-how-the-first-blockchain-apt",
-      "title": "A Smart Contract Killchain How the first Blockchain APT",
+      "title": "A Smart Contract Killchain: How the first Blockchain APT",
       "speakers": [
         "Rod Soto"
       ],
-      "track": "privacy",
+      "track": "red-team",
       "topics": [
-        "privacy",
-        "threat-intel",
-        "policy"
+        "smart-contracts",
+        "blockchain-security",
+        "apt-attacks",
+        "ethereum",
+        "exploit-chain"
       ],
-      "teaser": "A Smart Contract Killchain How the first Blockchain APT",
+      "teaser": "Advanced persistent threat attack chain targeting smart contracts and blockchain systems.",
       "summary": null,
       "durationSeconds": 2336
     },
@@ -29,13 +31,15 @@
       "speakers": [
         "Philip Martin"
       ],
-      "track": "privacy",
+      "track": "appsec",
       "topics": [
-        "appsec",
-        "threat-intel",
-        "policy"
+        "browser-security",
+        "zero-day",
+        "firefox",
+        "incident-response",
+        "vulnerability-disclosure"
       ],
-      "teaser": "Responding to Firefox 0 days",
+      "teaser": "Incident response and vulnerability handling for zero-day exploits in Firefox.",
       "summary": null,
       "durationSeconds": 2220
     },
@@ -46,13 +50,15 @@
       "speakers": [
         "Ron Stoner"
       ],
-      "track": "privacy",
+      "track": "policy",
       "topics": [
-        "privacy",
-        "threat-intel",
-        "policy"
+        "cryptocurrency-standards",
+        "security-compliance",
+        "blockchain-standards",
+        "best-practices",
+        "regulation"
       ],
-      "teaser": "The CryptoCurrency Security Standard CCSS",
+      "teaser": "Cryptocurrency security standards and compliance frameworks for blockchain systems.",
       "summary": null,
       "durationSeconds": 2993
     },
@@ -65,11 +71,13 @@
       ],
       "track": "privacy",
       "topics": [
-        "privacy",
-        "threat-intel",
-        "appsec"
+        "bitcoin",
+        "cryptocurrency-fundamentals",
+        "blockchain-basics",
+        "distributed-systems",
+        "ledger-technology"
       ],
-      "teaser": "What Is Bitcoin",
+      "teaser": "Fundamentals of Bitcoin and blockchain technology architecture.",
       "summary": null,
       "durationSeconds": 1268
     },
@@ -80,13 +88,15 @@
       "speakers": [
         "Brian Vohaska"
       ],
-      "track": "privacy",
+      "track": "appsec",
       "topics": [
-        "appsec",
-        "threat-intel",
-        "policy"
+        "blockchain-consensus",
+        "time-mechanisms",
+        "cryptography",
+        "distributed-trust",
+        "protocol-design"
       ],
-      "teaser": "Forcing a trustworthy notion of sequential time",
+      "teaser": "Cryptographic mechanisms for establishing trustworthy ordering and time in distributed systems.",
       "summary": null,
       "durationSeconds": 2072
     },
@@ -97,30 +107,34 @@
       "speakers": [
         "Mark Nesbitt"
       ],
-      "track": "privacy",
+      "track": "red-team",
       "topics": [
-        "privacy",
-        "threat-intel",
-        "appsec"
+        "cryptocurrency-hacking",
+        "wallet-security",
+        "exchange-attacks",
+        "theft",
+        "exploitation"
       ],
-      "teaser": "Hacking Cryptocurrencies",
+      "teaser": "Attack techniques and vulnerabilities in cryptocurrency wallets and exchanges.",
       "summary": null,
       "durationSeconds": 1859
     },
     {
       "youtubeId": "MVIw1BIdoqI",
       "slug": "mila-paul-alice-and-bobs-big-secret-video-def-con-27-block-chain",
-      "title": "Alice and Bobs Big Secret video",
+      "title": "Alice and Bobs Big Secret",
       "speakers": [
         "Mila Paul"
       ],
       "track": "privacy",
       "topics": [
-        "appsec",
-        "threat-intel",
-        "policy"
+        "privacy-protocols",
+        "cryptography",
+        "secure-communication",
+        "key-exchange",
+        "blockchain-privacy"
       ],
-      "teaser": "Alice and Bobs Big Secret video",
+      "teaser": "Privacy protocols and cryptographic mechanisms for secure blockchain communications.",
       "summary": null,
       "durationSeconds": 1885
     },
@@ -128,15 +142,16 @@
       "youtubeId": "mYzbuICWHQ4",
       "slug": "panel-privacy-enabler-or-hindrance-to-the-success-of-blockchain",
       "title": "Privacy Enabler or Hindrance to the Success of Blockchain",
-      "speakers": [
-        "Panel"
-      ],
-      "track": "privacy",
+      "speakers": [],
+      "track": "policy",
       "topics": [
-        "privacy",
-        "threat-intel"
+        "blockchain-privacy",
+        "regulatory-impact",
+        "anonymity",
+        "compliance-tension",
+        "industry-perspective"
       ],
-      "teaser": "Privacy Enabler or Hindrance to the Success of Blockchain",
+      "teaser": "Panel discussion on privacy's role in blockchain adoption and regulatory constraints.",
       "summary": null,
       "durationSeconds": 2404
     }
