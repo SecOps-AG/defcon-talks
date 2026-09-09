@@ -15,7 +15,10 @@
       "track": "cloud",
       "topics": [
         "cloud",
-        "appsec"
+        "appsec",
+        "cloud-security",
+        "infrastructure",
+        "vulnerability-research"
       ],
       "teaser": "DIY methodology for assessing and auditing Azure cloud security posture.",
       "summary": null,
