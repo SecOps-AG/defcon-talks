@@ -15,7 +15,8 @@
       "track": "blue-team",
       "topics": [
         "medical-devices",
-        "ethics"
+        "ethics",
+        "community"
       ],
       "teaser": "Medical misinformation has been labeled as one of the greatest public health threats of our time. Previously eradicated diseases, such as measles are occurring in clusters and causing deaths. The problem is complex wi...",
       "summary": null,
@@ -31,7 +32,8 @@
       "track": "community",
       "topics": [
         "biohacking",
-        "healthcare"
+        "healthcare",
+        "community"
       ],
       "teaser": "Managing diabetes revolves around stagnated tech from the 80s and 90s. Hackers took their lives into their hands by augmenting inadequate products after market. Building iterations of a DIY artificial pancreas and rea...",
       "summary": null,
@@ -46,7 +48,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "massive security vulnerability was discovered which allowed PHI to be leaked from closed patient support groups on Facebook. In this session we\u2019ll discuss how a coalition of patients and security researchers faced thi...",
       "summary": null,
@@ -62,7 +66,8 @@
       "track": "red-team",
       "topics": [
         "medical-devices",
-        "networks"
+        "networks",
+        "community"
       ],
       "teaser": "Even a device with the most ironclad firmware can still be subject to a broad variety of attacks depending on its interaction with other external components. This presentation will examine commonly overlooked vulnerab...",
       "summary": null,
@@ -77,7 +82,9 @@
       ],
       "track": "community",
       "topics": [
-        "medical-devices"
+        "medical-devices",
+        "community",
+        "def-con"
       ],
       "teaser": "Medical Simulations Panel",
       "summary": null,
@@ -93,7 +100,8 @@
       "track": "community",
       "topics": [
         "medical-devices",
-        "biomedical-engineering"
+        "biomedical-engineering",
+        "community"
       ],
       "teaser": "Biomedical Imaging has previously been expensive and near impossible to hack and experiment with. If more people experimented and understood how imaging works we could move it forward much faster and make these transf...",
       "summary": null,
@@ -109,7 +117,8 @@
       "track": "community",
       "topics": [
         "biohacking",
-        "networks"
+        "networks",
+        "community"
       ],
       "teaser": "The internet is broken. It's vulnerable to manipulation, censorship, shutdowns, surveillance, and on top of all that, it costs to access it. What if we could bypass all that? The PirateBox platform with its meshing ca...",
       "summary": null,
@@ -124,7 +133,9 @@
       ],
       "track": "blue-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "Want to learn how an epic clash between hackers turns into a battle of survival? How an intense, immersive experience builds critical cybersecurity skills? This talk highlights how storytelling, gamification and theat...",
       "summary": null,
@@ -156,7 +167,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "medical-devices"
+        "medical-devices",
+        "community",
+        "def-con"
       ],
       "teaser": "Evaluating the clinical impact of a vulnerability has significant implication on how the vulnerabilities is handled both pre and post disclosure including how it is communicated to physicians and patients. Open and tr...",
       "summary": null,
@@ -172,7 +185,8 @@
       "track": "blue-team",
       "topics": [
         "biohacking",
-        "healthcare"
+        "healthcare",
+        "community"
       ],
       "teaser": "What tools are currently available to us to create \u201cliving\u201d or bio-hybrid materials\u2014those that can be animated with biological functionalities for growth, response, distributed information processing, and cuing to the...",
       "summary": null,
@@ -205,7 +219,9 @@
       ],
       "track": "blue-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "Forensic Science and Information Security are very parallel fields. They are both methodical in nature and often one area builds succinctly on top of the other. With the ability to have a specialty in various areas, i...",
       "summary": null,
@@ -221,7 +237,8 @@
       "track": "red-team",
       "topics": [
         "medical-devices",
-        "threat-analysis"
+        "threat-analysis",
+        "community"
       ],
       "teaser": "Drawing the connections between how human biology is affecting the evolution of malware. This talk will discuss how malware can affect biological virus research and be used for future medical research. Basically, a co...",
       "summary": null,

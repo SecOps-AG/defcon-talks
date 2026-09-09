@@ -27,7 +27,7 @@
     {
       "youtubeId": "caY7ls4G460",
       "slug": "what-to-expect-when-youre-exploiting-0days-baby-monitors-and-wi-fi-cams",
-      "title": "What to Expect When You’re Exploiting: 0Days, Baby Monitors & Wi-Fi Cams",
+      "title": "What to Expect When You\u2019re Exploiting: 0Days, Baby Monitors & Wi-Fi Cams",
       "speakers": [
         "Mager",
         "Forte"
@@ -514,7 +514,7 @@
       "title": "Detecting Persistent Threats on DrayTek Devices",
       "speakers": [
         "Octavio Gianatiempo",
-        "Gastón Aznarez"
+        "Gast\u00f3n Aznarez"
       ],
       "track": "hardware",
       "topics": [
@@ -737,7 +737,7 @@
         "protocols"
       ],
       "teaser": "Presents an in-depth security analysis of the satellite ADS-C aviation protocol, demonstrating message injection and position tampering using SDRs.",
-      "summary": "Role of ADS-C in Oceanic Air Traffic\n\nAutomatic Dependent Surveillance–Contract (ADS-C) is a satellite datalink protocol utilized by air traffic control to monitor aircraft operating over oceanic and remote regions where terrestrial radar is unavailable.\n\nCapturing and Decoding Satellite Telemetry\n\nUsing custom software-defined radio (SDR) receivers, researchers captured and decoded over 120,000 real-world ADS-C satellite messages, evaluating protocol structure and security properties.\n\nTransmitter Implementation and Injection Attacks\n\nBecause ADS-C lacks cryptographic authentication, researchers constructed an SDR-based transmitter capable of crafting arbitrary uplink and downlink messages, altering reported aircraft positions, and forging flight contracts.\n\nAssessment of Mitigations for Satellite Avionics\n\nEvaluating potential countermeasures highlights the urgent need to introduce message authentication and encryption standards across satellite-based air traffic management networks.",
+      "summary": "Role of ADS-C in Oceanic Air Traffic\n\nAutomatic Dependent Surveillance\u2013Contract (ADS-C) is a satellite datalink protocol utilized by air traffic control to monitor aircraft operating over oceanic and remote regions where terrestrial radar is unavailable.\n\nCapturing and Decoding Satellite Telemetry\n\nUsing custom software-defined radio (SDR) receivers, researchers captured and decoded over 120,000 real-world ADS-C satellite messages, evaluating protocol structure and security properties.\n\nTransmitter Implementation and Injection Attacks\n\nBecause ADS-C lacks cryptographic authentication, researchers constructed an SDR-based transmitter capable of crafting arbitrary uplink and downlink messages, altering reported aircraft positions, and forging flight contracts.\n\nAssessment of Mitigations for Satellite Avionics\n\nEvaluating potential countermeasures highlights the urgent need to introduce message authentication and encryption standards across satellite-based air traffic management networks.",
       "durationSeconds": 1446
     },
     {
@@ -800,7 +800,7 @@
     {
       "youtubeId": "mrb_3z5OP2M",
       "slug": "bluetooth-blues-unmasking-cve-2023-52709the-ti-ble5-stack-attack",
-      "title": "Bluetooth Blues: Unmasking CVE-2023-52709—The TI BLE5-Stack Attack",
+      "title": "Bluetooth Blues: Unmasking CVE-2023-52709\u2014The TI BLE5-Stack Attack",
       "speakers": [
         "Kevin Mitchell"
       ],
@@ -878,7 +878,7 @@
     {
       "youtubeId": "YPcOwKtRuDQ",
       "slug": "anyone-can-hack-iot-beginners-guide-to-hacking-your-first-iot-device",
-      "title": "Anyone Can Hack IoT: Beginner’s Guide to Hacking Your First IoT Device",
+      "title": "Anyone Can Hack IoT: Beginner\u2019s Guide to Hacking Your First IoT Device",
       "speakers": [
         "Andrew Bellini"
       ],
@@ -957,7 +957,7 @@
       "slug": "simulating-attacks-against-hydroelectric-power-plants",
       "title": "Simulating Attacks Against Hydroelectric Power Plants",
       "speakers": [
-        "Julia Dewitz-Würzelberger"
+        "Julia Dewitz-W\u00fcrzelberger"
       ],
       "track": "adversary-emulation",
       "topics": [
@@ -987,7 +987,7 @@
         "web"
       ],
       "teaser": "Recounts high-severity bug bounty discoveries from live hacking events, detailing complex chains from SQL injection to remote code execution.",
-      "summary": "Inside Live Hacking Events\n\nLive hacking competitions bring together elite security researchers to find critical vulnerabilities in enterprise assets under tight time constraints.\n\nChaining Bugs from Simple to Complex\n\nDetailed breakdowns of high-severity submissions illustrate how seemingly minor flaws can be chained into devastating exploits, including mass PII leakage and surveillance device hijacking.\n\nHigh Bounty Exploitation Case Studies\n\nTechnical walk-throughs explain critical findings—earning $10,000 to $60,000 bounties each—that leveraged SQL injections, authentication bypasses, and remote code execution.\n\nLessons Learned and Hunter Mindset\n\nSucceeding in competitive bug bounties requires perseverance through failures, systematic target enumeration, and deep exploration of unexpected application behavior.",
+      "summary": "Inside Live Hacking Events\n\nLive hacking competitions bring together elite security researchers to find critical vulnerabilities in enterprise assets under tight time constraints.\n\nChaining Bugs from Simple to Complex\n\nDetailed breakdowns of high-severity submissions illustrate how seemingly minor flaws can be chained into devastating exploits, including mass PII leakage and surveillance device hijacking.\n\nHigh Bounty Exploitation Case Studies\n\nTechnical walk-throughs explain critical findings\u2014earning $10,000 to $60,000 bounties each\u2014that leveraged SQL injections, authentication bypasses, and remote code execution.\n\nLessons Learned and Hunter Mindset\n\nSucceeding in competitive bug bounties requires perseverance through failures, systematic target enumeration, and deep exploration of unexpected application behavior.",
       "durationSeconds": 3038
     },
     {
@@ -995,7 +995,7 @@
       "slug": "bridging-space-and-medicine",
       "title": "Bridging Space and Medicine",
       "speakers": [
-        "Fernando De La Peña Llaca"
+        "Fernando De La Pe\u00f1a Llaca"
       ],
       "track": "community",
       "topics": [
@@ -1012,7 +1012,7 @@
     {
       "youtubeId": "A-J3jGofYN8",
       "slug": "tough-adversary-dont-blame-sun-tzu",
-      "title": "Tough Adversary: Don’t Blame Sun Tzu",
+      "title": "Tough Adversary: Don\u2019t Blame Sun Tzu",
       "speakers": [
         "Gregory Carpenter"
       ],
@@ -1053,7 +1053,7 @@
       "title": "Color Blasted Badge Making: How Hard Could It Be?",
       "speakers": [
         "Abhinav Panda",
-        "Bradán Lane"
+        "Brada\u0301n Lane"
       ],
       "track": "hardware",
       "topics": [
@@ -1265,7 +1265,7 @@
       "slug": "got-99-problems-but-prompt-injection-aint-pineapple",
       "title": "Got 99 Problems but Prompt Injection Ain't Pineapple",
       "speakers": [
-        "Chloé Messdaghi",
+        "Chloe\u0301 Messdaghi",
         "Kasimir Schulz"
       ],
       "track": "ai-security",
@@ -1382,7 +1382,7 @@
       "slug": "eradicating-hepatitis-c-with-bioterrorism",
       "title": "Eradicating Hepatitis C with BioTerrorism",
       "speakers": [
-        "Mixæl Swan Laufer"
+        "Mix\u00e6l Swan Laufer"
       ],
       "track": "community",
       "topics": [
@@ -1497,7 +1497,7 @@
     {
       "youtubeId": "xcbKIWXThT4",
       "slug": "master-splinters-initial-physical-access-dojo",
-      "title": "Master Splinter’s Initial Physical Access Dojo",
+      "title": "Master Splinter\u2019s Initial Physical Access Dojo",
       "speakers": [
         "Daniel Isler"
       ],
@@ -1633,7 +1633,7 @@
       "slug": "introduction-to-ipv6",
       "title": "Introduction to IPv6",
       "speakers": [
-        "Denis Smajlović"
+        "Denis Smajlovic\u0301"
       ],
       "track": "recon",
       "topics": [
@@ -1893,7 +1893,7 @@
         "hardware"
       ],
       "teaser": "Details Fly Catcher, a low-cost Raspberry Pi and RTL-SDR device that uses a convolutional neural network to detect spoofed ADS-B aircraft signals.",
-      "summary": "The Threat of ADS-B Aviation Spoofing\n\nAutomatic Dependent Surveillance–Broadcast (ADS-B) broadcasts unencrypted aircraft flight parameters over 1090 MHz, leaving civilian aviation vulnerable to RF signal spoofing.\n\nThe Fly Catcher Hardware Architecture\n\nFly Catcher is a portable detection device combining a 1090 MHz antenna, FlightAware RTL-SDR receiver, custom 3D-printed enclosure, and a Raspberry Pi.\n\nNeural Network Spoofing Classifier\n\nA Convolutional Neural Network (CNN) trained on authentic and simulated spoofed ADS-B datasets detects signal anomalies across aircraft velocity, altitude, and location telemetry.\n\nIn-Flight Field Testing and Validation\n\nDeploying Fly Catcher during an hour-long research flight validated its real-time radar interface and machine learning classification of nearby aircraft signals.",
+      "summary": "The Threat of ADS-B Aviation Spoofing\n\nAutomatic Dependent Surveillance\u2013Broadcast (ADS-B) broadcasts unencrypted aircraft flight parameters over 1090 MHz, leaving civilian aviation vulnerable to RF signal spoofing.\n\nThe Fly Catcher Hardware Architecture\n\nFly Catcher is a portable detection device combining a 1090 MHz antenna, FlightAware RTL-SDR receiver, custom 3D-printed enclosure, and a Raspberry Pi.\n\nNeural Network Spoofing Classifier\n\nA Convolutional Neural Network (CNN) trained on authentic and simulated spoofed ADS-B datasets detects signal anomalies across aircraft velocity, altitude, and location telemetry.\n\nIn-Flight Field Testing and Validation\n\nDeploying Fly Catcher during an hour-long research flight validated its real-time radar interface and machine learning classification of nearby aircraft signals.",
       "durationSeconds": 1202
     },
     {

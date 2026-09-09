@@ -141,7 +141,7 @@
       "slug": "hanno-bock-starttls-is-dangerous",
       "title": "STARTTLS is Dangerous",
       "speakers": [
-        "Hanno Böck"
+        "Hanno B\u00f6ck"
       ],
       "track": "privacy",
       "topics": [
@@ -151,8 +151,8 @@
         "cryptography",
         "mitm"
       ],
-      "teaser": "Hanno Böck reveals critical flaws in STARTTLS implementations across mail servers and clients, demonstrating command injection and credential theft via protocol downgrade attacks.",
-      "summary": "The Inherent Fragility of STARTTLS\n\nThe STARTTLS mechanism was designed to opportunistically upgrade plaintext application protocols (such as SMTP, IMAP, and POP3) to encrypted TLS sessions, but its design introduces severe architectural risks.\n\nCommand Injection in Mail Transfer Agents\n\nHanno Böck revisits classic protocol flaws—including Wietse Venema's 2011 Postfix vulnerability—showing that command injection across plaintext-to-ciphertext transitions remains pervasive in modern mail servers.\n\nClient-Side Credential Theft\n\nBöck reveals that widespread email clients are equally susceptible to machine-in-the-middle command injection, allowing attackers to hijack authentication sessions and harvest plaintext user credentials.\n\nAbandoning Opportunistic Upgrades\n\nThe speaker demonstrates ambiguous and contradictory RFC specifications governing STARTTLS, arguing that the security community must deprecate STARTTLS in favor of strict implicit TLS connections.",
+      "teaser": "Hanno B\u00f6ck reveals critical flaws in STARTTLS implementations across mail servers and clients, demonstrating command injection and credential theft via protocol downgrade attacks.",
+      "summary": "The Inherent Fragility of STARTTLS\n\nThe STARTTLS mechanism was designed to opportunistically upgrade plaintext application protocols (such as SMTP, IMAP, and POP3) to encrypted TLS sessions, but its design introduces severe architectural risks.\n\nCommand Injection in Mail Transfer Agents\n\nHanno B\u00f6ck revisits classic protocol flaws\u2014including Wietse Venema's 2011 Postfix vulnerability\u2014showing that command injection across plaintext-to-ciphertext transitions remains pervasive in modern mail servers.\n\nClient-Side Credential Theft\n\nB\u00f6ck reveals that widespread email clients are equally susceptible to machine-in-the-middle command injection, allowing attackers to hijack authentication sessions and harvest plaintext user credentials.\n\nAbandoning Opportunistic Upgrades\n\nThe speaker demonstrates ambiguous and contradictory RFC specifications governing STARTTLS, arguing that the security community must deprecate STARTTLS in favor of strict implicit TLS connections.",
       "durationSeconds": 2720
     }
   ]

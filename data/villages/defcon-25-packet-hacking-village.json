@@ -113,7 +113,7 @@
         "security-failures",
         "lessons-learned"
       ],
-      "teaser": "Deep analysis of the OPM breach—what went wrong, how attackers exploited systemic vulnerabilities, and key lessons.",
+      "teaser": "Deep analysis of the OPM breach\u2014what went wrong, how attackers exploited systemic vulnerabilities, and key lessons.",
       "summary": null,
       "durationSeconds": 3274
     },
@@ -208,7 +208,7 @@
         "portia-tool",
         "security-automation"
       ],
-      "teaser": "Introduction to Portia—a network analysis tool for reconnaissance, packet manipulation, and security testing.",
+      "teaser": "Introduction to Portia\u2014a network analysis tool for reconnaissance, packet manipulation, and security testing.",
       "summary": null,
       "durationSeconds": 1967
     },
@@ -246,7 +246,7 @@
         "dos-attacks",
         "network-exploitation"
       ],
-      "teaser": "Techniques and defense mechanisms for IP spoofing attacks—a foundational network-layer exploitation method.",
+      "teaser": "Techniques and defense mechanisms for IP spoofing attacks\u2014a foundational network-layer exploitation method.",
       "summary": null,
       "durationSeconds": 3125
     },
@@ -303,7 +303,7 @@
         "security-architecture",
         "network-performance"
       ],
-      "teaser": "Evolution of high-speed packet processing technology—from historical methods to modern security infrastructure.",
+      "teaser": "Evolution of high-speed packet processing technology\u2014from historical methods to modern security infrastructure.",
       "summary": null,
       "durationSeconds": 1217
     },
@@ -360,7 +360,7 @@
         "enterprise-security",
         "cost-effective-security"
       ],
-      "teaser": "Building enterprise-grade security programs with limited budgets—practical strategies for maximizing impact.",
+      "teaser": "Building enterprise-grade security programs with limited budgets\u2014practical strategies for maximizing impact.",
       "summary": null,
       "durationSeconds": 2985
     },
@@ -379,7 +379,7 @@
         "threat-intelligence",
         "vulnerability-management"
       ],
-      "teaser": "Deep dive into the CVE identification and disclosure process—how vulnerabilities are cataloged and standardized.",
+      "teaser": "Deep dive into the CVE identification and disclosure process\u2014how vulnerabilities are cataloged and standardized.",
       "summary": null,
       "durationSeconds": 2800
     },
@@ -398,7 +398,7 @@
         "social-engineering",
         "security-awareness"
       ],
-      "teaser": "Why 'Layer 8' (people) are the most critical security layer—addressing human behavior in security programs.",
+      "teaser": "Why 'Layer 8' (people) are the most critical security layer\u2014addressing human behavior in security programs.",
       "summary": null,
       "durationSeconds": 2402
     },

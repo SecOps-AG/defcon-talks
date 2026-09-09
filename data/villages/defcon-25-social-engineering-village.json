@@ -19,14 +19,14 @@
         "manipulation",
         "red-teaming"
       ],
-      "teaser": "Master the art of building genuine rapport—a critical skill for successful social engineering attacks and red team operations.",
+      "teaser": "Master the art of building genuine rapport\u2014a critical skill for successful social engineering attacks and red team operations.",
       "summary": null,
       "durationSeconds": 1872
     },
     {
       "youtubeId": "VeXlppLn5H4",
       "slug": "se-village-fahey-owens-beyond-phishing",
-      "title": "Beyond Phishing – Building & Sustaining a Corporate SE Program",
+      "title": "Beyond Phishing \u2013 Building & Sustaining a Corporate SE Program",
       "speakers": [
         "Fahey Owens"
       ],
@@ -65,7 +65,7 @@
       "slug": "se-village-yaiza-rubio-felix-brezo-heavy-diving-for-credentials",
       "title": "Heavy Diving For Credentials",
       "speakers": [
-        "Yaiza Rubio, Félix Brezo"
+        "Yaiza Rubio, F\u00e9lix Brezo"
       ],
       "track": "red-team",
       "topics": [
@@ -113,7 +113,7 @@
         "reconnaissance",
         "threat-modeling"
       ],
-      "teaser": "Examine your organization from an attacker's perspective—how red teamers scout websites, employees, and systems to identify and exploit security weaknesses.",
+      "teaser": "Examine your organization from an attacker's perspective\u2014how red teamers scout websites, employees, and systems to identify and exploit security weaknesses.",
       "summary": null,
       "durationSeconds": 3380
     },
@@ -132,7 +132,7 @@
         "threat-intelligence",
         "security-research"
       ],
-      "teaser": "Explore the psychological motivations driving hackers—connecting behavioral science with security research to understand why attackers target social engineering vectors.",
+      "teaser": "Explore the psychological motivations driving hackers\u2014connecting behavioral science with security research to understand why attackers target social engineering vectors.",
       "summary": null,
       "durationSeconds": 3030
     },
@@ -190,7 +190,7 @@
         "decision-making",
         "security-research"
       ],
-      "teaser": "Understand how human perception and decision-making science explains why we struggle with security—and how behavioral insights can create more effective security professionals.",
+      "teaser": "Understand how human perception and decision-making science explains why we struggle with security\u2014and how behavioral insights can create more effective security professionals.",
       "summary": null,
       "durationSeconds": 2905
     },
@@ -228,7 +228,7 @@
         "security-culture",
         "persuasion"
       ],
-      "teaser": "Transform corporate security culture through strategic change management—using principles of persuasion and organizational psychology to shift security behaviors at scale.",
+      "teaser": "Transform corporate security culture through strategic change management\u2014using principles of persuasion and organizational psychology to shift security behaviors at scale.",
       "summary": null,
       "durationSeconds": 2773
     }

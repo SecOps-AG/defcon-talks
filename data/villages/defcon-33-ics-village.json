@@ -3,7 +3,7 @@
   "villageName": "ICS Village",
   "eventSlug": "defcon-33",
   "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDCvgG5C07N0eubIhKqqbdp",
-  "description": "",
+  "description": "ICS Village talks and related uploads.",
   "talks": [
     {
       "youtubeId": "iVmS5dPjggU",
@@ -12,23 +12,31 @@
       "speakers": [
         "2025 Mike Holcomb"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "The Worst ICS/OT Love Story Every Told \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1567
     },
     {
       "youtubeId": "6U_CepoMSl4",
       "slug": "dont-cry-wolf-evidence-based-assessments-of-ics-threats-3",
-      "title": "Don’t Cry Wolf: Evidence based assessments of ICS Threats",
+      "title": "Don\u2019t Cry Wolf: Evidence based assessments of ICS Threats",
       "speakers": [
         "Jimmy Wylie",
         "Sam Hanson"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Don\u2019t Cry Wolf: Evidence based assessments of ICS Threats \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1435
     },
@@ -39,9 +47,13 @@
       "speakers": [
         "Aaron Boyd"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Locked Down, Not Locked Out: How I Escaped Yr Secure Operator Workstation \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1475
     },
@@ -52,9 +64,13 @@
       "speakers": [
         "Adam Robbie"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Safeguarding the Industrial Frontier OT SOC & Incident Response \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1207
     },
@@ -65,9 +81,13 @@
       "speakers": [
         "Brent Muir"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "DEFE CON 33 - Deploying Deception in Depth for ICS \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1339
     },
@@ -78,9 +98,13 @@
       "speakers": [
         "Rob King"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "There and Back Again: Detecting OT Devices Across Protocol Gateways \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1314
     },
@@ -91,9 +115,13 @@
       "speakers": [
         "Christopher Nourrie"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Crossing the Line: Advanced Techniques to Breach the OT DMZ \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1041
     },
@@ -105,9 +133,13 @@
         "Mars Cheng",
         "Jr Wei-Huang"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Let AI Autogenerate Neural ASR Rules for OT Attacks via NLP \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1324
     },
@@ -118,9 +150,13 @@
       "speakers": [
         "Trevor Flynn"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Intro to Common Industrial Protocol Exploitation \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1404
     },
@@ -131,9 +167,13 @@
       "speakers": [
         "Thomas Pope"
       ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
+      "track": "community",
+      "topics": [
+        "community",
+        "def-con",
+        "talk"
+      ],
+      "teaser": "Critically Neglected: Cybersecurity for buildings \u2014 DEF CON Conference upload.",
       "summary": null,
       "durationSeconds": 1393
     }

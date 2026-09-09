@@ -15,7 +15,8 @@
       "track": "red-team",
       "topics": [
         "medical-devices",
-        "privacy"
+        "privacy",
+        "community"
       ],
       "teaser": "This talk will focus on consumer grade glucose monitors - primarily continuous glucose monitors that are implantable or attach to the skin for extended length of time and provide readings via bluetooth low energy or h...",
       "summary": null,
@@ -30,7 +31,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "medical-devices"
+        "medical-devices",
+        "community",
+        "def-con"
       ],
       "teaser": "The increase of pace in the technology field has left the race for manufacturers to increase the security in medical devices. There is the theoretically possibility that your heart can be pwned. Pacemakers have become...",
       "summary": null,
@@ -45,7 +48,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "The Four Thieves Vinegar Collective",
       "summary": null,
@@ -60,7 +65,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "Joel will talk about how the DEF CON Biohacking Village came together in all its wonderful glory",
       "summary": null,
@@ -75,7 +82,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "security-research"
+        "security-research",
+        "community",
+        "def-con"
       ],
       "teaser": "Biological viruses have existed and evolved for millions of years, maliciously exploiting host cells for survival. How have they done this, and what can we learn from it? Extremely advanced mechanisms for privilege es...",
       "summary": null,
@@ -90,7 +99,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "Workplace Accommodation for Autisics",
       "summary": null,
@@ -123,7 +134,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "DAY ONE",
       "summary": null,
@@ -138,7 +151,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "Our Evolutionary Path in 45 Minutes",
       "summary": null,
@@ -153,7 +168,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "biohacking"
+        "biohacking",
+        "community",
+        "def-con"
       ],
       "teaser": "The WaterBot is designed to dispense liquid (water, plant food, MS Media) and report how much and when it was administered. Designed, engineered and programed by 11 yr. old BiaSciLab, the WaterBot is open source and s...",
       "summary": null,

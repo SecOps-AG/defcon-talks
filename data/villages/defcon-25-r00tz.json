@@ -14,7 +14,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "cryptography"
+        "cryptography",
+        "community",
+        "def-con"
       ],
       "teaser": "Techniques for explaining cryptography concepts to audiences of all backgrounds.",
       "summary": null,
@@ -29,7 +31,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "osint"
+        "osint",
+        "community",
+        "def-con"
       ],
       "teaser": "Deep web research and reconnaissance on hidden internet resources.",
       "summary": null,
@@ -81,7 +85,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "drones"
+        "drones",
+        "community",
+        "def-con"
       ],
       "teaser": "Drone security, hacking, and malicious uses of unmanned systems.",
       "summary": null,
@@ -133,7 +139,8 @@
       "track": "red-team",
       "topics": [
         "physical-security",
-        "hacker-culture"
+        "hacker-culture",
+        "community"
       ],
       "teaser": "Physical reconnaissance and social engineering techniques for hacking public spaces.",
       "summary": null,
@@ -186,7 +193,9 @@
       ],
       "track": "red-team",
       "topics": [
-        "hardware-hacking"
+        "hardware-hacking",
+        "community",
+        "def-con"
       ],
       "teaser": "Wearable hardware projects combining security tools with entertainment devices.",
       "summary": null,
