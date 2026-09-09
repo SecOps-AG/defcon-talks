@@ -17,7 +17,13 @@ const ibm = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
 });
 
+const baseUrl = (process.env.NEXT_PUBLIC_SITE_URL || "https://defcon-talks.vercel.app").replace(
+  /\/+$/,
+  "",
+);
+
 export const metadata: Metadata = {
+  metadataBase: new URL(baseUrl),
   title: {
     default: "DEF CON Talk Archive",
     template: "%s — DEF CON Talk Archive",

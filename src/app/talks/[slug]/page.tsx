@@ -21,11 +21,35 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const talk = getTalkBySlug(slug);
   if (!talk) return { title: "Talk not found" };
+
+  const title = talk.title;
+  const description =
+    talk.teaser ||
+    `${talk.speakers.join(", ")} — ${talk.villageName}, ${talk.eventName}.`;
+  const thumbnailUrl = `https://i.ytimg.com/vi/${talk.youtubeId}/hqdefault.jpg`;
+
   return {
-    title: talk.title,
-    description:
-      talk.teaser ||
-      `${talk.speakers.join(", ")} — ${talk.villageName}, ${talk.eventName}.`,
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      type: "video.other",
+      images: [
+        {
+          url: thumbnailUrl,
+          width: 480,
+          height: 360,
+          alt: talk.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [thumbnailUrl],
+    },
   };
 }
 
