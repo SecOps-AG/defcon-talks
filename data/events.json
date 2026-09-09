@@ -127,6 +127,14 @@
       "year": 2010,
       "dates": "30 July - 1 August 2010",
       "location": "The Rio Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-17",
+      "name": "DEF CON 17",
+      "shortName": "DC17",
+      "year": 2009,
+      "dates": "30 July - 2 August 2009",
+      "location": "The Riviera Hotel & Casino, Las Vegas"
     }
   ]
 }
