@@ -159,6 +159,14 @@
       "year": 2006,
       "dates": "4-6 August 2006",
       "location": "The Riviera Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-13",
+      "name": "DEF CON 13",
+      "shortName": "DC13",
+      "year": 2005,
+      "dates": "29-31 July 2005",
+      "location": "Alexis Park Resort, Las Vegas"
     }
   ]
 }
