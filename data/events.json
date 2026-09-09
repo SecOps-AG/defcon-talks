@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "slug": "defcon-sg1",
+      "name": "DEF CON SG1",
+      "shortName": "DCSG1",
+      "year": 2026,
+      "dates": "28-30 April 2026",
+      "location": "Marina Bay Sands, Singapore"
+    },
+    {
       "slug": "defcon-33",
       "name": "DEF CON 33",
       "shortName": "DC33",
