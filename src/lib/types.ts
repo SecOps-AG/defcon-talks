@@ -129,6 +129,11 @@ export type Speaker = {
   slug: string;
   name: string;
   talkCount: number;
+  yearsActive: number[];
+  villages: string[];
+  firstAppearance: number;
+  lastAppearance: number;
+  coSpeakers: string[];
 };
 
 /**

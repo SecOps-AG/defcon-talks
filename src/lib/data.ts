@@ -250,27 +250,59 @@ export function getTalksForTrack(track: string): Talk[] {
  * are dropped rather than given an unreachable page.
  */
 export const getSpeakers = memo((): Speaker[] => {
-  type Draft = { slug: string; spellings: Map<string, number>; talkCount: number };
+  type Draft = {
+    slug: string;
+    spellings: Map<string, number>;
+    talkCount: number;
+    years: Set<number>;
+    villages: Set<string>;
+    coSpeakers: Set<string>;
+  };
   const bySlug = new Map<string, Draft>();
 
   for (const talk of getTalks()) {
     for (const name of talk.speakers) {
       const slug = slugifySpeaker(name);
       if (!slug) continue;
-      const record = bySlug.get(slug) ?? { slug, spellings: new Map(), talkCount: 0 };
+      const record = bySlug.get(slug) ?? {
+        slug,
+        spellings: new Map(),
+        talkCount: 0,
+        years: new Set(),
+        villages: new Set(),
+        coSpeakers: new Set(),
+      };
       record.spellings.set(name, (record.spellings.get(name) ?? 0) + 1);
       record.talkCount += 1;
+      record.years.add(talk.year);
+      record.villages.add(talk.villageSlug);
+
+      // Add co-speakers (other speakers on this talk)
+      for (const otherName of talk.speakers) {
+        if (otherName === name) continue;
+        const otherSlug = slugifySpeaker(otherName);
+        if (otherSlug) record.coSpeakers.add(otherSlug);
+      }
+
       bySlug.set(slug, record);
     }
   }
 
   return [...bySlug.values()]
-    .map(({ slug, spellings, talkCount }) => ({
-      slug,
-      // Most-used spelling wins; ties break alphabetically so it is stable.
-      name: [...spellings.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0][0],
-      talkCount,
-    }))
+    .map(({ slug, spellings, talkCount, years, villages, coSpeakers }) => {
+      const sortedYears = [...years].sort((a, b) => b - a);
+      return {
+        slug,
+        // Most-used spelling wins; ties break alphabetically so it is stable.
+        name: [...spellings.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0][0],
+        talkCount,
+        yearsActive: sortedYears,
+        villages: [...villages].sort(),
+        firstAppearance: Math.min(...sortedYears),
+        lastAppearance: Math.max(...sortedYears),
+        coSpeakers: [...coSpeakers].sort(),
+      };
+    })
     .sort((a, b) => b.talkCount - a.talkCount || a.name.localeCompare(b.name));
 });
 
