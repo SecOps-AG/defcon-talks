@@ -1385,6 +1385,25 @@
       "slug": "esoteric-exfiltration",
       "summary": "Architecture and Background\n\nWhen the machines rise up and take away our freedom to communicate we're going to need a way out. Exfiltration of data across trust boundaries will be our only means of communication.\n\nVulnerability Analysis\n\nHow do we do that when the infrastructure we built to defend ourselves is the very boundary we must defeat? We use the same pathways we used to, but bend the rules to meet our needs.\n\nExploitation and Demonstrations\n\nWhether its breaking protocol, attaching payloads, or pirating the airwaves we'll find a way. We'll cover using a custom server application to accept 'benign' traffic, using social and file sharing to hide messages, as well as demo some long range mesh RF hardware you can drop at a target for maximum covert ops.\n\nRemediation and Defensive Strategies\n\nWilla Cassandra Riggins is a penetration tester at Veracode, and was previously part of the Lockheed Martin CIS Red Team. She started her career as a developer and pivoted into security to help fight the pandemic that is developer apathy. Her background spans the software development lifecycle, but her heart is in root shells and crown jewels. She can be found making things at FamiLAB in Orlando, hacking at the local DC407 meet-ups, staffing the socials at BSides Orlando, and marketing all the things at OWASP Orlando.",
       "durationSeconds": 1129
+    },
+    {
+      "youtubeId": "_Q3HuQnRtbU",
+      "slug": "hacking-hotel-keys-and-pos-systems",
+      "title": "Hacking Hotel Keys and POS Systems",
+      "speakers": [
+        "Weston Hecker"
+      ],
+      "track": "hardware",
+      "topics": [
+        "point-of-sale",
+        "hotel-security",
+        "magnetic-stripe",
+        "hardware-hacking",
+        "physical-security"
+      ],
+      "teaser": "Weston Hecker demonstrates magnetic secure transmission (MST) injection attacks against hotel electronic keycards and point-of-sale terminals to manipulate cash drawers and brute-force guest room credentials.",
+      "summary": "Flaws in Hotel Keycard Infrastructure\n\nHotel electronic lock systems and property management systems (PMS) rely on predictable data formats encoded onto guest keycards. Weston Hecker analyzes cryptographic and structural weaknesses in room key encoding schemes across hospitality management platforms.\n\nAutomating MST Injection and Brute-Force Key Generation\n\nUsing modified Magnetic Secure Transmission (MST) transmitters, the researcher demonstrates how an attacker can capture legitimate card tracks and extrapolate adjacent guest room codes, enabling automated brute-force attacks against electronic guest room locks.\n\nKeystroke Injection Against Point-of-Sale Terminals\n\nThe presentation reveals vulnerabilities in retail and hotel point-of-sale (POS) card readers, showing how malformed magnetic stripe waveforms can inject arbitrary keystrokes directly into POS operating systems to bypass authentication and open cash drawers.",
+      "durationSeconds": 2659
     }
   ]
 }
