@@ -255,6 +255,14 @@
       "year": 1999,
       "dates": "9-11 July 1999",
       "location": "Alexis Park Resort, Las Vegas"
+    },
+    {
+      "slug": "defcon-5",
+      "name": "DEF CON 5",
+      "shortName": "DC5",
+      "year": 1997,
+      "dates": "18-20 July 1997",
+      "location": "Aladdin Hotel, Las Vegas"
     }
   ]
 }
