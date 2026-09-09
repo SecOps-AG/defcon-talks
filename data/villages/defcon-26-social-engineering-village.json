@@ -17,7 +17,8 @@
         "social-engineering",
         "phishing",
         "osint",
-        "culture"
+        "red-teaming",
+        "intelligence-gathering"
       ],
       "teaser": "Dynamic duo DEF CON SECTF black badge winner Chris Silvers and ACE Hackware founder Taylor Banks return to the stage to take audiences on a hunt \u00e2\u20ac\u201d of the hunt group, that is.",
       "summary": null,
@@ -33,7 +34,10 @@
       "track": "social-engineering",
       "topics": [
         "social-engineering",
-        "psychology"
+        "psychology",
+        "persuasion",
+        "communication",
+        "personal-development"
       ],
       "teaser": "In 20 years I learned how to step outside my introverted personality to explore the world in a more successful way, but not without bumps and bruises which taught me valuable lessons.",
       "summary": null,
@@ -100,7 +104,11 @@
       ],
       "track": "social-engineering",
       "topics": [
-        "social-engineering"
+        "social-engineering",
+        "phishing",
+        "manipulation",
+        "deception",
+        "awareness"
       ],
       "teaser": "You\u2019re mindlessly scrolling through Facebook when you see your friend share a post and comment, \u201cMine is Bubbles Sunset!\u201d",
       "summary": null,
@@ -109,13 +117,17 @@
     {
       "youtubeId": "YAuRghpZyto",
       "slug": "se-village-chris-roberts-welcome-to-2018-full-speed-to-the-edge",
-      "title": "Welcome to 2018   Full Speed to the Edge of the Abyss",
+      "title": "Welcome to 2018: Full Speed to the Edge of the Abyss",
       "speakers": [
         "Chris Roberts"
       ],
       "track": "social-engineering",
       "topics": [
-        "psychology"
+        "psychology",
+        "human-behavior",
+        "evolution",
+        "future-trends",
+        "risk-analysis"
       ],
       "teaser": "As humans we have four evolutionary paths:",
       "summary": null,
@@ -139,13 +151,17 @@
     {
       "youtubeId": "YJHR2XUGrpg",
       "slug": "se-village-billy-boatright-in-n-out-thats-what-its-all-about",
-      "title": "In-N-Out \u2013 That\u2019s What It\u2019s All About",
+      "title": "In-N-Out: That's What It's All About",
       "speakers": [
         "Billy Boatright"
       ],
       "track": "social-engineering",
       "topics": [
-        "social-engineering"
+        "social-engineering",
+        "pretexting",
+        "tools-techniques",
+        "red-teaming",
+        "methodology"
       ],
       "teaser": "Without the right tools the engagement can be over before it begins, as upfront resistance can prevent you from entering with your tools. Billy Boatright demonstrates and discusses how to use social engineering tactic...",
       "summary": null,
