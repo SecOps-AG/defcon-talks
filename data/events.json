@@ -95,6 +95,14 @@
       "year": 2014,
       "dates": "7-10 August 2014",
       "location": "The Rio Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-21",
+      "name": "DEF CON 21",
+      "shortName": "DC21",
+      "year": 2013,
+      "dates": "1-4 August 2013",
+      "location": "The Rio Hotel & Casino, Las Vegas"
     }
   ]
 }
