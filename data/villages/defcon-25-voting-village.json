@@ -18,7 +18,8 @@
         "voting-infrastructure",
         "threat-intelligence",
         "incident-response",
-        "local-government"
+        "local-government",
+        "cybersecurity-strategy"
       ],
       "teaser": "Strategies for securing election offices and voting infrastructure from a local government perspective.",
       "summary": null,
@@ -38,7 +39,8 @@
         "voting-myths",
         "security-misconceptions",
         "education",
-        "threat-modeling"
+        "threat-modeling",
+        "research"
       ],
       "teaser": "Debunking common misconceptions about voting security and election system vulnerabilities.",
       "summary": null,
@@ -57,7 +59,8 @@
         "election-systems",
         "hardware-evolution",
         "security-lessons",
-        "technology-trends"
+        "technology-trends",
+        "infrastructure-development"
       ],
       "teaser": "Historical overview of voting technology evolution and how current vulnerabilities emerged.",
       "summary": null,
@@ -77,7 +80,8 @@
         "voting-system-assessment",
         "vulnerability-analysis",
         "threat-landscape",
-        "defense-recommendations"
+        "defense-recommendations",
+        "research"
       ],
       "teaser": "Assessment of current US voting system security posture and identified vulnerabilities.",
       "summary": null,
@@ -96,7 +100,8 @@
         "legal-implications",
         "liability",
         "civil-law",
-        "policy-implications"
+        "policy-implications",
+        "governance"
       ],
       "teaser": "Legal considerations and liability implications of election system vulnerabilities and hacking.",
       "summary": null,
@@ -115,7 +120,8 @@
         "voting-vulnerabilities",
         "case-studies",
         "security-history",
-        "threat-research"
+        "threat-research",
+        "exploitation-techniques"
       ],
       "teaser": "Historical analysis of election machine vulnerabilities and attack techniques discovered over time.",
       "summary": null,
@@ -134,7 +140,8 @@
         "election-infrastructure",
         "foreign-adversaries",
         "threat-assessment",
-        "defense-strategy"
+        "defense-strategy",
+        "critical-infrastructure"
       ],
       "teaser": "National security implications and foreign actor threats to US election infrastructure.",
       "summary": null,
@@ -154,7 +161,8 @@
         "end-to-end-verification",
         "ballot-security",
         "infrastructure-security",
-        "system-design"
+        "system-design",
+        "defense-architecture"
       ],
       "teaser": "Comprehensive election system security beyond voting machines, including ballot handling and infrastructure.",
       "summary": null,
