@@ -20,7 +20,7 @@
         "network-security"
       ],
       "teaser": "Examining Blue Coat SSL Visibility appliances, inspecting how enterprise TLS interception works, certificates are handled, and privacy is impacted.",
-      "summary": null,
+      "summary": "Cryptography and privacy: Cryptography and Security. Technical analysis of encryption and privacy issues.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3775
     },
     {
@@ -54,7 +54,7 @@
         "education"
       ],
       "teaser": "A hacker guide to usable security and human factors in privacy tooling, examining why cryptographically sound software often fails users.",
-      "summary": null,
+      "summary": "Cryptography and privacy: My Usability Goes to 11 A Hackers Guide to Use. Technical analysis of encryption and privacy issues.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2067
     },
     {
@@ -86,7 +86,7 @@
         "digital-rights"
       ],
       "teaser": "EFF Senior Staff Attorney Nate Cardozo provides a legal briefing on legislative battles, court rulings, and government backdoors targeting encryption.",
-      "summary": null,
+      "summary": "Cryptography and privacy: Crypto State of the Law. Technical analysis of encryption and privacy issues.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2674
     },
     {
@@ -118,7 +118,7 @@
         "vulnerability-research"
       ],
       "teaser": "Cryptographer David Wong demonstrates how to construct cryptographic backdoors into Diffie-Hellman key exchanges using malicious prime selection.",
-      "summary": null,
+      "summary": "Cryptography and privacy: How to Backdoor Diffie-Hellman. Technical analysis of encryption and privacy issues.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2304
     },
     {

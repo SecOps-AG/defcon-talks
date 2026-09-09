@@ -18,7 +18,7 @@
         "reverse-engineering"
       ],
       "teaser": "Reverse engineering CAN bus communication protocols and electronic control units to extract proprietary secrets and firmware logic from vehicles.",
-      "summary": null,
+      "summary": "Automotive security: CAN i haz car secret plz. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1357
     },
     {
@@ -50,7 +50,7 @@
         "car-hacking"
       ],
       "teaser": "Using the Yard Stick One sub-1GHz wireless transceiver to capture, analyze, and replay signals from automotive key fobs.",
-      "summary": null,
+      "summary": "Automotive security: Using Yard Stick One for FOB Fun. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 784
     },
     {
@@ -84,7 +84,7 @@
         "automotive"
       ],
       "teaser": "An exploration of the electronic hardware design, microcontroller architecture, and hacking challenges built into the Car Hacking Village badge.",
-      "summary": null,
+      "summary": "Automotive security: Hacking the CHV Badge. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 683
     },
     {
@@ -118,7 +118,7 @@
         "reverse-engineering"
       ],
       "teaser": "A deep dive into cryptographic weaknesses and protocol vulnerabilities discovered in widely deployed automotive immobilizer transponder systems.",
-      "summary": null,
+      "summary": "Automotive security: Vehicle Security Research. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3902
     },
     {
@@ -154,7 +154,7 @@
         "protocols"
       ],
       "teaser": "Evaluating vehicle-to-infrastructure (V2X) communication standards, examining message authentication, wireless protocols, and traffic safety implications.",
-      "summary": null,
+      "summary": "Automotive security: Car Hacking Analysis. Techniques for vehicle network and system exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2272
     },
     {

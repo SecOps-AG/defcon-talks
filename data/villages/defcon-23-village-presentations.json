@@ -937,7 +937,7 @@
         "badge"
       ],
       "teaser": "Nathan Hoch explains the electronic design and customization options for the DEF CON 23 Vehicle Hacking Village PAWN game badge.",
-      "summary": null,
+      "summary": "Vehicle hacking: The Badge and PAWN: Customizing the Vehicle Hacking Village Badge. Research on automotive security systems and network protocols.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2745
     },
     {
@@ -975,7 +975,7 @@
         "hardware"
       ],
       "teaser": "Eric Evenchick explores SocketCAN, explaining how Linux network sockets streamline CAN bus data capture, filtering, and automotive tool development.",
-      "summary": null,
+      "summary": "Vehicle hacking: SocketCAN: Linux In-Vehicle Network Programming. Research on automotive security systems and network protocols.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1668
     },
     {
