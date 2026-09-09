@@ -103,6 +103,14 @@
       "year": 2013,
       "dates": "1-4 August 2013",
       "location": "The Rio Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-20",
+      "name": "DEF CON 20",
+      "shortName": "DC20",
+      "year": 2012,
+      "dates": "26-29 July 2012",
+      "location": "The Rio Hotel & Casino, Las Vegas"
     }
   ]
 }
