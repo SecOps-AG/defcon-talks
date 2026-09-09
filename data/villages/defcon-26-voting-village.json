@@ -14,9 +14,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "appsec"
+        "election-security",
+        "national-security",
+        "threat-intelligence",
+        "defense-strategy",
+        "critical-infrastructure",
+        "governance"
       ],
       "teaser": "Election security as a national security priority: threats, vulnerabilities, and defensive strategies.",
       "summary": null,
@@ -31,9 +34,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "appsec"
+        "election-security",
+        "state-local-government",
+        "risk-management",
+        "infrastructure-security",
+        "governance",
+        "implementation"
       ],
       "teaser": "State and local perspectives on securing election systems and managing election security risks.",
       "summary": null,
@@ -48,9 +54,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "appsec"
+        "election-security",
+        "fundamentals",
+        "threat-landscape",
+        "vulnerability-overview",
+        "security-concepts",
+        "education"
       ],
       "teaser": "Rapid overview of election security fundamentals, risks, and key security concepts.",
       "summary": null,
@@ -65,9 +74,12 @@
       ],
       "track": "policy",
       "topics": [
-        "blue-team",
-        "appsec",
-        "threat-intel"
+        "security-auditing",
+        "vulnerability-scanning",
+        "election-assessment",
+        "methodology",
+        "challenges",
+        "tools"
       ],
       "teaser": "Challenges and methodologies for auditing voting systems using security scanning tools.",
       "summary": null,
@@ -82,9 +94,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "privacy",
-        "threat-intel"
+        "election-systems",
+        "trustworthiness",
+        "verification-methods",
+        "system-design",
+        "privacy-protection",
+        "security-principles"
       ],
       "teaser": "Building trustworthy election systems through security principles and verification methods.",
       "summary": null,
@@ -99,9 +114,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "appsec"
+        "election-security",
+        "research-findings",
+        "lessons-learned",
+        "vulnerability-discovery",
+        "threat-assessment",
+        "future-directions"
       ],
       "teaser": "Summary of voting security research from 2017 and key lessons for future election security.",
       "summary": null,
@@ -116,9 +134,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "threat-intel",
-        "privacy"
+        "election-security",
+        "threat-analysis",
+        "defensive-solutions",
+        "system-hardening",
+        "security-practices",
+        "implementation-guidance"
       ],
       "teaser": "Overview of election security threats facing voting systems and practical security solutions.",
       "summary": null,
@@ -133,9 +154,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "hardware",
-        "threat-intel"
+        "voting-machine-security",
+        "software-vulnerabilities",
+        "case-study",
+        "international-systems",
+        "threat-research",
+        "exploitation-techniques"
       ],
       "teaser": "Analysis of software vulnerabilities and security issues in Brazilian electronic voting machines.",
       "summary": null,
@@ -150,9 +174,12 @@
       ],
       "track": "policy",
       "topics": [
-        "policy",
-        "hardware",
-        "blue-team"
+        "voting-machine-forensics",
+        "vulnerability-analysis",
+        "winvote-systems",
+        "design-flaws",
+        "case-study",
+        "security-implications"
       ],
       "teaser": "Detailed forensic analysis of security vulnerabilities and design flaws in WINVote voting machines.",
       "summary": null,
