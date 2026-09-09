@@ -12,11 +12,15 @@
       "speakers": [
         "Aardvark, Darkmatter"
       ],
-      "track": "red-team",
+      "track": "osint",
       "topics": [
-        "wireless"
+        "wardriving",
+        "wigle",
+        "wireless-reconnaissance",
+        "geolocation",
+        "mapping"
       ],
-      "teaser": "WIGLE Like You Mean It  Maximizing Your Wardriving",
+      "teaser": "Techniques for maximizing wardriving efficiency using WIGLE to map and discover wireless networks.",
       "summary": null,
       "durationSeconds": 2898
     },
@@ -29,25 +33,34 @@
       ],
       "track": "red-team",
       "topics": [
+        "gotenna",
         "packet-analysis",
-        "iot"
+        "iot",
+        "rf-hacking",
+        "reverse-engineering"
       ],
-      "teaser": "GODUMPiNG packet sniffing the Gotenna",
+      "teaser": "Packet sniffing and reverse engineering of GoTenna wireless communication devices.",
       "summary": null,
       "durationSeconds": 3383
     },
     {
       "youtubeId": "pA4MuhebEwA",
       "slug": "vivek-ramachandran-nishant-sharma-ashish-bhangale-deceptacon",
-      "title": "Vivek Ramachandran, Nishant Sharma, Ashish Bhangale- Deceptacon",
+      "title": "Deceptacon: Wireless Deception and Evasion",
       "speakers": [
-        "Vivek Ramachandran, Nishant Sharma, Ashish Bhangale- Deceptacon"
+        "Vivek Ramachandran",
+        "Nishant Sharma",
+        "Ashish Bhangale"
       ],
       "track": "red-team",
       "topics": [
-        "wireless"
+        "wireless-deception",
+        "evasion",
+        "wifi",
+        "rf-attacks",
+        "penetration-testing"
       ],
-      "teaser": "Vivek Ramachandran, Nishant Sharma, Ashish Bhangale- Deceptacon",
+      "teaser": "Techniques for wireless deception and evasion during penetration tests and red team operations.",
       "summary": null,
       "durationSeconds": 2191
     },
@@ -58,11 +71,15 @@
       "speakers": [
         "Robert Ghilduta"
       ],
-      "track": "red-team",
+      "track": "hardware",
       "topics": [
-        "wireless"
+        "rf-design",
+        "agc",
+        "signal-processing",
+        "sdr",
+        "amplification"
       ],
-      "teaser": "Designing An Automatic Gain Control",
+      "teaser": "Hardware design and implementation of automatic gain control circuits for RF receivers.",
       "summary": null,
       "durationSeconds": 3071
     },
@@ -75,9 +92,13 @@
       ],
       "track": "red-team",
       "topics": [
-        "exploitation"
+        "iot-security",
+        "home-automation",
+        "wireless-exploitation",
+        "rf-attacks",
+        "simplisafe"
       ],
-      "teaser": "Failsafe: Yet Another SimpliSafe Attack Vector",
+      "teaser": "Exploitation techniques against SimpliSafe home security systems via wireless attack vectors.",
       "summary": null,
       "durationSeconds": 3171
     },
@@ -88,28 +109,34 @@
       "speakers": [
         "Matt Blaze"
       ],
-      "track": "red-team",
+      "track": "osint",
       "topics": [
-        "sigint"
+        "sigint",
+        "signal-intelligence",
+        "rf-reconnaissance",
+        "wireless-monitoring",
+        "surveillance"
       ],
-      "teaser": "Sigint for the rest of us",
+      "teaser": "Practical signal intelligence techniques and tools for reconnaissance and monitoring of wireless communications.",
       "summary": null,
       "durationSeconds": 3954
     },
     {
       "youtubeId": "PI-LyQGwrmE",
       "slug": "eric-escobar-secureworks-sdr-replay-attacks-on-home-security-sys",
-      "title": "SecureWorks: SDR Replay Attacks  On Home Security Systems",
+      "title": "SecureWorks: SDR Replay Attacks On Home Security Systems",
       "speakers": [
         "Eric Escobar"
       ],
       "track": "red-team",
       "topics": [
         "software-defined-radio",
-        "iot",
-        "exploitation"
+        "sdr",
+        "replay-attacks",
+        "home-security",
+        "iot-exploitation"
       ],
-      "teaser": "SecureWorks: SDR Replay Attacks  On Home Security Systems",
+      "teaser": "Using software-defined radios to execute replay attacks against home security system sensors and controllers.",
       "summary": null,
       "durationSeconds": 1199
     },
@@ -122,24 +149,32 @@
       ],
       "track": "red-team",
       "topics": [
-        "wireless"
+        "wireless-hacking",
+        "rf-exploitation",
+        "sdr",
+        "reverse-engineering",
+        "protocols"
       ],
-      "teaser": "Hacking Some More of the Wireless World",
+      "teaser": "Exploration of wireless hacking techniques and tools for discovering and exploiting RF-based systems.",
       "summary": null,
       "durationSeconds": 6391
     },
     {
       "youtubeId": "CoQsYhFSjtg",
       "slug": "andrew-strutt-suitcase-repeater-build-for-uhf-70cm",
-      "title": "Suitcase Repeater Build for UHF   70cm",
+      "title": "Suitcase Repeater Build for UHF 70cm",
       "speakers": [
         "Andrew Strutt"
       ],
-      "track": "red-team",
+      "track": "hardware",
       "topics": [
-        "radio-hacking"
+        "ham-radio",
+        "uhf",
+        "repeater",
+        "radio-hardware",
+        "rf-construction"
       ],
-      "teaser": "Suitcase Repeater Build for UHF   70cm",
+      "teaser": "DIY construction of a portable repeater system for UHF 70cm amateur radio communications.",
       "summary": null,
       "durationSeconds": 1908
     },
@@ -150,11 +185,15 @@
       "speakers": [
         "Andrew Strutt"
       ],
-      "track": "red-team",
+      "track": "osint",
       "topics": [
-        "radio-hacking"
+        "pocsag",
+        "pagers",
+        "amateur-radio",
+        "rf-monitoring",
+        "protocol-analysis"
       ],
-      "teaser": "POCSAG Amateur Pager Network",
+      "teaser": "Monitoring and understanding POCSAG amateur pager network protocols and communications.",
       "summary": null,
       "durationSeconds": 1715
     },
@@ -165,12 +204,15 @@
       "speakers": [
         "Alexander Zakarov"
       ],
-      "track": "red-team",
+      "track": "osint",
       "topics": [
-        "wireless",
-        "packet-analysis"
+        "kismet",
+        "wireless-monitoring",
+        "packet-analysis",
+        "wifi-sniffing",
+        "network-reconnaissance"
       ],
-      "teaser": "Large Scale Wireless Monitoring: KISMET Packet Sniffer",
+      "teaser": "Large-scale wireless network monitoring and analysis using the KISMET packet sniffer tool.",
       "summary": null,
       "durationSeconds": 2340
     }
