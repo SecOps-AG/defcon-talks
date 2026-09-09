@@ -1,37 +1,37 @@
 {
   "lane": "haiku",
   "count": 5,
-  "note": "Process top-to-bottom. Create village file ONLY with youtubeIds not already in archive. If zero new IDs after fetch, mark done and continue \u2014 do not leave untracked duplicate files. Never ask next; never delete queue. Commit/push/PR before marking done.",
+  "note": "Do NOT delete. Process top-to-bottom. Prefer creating the playlist own village file when ANY videos are missing from the archive by youtubeId; skip-all only if every youtubeId already exists somewhere. Never ask next.",
   "playlists": [
     {
       "title": "DC33 ICS Village Talks",
       "id": "PL9fPq3eQfaaDCvgG5C07N0eubIhKqqbdp",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDCvgG5C07N0eubIhKqqbdp",
-      "status": "todo"
+      "status": "done"
     },
     {
       "title": "DEF CON 20 Documentary - Extras",
       "id": "PL9fPq3eQfaaCqUuVTpnL3T8qvusiuT9X0",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCqUuVTpnL3T8qvusiuT9X0",
-      "status": "todo"
+      "status": "done"
     },
     {
       "title": "DEF CON 31",
       "id": "PL9fPq3eQfaaCb7d8v5OZDAFUWHcq0V3Fq",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCb7d8v5OZDAFUWHcq0V3Fq",
-      "status": "todo"
+      "status": "done"
     },
     {
       "title": "DEF CON Safe Mode Ethics Village",
       "id": "PL9fPq3eQfaaCtZD5SjrSXafefhu9ez0zd",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaCtZD5SjrSXafefhu9ez0zd",
-      "status": "todo"
+      "status": "done"
     },
     {
       "title": "DEF CON Safe Mode Thursday",
       "id": "PL9fPq3eQfaaA_z4a8GOEy1u-OadPWCxp1",
       "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaA_z4a8GOEy1u-OadPWCxp1",
-      "status": "todo"
+      "status": "done"
     }
   ]
 }
