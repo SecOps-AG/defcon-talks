@@ -143,6 +143,14 @@
       "year": 2008,
       "dates": "8-10 August 2008",
       "location": "The Riviera Hotel & Casino, Las Vegas"
+    },
+    {
+      "slug": "defcon-15",
+      "name": "DEF CON 15",
+      "shortName": "DC15",
+      "year": 2007,
+      "dates": "3-5 August 2007",
+      "location": "The Riviera Hotel & Casino, Las Vegas"
     }
   ]
 }
