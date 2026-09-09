@@ -191,6 +191,14 @@
       "year": 2002,
       "dates": "2-4 August 2002",
       "location": "Alexis Park Resort, Las Vegas"
+    },
+    {
+      "slug": "defcon-9",
+      "name": "DEF CON 9",
+      "shortName": "DC9",
+      "year": 2001,
+      "dates": "13-15 July 2001",
+      "location": "Alexis Park Resort, Las Vegas"
     }
   ]
 }
