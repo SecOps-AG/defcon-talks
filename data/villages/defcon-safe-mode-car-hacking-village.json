@@ -59,6 +59,26 @@
       "teaser": "Examines the history, protocols, and diagnostic standards that preceded SAE J1939 in heavy-duty commercial vehicle networks.",
       "summary": null,
       "durationSeconds": 1533
+    },
+    {
+      "youtubeId": "YSApvBDIVCM",
+      "slug": "derrick-all-aboard-the-can-bus-or-motorcycle",
+      "title": "All Aboard the CAN Bus or Motorcycle",
+      "speakers": [
+        "Derrick"
+      ],
+      "track": "hardware",
+      "topics": [
+        "can-bus",
+        "motorcycle",
+        "reverse-engineering",
+        "automotive",
+        "microcontrollers",
+        "hardware"
+      ],
+      "teaser": "Derrick shares a journey reverse engineering modern motorcycle CAN bus telemetry using custom microcontrollers, pulse-width modulation, and Python to construct an aftermarket digital gauge cluster.",
+      "summary": "Motorcycle Electronics and CAN Bus Networks\n\nModern motorcycles increasingly implement Controller Area Network (CAN) architectures to coordinate engine control modules, ABS sensors, electronic throttles, and dashboard instrument clusters.\n\nBuilding Custom Hardware and Simulation Fixtures\n\nDerrick presents the hardware tooling required to tap into motorcycle wiring harnesses, combining low-cost microcontrollers, potentiometers, and pulse-width modulation (PWM) circuits to simulate engine RPM and speed signals.\n\nReverse Engineering CAN Bus Telemetry\n\nThe speaker details capturing, filtering, and deciphering proprietary motorcycle CAN packet frames in Python, identifying arbitration IDs and byte offsets for critical sensor telemetry.\n\nDeveloping an Aftermarket Digital Gauge Cluster\n\nThe presentation demonstrates integrating the reversed telemetry stream into custom firmware driving an aftermarket instrument display, showing practical automotive hardware prototyping.",
+      "durationSeconds": 1748
     }
   ]
 }
