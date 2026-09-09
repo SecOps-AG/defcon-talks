@@ -1,0 +1,141 @@
+{
+  "villageSlug": "ics-village",
+  "villageName": "ICS Village",
+  "eventSlug": "defcon-33",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaDCvgG5C07N0eubIhKqqbdp",
+  "description": "",
+  "talks": [
+    {
+      "youtubeId": "iVmS5dPjggU",
+      "slug": "the-worst-ics-ot-love-story-every-told-3",
+      "title": "The Worst ICS/OT Love Story Every Told",
+      "speakers": [
+        "2025 Mike Holcomb"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1567
+    },
+    {
+      "youtubeId": "6U_CepoMSl4",
+      "slug": "dont-cry-wolf-evidence-based-assessments-of-ics-threats-3",
+      "title": "Don’t Cry Wolf: Evidence based assessments of ICS Threats",
+      "speakers": [
+        "Jimmy Wylie",
+        "Sam Hanson"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1435
+    },
+    {
+      "youtubeId": "0r_trFFPVYc",
+      "slug": "locked-down-not-locked-out-how-i-escaped-yr-secure-operator-work-3",
+      "title": "Locked Down, Not Locked Out: How I Escaped Yr Secure Operator Workstation",
+      "speakers": [
+        "Aaron Boyd"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1475
+    },
+    {
+      "youtubeId": "AXN3sTAr9R4",
+      "slug": "safeguarding-the-industrial-frontier-ot-soc-and-incident-respons-3",
+      "title": "Safeguarding the Industrial Frontier OT SOC & Incident Response",
+      "speakers": [
+        "Adam Robbie"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1207
+    },
+    {
+      "youtubeId": "_ghyf3J92UQ",
+      "slug": "defe-con-33-deploying-deception-in-depth-for-ics-3",
+      "title": "DEFE CON 33 - Deploying Deception in Depth for ICS",
+      "speakers": [
+        "Brent Muir"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1339
+    },
+    {
+      "youtubeId": "YBPYYk8FIkc",
+      "slug": "there-and-back-again-detecting-ot-devices-across-protocol-gatewa-3",
+      "title": "There and Back Again: Detecting OT Devices Across Protocol Gateways",
+      "speakers": [
+        "Rob King"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1314
+    },
+    {
+      "youtubeId": "Qf7oNWKGL2I",
+      "slug": "crossing-the-line-advanced-techniques-to-breach-the-ot-dmz-3",
+      "title": "Crossing the Line: Advanced Techniques to Breach the OT DMZ",
+      "speakers": [
+        "Christopher Nourrie"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1041
+    },
+    {
+      "youtubeId": "MJV5FQztfi4",
+      "slug": "let-ai-autogenerate-neural-asr-rules-for-ot-attacks-via-nlp-3",
+      "title": "Let AI Autogenerate Neural ASR Rules for OT Attacks via NLP",
+      "speakers": [
+        "Mars Cheng",
+        "Jr Wei-Huang"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1324
+    },
+    {
+      "youtubeId": "S7mPcEPaKHU",
+      "slug": "intro-to-common-industrial-protocol-exploitation-3",
+      "title": "Intro to Common Industrial Protocol Exploitation",
+      "speakers": [
+        "Trevor Flynn"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1404
+    },
+    {
+      "youtubeId": "-ElW725i8z4",
+      "slug": "critically-neglected-cybersecurity-for-buildings-3",
+      "title": "Critically Neglected: Cybersecurity for buildings",
+      "speakers": [
+        "Thomas Pope"
+      ],
+      "track": "",
+      "topics": [],
+      "teaser": "",
+      "summary": null,
+      "durationSeconds": 1393
+    }
+  ]
+}
