@@ -5,9 +5,10 @@
   "description": "Unofficial searchable archive of DEF CON village talks, with video and written summaries.",
   "scripts": {
     "dev": "next dev",
-    "build": "npm run validate && next build",
+    "build": "npm run validate && npm run generate-shards && next build",
     "start": "next start",
     "validate": "node scripts/validate-data.mjs",
+    "generate-shards": "node scripts/generate-summary-shards.mjs",
     "ingest:fetch": "node scripts/fetch-playlist.mjs",
     "ingest:scaffold": "node scripts/scaffold-village.mjs",
     "ingest:notes": "node scripts/source-notes.mjs",

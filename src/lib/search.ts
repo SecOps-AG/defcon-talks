@@ -2,7 +2,7 @@
  * Pure filtering/faceting used by both the server (for counts and static pages)
  * and the client browser component. No fs, no React — safe to import anywhere.
  */
-import type { SearchEntry, Talk, TalkIndexEntry } from "./types";
+import type { SearchEntry, Talk, TalkIndexEntry, TalkSummaryEntry } from "./types";
 
 export const PAGE_SIZE = 24;
 
@@ -88,7 +88,6 @@ export function buildIndexEntry(talk: Talk): TalkIndexEntry {
     track: talk.track,
     trackName: talk.trackName,
     topics: talk.topics,
-    teaser: talk.teaser ?? "",
     durationSeconds: talk.durationSeconds,
     kind: talk.kind,
   };
@@ -98,6 +97,8 @@ export function buildIndexEntry(talk: Talk): TalkIndexEntry {
  * Derive the search text client-side. One pass over the index at mount costs a
  * few milliseconds; shipping it would roughly double the payload, since every
  * word in it is already present in the fields it is built from.
+ *
+ * Summary text is merged in later, fetched on-demand from per-year shards.
  */
 export function withHaystack(entries: TalkIndexEntry[]): SearchEntry[] {
   return entries.map((entry) => ({
@@ -105,7 +106,6 @@ export function withHaystack(entries: TalkIndexEntry[]): SearchEntry[] {
     speakerSlugs: entry.speakers.map(slugifySpeaker),
     haystack: [
       entry.title,
-      entry.teaser,
       entry.speakers.join(" "),
       entry.villageName,
       entry.eventShortName,
@@ -116,6 +116,32 @@ export function withHaystack(entries: TalkIndexEntry[]): SearchEntry[] {
       .join(" ")
       .toLowerCase(),
   }));
+}
+
+/**
+ * Merge summary data into search entries. Enriches haystack with summary text
+ * and marks entries where the query matched the summary.
+ */
+export function mergeSummaries(
+  entries: SearchEntry[],
+  summaries: Map<string, string>,
+  terms: string[],
+): SearchEntry[] {
+  if (terms.length === 0) return entries;
+
+  return entries.map((entry) => {
+    const summary = summaries.get(entry.id);
+    if (!summary) return entry;
+
+    const summaryLower = summary.toLowerCase();
+    const matchedInSummary = terms.every((term) => summaryLower.includes(term));
+
+    return {
+      ...entry,
+      haystack: entry.haystack + " " + summaryLower,
+      matchedInSummary: matchedInSummary || undefined,
+    };
+  });
 }
 
 /** Every whitespace-separated term must appear somewhere in the entry. */

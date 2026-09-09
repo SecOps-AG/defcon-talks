@@ -14,14 +14,16 @@ import {
   filtersFromParams,
   filtersToQuery,
   filterTalks,
+  mergeSummaries,
   paginate,
+  queryTerms,
   sortTalks,
   toggleValue,
   withHaystack,
   type Filters,
   type SortKey,
 } from "@/lib/search";
-import type { TalkIndexEntry } from "@/lib/types";
+import type { TalkIndexEntry, TalkSummaryEntry } from "@/lib/types";
 
 type Dimension = "years" | "villages" | "tracks" | "speakers" | "lengths";
 
@@ -68,6 +70,7 @@ export function TalkBrowser({
   const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
   const [draftQuery, setDraftQuery] = useState("");
   const [ready, setReady] = useState(false);
+  const [summaries, setSummaries] = useState<Map<string, string>>(new Map());
   const resultsRef = useRef<HTMLDivElement>(null);
 
   const hasExtras = useMemo(() => talks.some((t) => t.kind !== "talk"), [talks]);
@@ -90,6 +93,33 @@ export function TalkBrowser({
     }
     setReady(true);
   }, [syncUrl, allExtras]);
+
+  // Load per-year summary shards in the background. This enriches search without
+  // blocking initial render. Each year's shard is fetched independently.
+  useEffect(() => {
+    const years = new Set(talks.map((talk) => talk.year));
+    const allSummaries = new Map<string, string>();
+
+    const loadYearShard = async (year: number) => {
+      try {
+        const res = await fetch(`/data/summaries/summaries-${year}.json`);
+        if (!res.ok) return;
+        const entries: TalkSummaryEntry[] = await res.json();
+        for (const entry of entries) {
+          if (entry.summary) {
+            allSummaries.set(entry.id, entry.summary);
+          }
+        }
+        setSummaries((prev) => new Map([...prev, ...allSummaries]));
+      } catch {
+        // Silently fail if shards are not available
+      }
+    };
+
+    for (const year of years) {
+      loadYearShard(year);
+    }
+  }, [talks]);
 
   // Typing stays responsive at thousands of talks: the list lags a frame, the input never does.
   const deferredQuery = useDeferredValue(draftQuery);
@@ -116,7 +146,13 @@ export function TalkBrowser({
   }, [filters, draftQuery, syncUrl, ready]);
 
   // Search text is derived here rather than shipped: see withHaystack.
-  const searchable = useMemo(() => withHaystack(talks), [talks]);
+  // Summaries are merged in when available, enriching the haystack without blocking initial render.
+  const searchable = useMemo(() => {
+    const base = withHaystack(talks);
+    if (summaries.size === 0) return base;
+    const terms = queryTerms(draftQuery);
+    return mergeSummaries(base, summaries, terms);
+  }, [talks, summaries, draftQuery]);
 
   const facets = useMemo(() => computeFacets(searchable, effective), [searchable, effective]);
   const filtered = useMemo(() => filterTalks(searchable, effective), [searchable, effective]);

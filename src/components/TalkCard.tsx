@@ -1,13 +1,13 @@
 import Link from "next/link";
 import { formatDuration } from "@/lib/search";
-import type { TalkIndexEntry } from "@/lib/types";
+import type { SearchEntry, TalkIndexEntry } from "@/lib/types";
 
 const MAX_TOPICS = 3;
 
 /**
- * Cards take a TalkIndexEntry, not a Talk — summaries never reach a list view.
+ * Cards take a TalkIndexEntry, or optionally a SearchEntry with matched summary info.
  */
-export function TalkCard({ talk }: { talk: TalkIndexEntry }) {
+export function TalkCard({ talk }: { talk: TalkIndexEntry | Partial<SearchEntry> }) {
   const shown = talk.topics.slice(0, MAX_TOPICS);
   const overflow = talk.topics.length - shown.length;
   const duration = formatDuration(talk.durationSeconds);
@@ -70,8 +70,10 @@ export function TalkCard({ talk }: { talk: TalkIndexEntry }) {
           <p className="text-xs text-mint/65">{talk.speakers.join(" · ")}</p>
         ) : null}
 
-        {talk.teaser ? (
-          <p className="text-sm leading-relaxed text-mint/85">{talk.teaser}</p>
+        {(talk as Partial<SearchEntry>).matchedInSummary ? (
+          <p className="text-xs text-cyan/75 italic">
+            Matched in summary
+          </p>
         ) : null}
 
         {shown.length > 0 ? (
