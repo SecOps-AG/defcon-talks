@@ -263,6 +263,14 @@
       "year": 1997,
       "dates": "18-20 July 1997",
       "location": "Aladdin Hotel, Las Vegas"
+    },
+    {
+      "slug": "defcon-channel",
+      "name": "DEF CON Conference channel",
+      "shortName": "Channel",
+      "year": 2026,
+      "dates": "Ongoing",
+      "location": "YouTube"
     }
   ]
 }
