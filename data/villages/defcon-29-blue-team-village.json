@@ -21,7 +21,7 @@
         "investigations"
       ],
       "teaser": "John Bambenek recounts pro bono digital forensics casework, exposing flawed prosecution expert testimony and emphasizing sound forensic methodologies.",
-      "summary": "The Power Imbalance in Digital Forensic Justice\n\nIn criminal and civil legal disputes, defendants lacking financial resources often cannot afford qualified digital forensics experts to challenge flawed government or prosecution evidence.\n\nCase Studies in Pro Bono Defense Forensics\n\nJohn Bambenek shares real-world cases where pro bono defense investigations uncovered sloppy forensic analysis, fabricated evidence claims, and misinterpreted log files.\n\nCautionary Tales of Flawed Forensic Methodologies\n\nBambenek reviews egregious errors in forensic investigations—including failing to verify file timestamps, misattributing IP addresses, and over-relying on automated tools.\n\nA Call for Pro Bono Community Contributions\n\nThe author calls on experienced DFIR practitioners to volunteer their time to ensure equitable access to sound forensic expertise in the legal system.",
+      "summary": "The Power Imbalance in Digital Forensic Justice\n\nIn criminal and civil legal disputes, defendants lacking financial resources often cannot afford qualified digital forensics experts to challenge flawed government or prosecution evidence.\n\nCase Studies in Pro Bono Defense Forensics\n\nJohn Bambenek shares real-world cases where pro bono defense investigations uncovered sloppy forensic analysis, fabricated evidence claims, and misinterpreted log files.\n\nCautionary Tales of Flawed Forensic Methodologies\n\nBambenek reviews egregious errors in forensic investigations\u2014including failing to verify file timestamps, misattributing IP addresses, and over-relying on automated tools.\n\nA Call for Pro Bono Community Contributions\n\nThe author calls on experienced DFIR practitioners to volunteer their time to ensure equitable access to sound forensic expertise in the legal system.",
       "durationSeconds": 3115
     },
     {
@@ -79,7 +79,7 @@
         "blue-team"
       ],
       "teaser": "Henry delivers an energetic, practical guide to securing multi-cloud environments, eliminating dangling DNS, exposed storage buckets, and IAM privilege sprawl.",
-      "summary": "The Chaos of Multi-Cloud Enterprise Sprawl\n\nManaging enterprise security across AWS, Azure, and GCP requires balancing disparate security models, inconsistent logging schemas, and fragmented asset inventories.\n\nEliminating Critical Cloud Blind Spots\n\nHenry reviews pervasive multi-cloud vulnerabilities—including dangling DNS records, publicly accessible object storage buckets, and unmanaged compute instances.\n\nEstablishing Unified IAM and Network Guardrails\n\nThe author explains how to implement centralized IAM auditing, enforce least-privilege role boundaries, and automate security group compliance across cloud providers.\n\nA Pragmatic Blueprint for Cloud Defense\n\nThe presentation provides enterprise defenders with a structured roadmap for asset discovery, continuous compliance monitoring, and posture management.",
+      "summary": "The Chaos of Multi-Cloud Enterprise Sprawl\n\nManaging enterprise security across AWS, Azure, and GCP requires balancing disparate security models, inconsistent logging schemas, and fragmented asset inventories.\n\nEliminating Critical Cloud Blind Spots\n\nHenry reviews pervasive multi-cloud vulnerabilities\u2014including dangling DNS records, publicly accessible object storage buckets, and unmanaged compute instances.\n\nEstablishing Unified IAM and Network Guardrails\n\nThe author explains how to implement centralized IAM auditing, enforce least-privilege role boundaries, and automate security group compliance across cloud providers.\n\nA Pragmatic Blueprint for Cloud Defense\n\nThe presentation provides enterprise defenders with a structured roadmap for asset discovery, continuous compliance monitoring, and posture management.",
       "durationSeconds": 1577
     },
     {
@@ -134,7 +134,7 @@
         "identity"
       ],
       "teaser": "Microsoft identity expert Mark Morowczynski demystifies modern authentication protocols (SAML, OAuth, OIDC, JWTs) for non-identity security administrators.",
-      "summary": "The Shift from Legacy to Modern Authentication\n\nModern enterprise security relies on token-based authentication protocols (OAuth 2.0, OpenID Connect, SAML 2.0) to authenticate users and authorize API access across cloud services.\n\nDeconstructing Authentication Flows and Claims\n\nMark Morowczynski breaks down token exchange flows, explaining how identity providers issue claims, bearer tokens, and JSON Web Tokens (JWTs).\n\nAnalyzing Attack Vectors in Modern Identity\n\nMorowczynski explores common identity attacks—including token theft, illicit OAuth app consent grants, and conditional access bypasses.\n\nDefensive Architecture and Identity Hardening\n\nThe author provides security administrators with actionable best practices to enforce continuous access evaluation, restrict third-party app consent, and monitor authentication logs.",
+      "summary": "The Shift from Legacy to Modern Authentication\n\nModern enterprise security relies on token-based authentication protocols (OAuth 2.0, OpenID Connect, SAML 2.0) to authenticate users and authorize API access across cloud services.\n\nDeconstructing Authentication Flows and Claims\n\nMark Morowczynski breaks down token exchange flows, explaining how identity providers issue claims, bearer tokens, and JSON Web Tokens (JWTs).\n\nAnalyzing Attack Vectors in Modern Identity\n\nMorowczynski explores common identity attacks\u2014including token theft, illicit OAuth app consent grants, and conditional access bypasses.\n\nDefensive Architecture and Identity Hardening\n\nThe author provides security administrators with actionable best practices to enforce continuous access evaluation, restrict third-party app consent, and monitor authentication logs.",
       "durationSeconds": 2729
     },
     {
@@ -153,7 +153,7 @@
         "threat-intelligence"
       ],
       "teaser": "Meisam Eslahi introduces 'Scope X', a threat hunting methodology designed to discover and defend against entry points outside traditional assessment scopes.",
-      "summary": "The Peril of Restrictive Scoping in Cybersecurity\n\nTraditional security assessments focus narrowly on predefined scopes, yet adversaries routinely breach enterprise networks through unmapped shadow assets and forgotten perimeter systems.\n\nIntroducing the Scope X Threat Hunting Concept\n\nMeisam Eslahi introduces 'Scope X'—a proactive hunting framework focused on identifying unknown unknowns across public infrastructure, supply chains, and subsidiaries.\n\nHunting for Unindexed Entry Points and Shadow IT\n\nEslahi demonstrates techniques for correlating passive DNS, TLS certificates, IP allocations, and ASN metadata to map an organization's true attack surface.\n\nIntegrating Scope X into Continuous Threat Hunting\n\nThe author provides blue teams with practical workflows to continuously expand threat hunting operations beyond rigid compliance scopes.",
+      "summary": "The Peril of Restrictive Scoping in Cybersecurity\n\nTraditional security assessments focus narrowly on predefined scopes, yet adversaries routinely breach enterprise networks through unmapped shadow assets and forgotten perimeter systems.\n\nIntroducing the Scope X Threat Hunting Concept\n\nMeisam Eslahi introduces 'Scope X'\u2014a proactive hunting framework focused on identifying unknown unknowns across public infrastructure, supply chains, and subsidiaries.\n\nHunting for Unindexed Entry Points and Shadow IT\n\nEslahi demonstrates techniques for correlating passive DNS, TLS certificates, IP allocations, and ASN metadata to map an organization's true attack surface.\n\nIntegrating Scope X into Continuous Threat Hunting\n\nThe author provides blue teams with practical workflows to continuously expand threat hunting operations beyond rigid compliance scopes.",
       "durationSeconds": 1796
     },
     {
@@ -172,7 +172,7 @@
         "methodology"
       ],
       "teaser": "Rabbit refactors CIA Structured Analytic Techniques (SAT) for cybersecurity, eliminating cognitive bias and improving incident response investigations.",
-      "summary": "Cognitive Biases in Security Analysis and DFIR\n\nIncident responders and threat intelligence analysts frequently suffer from cognitive biases—such as confirmation bias and anchoring—leading to flawed attribution and missed root causes.\n\nAdapting CIA Structured Analytic Techniques\n\nRabbit refactors analytical methodologies published in the CIA's tradecraft manual for practical application in infosec investigations and OSINT research.\n\nApplying Core Analytical Frameworks\n\nThe author demonstrates applying Analysis of Competing Hypotheses (ACH), Devil's Advocacy, and Red Team Analysis to evaluate incident telemetry objectively.\n\nImproving Investigative Rigor and Reporting\n\nThe presentation provides security teams with structured templates to document evidence, evaluate assumptions, and produce rigorous, defensible analytical conclusions.",
+      "summary": "Cognitive Biases in Security Analysis and DFIR\n\nIncident responders and threat intelligence analysts frequently suffer from cognitive biases\u2014such as confirmation bias and anchoring\u2014leading to flawed attribution and missed root causes.\n\nAdapting CIA Structured Analytic Techniques\n\nRabbit refactors analytical methodologies published in the CIA's tradecraft manual for practical application in infosec investigations and OSINT research.\n\nApplying Core Analytical Frameworks\n\nThe author demonstrates applying Analysis of Competing Hypotheses (ACH), Devil's Advocacy, and Red Team Analysis to evaluate incident telemetry objectively.\n\nImproving Investigative Rigor and Reporting\n\nThe presentation provides security teams with structured templates to document evidence, evaluate assumptions, and produce rigorous, defensible analytical conclusions.",
       "durationSeconds": 1938
     },
     {
@@ -267,7 +267,7 @@
         "blue-team"
       ],
       "teaser": "Wendy Edwards separates hype from reality in security AI, analyzing where machine learning excels in anomaly detection and where it fundamentally fails.",
-      "summary": "Demystifying Machine Learning in Cybersecurity\n\nWhile security marketing frequently touts artificial intelligence and machine learning as silver-bullet solutions, understanding their mathematical capabilities and limitations is critical.\n\nWhere Machine Learning Excels in Defense\n\nWendy Edwards reviews successful ML applications—including high-volume spam classification, binary feature clustering for malware detection, and network baseline anomaly detection.\n\nThe Inherent Limitations and Failure Modes of Security ML\n\nEdwards explores why ML models struggle with high false-positive rates, concept drift, adversarial evasion attacks, and lack of explainability in incident response.\n\nA Pragmatic Evaluation Guide for Security Practitioners\n\nThe presentation provides security teams with an objective framework to evaluate ML-based security products and understand their true operational value.",
+      "summary": "Demystifying Machine Learning in Cybersecurity\n\nWhile security marketing frequently touts artificial intelligence and machine learning as silver-bullet solutions, understanding their mathematical capabilities and limitations is critical.\n\nWhere Machine Learning Excels in Defense\n\nWendy Edwards reviews successful ML applications\u2014including high-volume spam classification, binary feature clustering for malware detection, and network baseline anomaly detection.\n\nThe Inherent Limitations and Failure Modes of Security ML\n\nEdwards explores why ML models struggle with high false-positive rates, concept drift, adversarial evasion attacks, and lack of explainability in incident response.\n\nA Pragmatic Evaluation Guide for Security Practitioners\n\nThe presentation provides security teams with an objective framework to evaluate ML-based security products and understand their true operational value.",
       "durationSeconds": 1471
     },
     {
@@ -305,8 +305,26 @@
         "threat-hunting"
       ],
       "teaser": "Sebastian Provost demonstrates using Osquery to complement EDR/XDR systems, writing SQL queries to detect open-source C2 implant payloads on endpoints.",
-      "summary": "Enhancing Endpoint Visibility with Osquery\n\nWhile commercial EDR and XDR solutions provide real-time behavioral alerts, Osquery exposes an operating system as a high-performance relational database for custom querying.\n\nIntroducing Osquery for Defensive Telemetry\n\nSebastian Provost explains how Osquery tables represent system state—including running processes, open network sockets, loaded kernel modules, and browser extensions.\n\nDetecting Open-Source C2 Implants with SQL Queries\n\nProvost analyzes multiple open-source C2 frameworks (such as Mythic and Covenant), demonstrating SQL queries that detect their unique memory and disk artifacts.\n\nBuilding an Open-Source Endpoint Telemetry Pipeline\n\nThe author provides defensive teams with deployment configurations and scheduled query packs to integrate Osquery into centralized threat hunting pipelines.",
+      "summary": "Enhancing Endpoint Visibility with Osquery\n\nWhile commercial EDR and XDR solutions provide real-time behavioral alerts, Osquery exposes an operating system as a high-performance relational database for custom querying.\n\nIntroducing Osquery for Defensive Telemetry\n\nSebastian Provost explains how Osquery tables represent system state\u2014including running processes, open network sockets, loaded kernel modules, and browser extensions.\n\nDetecting Open-Source C2 Implants with SQL Queries\n\nProvost analyzes multiple open-source C2 frameworks (such as Mythic and Covenant), demonstrating SQL queries that detect their unique memory and disk artifacts.\n\nBuilding an Open-Source Endpoint Telemetry Pipeline\n\nThe author provides defensive teams with deployment configurations and scheduled query packs to integrate Osquery into centralized threat hunting pipelines.",
       "durationSeconds": 2853
+    },
+    {
+      "youtubeId": "WT5TCzzkINI",
+      "slug": "leveraging-ngfws-for-threat-hunting",
+      "title": "Leveraging NGFWs for Threat Hunting",
+      "speakers": [
+        "Drimacus"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "threat-hunting",
+        "firewalls",
+        "blue-team",
+        "network-security"
+      ],
+      "teaser": "Drimacus presents research on operating passive Next-Generation Firewalls (NGFWs) alongside existing detection stacks to enhance network threat hunting and visibility.",
+      "summary": "Operational Value of Next-Generation Firewalls\n\nWhile Next-Generation Firewalls (NGFWs) are traditionally deployed inline for perimeter enforcement, running passive instances provides unique visibility for defensive hunting without risking production traffic interruption.\n\nOvercoming Application Identification Risks\n\nDrimacus shares lessons learned from deploying passive NGFWs in enterprise environments, exploring how deep packet inspection and layer-7 application identification expose covert adversary traffic.\n\nPractical Threat Hunting Workflows\n\nThe speaker details concrete detection queries and hunting methodology, demonstrating how blue teams can correlate NGFW flow metadata with endpoint telemetry to uncover anomalous command-and-control activity.",
+      "durationSeconds": 1410
     }
   ]
 }
