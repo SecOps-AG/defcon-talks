@@ -2731,19 +2731,6 @@
       "durationSeconds": 2123
     },
     {
-      "youtubeId": "QKHJZ1K-7p0",
-      "slug": "hacking-a-head-unit-with-malicious-png-2",
-      "title": "Hacking a head unit with malicious PNG",
-      "speakers": [
-        "Danilo Erazo"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1431
-    },
-    {
       "youtubeId": "PYFssJoDP1c",
       "slug": "full-disclosure-full-color-story-of-this-years-bbv-badge-2",
       "title": "Full Disclosure, Full Color: Story of This Year's BBV Badge",
@@ -2861,19 +2848,6 @@
       "durationSeconds": 1358
     },
     {
-      "youtubeId": "K5Kltw5kQpM",
-      "slug": "uncovering-the-secrets-of-tire-pressure-monitoring-systems-2",
-      "title": "Uncovering the Secrets of Tire Pressure Monitoring Systems",
-      "speakers": [
-        "Yago Lizarribar"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1558
-    },
-    {
       "youtubeId": "LbIAmMXCjZ0",
       "slug": "fingerprinting-maritime-nmea2000-networks-2",
       "title": "Fingerprinting Maritime NMEA2000 Networks",
@@ -2899,17 +2873,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1571
-    },
-    {
-      "youtubeId": "FYHvL8V_m-Q",
-      "slug": "modern-odometer-manipulation-collin-and-oblivion-2",
-      "title": "Modern Odometer Manipulation - collin & oblivion",
-      "speakers": [],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1581
     },
     {
       "youtubeId": "DqC4LZTTCa0",
@@ -3506,19 +3469,6 @@
       "durationSeconds": 1287
     },
     {
-      "youtubeId": "qNuS0rvqc8c",
-      "slug": "how-api-flaws-led-to-admin-access-to-1k-usa-dealers-and-control-2",
-      "title": "How API flaws led to admin access to 1k+ USA dealers & control of yr car",
-      "speakers": [
-        "Eaton Zveare"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1346
-    },
-    {
       "youtubeId": "XHoH4ic8fX8",
       "slug": "shaking-out-shells-with-sshamble-2",
       "title": "Shaking Out Shells with SSHamble",
@@ -3544,19 +3494,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1284
-    },
-    {
-      "youtubeId": "VchCd-o25z0",
-      "slug": "context-aware-anomaly-detection-in-automotive-can-without-decodi-2",
-      "title": "Context Aware Anomaly Detection in Automotive CAN Without Decoding",
-      "speakers": [
-        "Ravi Rajput"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1121
     },
     {
       "youtubeId": "TAtG8rofxxE",
@@ -3772,20 +3709,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 1492
-    },
-    {
-      "youtubeId": "AOp0QtUORBc",
-      "slug": "smart-bus-smart-hacking-free-wifi-to-total-control-2",
-      "title": "Smart Bus Smart Hacking: Free WiFi to Total Control",
-      "speakers": [
-        "Kai Ching Wang",
-        "Chiao-Lin Yu"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 1265
     },
     {
       "youtubeId": "9-a4OhOChss",
@@ -4092,20 +4015,6 @@
       "teaser": "",
       "summary": null,
       "durationSeconds": 301
-    },
-    {
-      "youtubeId": "SQz4nySj4hg",
-      "slug": "one-modem-to-brick-them-all-vulns-in-ev-charging-comms-2",
-      "title": "One Modem to Brick Them All -Vulns in EV Charging Comms",
-      "speakers": [
-        "Jan Berens",
-        "Marcell Szakaly"
-      ],
-      "track": "",
-      "topics": [],
-      "teaser": "",
-      "summary": null,
-      "durationSeconds": 2603
     },
     {
       "youtubeId": "wclvPznv5v4",
