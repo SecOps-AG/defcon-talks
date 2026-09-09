@@ -18,7 +18,7 @@
         "reverse-engineering"
       ],
       "teaser": "A technical examination of security vulnerabilities, reverse engineering, and protocol exploitation in connected consumer IoT devices.",
-      "summary": null,
+      "summary": "IoT security: Breaking the Internet of Vibrating Things. Exploitation and defense of Internet of Things devices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1206
     },
     {
@@ -52,7 +52,7 @@
         "usb"
       ],
       "teaser": "Exploring hardware mouse jigglers from both offensive evasion and defensive detection perspectives in enterprise environments.",
-      "summary": null,
+      "summary": "IoT security: Mouse Jiggler: Offense and Defense. Exploitation and defense of Internet of Things devices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2719
     },
     {
@@ -84,7 +84,7 @@
         "vulnerability-research"
       ],
       "teaser": "Reversing on-screen display (OSD) monitor controllers to achieve arbitrary code execution and covert pixel manipulation directly on displays.",
-      "summary": null,
+      "summary": "IoT security: A Monitor Darkly: Reversing and Exploiting Ubiquitous OSD Controllers. Exploitation and defense of Internet of Things devices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2049
     },
     {
@@ -116,7 +116,7 @@
         "open-source"
       ],
       "teaser": "Introducing Blue Hydra, an open-source tool for tracking, discovering, and fingerprinting nearby Bluetooth and BLE devices in real time.",
-      "summary": null,
+      "summary": "IoT security: Realtime bluetooth device detection Blue Hydra. Exploitation and defense of Internet of Things devices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1882
     },
     {
@@ -148,7 +148,7 @@
         "reverse-engineering"
       ],
       "teaser": "Demonstrating how multi-function office copiers and printers can be exploited to achieve code execution and persist in enterprise networks.",
-      "summary": null,
+      "summary": "IoT security: Use Their Machines Against Them Loading Code with a Copier. Exploitation and defense of Internet of Things devices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1827
     },
     {
@@ -182,7 +182,7 @@
         "hardware"
       ],
       "teaser": "A practical guide to extracting firmware, identifying debug ports, and discovering zero-day vulnerabilities in consumer embedded devices.",
-      "summary": null,
+      "summary": "IoT security: Reversing and Exploiting Embedded Devices. Exploitation and defense of Internet of Things devices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2841
     },
     {
@@ -216,7 +216,7 @@
         "open-source"
       ],
       "teaser": "Presenting Btlejuice, an open-source framework for intercepting, modifying, and proxying Bluetooth Smart (BLE) communications via MITM.",
-      "summary": null,
+      "summary": "IoT security: Btlejuice The Bluetooth Smart Mitm Framework. Exploitation and defense of Internet of Things devices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 4162
     }
   ]

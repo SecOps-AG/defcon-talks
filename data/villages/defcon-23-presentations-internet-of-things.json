@@ -18,7 +18,7 @@
         "wifi"
       ],
       "teaser": "Runa Sandvik and Michael Auger demonstrate how they compromised a Linux-powered TrackingPoint smart rifle over Wi-Fi, altering target calculations.",
-      "summary": null,
+      "summary": "Internet of Things security: Runa Sandvik, Michael Auger. Analysis of IoT device security and smart home vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2448
     },
     {
@@ -50,7 +50,7 @@
         "embedded"
       ],
       "teaser": "Wesley Wineberg analyzes attack surfaces across popular consumer IoT devices, detailing privilege escalation and remote exploit primitives.",
-      "summary": null,
+      "summary": "Internet of Things security: Cameras Thermostats and Home Automation Controllers. Analysis of IoT device security and smart home vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3592
     }
   ]
