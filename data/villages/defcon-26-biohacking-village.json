@@ -176,6 +176,24 @@
       "teaser": "Thanks to the use of DNA in criminal investigations, hundreds of innocent people have been exonerated from crimes they did not commit. DNA has also been used to used to arrest suspects in cold cases! In my presentatio...",
       "summary": null,
       "durationSeconds": 2235
+    },
+    {
+      "youtubeId": "sw_D-12S1G0",
+      "slug": "john-dunlap-dna-encryption-bioencryption-to-store-secrets",
+      "title": "DNA Encryption: Bioencryption to Store Secrets",
+      "speakers": [
+        "John Dunlap"
+      ],
+      "track": "privacy",
+      "topics": [
+        "biohacking",
+        "cryptography",
+        "dna-storage",
+        "steganography"
+      ],
+      "teaser": "An exploration of the history and mechanics of encoding and encrypting secret data within living cells and DNA.",
+      "summary": null,
+      "durationSeconds": 1571
     }
   ]
 }
