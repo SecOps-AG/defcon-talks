@@ -12,31 +12,33 @@
       "speakers": [
         "Billy Boatright"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "persuasion",
-        "security-research"
+        "manipulation",
+        "red-teaming"
       ],
-      "teaser": "Building rapport is essential in life, and critical in Social Engineering.",
+      "teaser": "Master the art of building genuine rapport—a critical skill for successful social engineering attacks and red team operations.",
       "summary": null,
       "durationSeconds": 1872
     },
     {
       "youtubeId": "VeXlppLn5H4",
       "slug": "se-village-fahey-owens-beyond-phishing",
-      "title": "Beyond Phishing \u2013 Building & Sustaining a Corporate SE Program",
+      "title": "Beyond Phishing – Building & Sustaining a Corporate SE Program",
       "speakers": [
         "Fahey Owens"
       ],
-      "track": "social-engineering",
+      "track": "blue-team",
       "topics": [
         "social-engineering",
         "phishing",
         "red-teaming",
-        "culture"
+        "security-culture",
+        "organizational-behavior"
       ],
-      "teaser": "Just think, 10 years ago, most organizations didn\u2019t have an ethical hacking, red team or even a fully funded Infosec team.",
+      "teaser": "Design and sustain effective corporate social engineering programs to build organizational resilience through continuous ethical testing and training.",
       "summary": null,
       "durationSeconds": 1849
     },
@@ -47,12 +49,14 @@
       "speakers": [
         "Robert Wood"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
-        "security-research"
+        "red-teaming",
+        "assessment-methodology",
+        "security-testing"
       ],
-      "teaser": "Social engineering tests are typically performed in a point-in-time fashion, targeting specific people at particular points in their day or their workflow.",
+      "teaser": "Move beyond point-in-time social engineering tests with thematic campaigns that target specific workflows and behavioral patterns for more effective security assessment.",
       "summary": null,
       "durationSeconds": 2351
     },
@@ -61,17 +65,17 @@
       "slug": "se-village-yaiza-rubio-felix-brezo-heavy-diving-for-credentials",
       "title": "Heavy Diving For Credentials",
       "speakers": [
-        "Yaiza Rubio, Fe\u0301lix Brezo"
+        "Yaiza Rubio, Félix Brezo"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "phishing",
-        "red-teaming",
-        "authentication",
-        "privacy"
+        "credential-harvesting",
+        "campaign-analysis",
+        "osint"
       ],
-      "teaser": "Online phishing campaigns are one of the most typical social engineering exercises that can be",
+      "teaser": "Deep analysis of phishing campaign techniques, credential harvesting methods, and OSINT strategies for conducting targeted social engineering exercises.",
       "summary": null,
       "durationSeconds": 1843
     },
@@ -82,13 +86,15 @@
       "speakers": [
         "Tyler Rosonke"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "red-teaming",
-        "web"
+        "web-analytics",
+        "reconnaissance",
+        "exploitation"
       ],
-      "teaser": "Do you run web analytics on your websites, such as Google Analytics? If you were viewing your web analytics and noticed lots of traffic being referred to your website from an interesting domain, would you investigate?...",
+      "teaser": "Leverage web analytics platforms to identify and exploit organizational reconnaissance gaps, discovering vulnerability patterns through legitimate analytics data.",
       "summary": null,
       "durationSeconds": 1974
     },
@@ -99,14 +105,15 @@
       "speakers": [
         "Jayson Street"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "red-teaming",
-        "defense",
-        "osint"
+        "osint",
+        "reconnaissance",
+        "threat-modeling"
       ],
-      "teaser": "Most people who work on the defensive side of computer security only see the landscape from that perspective! In this talk Jayson will show how an attacker views your website & employees, then uses them against you.",
+      "teaser": "Examine your organization from an attacker's perspective—how red teamers scout websites, employees, and systems to identify and exploit security weaknesses.",
       "summary": null,
       "durationSeconds": 3380
     },
@@ -117,14 +124,15 @@
       "speakers": [
         "Helen Thackray"
       ],
-      "track": "social-engineering",
+      "track": "policy",
       "topics": [
         "social-engineering",
         "psychology",
-        "persuasion",
+        "behavioral-analysis",
+        "threat-intelligence",
         "security-research"
       ],
-      "teaser": "Hackers gonna hack \u2013 But do they know why? Previous academic studies have investigated the psychological aspects of information security, but the focus has been on social engineering or attempts to define hacker chara...",
+      "teaser": "Explore the psychological motivations driving hackers—connecting behavioral science with security research to understand why attackers target social engineering vectors.",
       "summary": null,
       "durationSeconds": 3030
     },
@@ -135,14 +143,15 @@
       "speakers": [
         "Chris Hadnagy"
       ],
-      "track": "social-engineering",
+      "track": "blue-team",
       "topics": [
         "social-engineering",
-        "red-teaming",
-        "privacy",
-        "threat-intelligence"
+        "defensive-tactics",
+        "threat-assessment",
+        "privacy-protection",
+        "security-research"
       ],
-      "teaser": "When I started my path down becoming a professional social engineer my vision was something like a modern day version of Sneakers.",
+      "teaser": "Apply social engineering skills defensively to identify predatory behavior, protect vulnerable individuals, and develop creative security applications beyond traditional penetration testing.",
       "summary": null,
       "durationSeconds": 3135
     },
@@ -153,14 +162,15 @@
       "speakers": [
         "Brent White, Tim Roberts"
       ],
-      "track": "social-engineering",
+      "track": "red-team",
       "topics": [
         "social-engineering",
         "red-teaming",
-        "privacy",
+        "assessment-methodology",
+        "skill-development",
         "culture"
       ],
-      "teaser": "Want to incorporate hybrid security assessments into your testing methodology? What does going above and beyond look like for these types of assessments? How do you provide the best value with the resources and scope ...",
+      "teaser": "Master the essential skills for hybrid security assessments that combine physical, technical, and social engineering vectors into comprehensive red team operations.",
       "summary": null,
       "durationSeconds": 3068
     },
@@ -171,16 +181,16 @@
       "speakers": [
         "John Nye -The Human Factor  Why Are We So Bad at Security"
       ],
-      "track": "social-engineering",
+      "track": "policy",
       "topics": [
         "social-engineering",
         "psychology",
-        "persuasion",
-        "privacy",
-        "culture",
+        "human-factors",
+        "organizational-behavior",
+        "decision-making",
         "security-research"
       ],
-      "teaser": "How does the science of human perception and decision making influence the security sector? How can we use information about how people make decisions to create more successful security professionals? In the 1970s, \u201cf...",
+      "teaser": "Understand how human perception and decision-making science explains why we struggle with security—and how behavioral insights can create more effective security professionals.",
       "summary": null,
       "durationSeconds": 2905
     },
@@ -191,12 +201,15 @@
       "speakers": [
         "Michele Fincher"
       ],
-      "track": "social-engineering",
+      "track": "policy",
       "topics": [
         "social-engineering",
-        "security-research"
+        "organizational-behavior",
+        "security-culture",
+        "program-management",
+        "behavioral-science"
       ],
-      "teaser": "Michele Fincher is the Chief Influencing Agent of Social-Engineer, LLC, possessing over 20 years experience as a behavioral scientist, researcher, and information security professional.",
+      "teaser": "Evaluate how organizational practices and behavioral science principles impact security program effectiveness, identifying common pitfalls in building resilient security cultures.",
       "summary": null,
       "durationSeconds": 1761
     },
@@ -207,15 +220,15 @@
       "speakers": [
         "Keith Conway, Cameron Craig"
       ],
-      "track": "social-engineering",
+      "track": "policy",
       "topics": [
         "social-engineering",
-        "red-teaming",
-        "persuasion",
-        "privacy",
-        "culture"
+        "organizational-behavior",
+        "change-management",
+        "security-culture",
+        "persuasion"
       ],
-      "teaser": "It\u2019s no secret that trying to change corporate culture is hard.",
+      "teaser": "Transform corporate security culture through strategic change management—using principles of persuasion and organizational psychology to shift security behaviors at scale.",
       "summary": null,
       "durationSeconds": 2773
     }
