@@ -19,7 +19,7 @@
         "blue-team"
       ],
       "teaser": "Cloud Security Myths",
-      "summary": null,
+      "summary": "Defensive security: Cloud Security Myths. Best practices and common misconceptions.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2692
     },
     {
@@ -53,7 +53,7 @@
         "defense"
       ],
       "teaser": "Effective Log and Events Management",
-      "summary": null,
+      "summary": "Defensive security: Effective Log and Events Management. Best practices and common misconceptions.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1229
     },
     {
@@ -87,7 +87,7 @@
         "blue-team"
       ],
       "teaser": "Hacking Your Dev Job to Save the World",
-      "summary": null,
+      "summary": "Secure development: Hacking Your Dev Job to Save the World. Developer responsibilities in security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2162
     },
     {
@@ -121,7 +121,7 @@
         "blue-team"
       ],
       "teaser": "SAEDAY Subversion and Espionage Directed Against You",
-      "summary": null,
+      "summary": "Threat defense: SAEDAY Subversion and Espionage Directed Against You. Countering espionage and insider threats.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2960
     },
     {
@@ -155,7 +155,7 @@
         "community"
       ],
       "teaser": "Open Source Endpoint Monitoring",
-      "summary": null,
+      "summary": "Defensive security: Open Source Endpoint Monitoring. Best practices and common misconceptions.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2550
     }
   ]
