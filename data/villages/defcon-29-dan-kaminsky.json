@@ -1,0 +1,319 @@
+{
+  "villageSlug": "dan-kaminsky",
+  "villageName": "Dan Kaminsky",
+  "eventSlug": "defcon-29",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaC-2LgmH8MlMi41ryw8ty2l",
+  "description": "Memorial collection of Dan Kaminsky landmark DEF CON presentations, DNS flaw research, and internet security defense.",
+  "talks": [
+    {
+      "youtubeId": "9wx2TnaRSGs",
+      "slug": "i-want-these-bugs-off-my-internet-2",
+      "title": "I Want These Bugs off My Internet",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "policy",
+      "topics": [
+        "internet-architecture",
+        "cryptography",
+        "vulnerability-remediation",
+        "systemic-risk",
+        "security-policy"
+      ],
+      "teaser": "Legendary security researcher Dan Kaminsky delivers a passionate call to action, outlining systemic technical approaches to eliminate persistent protocol flaws from the internet.",
+      "summary": "Architecture and Background\n\nAre you interested in the gory details in fixing ugly bugs? No?\n\nVulnerability Analysis\n\nJust like watching stuff blow up? Go to some other talk!\n\nExploitation and Demonstrations\n\nBut if you want to see what it takes to comprehensively end an entire bug class -- how you dive into a code base, what performance and usability and maintainability and debuggability constraints it takes to make a web browser more secure -- oh do I have some dirt for you. Dan Kaminsky is Chief Scientist of White Ops.\n\nRemediation and Defensive Strategies\n\n",
+      "durationSeconds": 2889
+    },
+    {
+      "youtubeId": "xneBjc8z0DE",
+      "slug": "secure-random-by-default-2",
+      "title": "Secure Random by Default",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "malware",
+      "topics": [
+        "return-oriented-programming",
+        "rop-gadgets",
+        "exploit-mitigation",
+        "memory-corruption"
+      ],
+      "teaser": "Dan Kaminsky details secure Random By Default Dan Kaminsky Chief Scientist, White Ops As a general rule in security, we have learned that the best way to achieve security is to enable it by default.",
+      "summary": "Architecture and Background\n\nSecure Random By Default Dan Kaminsky Chief Scientist, White Ops As a general rule in security, we have learned that the best way to achieve security is to enable it by default. However, across operating systems and languages, random number generation is always exposed via two separate and most assuredly unequal APIs -- insecure and default, and secure but obscure. Why not fix this?\n\nVulnerability Analysis\n\nWhy not make JavaScript and PHP and Java and Python and even libc rand() return strong entropy? What are the issues stopping us? Should we just shell back to /dev/urandom, or is there merit to userspace entropy gathering?\n\nExploitation and Demonstrations\n\nHow does fork() and virtualization impact the question? What of performance, and memory consumption, and headless machines? Turns out the above questions are not actually rhetorical.\n\nRemediation and Defensive Strategies\n\nJust because a change might be a good idea doesn't mean it's a simple one. This will be a deep dive, but one that I believe will actually yield a fix for the repeated *real world* failures of random number generation systems. Dan Kaminsky has been a noted security researcher for over a decade, and has spent his career advising Fortune 500 companies such as Cisco, Avaya, and Microsoft.Dan spent three years working with Microsoft on their Vista, Server 2008, and Windows 7 releases. Dan is best known for his work finding a critical flaw in the Internet’s Domain Name System (DNS), and for leading what became the largest synchronized fix to the Internet’s infrastructure of all time. Of the seven Recovery Key Shareholders who possess the ability to restore the DNS root keys, Dan is the American representative. Dan is presently developing systems to reduce the cost and complexity of securing critical infrastructure.",
+      "durationSeconds": 5933
+    },
+    {
+      "youtubeId": "7Pp72gUYx00",
+      "slug": "black-ops-2008-2",
+      "title": "Black Ops 2008",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "policy",
+      "topics": [
+        "cyber-policy",
+        "legal-frameworks",
+        "privacy-rights",
+        "compliance"
+      ],
+      "teaser": "Dan Kaminsky explores black ops 2008 at DEF CON 16, examining cyber-policy and practical defenses.",
+      "summary": "Architecture and Background\n\nDEF CON 16 - Dan Kaminsky: Black Ops 2008 DNS is at the heart of every network -- when a web site is browsed to, it says where the site is, and when an email is sent, DNS says where to.\n\nVulnerability Analysis\n\nThe answer is usually correct -- but not always.\n\nExploitation and Demonstrations\n\nSix months ago, it became clear that there was an ancient design flaw, present in the original 1983 specification for DNS, that would allow any attacker to insert their own addresses for DNS names.\n\nRemediation and Defensive Strategies\n\nAn industry wide bug hunt commenced, culminating in a simultaneous release date of patches for virtually all platforms. We will talk about the issue, and about how a partnership between industry competitors and researchers helped protect all our customers. For copies of the slides and additional materials please see the DEF CON 16 Archive here:",
+      "durationSeconds": 4853
+    },
+    {
+      "youtubeId": "0fRk-wL0AQ0",
+      "slug": "something-about-network-security-2",
+      "title": "Something About Network Security",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "appsec",
+      "topics": [
+        "web-security",
+        "appsec",
+        "vulnerability-research",
+        "owasp"
+      ],
+      "teaser": "Dan Kaminsky details something about Network Security Dan Kaminsky IOActive Dan Kaminsky is the Director of Penetration Testing for Seattle-based IOActive, where he is greatly enjoying having minions.",
+      "summary": "Architecture and Background\n\nSomething about Network Security Dan Kaminsky IOActive Dan Kaminsky is the Director of Penetration Testing for Seattle-based IOActive, where he is greatly enjoying having minions.\n\nVulnerability Analysis\n\nFormerly of Cisco and Avaya, Dan was most recently one of the \"Blue Hat Hackers\" tasked with auditing Microsoft's Vista client and Windows Server 2008 operating systems.\n\nExploitation and Demonstrations\n\nHe specializes in absurdly large scale network sweeps, strange packet tricks, and design bugs.\n\nRemediation and Defensive Strategies\n\nFor copies of the slides and additional materials please see the DEF CON 17 Archive here:",
+      "durationSeconds": 3625
+    },
+    {
+      "youtubeId": "J8HsLiQjyBY",
+      "slug": "black-ops-of-tcp-ip-2011-2",
+      "title": "Black Ops of TCP/IP 2011",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "policy",
+      "topics": [
+        "net-neutrality",
+        "fcc-regulations",
+        "internet-governance",
+        "telecom-policy"
+      ],
+      "teaser": "Dan Kaminsky explores black ops of tcp/ip 2011 at DEF CON 19, examining net-neutrality and practical defenses.",
+      "summary": "Architecture and Background\n\nDan Kaminsky - Black Ops of TCP/IP 2011 Remember when networks represented interesting targets, when TCP/IP was itself a vector for messiness, when packet crafting was a required skill?\n\nVulnerability Analysis\n\nIn this thoroughly retro talk, we're going to play with systems the old fashioned way, cobbling together various interesting behaviors with the last few shreds of what low level networking has to offer.\n\nExploitation and Demonstrations\n\nHere's a few things to expect: * IPv4 and IPv6 Fragmentation Attacks, Eight Years In The Making * TCP Sequence Number Attacks In Modern Stacks * IP TTLs: Not Actually Expired * Inverse Bug Hunting: More Things Found On The Open Net * Rebinding Attacks Against Enterprise Infrastructure * BitCoin: Network Manipulation for Fun And (Literal) Profit * The Net Neutrality Transparency Engine DNS might show up, and applications are going to be poked at.\n\nRemediation and Defensive Strategies\n\nBut this will be an old style networking talk, through and through.",
+      "durationSeconds": 3140
+    },
+    {
+      "youtubeId": "2ONQ7NvS-AA",
+      "slug": "black-ops-of-fundamental-defense-web-edition-2",
+      "title": "Black Ops of Fundamental Defense: Web Edition",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "anonymity",
+        "data-protection",
+        "surveillance-defense"
+      ],
+      "teaser": "Dan Kaminsky explores black ops of fundamental defense: web edition at DEF CON 18, examining privacy and practical defenses.",
+      "summary": "Architecture and Background\n\nDan Kaminsky - Black Ops Of Fundamental Defense: Web Edition Lets be honest: Year in, year out, we keep finding the same bugs in the same places, and wondering: Why don't they learn? Why don't developers use these beautiful tools we provide them -- parameterized queries, XSRF tokens, X.509 certificates, and escapes in all their glorious forms? I will tell you: It is because these tools are not very good. And they are not very good, because their quality simply has not mattered. Security demands, devs implement, and if devs don't implement, security complains.\n\nVulnerability Analysis\n\nAnd six months later, it's the same bugs, in the same places, by the same devs. It doesn't have to be this way. In this talk, I will discuss the theory that most classes of security flaws are actually symptoms of deeper causes. Furthermore, I will present attempts at addressing these causes. Specific areas of investigation will include potential answers to questions, specifically: 1) Why can't we keep code and data separate?\n\nExploitation and Demonstrations\n\n2) Why can't we log into web sites? 3) Why can't we authenticate across organizational boundaries? By answers, I mean code, and by code, I mean _a lot_ of code. I will not provide any assurances that the code is secure -- only extended peer review can do that — but I want to show another way of doing things. This talk is going to be packed with live demos.\n\nRemediation and Defensive Strategies\n\nDan Kaminsky is the Director of Penetration Testing at IOActive where he specializes in design-level fault analysis, particularly against massive scale network applications. Previously of Cisco and Avaya, Kaminsky has operated professionally in the security space for over ten years. He is well-known for his \"Black Ops\" series of talks at the well-respected Black Hat Briefings. He regularly collects detailed data on the health of the worldwide Internet, and used this data to detect the worldwide proliferation of a major rootkit. Recently, he discovered a major flaw in the Internet's DNS infrastructure and worked with security engineers around the world, protecting countless organizations and individuals against this threat. For copies of the slides and additional materials please see the DEF CON 18 Archive here:",
+      "durationSeconds": 3471
+    },
+    {
+      "youtubeId": "TAdD8mKvEnc",
+      "slug": "gateway-cryptography-2",
+      "title": "Gateway Cryptography",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "blue-team",
+      "topics": [
+        "nat-traversal",
+        "network-address-translation",
+        "firewalls",
+        "packet-filtering"
+      ],
+      "teaser": "Dan Kaminsky explores gateway cryptography at DEF CON 9, examining nat-traversal and practical defenses.",
+      "summary": "Architecture and Background\n\nDan Kaminsky present 'Gateway Cryptography' at DEF CON 9, analyzing core mechanics and architectural assumptions surrounding nat-traversal, network-address-translation, firewalls, packet-filtering in the blue-team domain.\n\nVulnerability Analysis\n\nThe technical evaluation inspects structural design weaknesses, protocol exposure points, and common attack primitives.\n\nExploitation and Demonstrations\n\nDescription from DEF CON 9 Speaker’s Page: Gateway Cryptography: Hacking Impossible Tunnels Through Improbable Networks with OpenSSH and the GNU Privacy Guard 1) Theory of Gateway Cryptography 2) Methods of securely connecting mutually firewalled hosts 3) Turning any SSHD into a VPN termination point (without using PPP over SSH) 4) Dynamically Rekeyed OpenPGP 5) PPTP over SSH 6) Securely SUing to root 7) Robustifying live-configuration of OpenSSH 8) SFTP Compatibility Mode (implementing everything with cat, tar, and tail)\n\nRemediation and Defensive Strategies\n\nDefenders and system administrators receive concrete hardening strategies, architectural best practices, and detection guidance to mitigate threat impact.",
+      "durationSeconds": 2890
+    },
+    {
+      "youtubeId": "hA_fKQo_ovE",
+      "slug": "black-ops-of-tcp-2005-2",
+      "title": "Black Ops of TCP 2005",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "appsec",
+      "topics": [
+        "web-security",
+        "appsec",
+        "vulnerability-research",
+        "injection-attacks"
+      ],
+      "teaser": "Dan Kaminsky details dan Kaminsky, Black Ops of TCP 2005 Another year, another batch of packet related stunts.",
+      "summary": "Architecture and Background\n\nDan Kaminsky, Black Ops of TCP 2005 Another year, another batch of packet related stunts. A preview: A Temporal Attack against IP It is commonly said that IP is a stateless protocol. This is not entirely true.\n\nVulnerability Analysis\n\nWe will discuss a mechanism by which IP's limited stateful mechanisms can be exploited to fingerprint operating systems and to evade most intrusion detection systems. Application-layer attacks against MD5 We will show how web pages and other executable environments can be manipulated to emit arbitrarily different content with identical MD5 hashes. Real time visualizations of large network scans Building on Cheswick's work, I will demonstrate tools for enhancing our comprehension of the torrential floods of data received during large scale network scans.\n\nExploitation and Demonstrations\n\nBy leveraging the 3D infrastructure made widely available for gaming purposes, we can display and animate tremendous amounts of data for administrator evaluation. A High Speed Arbitrary Tunneling Stack Expanding on last year's talk demonstrating live streaming audio over DNS, I will now demonstrate a reliable communication protocol capable of scaling up to streaming video over multiple, arbitrary, potentially asymmetric transports. Dan Kaminsky, also known as Effugas, is a Senior Security Consultant for Avaya's Enterprise Security Practice, where he works on large-scale security infrastructure.\n\nRemediation and Defensive Strategies\n\nDan's experience includes two years at Cisco Systems designing security infrastructure for large-scale network monitoring systems. He is best known for his work on the ultra-fast port scanner scanrand, part of the \"Paketto Keiretsu\", a collection of tools that use new and unusual strategies for manipulating TCP/IP networks. He authored the Spoofing and Tunneling chapters for \"Hack Proofing Your Network: Second Edition\", was a co-author of \"Stealing The Network: How To Own The Box\", and has delivered presentations at several major industry conferences, including Linuxworld, DefCon, and past Black Hat Briefings. Dan was responsible for the Dynamic Forwarding patch to OpenSSH, integrating the majority of VPN-style functionality into the widely deployed cryptographic toolkit. Finally, he founded the cross-disciplinary DoxPara Research in 1997, seeking to integrate psychological and technological theory to create more effective systems for non-ideal but very real environments in the field. Dan is based in Silicon Valley.",
+      "durationSeconds": 3779
+    },
+    {
+      "youtubeId": "MQCinkFpW24",
+      "slug": "black-ops-2",
+      "title": "Black Ops",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "red-team",
+      "topics": [
+        "penetration-testing",
+        "vulnerability-research",
+        "exploit-development",
+        "security-analysis"
+      ],
+      "teaser": "Dan Kaminsky details black Ops Dan Kaminsky Chief Scientist, DKH If there's one thing we know, it's that we're doing it wrong.",
+      "summary": "Architecture and Background\n\nBlack Ops Dan Kaminsky Chief Scientist, DKH If there's one thing we know, it's that we're doing it wrong.\n\nVulnerability Analysis\n\nSacred cows make the best hamburgers, so in this year's talk I'm going to play with some techniques that are obviously wrong and evil and naive.\n\nExploitation and Demonstrations\n\nThere will also be a lot of very interesting code, spanning the range from high speed network stacks to random number engines to a much deeper analysis of non-neutral networks.\n\nRemediation and Defensive Strategies\n\nFinally, we will revisit DNSSEC, both in code, and in what it can mean to change the battleground in your favor. Dan Kaminsky: I play with toys Twitter: @dakami",
+      "durationSeconds": 3898
+    },
+    {
+      "youtubeId": "QCuRVV4LWYg",
+      "slug": "black-ops-of-tcp-ip-2004-2",
+      "title": "Black Ops of TCP/IP 2004",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "wireless",
+      "topics": [
+        "wireless-security",
+        "wifi",
+        "rf-signals",
+        "protocol-analysis"
+      ],
+      "teaser": "Dan Kaminsky explores black ops of tcp/ip 2004 at DEF CON 12, examining wireless-security and practical defenses.",
+      "summary": "Architecture and Background\n\nDan Kaminsky, Black Ops of TCP/IP 2004 Continuing the research done in previous years on advanced protocol manipulation and the high speed evaluation of large network characteristics, this year's Black Ops of TCP/IP goes into new territory with a deep analysis of the Domain Name System. A core element of the TCP/IP application suite, it is everywhere and there is unexpected power contained within. * Interesting Facets of the Global DNS Architecture: A high speed scanner for DNS servers, modeled after my TCP scanner 'scanrand\", recently executed several Internet-scale sweeps of the net. Surprising results, with direct implications for computer forensics operations, will be discussed and analyzed. * Distributed, High Speed, Large File Dissemination via DNS, A.K.A.\n\nVulnerability Analysis\n\n\"Reinventing the Square Wheel.\" Although there have been previous attempts to serve files over the DNS architecture, none have been even remotely usable. I will discuss a new approach that, through its significant performance improvement, is indeed remotely usable. * One-To-Many Streaming Data Dissemination over DNS: The previous system maximizes speed at the expense of making streaming impossible. We will discuss an interesting alternate approach that almost usefully distributes streaming audio data to endpoints via their DNS queries. * SSH over DNS: I will demonstrate a cross-platform, userspace mechanism for moving SSH data over DNS queries.\n\nExploitation and Demonstrations\n\nThis has implications for captive wireless portals, which often allow bidirectional DNS traffic. * To complete this work, some enormously complex data needed to be understood, and tools were worked with and written towards that end. Experimental 3D information visualization mechanisms and tools are thus available to be demonstrated, extending from using a 3D renderer usually used for MRI medical data as a generic static 3D canvas to using a custom OpenGL particle plotter to dynamically plot multidimensional factors of incoming data streams. A number of other topics will be raised as well, including: * Uses and abuses of remotely visible incrementers and decrementers (such as the IPID field in many TCP/IP stacks, and initial TTL values on arbitrary DNS queries) * Uses of generic packet race conditions, whereby useful information can be gleaned from which packet of a relatively large set effects the state change * Protocol transliteration between TCP and UDP, allowing unreliable communication over what appears to be a TCP session, and allowing reliable data to be transmitted, with zero data expansion, over a UDP link * Potential solutions to the SSH bastion host security problem, whereby the invocation of remote ssh binaries at a firewall or \"bastion host\" opens up a single point of major failure for a server infrastructure. Dan Kaminsky, also known as Effugas, is a Senior Security Consultant for Avaya's Enterprise Security Practice, where he works on large-scale security infrastructure.\n\nRemediation and Defensive Strategies\n\nDan's experience includes two years at Cisco Systems designing security infrastructure for large-scale network monitoring systems, and he is best known for his work on the ultra-fast port scanner scanrand, part of the \"Paketto Keiretsu\", a collection of tools that use new and unusual strategies for manipulating TCP/IP networks. He authored the Spoofing and Tunneling chapters for \"Hack Proofing Your Network: Second Edition\", and has delivered presentations at several major industry conferences, including Linuxworld, DefCon, and past Black Hat Briefings. Dan was responsible for the Dynamic Forwarding patch to OpenSSH, integrating the majority of VPN-style functionality into the widely deployed cryptographic toolkit. Finally, he founded the cross-disciplinary DoxPara Research in 1997, seeking to integrate psychological and technological theory to create more effective systems for non-ideal but very real environments in the field. Dan is based in Silicon Valley.",
+      "durationSeconds": 3360
+    },
+    {
+      "youtubeId": "r79akC2nAI8",
+      "slug": "black-ops-of-tcp-ip-work-nat-work-good-nat-woof-2",
+      "title": "Black Ops of TCP/IP: Work NAT, Work. Good NAT. Woof",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "red-team",
+      "topics": [
+        "nat-traversal",
+        "tcp-ip-exploitation",
+        "packet-crafting",
+        "network-tradecraft"
+      ],
+      "teaser": "Dan Kaminsky - Black Ops of TCP/IP: Work NAT, Work.",
+      "summary": "Architecture and Background\n\nDan Kaminsky - Black Ops of TCP/IP: Work NAT, Work. Woof Communication under TCP/IP networks has become extraordinarily popular; still, there remains significant problems that as of yet have remained unsolved within its layered rules. So, lets break the rules, elegance (and possibly security) be damned.\n\nVulnerability Analysis\n\nSignficant new techniques and code will be unveiled to answer the following questions: A) Instant Portscan # Is it possible to discover instantaneously what network services have been made available, even on massive networks? B) Guerrila Multicast # Is it possible to send a single packet to multiple recipients, using today.s multicast-free Internet?. C) \"NATless NAT\" # Is it possible to share a globally addressable IP address without translating private IP ranges a la NAT?\n\nExploitation and Demonstrations\n\n# Is it possible to allow incoming connections to an IP multiplexed in this manner? D) NAT Deadlock Resolution # Is it possible to establish a TCP connection between two hosts, both behind NATs? Various interesting uses of these new packet-level primitives should be discussed, and OpenSSH will trotted out as the method of bringing some degree of security unto the resulting chaos.\n\nRemediation and Defensive Strategies\n\nDan Kaminsky, also known as Effugas, worked for two years at Cisco Systems designing security infrastructure for large-scale network monitoring systems. He recently wrote the Spoofing and Tunneling chapters for \"Hack Proofing Your Network: Second Edition\", and has delivered presentations at several major industry conferences, including Linuxworld, DefCon, and past Black Hat Briefings. Dan was responsible for the Dynamic Forwarding patch to OpenSSH, integrating the majority of VPN-style functionality into the widely deployed cryptographic toolkit. Finally, he is the founder of the cross-disciplinary DoxPara Research in 1997, seeking to integrate psychological and technological theory to create more effective systems for non-ideal but very real environments in the field. He is based in Silicon Valley, presently studying Operation and Management of Information Systems at Santa Clara University.",
+      "durationSeconds": 3717
+    },
+    {
+      "youtubeId": "HqtQI-uF8Ks",
+      "slug": "stack-black-ops-new-concepts-for-network-manipulation-2",
+      "title": "Stack Black Ops: New Concepts for Network Manipulation",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "red-team",
+      "topics": [
+        "tcp-ip-exploitation",
+        "network-manipulation",
+        "packet-crafting",
+        "advanced-tradecraft"
+      ],
+      "teaser": "Dan Kaminsky - Stack Black Ops: New Concepts for Network Manipulation Stack Black Ops: New Concepts for Network Manipulation What can your network do.",
+      "summary": "Architecture and Background\n\nDan Kaminsky - Stack Black Ops: New Concepts for Network Manipulation Stack Black Ops: New Concepts for Network Manipulation What can your network do? You might be surprised. Layer by layer, this talk will examine previously undocumented and unrealized potential within modern data networks.\n\nVulnerability Analysis\n\nWe will discuss aspects of the newest versions of scanrand, a very high speed port scanner, and the rest of the Paketto Keiretsu. Interesting new techniques will also discussed, including: * Bandwidth Brokering - a technique that allows market-based load balancing across administrative boundries using existing TCP protocols * DHCP-less Bootstrapping - a sub-optimal but effective strategy for bootstrapping network access for hosts that cannot directly acquire a DHCP lease * State Reconstruction - a design model that allows stateless network scanners (such as scanrand) to acquire deep knowledge about scanned hosts * Multihomed Node Detection - a simple set of techniques that expose firewalled hosts with alternate paths to an unfirewalled network link. * Generic ActiveX Encapsulation - a step-by-step methodology for safely launching arbitrary win32 tools (such as putty or a Cygwin OpenSSH environment) from a web page We will also be discussing significant advances in data visualization, made necessary by the sometimes daunting amount of raw information these sorts of tools can expose one to.\n\nExploitation and Demonstrations\n\nDan Kaminsky, also known as Effugas, is a Senior Security Consultant for Avaya's Enterprise Security Practice, where he works on large-scale security infrastructure. Dan's experience includes two years at Cisco Systems designing security infrastructure for large-scale network monitoring systems, and he is best known for his work on the ultra-fast port scanner scanrand, part of the \"Paketto Keiretsu\", a collection of tools that use new and unusual strategies for manipulating TCP/IP networks. He authored the Spoofing and Tunneling chapters for \"Hack Proofing Your Network: Second Edition\", and has delivered presentations at several major industry conferences, including Linuxworld, DefCon, and past Black Hat Briefings.\n\nRemediation and Defensive Strategies\n\nDan was responsible for the Dynamic Forwarding patch to OpenSSH, integrating the majority of VPN-style functionality into the widely deployed cryptographic toolkit. Finally, he founded the cross-disciplinary DoxPara Research in 1997, seeking to integrate psychological and technological theory to create more effective systems for non-ideal but very real environments in the field. Dan is based in Silicon Valley.",
+      "durationSeconds": 3126
+    },
+    {
+      "youtubeId": "oqI83i9HRLI",
+      "slug": "hello-my-name-is-hostname-2",
+      "title": "Hello My Name Is Hostname",
+      "speakers": [
+        "Endgrain",
+        "Dan Kaminsky",
+        "and Tiffany Rad"
+      ],
+      "track": "hardware",
+      "topics": [
+        "electronic-locks",
+        "physical-security",
+        "access-control",
+        "lockpicking"
+      ],
+      "teaser": "Endgrain and Dan Kaminsky explores hello my name is hostname at DEF CON 17, examining electronic-locks and practical defenses.",
+      "summary": "Architecture and Background\n\nHello, My Name is /hostname/ Endgrain Student of computer science at the University of Southern Maine Tiffany Rad Part-time Professor, Computer Science Department, University of Southern Maine Dan Kaminsky Director of Pen Testing, IOActive It is widely known that MAC addresses are spoofable, however many access control models rely on them to uniquely identify devices. When host names are set to be user's real names and are broadcast to the Internet and accessible with reverse DNS lookups, everybody on the Internet, with no work, knows exactly who you are. You can't do medical research without saying JANE PHILLIPS IS CURIOUS ABOUT PREGNANCY and you can't study the effects of marijuana without TOM STEVENS IS READING UP ON SMOKING OUT. We will discuss the technical, legal, and ethical implications of transparency of identity online versus the war on combating piracy and how it pressures IT departments to design and maintain systems with these fallacies.\n\nVulnerability Analysis\n\nEndgrain is a Computer Science student from the University of Southern Maine. He has been involved in information security for almost 10 years. Some of his areas of interest include reverse engineering of software, web application pen-testing, and access control design. Tiffany Strauchs Rad, MA, MBA, JD, is the President of ELCnetworks, LLC., a technology, law, and business development consulting firm.\n\nExploitation and Demonstrations\n\nShe is a part-time Adjunct Professor in the computer science department at the University of Southern Maine teaching computer law and ethics, information security, and is working to establish a computer crimes clinic at Maine School of Law. Tiffany is also the co-founder of the OpenOtto car hacking project, organizer of HackME (hacker space in Portland, Maine), and has presented at Hackers on Planet Earth (HOPE) and Pumpcon. Dan Kaminsky has been operating professionally in the security space since 1999. He is best known for his \"Black Ops\" series of talks at the well-respected Black Hat Briefings conferences.\n\nRemediation and Defensive Strategies\n\nDan is one of few individuals in the world to combine technical expertise with executive-level consulting skills and prowess. Dan focuses on design-level fault analysis, particularly against massive-scale network applications. Dan regularly collects detailed data on the health of the worldwide Internet, and recently used this data to detect the proliferation of a major rootkit. For copies of the slides and additional materials please see the DEF CON 17 Archive here:",
+      "durationSeconds": 2223
+    },
+    {
+      "youtubeId": "ZA_mgxRtCjE",
+      "slug": "black-ops-2006-2",
+      "title": "Black Ops 2006",
+      "speakers": [
+        "Dan kaminsky"
+      ],
+      "track": "policy",
+      "topics": [
+        "eff",
+        "digital-rights",
+        "civil-liberties",
+        "policy"
+      ],
+      "teaser": "Dan kaminsky details dan kaminsky: Black Ops 2006 Abstract: The known topics for this year include: 1.",
+      "summary": "Architecture and Background\n\nDan kaminsky: Black Ops 2006 Abstract: The known topics for this year include: 1. The Worldwide SSL Analysis?There's a major flaw in the way many, many SSL devices operate.\n\nVulnerability Analysis\n\nI'll discuss how widespread this flaw is, as well as announce results from this worldwide SSL scan. 2.\n\nExploitation and Demonstrations\n\nSyntax Highlighting...on Hexdumps. Reverse Engineering efforts often require looking at hex dumps?without much context for whats being looked at.\n\nRemediation and Defensive Strategies\n\nI will discuss a \"bridge\" position between AI and manual operation in which compression code is used to automatically visualize patterns in analyzed data. 3. Everything else Bio: Dan Kaminsky, Dox Para Research. Formerly of Cisco and Avaya.",
+      "durationSeconds": 2509
+    },
+    {
+      "youtubeId": "UELmxJdV_N4",
+      "slug": "black-ops-2007-2",
+      "title": "Black Ops 2007",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "policy",
+      "topics": [
+        "cyber-policy",
+        "legal-frameworks",
+        "privacy-rights",
+        "compliance"
+      ],
+      "teaser": "Dan Kaminsky details dan Kaminsky: Black Ops 2007: Design Reviewing The Web Design bugs are really difficult to fix -- nobody ever takes a dependency on a buffer overflow, after all.",
+      "summary": "Architecture and Background\n\nDan Kaminsky: Black Ops 2007: Design Reviewing The Web Design bugs are really difficult to fix -- nobody ever takes a dependency on a buffer overflow, after all. Few things have had their design stretched as far as the web; as such, I've been starting to take a look at some interesting aspects of the \"Web 2.0\" craze. Here's a few things I've been looking at: Slirpie: VPN'ing into Protected Networks With Nothing But A Lured Web Browser. Part of the design of the web is that browsers are able to collect and render resources across security boundaries. This has a number of issues, but they've historically been mitigated with what's known as the Same Origin Policy, which attempts to restrict scripting and other forms of enhanced access to sites with the same name.\n\nVulnerability Analysis\n\nBut scripts are not acquired from names; they come from addresses. As RSnake of ha.ckers.org and Dan Boneh of Stanford University have pointed out, so-called \"DNS Rebinding\" attacks can break the link between the names that are trusted, and the addresses that are connected to, allowing an attacker to proxy connectivity from a client. I will demonstrate an extension of RSnake and Boneh's work, that grants full IP connectivity, by design, to any attacker who can lure a web browser to render his page. I will also discuss how the existence of attacks such as Slirpie creates special requirements for anyone intending to design or deploy Web Single Sign On technologies. Slirpie falls to some of them, but slices through the rest handily.\n\nExploitation and Demonstrations\n\np0wf: Passing Fingerprinting of Web Content Frameworks. Traditional OS fingerprinting has looked to identify the OS Kernel that one is communicating with, based on the idea that if one can identify the kernel, one can target daemons that tend to be associated with it. But the web has become almost an entirely separate OS layer of its own, and especially with AJAX and Web 2.0, new forms of RPC and marshalling are showing up faster than anyone can identify. p0wf intends to analyze these streams and determine just which frameworks are being exposed on what sites. LudiVu: A number of web sites have resorted to mechanisms known as CAPTCHAs, which are intended to separate humans from automated submission scripts.\n\nRemediation and Defensive Strategies\n\nFor accessibility reasons, these CAPTCHAs need to be both visual and auditory. They are usually combined with a significant amount of noise, so as to make OCR and speech recognition impossible. I was in the process of porting last year's dotplot similarity analysis code to audio streams for non-security related purposes, when Zane Lackey of iSec Partners proposed using this to analyze CAPTCHAs. It turns out that, indeed, Audio CAPTCHAs exhibit significant self-similarity that visualizes well in dotplot form. This will probably be the first Black Hat talk to use WinAMP as an attack tool. A number of other projects are also being worked on -- I've been sending billions of packets for a reason, after all, and they haven't been coming from WinAMP :) There will be some updates on the analysis tools discussed during Black Ops 2006 as well. \" Dan Kaminsky, Dox Para Research. Formerly of Cisco and Avaya.",
+      "durationSeconds": 3319
+    },
+    {
+      "youtubeId": "f3cyCg7itOI",
+      "slug": "bugs-arent-random-unifying-building-and-breaking-in-the-modern-age-2",
+      "title": "Bugs Aren't Random: Unifying Building & Breaking in the Modern Age",
+      "speakers": [
+        "Dan Kaminsky"
+      ],
+      "track": "appsec",
+      "topics": [
+        "vulnerability-research",
+        "software-engineering",
+        "secure-development",
+        "fuzzing"
+      ],
+      "teaser": "Dan Kaminsky examines why software engineering fails to deliver the predictability of physical engineering disciplines and proposes unifying builders and breakers.",
+      "summary": "Architecture and Background\n\nSoftware engineering consistently fails to achieve the structural predictability and mechanical resilience found in traditional engineering disciplines. Decades of vulnerability research demonstrate that developers and attackers repeatedly discover and exploit identical flaw classes. This recurring dynamic suggests that bugs are not anomalous or random events, but rather the predictable output of tools and engineering abstractions that isolate creators from runtime consequences.\n\nVulnerability Analysis\n\nThe fundamental boundary separating developers from testers, forward engineers from reverse engineers, and humans from automated tooling fosters systematic weaknesses. Current systems reward rapid feature delivery while obscuring failure domains, allowing subtle state inconsistencies and memory bugs to survive undetected until adversaries probe them.\n\nExploitation and Demonstrations\n\nKaminsky analyzes how traditional fuzzing and testing paradigms uncover vulnerabilities without solving the structural patterns enabling them. Drawing upon real-world case studies and operational proof-of-concept implementations, the presentation challenges conventional assumptions regarding the separation of construction and exploitation.\n\nRemediation and Defensive Strategies\n\nDefenders and architects must adopt architectures where building and breaking are unified continuously. By integrating automated vulnerability discovery into development workflows and rethinking hardware and software contracts, engineering organizations can eliminate entire vulnerability classes at root.",
+      "durationSeconds": 3643
+    },
+    {
+      "youtubeId": "aw0X7TimkXQ",
+      "slug": "simon-roses-osint-tactics-on-source-code-and-developers-2",
+      "title": "OSINT Tactics on Source Code and Developers",
+      "speakers": [
+        "Simon Roses"
+      ],
+      "track": "red-team",
+      "topics": [
+        "reconnaissance",
+        "osint",
+        "source-code-analysis",
+        "developer-intelligence",
+        "github-reconnaissance"
+      ],
+      "teaser": "OSINT techniques for tracking developers, analyzing public source code, and identifying sensitive information exposed in repositories.",
+      "summary": null,
+      "durationSeconds": 2582
+    }
+  ]
+}
