@@ -1,0 +1,402 @@
+{
+  "villageSlug": "community",
+  "villageName": "Community",
+  "eventSlug": "defcon-34",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLUKFdhkmtGBg",
+  "description": "DEF CON 34 community presentations.",
+  "talks": [
+    {
+      "youtubeId": "ISvdz0EBixY",
+      "slug": "defcon-34-is-coming--hackers-on-high-alert--take-control-thi",
+      "title": "DEFCON 34 is coming. Hackers on high alert. TAKE CONTROL THIS YEAR.",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 117
+    },
+    {
+      "youtubeId": "xwlwM79iqLA",
+      "slug": "let-s-just-say-i-m-pumped-for-defcon-34",
+      "title": "Let\u2019s just say I\u2019m pumped for DEFCON 34",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 11
+    },
+    {
+      "youtubeId": "jqn0bEAsRjA",
+      "slug": "iot-village-at-def-con-34",
+      "title": "IoT Village at DEF CON 34",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 70
+    },
+    {
+      "youtubeId": "KAf6Y_jS9uo",
+      "slug": "defcon34-5n4ck3y-badge--defcon--shorts--badge---defcon34--ha",
+      "title": "Defcon34 5n4ck3y Badge #defcon #shorts #badge  #defcon34 #hacking #midwestgadgets",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 19
+    },
+    {
+      "youtubeId": "dIFDnY6zhz4",
+      "slug": "hackers-gonna-hack--defcon",
+      "title": "HACKERS GONNA HACK #defcon",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 18
+    },
+    {
+      "youtubeId": "Oz6n6xYNmfs",
+      "slug": "eff-update---cindy-cohn",
+      "title": "EFF Update - Cindy Cohn",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 33
+    },
+    {
+      "youtubeId": "1RrXin4gtoo",
+      "slug": "-lights-in-dark-rooms--premiere--at-movie-night-friday-8pm-i",
+      "title": "'Lights in Dark Rooms' premiere  at Movie Night Friday 8pm in W222",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 35
+    },
+    {
+      "youtubeId": "1plmJlWSKa0",
+      "slug": "def-coin-34-badge---bunnie-huang",
+      "title": "DEF COIN 34 Badge - Bunnie Huang",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 516
+    },
+    {
+      "youtubeId": "YEkvj70zFx8",
+      "slug": "dc-nextgen-community---bia",
+      "title": "DC Nextgen Community - Bia",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 31
+    },
+    {
+      "youtubeId": "DPmlH6lCaAg",
+      "slug": "maritime-hacking-village",
+      "title": "Maritime Hacking Village",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 48
+    },
+    {
+      "youtubeId": "MNtlIEaljOo",
+      "slug": "video-team--bug-bounty-village",
+      "title": "Video Team -Bug Bounty Village",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 15
+    },
+    {
+      "youtubeId": "dscfpKM0V60",
+      "slug": "goon-questions--guzi-media",
+      "title": "Goon Questions -Guzi Media",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 57
+    },
+    {
+      "youtubeId": "HWmkoxGeR2c",
+      "slug": "no-starch-press",
+      "title": "No Starch Press",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 27
+    },
+    {
+      "youtubeId": "Egzf_aWSxZc",
+      "slug": "ai-village---pokemon",
+      "title": "AI Village - Pokemon",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 810
+    },
+    {
+      "youtubeId": "bAeM22SDQLk",
+      "slug": "hak5---darren-kitchen",
+      "title": "Hak5 - Darren Kitchen",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 65
+    },
+    {
+      "youtubeId": "uF8c7Ty-5zA",
+      "slug": "car-hacking-village---charger-hacking",
+      "title": "Car Hacking Village - Charger Hacking",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 502
+    },
+    {
+      "youtubeId": "AJCWsoozg0Q",
+      "slug": "-cliff-stoll--afterhours",
+      "title": " Cliff Stoll  AfterHours",
+      "speakers": [
+        "VideoTeam"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 625
+    },
+    {
+      "youtubeId": "toi0keDnOsc",
+      "slug": "voting-machine-hacking-village",
+      "title": "Voting Machine Hacking Village",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 768
+    },
+    {
+      "youtubeId": "ciQdzBhR1xI",
+      "slug": "car-hacking-villlage",
+      "title": "Car Hacking Villlage",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 439
+    },
+    {
+      "youtubeId": "fqs--Ha7gfw",
+      "slug": "embeddedsystems-village",
+      "title": "EmbeddedSystems Village",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 546
+    },
+    {
+      "youtubeId": "OqswVKiCN4w",
+      "slug": "leech",
+      "title": "LEECH",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 846
+    },
+    {
+      "youtubeId": "uAZi-dCehuI",
+      "slug": "phreakme",
+      "title": "PhreakMe",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 512
+    },
+    {
+      "youtubeId": "M0-cxePSifs",
+      "slug": "physical-security-village",
+      "title": "Physical Security Village",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 323
+    },
+    {
+      "youtubeId": "f02wH61gk8M",
+      "slug": "ham-radio-village----marvin-goes-ham",
+      "title": "Ham Radio Village  - Marvin Goes HAM",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 268
+    },
+    {
+      "youtubeId": "-uDOV46yzcI",
+      "slug": "hackers-dot-town---the-gibson",
+      "title": "Hackers dot Town - The Gibson",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 126
+    },
+    {
+      "youtubeId": "86TLtYkpyKI",
+      "slug": "scavenger-hunt-slot-machine",
+      "title": "Scavenger Hunt Slot Machine",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 199
+    },
+    {
+      "youtubeId": "KKSRwtMGYQU",
+      "slug": "i-am-the-cavalry---josh-and-dean",
+      "title": "I Am the Cavalry - Josh and Dean",
+      "speakers": [
+        "Video Team"
+      ],
+      "track": "community",
+      "topics": [
+        "cybersecurity"
+      ],
+      "teaser": "DEF CON 34 community presentation.",
+      "summary": null,
+      "durationSeconds": 260
+    }
+  ]
+}
