@@ -318,7 +318,7 @@
       "slug": "got-99-problems-but-prompt-injection-aint-watermelon",
       "title": "Got 99 Problems but Prompt Injection Ain't Watermelon",
       "speakers": [
-        "Chloé Messdaghi",
+        "Chlo\u00e9 Messdaghi",
         "Kasimir Schulz"
       ],
       "track": "policy",
@@ -427,6 +427,25 @@
       "teaser": "Reconnaissance and vulnerability discovery across enterprise banking software used by major financial institutions worldwide.",
       "summary": "Targeting Widely Deployed Banking Software\n\nSecurity research initiated during a financial sector bug bounty engagement uncovered third-party corporate banking software deployed across dozens of major banks worldwide.\n\nReconnaissance and Attack Surface Mapping\n\nAnalyzing client marketing materials, client-side application bundles, and undocumented API endpoints revealed extensive hidden attack surfaces and administrative interfaces.\n\nExploitation and Vulnerability Discovery\n\nDetailed findings demonstrate how SQL injection vulnerabilities and access control bypasses within the platform allowed unauthorized extraction of sensitive financial data and privilege escalation.",
       "durationSeconds": 1272
+    },
+    {
+      "youtubeId": "3Cdh73vvEik",
+      "slug": "engineers-exploits-the-quest-for-security",
+      "title": "Engineers & Exploits: The Quest for Security",
+      "speakers": [
+        "Spyros Gasteratos",
+        "Andra Lezza"
+      ],
+      "track": "appsec",
+      "topics": [
+        "threat-modeling",
+        "secure-development",
+        "owasp",
+        "appsec"
+      ],
+      "teaser": "Spyros Gasteratos and Andra Lezza explore strategies for integrating security into the product development lifecycle through threat modeling, OWASP Cornucopia, and collaborative developer workflows.",
+      "summary": "Integrating Security into the Product Lifecycle\n\nSecurity is often treated as an afterthought in software engineering, leading to friction between security architects and development teams. Fostering early collaboration and establishing shared mental models helps embed security directly into developer workflows rather than imposing late-stage blockers.\n\nPractical Threat Modeling with OWASP Cornucopia\n\nUtilizing lightweight threat modeling frameworks like OWASP Cornucopia allows engineering teams to identify actionable security user stories. By balancing mitigation workloads with business context, development organizations can achieve measurable security by design without derailing sprint velocity.",
+      "durationSeconds": 806
     }
   ]
 }
