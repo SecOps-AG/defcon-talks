@@ -241,7 +241,7 @@
       "youtubeId": "SCdaYAFx7hw",
       "title": "Integrating Post Quantum Crypto",
       "slug": "christian-paquin",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
@@ -249,7 +249,7 @@
       "youtubeId": "Obz_FHriEnw",
       "title": "JARVIS never saw it coming",
       "slug": "barnhart-magen-and-caltum",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-data-duplication-village.json",
@@ -257,7 +257,7 @@
       "youtubeId": "3J6r59Tl7iI",
       "title": "Beginners Guide to Musical Scales of Cyberwar",
       "slug": "jessica-smith-beginners-guide-to-musical-scales-of-cyberwar",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-dc-groups.json",
@@ -265,7 +265,7 @@
       "youtubeId": "fHRgB6x78d4",
       "title": "Spotlight on DC2744 Garden Route South Africa",
       "slug": "spotlight-on-dc2744-garden-route-south-africa",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-ethics-village.json",
@@ -273,7 +273,7 @@
       "youtubeId": "DWr6ou_7514",
       "title": "Ethics of Technology in Humanitarian and Disaster Response",
       "slug": "ethics-of-technology-in-humanitarian-and-disaster-response",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-ethics-village.json",
@@ -281,7 +281,7 @@
       "youtubeId": "GcgIfYLCrDQ",
       "title": "Hack Back: Not An Option But A Necessity",
       "slug": "david-scott-lewis-hack-back-not-an-option-but-a-necessity",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-hardware-hacking-village.json",
@@ -289,7 +289,7 @@
       "youtubeId": "5GSxa_VgOvk",
       "title": "Building Drones the Hard Way",
       "slug": "david-melendez-cano-building-drones-the-hard-way",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-ics-village.json",
@@ -297,7 +297,7 @@
       "youtubeId": "w6Ng8OEnI3g",
       "title": "How We Cost Our Client 1 point 2M with 4 lines of code",
       "slug": "ica-village-mike-godfrey-how-we-cost-our-client-1-point-2m-with",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-ics-village.json",
@@ -305,7 +305,7 @@
       "youtubeId": "2ds0yDzuLhs",
       "title": "Analyzing VPNFilters Modbus Module",
       "slug": "ica-village-desantis-and-pacho",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-iot-village.json",
@@ -313,7 +313,7 @@
       "youtubeId": "zzgmWlCfCRU",
       "title": "The Sound of a Targeted Attack  Attacking IoT Speakers",
       "slug": "stephen-hilt-the-sound-of-a-targeted-attack-attacking-iot-speake",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-iot-village.json",
