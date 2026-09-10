@@ -57,7 +57,7 @@
         "network-security"
       ],
       "teaser": "Discusses techniques and telemetry strategies for detecting attacker lateral movement across applications and environments.",
-      "summary": null,
+      "summary": "Security engineer Phillip Marlow outlines an architectural strategy for detecting adversarial lateral movement within zero-touch production environments in the AppSec Village [00:18]. Marlow advocates for abstracting direct administrative access away from production servers, eliminating manual interactive SSH logins in favor of fully automated deployment pipelines [07:52].\n\nThe presentation examines lateral movement threat models from an attacker's perspective, analyzing how adversaries pivot between compromised application servers and internal database infrastructure [03:49]. Marlow details a dual-list network segmentation model that inventories immutable server pools against automated orchestration workers, demonstrating how alerting on any unexpected peer-to-peer or inter-server connection provides high-fidelity detection of lateral traversal [11:44, 16:03].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1210
     },
     {
@@ -131,7 +131,7 @@
         "appsec"
       ],
       "teaser": "Explores browser sandbox architecture and demonstrates localghost techniques for escaping client-side sandboxes.",
-      "summary": null,
+      "summary": "Application security researcher Parsia Hakimian presents \"localghost\" in the AppSec Village, exploring how malicious websites can escape browser security sandboxes to exploit local web and WebSocket servers running on client machines [00:14, 07:33].\n\nHakimian analyzes desktop software—including Electron applications, developer tools, and system agents—that bind background HTTP or WebSocket servers to localhost to support user interfaces [21:50]. Because the browser Same-Origin Policy (SOP) does not restrict WebSocket handshakes, he demonstrates how an untrusted public website visited in a browser can establish unauthorized WebSocket connections to local ports, allowing remote attackers to achieve remote code execution [14:48]. The session reviews mitigation techniques, emphasizing the strict validation of browser Origin headers and the enforcement of explicit authentication tokens on all local listening services [29:18, 36:40].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2218
     },
     {
@@ -203,7 +203,7 @@
         "appsec"
       ],
       "teaser": "Evaluates modern two-factor authentication protocols, phishing resistance, and future directions for identity verification.",
-      "summary": null,
+      "summary": "Security engineer Kelley Robinson evaluates the evolving landscape of multi-factor authentication (MFA) in the AppSec Village, addressing the persistent security vulnerabilities of SMS-based two-factor authentication [00:14, 05:35]. Robinson outlines why SMS remains highly vulnerable to SIM-swapping, SS7 telecom interception, and credential phishing, despite its widespread commercial use.\n\nThe presentation compares alternative authentication factors, analyzing the user experience trade-offs of time-based one-time password (TOTP) authenticator apps and proprietary mobile push notifications [10:44]. Robinson explores emerging attack vectors such as MFA push fatigue, where attackers repeatedly trigger notification prompts to coerce accidental user approvals [10:48]. The talk concludes with strategies for driving user adoption of phishing-resistant hardware security keys based on FIDO2 and WebAuthn standards [15:46, 21:02].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1583
     },
     {
@@ -277,7 +277,7 @@
         "appsec"
       ],
       "teaser": "Breaks down the OWASP API Security Top 10 vulnerabilities with real-world examples and remediation advice.",
-      "summary": null,
+      "summary": "David Sopas and Paulo Silva, core contributors to the OWASP API Security Project, lead a guided tour through the OWASP API Security Top 10 in the AppSec Village [00:30, 00:37]. The speakers examine the paradigm shift toward decoupled single-page applications and mobile frontends that interact with distributed REST and GraphQL backends [06:38].\n\nThe presentation demonstrates real-world vulnerability scenarios, highlighting Broken Object Level Authorization (BOLA/IDOR) where cross-referencing identifiers across GraphQL queries and REST endpoints permits unauthorized data access [13:33, 13:46]. Sopas and Silva examine resource exhaustion and lack of rate limiting leading to user enumeration [20:44], mass assignment flaws, and improper asset management that leaves unpatched legacy API endpoints exposed to attackers [28:21].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2174
     },
     {

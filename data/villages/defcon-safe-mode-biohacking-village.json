@@ -175,7 +175,7 @@
         "blue-team"
       ],
       "teaser": "Explores pragmatic strategies for securing medical technologies, improving device forensics, and remediating clinical vulnerabilities.",
-      "summary": null,
+      "summary": "Forensics and cybersecurity researcher Veronica Schmitt examines the critical vulnerabilities and operational complexities of modern healthcare technology in the Biohacking Village [00:00, 05:17].\n\nSchmitt examines the systemic hurdles in medical technology security, analyzing proprietary vendor lock-in that restricts hospital biomedical teams from independently servicing or patching vulnerable clinical hardware [10:33]. She contrasts the stringent operational requirements of hospital clinical environments with traditional enterprise IT [16:04], investigating insider threat dynamics, black-market sales of electronic health records [21:53], and regulatory oversight by the FDA, while proposing collaborative strategies for clinical cybersecurity resilience.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1655
     },
     {
@@ -239,7 +239,11 @@
       "youtubeId": "4a2Kmq74z5A",
       "slug": "diabetes-panel",
       "title": "Diabetes Panel",
-      "speakers": [],
+      "speakers": [
+        "Dina Truxius",
+        "Julian Suleder",
+        "Michael Shannon"
+      ],
       "track": "community",
       "topics": [
         "diabetes",
@@ -249,7 +253,7 @@
         "community"
       ],
       "teaser": "Explores patient-led innovation, closed-loop artificial pancreas systems, and cybersecurity challenges in diabetes management.",
-      "summary": null,
+      "summary": "Dina Truxius of the German Federal Office for Information Security (BSI), Julian Suleder of ERNW Research, and Michael Shannon of Harbor Labs convene for an expert panel on insulin pump cybersecurity and DIY diabetes ecosystems in the Biohacking Village [00:00, 00:11].\n\nThe panelists explore the rise of patient-led DIY artificial pancreas systems (#WeAreNotWaiting), analyzing how open-source algorithms interface with commercial continuous glucose monitors (CGMs) and infusion pumps to automate insulin delivery [01:14]. They establish a formal threat model covering mobile control apps, smartphone operating systems, and Bluetooth Low Energy (BLE) communication channels [09:24, 18:02]. The discussion highlights mutual authentication weaknesses and spoofing risks in wireless pump protocols [26:20], balancing the clinical necessity of patient-driven innovation against the vital imperative of medical device safety and coordinated vulnerability disclosure [35:07].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2651
     },
     {
@@ -325,7 +329,7 @@
         "hardware"
       ],
       "teaser": "Presents an open-source hardware and software telemetry platform designed to monitor emergency hospital ventilators remotely.",
-      "summary": null,
+      "summary": "Sam Cervantes and Dave present the Open Ventilator Remote Monitoring Project in the Biohacking Village, an open-source engineering initiative developed to enable remote monitoring of hospital mechanical ventilators during the COVID-19 pandemic [00:00, 00:04].\n\nThe speakers describe how remote telemetry protected clinical staff and conserved personal protective equipment (PPE) by allowing intensive care personnel to monitor vital ventilator parameters from outside isolated patient rooms [05:44]. They discuss the technical hurdles of interfacing telemetry software with diverse open-source hardware designs—including MIT and Arduino-based ventilator controllers [11:51]—while detailing code reviews, automated data sanitization routines, and encryption protocols implemented to ensure clinical reliability and protect patient privacy [18:22, 25:01].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1884
     },
     {
