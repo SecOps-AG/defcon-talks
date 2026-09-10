@@ -96,7 +96,7 @@
         "network-hardening"
       ],
       "teaser": "WiFi access point security—development best practices for SOHO routers and wireless infrastructure.",
-      "summary": null,
+      "summary": "In this technical hardware and firmware session at the DEF CON 27 Wireless Village, Nishant Sharma explores the engineering process behind building weaponized rogue access points using embedded Linux kernel rootkits. He opens at 08:00 by examining the strategic advantage of kernel-level rootkits over conventional user-space attack tools, noting that rootkits can manipulate network traffic and system visibility directly at the operating system core.\n\nAt 16:00, Nishant introduces his hardware platform of choice—the budget GL.iNet AR750 portable travel router—and walks through setting up the cross-compilation toolchain for MIPS architectures running OpenWrt. At 24:00, he details compiling custom loadable kernel modules (LKMs), illustrating how to hook kernel function pointers and system call tables to intercept packets before firewall processing.\n\nNishant shows how these hooks stealthily conceal backdoors, illicit network sockets, and user-space binaries at 32:00, rendering them invisible to standard administrative diagnostic commands like ps and netstat. He demonstrates deploying browser-based terminal interfaces using ttyd at 40:00 to provide out-of-band management access over rogue Wi-Fi associations. He concludes at 48:00 by sharing reference source code and presentation resources through the Wireless Village repository. (AI summary — Gemini Flash)",
       "durationSeconds": 2912
     },
     {
@@ -171,7 +171,7 @@
         "penetration-testing"
       ],
       "teaser": "Care and feeding of Software Defined Radios We will cover the various kinds of antennas available to optimized your SDR radio for different types of spectrum monitoring. We will also explain why RF filters are necessa...",
-      "summary": null,
+      "summary": "In this masterclass at the DEF CON 27 Wireless Village, veteran radio frequency engineer Kent Britain (WA5VJB) shares decades of practical wisdom on antenna design, selection, and field fabrication for wireless surveillance and signals intelligence. He begins at 04:00 by discussing receiver dynamic range, showing how inserting a small 1 to 2 dB attenuator in front of a sensitive Software-Defined Radio (SDR) front-end often restores linearity and prevents signal distortion from nearby transmitters.\n\nKent examines directional antenna architectures at 08:00, contrasting Log-Periodic Dipole Arrays (LPDAs) with parabolic dish feed antennas for directional tracking. At 12:00, he reviews sector antennas commonly deployed in commercial cellular infrastructure, explaining how vertical collinear stacking achieves broad azimuth coverage with sharp elevation control. At 16:00, he explores logarithmic spiral antennas, demonstrating how spiral geometry can achieve extraordinary ultra-wideband operating ratios of up to 40:1.\n\nChallenging common misconceptions regarding horn antenna physics at 20:00, Kent explains the cut-off frequency behavior of waveguide structures. He demonstrates his workshop test bench at 24:00, featuring audio-modulated RF signal generators and field strength meters, and finishes at 28:00 by showcasing an array of low-cost printed circuit board antennas optimized for hacker surveillance operations. (AI summary — Gemini Flash)",
       "durationSeconds": 1690
     },
     {
@@ -245,7 +245,7 @@
         "penetration-testing"
       ],
       "teaser": "802.11ax (Wi-Fi 6). Discussion of Antenna and Modulation techniques used with Wi-Fi and new radio features used with Wi-Fi 6",
-      "summary": null,
+      "summary": "In this comprehensive technical presentation at the DEF CON 27 Wireless Village, wireless engineering specialist Eric Johnson delivers a deep dive into the IEEE 802.11ax standard, commercially known as Wi-Fi 6. He opens at 12:00 by tracing the historical evolution of Wi-Fi standards from 802.11b and 802.11a/g through 802.11n and 802.11ac, comparing changes in channel bandwidth, spatial streaming, and modulation schemes like 256-QAM and 1024-QAM.\n\nEric explains the foundational breakthrough of Wi-Fi 6 at 24:00: Orthogonal Frequency-Division Multiple Access (OFDMA), which subdivides channels into discrete Resource Units (RUs). He contrasts older single-user contention models with multi-user spectrum allocation at 36:00, explaining how OFDMA eliminates airtime latency in congested environments by allowing dozens of devices to transmit simultaneously on fractional subcarriers.\n\nAt 48:00, Eric explores the mechanics of Uplink and Downlink Multi-User MIMO (MU-MIMO), highlighting how coordinated beamforming achieves simultaneous multi-client transmissions. He demystifies spatial multiplexing at 01:00:00, detailing how access points transmit distinct data symbols across multiple physical antennas. He concludes at 01:12:00 with a detailed analysis of antenna configurations, emphasizing that real-world wireless throughput is fundamentally governed by access point spatial stream density. (AI summary — Gemini Flash)",
       "durationSeconds": 4577
     },
     {
