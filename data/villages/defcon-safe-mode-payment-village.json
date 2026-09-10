@@ -74,7 +74,7 @@
         "authentication"
       ],
       "teaser": "Examines application layer security, transaction signing vulnerabilities, and authentication weaknesses in online banking platforms.",
-      "summary": null,
+      "summary": "Arkadiy Litvinenko, Lead Penetration Tester at BI.ZONE, explores security risks inherent in modern digital banking platforms, analyzing vulnerabilities across web and mobile banking architectures. He outlines how intense commercial competition forces financial institutions to rapidly deploy digital features, frequently introducing logic flaws, API security weaknesses, and authentication oversights.\n\nLitvinenko details remote banking architecture and API communication models at 03:00, followed by frontend and client-side testing methodologies at 10:00. He walks through real-world attack scenarios, including currency exchange rounding attacks at 20:00 where fractional cent truncation enables illicit profit. At 30:00, he analyzes flawed OTP (One-Time Password) rate limiting that allows brute-force transaction approvals, insecure pseudorandom number generators in financial workflows at 40:00, and mobile client flaws where biometric and PIN authentication fail to properly protect KeyStore/KeyChain tokens at 48:00.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3118
     },
     {
