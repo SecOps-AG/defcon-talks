@@ -1201,7 +1201,7 @@
       "youtubeId": "yn9DmRMo_so",
       "title": "Project Obsidian: Incident Response OODA Loop - An Hour in an Incident Responder's Life",
       "slug": "project-obsidian-ir-ooda-an-hour-in-incident-responder-life",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-blue-team-village.json",
@@ -1209,7 +1209,7 @@
       "youtubeId": "lrcAl_WD0HY",
       "title": "Hunting Malicious Office Macros: VBA Deobfuscation & Detection",
       "slug": "anton-ovrutsky",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-blue-team-village.json",
@@ -1217,7 +1217,7 @@
       "youtubeId": "t2h-Mz27iSI",
       "title": "Project Obsidian: Kill Chain Endpoint Forensics Walkthrough",
       "slug": "project-obsidian-kill-chain-3-endpoint-forensics-walkthrough",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-blue-team-village.json",
@@ -1225,7 +1225,7 @@
       "youtubeId": "YN0dbIzWQNM",
       "title": "Project Obsidian: Cyber Threat Hunting - When the Logs Are Gone",
       "slug": "project-obsidian-cth-the-logs-are-gone",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-dcgvr-village.json",
@@ -1233,7 +1233,7 @@
       "youtubeId": "bzhQIQ9lSy0",
       "title": "DCGVR Village Keynote",
       "slug": "dcgvr-talks-jayson-street",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-dcgvr-village.json",
@@ -1241,7 +1241,7 @@
       "youtubeId": "LloLFZtMyEA",
       "title": "Advanced Packet Wrangling with tcpdump",
       "slug": "dc30-dcgvr-talks-advanced-packet-wrangling-with-tcpdump",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-dcgvr-village.json",
@@ -1249,7 +1249,7 @@
       "youtubeId": "qWJKL5xk6kU",
       "title": "Careful Who You Colab With: Security Risks in Google Colab & Shared Notebooks",
       "slug": "dc30-dcgvr-talks-careful-who-you-colab-with",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-dcgvr-village.json",
@@ -1257,7 +1257,7 @@
       "youtubeId": "euOGB3GR7oo",
       "title": "Glitter Nail Polish vs. The Evil Maid: Low-Cost Tamper Evident Verification",
       "slug": "dc30-dcgvr-talks-glitter-nail-polish-vs-the-evil-maid",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-ics-village.json",
@@ -1265,7 +1265,7 @@
       "youtubeId": "douawM9UqHc",
       "title": "ICS Village - SEAtf Setup",
       "slug": "ics-village-seatf-setup",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-live-ctf.json",
@@ -1273,7 +1273,7 @@
       "youtubeId": "G5R912yhHGs",
       "title": "LiveCTF: Day 3 Finals",
       "slug": "livectf-3",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-30-main-stage.json",
