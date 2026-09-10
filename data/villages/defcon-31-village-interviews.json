@@ -190,7 +190,7 @@
         "firmware"
       ],
       "teaser": "Silk visits the IoT Village at DEF CON 31 to discuss embedded security research, router firmware analysis, and hands-on hardware hacking labs.",
-      "summary": null,
+      "summary": "Silk interviews organizers and researchers in the IoT Village at DEF CON 31, exploring the \"Hacking Your Kitchen\" exhibit sponsored by GE Appliances.\n\n[02:03] Researchers examine the hardware attack surface of connected smart home appliances, demonstrating reverse engineering of Wi-Fi-enabled coffee makers, refrigerators, and ovens. The interview covers hardware teardowns, firmware extraction, SPI flash sniffing, vulnerability hunting in embedded real-time operating systems (RTOS), and safety risks associated with heating elements and automated kitchen machinery.\n\n[06:16] The discussion highlights modern defensive engineering for embedded devices. The speaker advocates for the adoption of memory-safe programming languages like Rust in smart appliance firmware, illustrating how modern memory management eliminates critical buffer overflow and memory corruption vulnerabilities in consumer IoT hardware.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 496
     },
     {
@@ -264,7 +264,7 @@
         "rf-shielding"
       ],
       "teaser": "Silk meets with creatively paranoid participants and organizers at the DEF CON 31 Tin Foil Hat Contest showcasing custom aluminum headwear designs.",
-      "summary": null,
+      "summary": "Silk speaks with judges and contestants at the DEF CON 31 Tin Foil Hat Contest, exploring the craftsmanship and culture of one of DEF CON's longest-running traditions.\n\n[00:04] Contestants discuss their creative inspirations—drawing from Burning Man art, science fiction tropes, and humorous hacker paranoia—to transform ordinary aluminum foil into intricate, wearable headpieces. The interview covers the competition's scoring criteria, which evaluate structural integrity, aesthetic elegance, and theoretical shielding capabilities against cosmic rays and surveillance.\n\n[03:28] The judges review standout designs from past and present conventions, highlighting everything from minimalist foil crowns to elaborate full-face alien predator helmets. They celebrate the contest's welcoming atmosphere, where both novice makers and seasoned engineers gather to showcase creative expression and lighthearted community spirit.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 271
     },
     {
@@ -334,7 +334,7 @@
         "hardware"
       ],
       "teaser": "CauseEffect talks with organizers and researchers in the Car Hacking Village at DEF CON 31, examining automotive protocols and ECU test benches.",
-      "summary": null,
+      "summary": "Cause Effect tours the bustling DEF CON 31 Car Hacking Village, capturing the chaotic energy as attendees hack vehicle networks in real time.\n\n[01:38] The host observes live demonstrations across vehicle test benches, where attendees inject arbitrary Controller Area Network (CAN) frames to interact with automotive subsystems. Researchers showcase \"party mode\" [03:00], demonstrating how flooded or spoofed CAN messages cause headlights to flash, horns to honk, and motorized trunks to cycle open and closed.\n\n[04:35] The interview explores common software vulnerabilities in modern automotive infotainment units and electronic control units (ECUs). The researcher shares real-world case studies from Japanese automobile manufacturers where improper string handling—such as an unescaped percent sign in media metadata—causes buffer crashes and system reboots, highlighting the importance of robust input validation in automotive software stacks.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 363
     },
     {
@@ -406,7 +406,7 @@
         "llm"
       ],
       "teaser": "Chris visits the DEF CON 31 AI Village to discuss large language model red teaming, generative AI security, and algorithmic vulnerabilities.",
-      "summary": null,
+      "summary": "Chris interviews an organizer at the DEF CON 31 AI Village, highlighting the massive Generative Red Team Challenge (GRT) organized in collaboration with the White House and leading artificial intelligence research labs.\n\n[00:57] The organizer explains the scope of the historic public red teaming event, where thousands of hackers were granted access to state-of-the-art commercial large language models (LLMs) to identify flaws, algorithmic bias, prompt injections, and safety jailbreaks.\n\n[01:38] The interview details other interactive exhibits in the AI Village, including hardware demonstrations running image classification models on custom FPGA accelerators with FermiLab engineers, diffusion model manipulation using ControlNet, and hands-on preparation stations hosted by the Defense Digital Service (DDS).\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 180
     },
     {

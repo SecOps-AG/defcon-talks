@@ -681,7 +681,7 @@
         "methodology"
       ],
       "teaser": "Frameworks and threat modeling methodologies adapted to identify and mitigate risks introduced by machine learning and AI systems.",
-      "summary": null,
+      "summary": "Renowned security expert and author Adam Shostack takes the DEF CON 32 Main Stage to explore how threat modeling practices must adapt to the rise of artificial intelligence, large language models (LLMs), and automated reasoning systems.\n\n[04:57] Shostack reviews the foundational methodology of threat modeling, reminding the audience that threat modeling is an early-stage engineering exercise designed to answer four essential questions before code is deployed: What are we building? What can go wrong? What are we going to do about it? Did we do a good job?\n\n[10:08] The presentation examines the unique failure modes and attack surfaces introduced by AI systems, including prompt injection, data poisoning, model extraction, hallucination exploitation, and supply chain corruption in training pipelines. Shostack critiques the temptation to rely blindly on generative AI for security decision-making [20:58], warning against automation bias where engineers stop scrutinizing AI-generated threat models. He advocates for integrating structured AI threat modeling frameworks (like STRIDE for AI and MITRE ATLAS) into standard software development lifecycles.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1585
     },
     {
@@ -1569,7 +1569,7 @@
         "community"
       ],
       "teaser": "Live hacker game show hosted at DEF CON 32 featuring community contestants and humorous security trivia.",
-      "summary": null,
+      "summary": "The DEF CON 32 Main Stage hosts \"Feet Feud,\" an irreverent, fast-paced game show parody of Family Feud tailored specifically for the hacker community.\n\n[06:50] Two teams of prominent hackers, security researchers, and community personalities compete to guess top survey responses to humorous and bizarre cybersecurity culture questions.\n\n[22:23] Contestants banter with the host and audience, guessing popular hacker party traditions, infosec stereotypes, ridiculous password choices, and memorable DEF CON moments [31:16], delivering lighthearted entertainment that celebrates convention lore and hacker community culture.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2380
     },
     {
