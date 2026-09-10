@@ -176,7 +176,9 @@
       "youtubeId": "-agEI9QFdTc",
       "slug": "opening-remarks",
       "title": "Opening Remarks",
-      "speakers": [],
+      "speakers": [
+        "Pete Cooper"
+      ],
       "track": "community",
       "topics": [
         "aerospace",
@@ -185,7 +187,7 @@
         "defcon"
       ],
       "teaser": "Welcomes attendees to the DEF CON Safe Mode Aerospace Village and outlines the event schedule, challenges, and tracks.",
-      "summary": null,
+      "summary": "Aerospace Village Director Pete Cooper delivers the opening remarks for the DEF CON Safe Mode Aerospace Village, welcoming global attendees and charting the ongoing expansion of the aviation and aerospace cybersecurity discipline [00:05, 00:11].\n\nCooper explores the accelerating digitization of flight and space infrastructure, explaining how modern avionics, satellite constellations, and ground control systems increasingly intersect with internet-connected networks and commercial supply chains [07:11, 07:17]. He details ongoing collaborations between researchers, the Department of Commerce, and aerospace manufacturers to build safe emulation testbeds where independent security researchers can responsibly analyze avionics systems without compromising operational air safety [14:29, 21:35]. The address outlines the virtual schedule, research tracks, and interactive challenges, highlighting inclusivity and cross-sector cooperation in strengthening global aviation resilience [28:56, 36:18].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2191
     },
     {
