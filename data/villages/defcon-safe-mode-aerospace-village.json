@@ -114,7 +114,7 @@
         "wireless"
       ],
       "teaser": "Explores the application of software-defined radios for analyzing and testing RF communications across aerospace cyber environments.",
-      "summary": null,
+      "summary": "In this accessible presentation from the DEF CON Safe Mode Aerospace Village, the speaker introduces attendees to the fundamentals of Software Defined Radios (SDRs) and their applications in aerospace cybersecurity. Opening at 00:06, the presenter outlines how affordable radio hardware has democratized RF exploration for researchers and hobbyists.\n\nAt 01:00, the talk covers essential radio frequency concepts, including carrier frequencies, bandwidth allocation, and signal modulation. At 02:02, the speaker demonstrates setting up an entry-level RTL-SDR dongle paired with a dedicated 1090 MHz antenna to intercept Automatic Dependent Surveillance-Broadcast (ADS-B) signals emitted by commercial aircraft.\n\nAt 03:01 and 04:12, the demonstration highlights tuning into live frequencies using software packages like GQRX and dump1090. The presenter shows how to read spectral waterfall displays and decode live transponder telemetry, providing a practical foundation for analyzing aerospace radio communications. (AI summary — Gemini Flash)",
       "durationSeconds": 1427
     },
     {

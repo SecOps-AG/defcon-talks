@@ -156,7 +156,7 @@
         "policy"
       ],
       "teaser": "Examines ethical review standards and institutional review boards adapted for independent biohackers and community labs.",
-      "summary": null,
+      "summary": "In this governance session from the DEF CON Safe Mode Biohacking Village, Sarah Blossom Ware, founder of the BioBlaze community wet lab in Chicago, addresses the necessity of Institutional Review Boards (IRBs) for independent scientific research. Opening at 00:00, Sarah outlines the growing community of citizen scientists operating outside traditional academia.\n\nAt 03:02, she defines the modern biohacker demographic, highlighting researchers pursuing independent biological experimentation in community labs and independent spaces. At 06:02, the talk examines the ethical mandate of IRBs in evaluating research protocols, protecting human subjects, and ensuring informed consent.\n\nConcluding at 09:02 and 12:00, Sarah presents a framework for decentralized, community-driven IRBs, explaining how peer ethical review builds public trust, qualifies biohackers for institutional funding, and facilitates collaboration with established public health authorities. (AI summary — Gemini Flash)",
       "durationSeconds": 853
     },
     {
@@ -232,7 +232,7 @@
         "community"
       ],
       "teaser": "Convenes health system leaders and security professionals to discuss advancing cybersecurity across medical device ecosystems.",
-      "summary": null,
+      "summary": "In this healthcare cybersecurity briefing from the DEF CON Safe Mode Biohacking Village, Mitch Parker, Information Security Officer at IU Health, discusses strategies for advancing medical device security through industry-wide collaboration. Opening at 00:00, Mitch explores the unique clinical and technological challenges of safeguarding patient-connected devices.\n\nAt 13:01, the presentation examines budget and operational constraints in healthcare delivery organizations, emphasizing cost-effective security solutions that protect clinical networks without disrupting patient care. At 26:00, Mitch highlights cross-sector advocacy initiatives, detailing how the Health Sector Coordinating Council (HSCC) and H-ISAC engaged major operating system vendors to secure extended security patches for legacy clinical equipment.\n\nConcluding at 39:00, Mitch evaluates network micro-segmentation architectures and urges continuous collaboration between clinical engineers, device manufacturers, and security researchers to protect healthcare infrastructure. (AI summary — Gemini Flash)",
       "durationSeconds": 3061
     },
     {
@@ -306,7 +306,7 @@
         "healthcare"
       ],
       "teaser": "Analyzes systemic risks posed by software and hardware homogeneity across hospital medical device fleets.",
-      "summary": null,
+      "summary": "In this reflective presentation from the DEF CON Safe Mode Biohacking Village, the speaker analyzes cognitive homogeneity as an underestimated vulnerability in cybersecurity threat modeling. Opening at 00:00, the talk connects broader societal discussions on diversity directly to operational security efficacy.\n\nAt 03:01, the presenter examines structural barriers that prevent non-traditional talent from entering cybersecurity, advocating for accessible mentorship and hiring pathways. At 06:02, the speaker details the core thesis: when security teams share identical backgrounds and thinking patterns, they create collective blind spots that adversaries actively exploit.\n\nConcluding at 09:01, the presentation argues that securing the future of connected healthcare, biological data, and complex cyber-physical systems demands diverse, multidisciplinary perspectives to challenge assumptions and identify hidden attack vectors. (AI summary — Gemini Flash)",
       "durationSeconds": 688
     },
     {
@@ -353,7 +353,7 @@
       "slug": "making-next-generation-drugs-at-home",
       "title": "Making Next Generation Drugs at Home",
       "speakers": [
-        "Mix\u00e6l Laufer"
+        "Mixæl Laufer"
       ],
       "track": "community",
       "topics": [
@@ -383,7 +383,7 @@
         "threat-intel"
       ],
       "teaser": "Applies cybersecurity threat modeling to health misinformation, medical disinformation campaigns, and patient vulnerability.",
-      "summary": null,
+      "summary": "In this public health security presentation from the DEF CON Safe Mode Biohacking Village, researcher Andrea delivers an analysis of threat models targeting patient communities across social networks. Opening at 00:00, Andrea introduces the concept of an \"infodemic\"—the rapid, uncontrolled spread of misinformation during health crises.\n\nAt 04:02, the talk explores how organized disinformation campaigns exploit social platform algorithms to amplify unverified medical treatments and promote medical fraud. At 08:01, Andrea presents sobering real-world case studies demonstrating how online medical misinformation has resulted in tragic patient harm and preventable deaths.\n\nConcluding at 12:00 and 16:01, the speaker emphasizes the lack of safe digital spaces for vulnerable patients to discuss health conditions and outlines defensive threat models to identify, track, and counter adversarial medical disinformation. (AI summary — Gemini Flash)",
       "durationSeconds": 1090
     },
     {

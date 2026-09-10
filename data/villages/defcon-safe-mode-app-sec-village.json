@@ -39,7 +39,7 @@
         "vulnerability-management"
       ],
       "teaser": "Shares strategies for building and scaling an effective enterprise application security program using open-source tools.",
-      "summary": null,
+      "summary": "In the closing presentation of the DEF CON Safe Mode AppSec Village, the speaker provides an operational blueprint for designing and scaling an enterprise Application Security program built entirely on open-source tooling. Opening at 00:14, the presenter emphasizes that high-maturity software security is achievable without seven-figure vendor licenses.\n\nAt 14:00, the session examines test coverage mapping, spotlighting Code Pulse to correlate testing activities across static, dynamic, and interactive security tools. At 28:00 and 42:00, the speaker addresses API security challenges, demonstrating automated testing frameworks and intentionally vulnerable applications like OWASP Pixi to benchmark detection efficacy.\n\nConcluding at 56:02, the presenter urges security engineers to actively engage with open-source communities, contribute code to OWASP initiatives, and build transparent, developer-aligned security practices across the enterprise. (AI summary — Gemini Flash)",
       "durationSeconds": 3428
     },
     {
@@ -84,7 +84,7 @@
       "title": "Android Bug Foraging",
       "speakers": [
         "Pedro Umbelino",
-        "Jo\u00e3o Morais"
+        "João Morais"
       ],
       "track": "appsec",
       "topics": [
@@ -113,7 +113,7 @@
         "devsecops"
       ],
       "teaser": "Translates offensive security techniques into practical tools and workflows that developers can use to secure software.",
-      "summary": null,
+      "summary": "In this pragmatic session from the DEF CON Safe Mode AppSec Village, the speaker explores how offensive security professionals can translate an attacker mindset into developer-centric defensive tooling. Opening at 00:13, the presenter analyzes the cultural friction between penetration testers and software developers.\n\nAt 11:01, the talk highlights the operational disconnect when vulnerability assessment reports fail to provide actionable context for agile engineering teams. At 22:00, the speaker demonstrates how to build lightweight, automated perimeter checks that emulate attacker behavior—such as session hijacking and credential harvesting—directly within developer CI/CD pipelines.\n\nConcluding at 33:00 and 44:00, the presenter advocates for self-service security configurations, showing how providing developers with editable policy files enables engineering teams to tune security rules without slowing deployment velocity. (AI summary — Gemini Flash)",
       "durationSeconds": 2816
     },
     {
@@ -185,7 +185,7 @@
         "appsec"
       ],
       "teaser": "Examines the systemic factors, industry incentives, and decisions that dictate which software and platforms receive security.",
-      "summary": null,
+      "summary": "In this thought-provoking session from the DEF CON Safe Mode AppSec Village, the speaker challenges structural inequities in software security and consumer privacy. Opening at 00:13, the presentation asks who decides which user populations receive robust digital protections and who remains vulnerable.\n\nAt 12:03, the speaker critiques commercial data monetization, analyzing telecommunications pricing models where consumers must pay financial surcharges to opt out of pervasive behavioral tracking. At 24:00 and 36:02, the talk investigates algorithmic risk scoring in mobile operating systems and sharing-economy platforms, showing how automated behavioral profiling disproportionately impacts marginalized groups.\n\nConcluding at 48:00, the speaker delivers a passionate call to action, urging security engineers and privacy advocates to treat digital safety as a fundamental human right rather than a monetization tier. (AI summary — Gemini Flash)",
       "durationSeconds": 2944
     },
     {
@@ -258,7 +258,7 @@
         "appsec"
       ],
       "teaser": "Surveys essential tools and automated practices for embedding security verification into DevOps and Agile pipelines.",
-      "summary": null,
+      "summary": "In this operational tutorial from the DEF CON Safe Mode AppSec Village, the speaker introduces a practical toolkit for embedding robust security practices into agile development sprints. Opening at 00:12, the presenter emphasizes that successful DevSecOps requires adapting security processes to developer cadence.\n\nAt 12:03, the talk outlines effective risk communication, demonstrating how single-page threat summaries and concise slide artifacts can be seamlessly integrated into sprint planning sessions. At 24:01 and 36:00, the speaker shows how automated linters and code checkers can be transformed into interactive learning tools, teaching developers to recognize flaws such as unvalidated input fields during routine code commits.\n\nConcluding at 48:00, the presenter advocates for automating repetitive security gates while investing in positive interpersonal relationships between security champions and development squads. (AI summary — Gemini Flash)",
       "durationSeconds": 3018
     },
     {
@@ -303,7 +303,7 @@
       "slug": "the-elephant-in-the-room-burnout",
       "title": "The Elephant in the Room: Burnout",
       "speakers": [
-        "Chlo\u00e9 Messdaghi"
+        "Chloé Messdaghi"
       ],
       "track": "community",
       "topics": [
