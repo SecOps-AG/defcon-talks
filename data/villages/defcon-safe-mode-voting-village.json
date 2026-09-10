@@ -10,7 +10,7 @@
       "slug": "hacking-democracy-ii-on-securing-an-election",
       "title": "Hacking Democracy II: On Securing an Election",
       "speakers": [
-        "Am\u00e9lie Koran"
+        "Amélie Koran"
       ],
       "track": "policy",
       "topics": [
@@ -29,7 +29,7 @@
       "slug": "see-something-say-something",
       "title": "See Something, Say Something",
       "speakers": [
-        "M\u00e5rten Mickos"
+        "Mårten Mickos"
       ],
       "track": "policy",
       "topics": [
@@ -136,7 +136,7 @@
         "washington-state"
       ],
       "teaser": "Washington Secretary of State Kim Wyman discusses vote-by-mail administration, physical and digital safeguards, and decentralized election security.",
-      "summary": null,
+      "summary": "Washington Secretary of State Kim Wyman and Communications Director Kylee Zabel address the DEF CON Voting Village on the operational administration, physical safeguards, and cybersecurity measures protecting Washington State's universal vote-by-mail election infrastructure [00:02]. With Washington operating entirely by mail for over a decade, Secretary Wyman shares lessons on administering secure, transparent, and accessible statewide elections during a presidential election year compounded by the COVID-19 pandemic [04:49].\n\nWyman outlines the \"three-legged stool\" framework supporting election integrity in Washington: physical security, process security, and digital cybersecurity [14:27]. She details physical chain-of-custody controls, including numbered tamper-evident seals on ballot drop boxes, continuous video monitoring, and bipartisan ballot transport teams [09:40]. Process security involves rigorous signature verification matching ballot return envelopes against voter registration records, paired with public reconciliation audits [09:40].\n\nOn the digital front, Wyman describes the modernization and architectural segmentation of Washington's voter database (VoteWA), explaining how network isolation, multi-factor authentication, and partnership with CISA, the FBI, and the National Guard ensure election system resilience [14:27]. She discusses administrative hurdles, including USPS operational concerns, federal funding needs, and strategies for debunking election misinformation [19:02, 26:23].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1594
     },
     {
@@ -266,7 +266,7 @@
         "vvsg"
       ],
       "teaser": "U.S. Election Assistance Commission Chairman Benjamin Hovland discusses federal election assistance, funding, and election official support.",
-      "summary": null,
+      "summary": "Benjamin Hovland, Chairman of the U.S. Election Assistance Commission (EAC), delivers keynote remarks to the DEF CON Voting Village detailing federal initiatives to secure the 2020 presidential election amid the COVID-19 pandemic [00:00]. Hovland outlines the mission of the bipartisan EAC as the federal clearinghouse for voting system testing, certification standards, and grant administration for state and local election jurisdictions [03:30].\n\nHovland highlights the Rapid Architecture-Based Election Technology Verification (RABBIT) program, an innovative EAC initiative designed to provide agile security testing and verification for non-voting-machine election technology, such as electronic pollbooks, election night reporting (ENR) websites, and electronic ballot delivery systems [06:48]. He notes positive cultural shifts among commercial voting equipment manufacturers, who are increasingly embracing coordinated vulnerability disclosure programs, threat intelligence sharing, and formal bug bounties with security researchers [10:16].\n\nThe presentation emphasizes the critical role of the independent security research community in auditing election systems and identifying technical flaws before adversaries can exploit them [13:35]. Hovland concludes by addressing the severe shortage of poll workers caused by the pandemic, issuing a call for tech-savvy DEF CON attendees to volunteer as election workers to support secure and fair voting operations [16:52].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1015
     },
     {
@@ -413,7 +413,7 @@
         "defcon"
       ],
       "teaser": "Opens the second day of the DEF CON Safe Mode Voting Village with announcements and track overviews.",
-      "summary": null,
+      "summary": "In these opening remarks for Day 2 of the DEF CON 28 Safe Mode Voting Village, organizers welcome the virtual audience back for another full day of presentations, discussions, and technical demonstrations on election security [00:11]. The organizers reflect on the high engagement and diverse discussions from Day 1, emphasizing the urgent importance of securing democratic election infrastructure during an unprecedented presidential election season [00:15].\n\nThe remarks preview the day's upcoming agenda, which features keynote presentations and panel discussions from federal agency leaders, state election directors, cryptographers, and independent security researchers examining voting machine vulnerabilities and vote-by-mail systems [00:21]. Attendees are invited to interact with speakers, submit questions, and participate in village discussions on the official DEF CON Discord server [00:30].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 244
     },
     {
@@ -513,7 +513,7 @@
         "government"
       ],
       "teaser": "Presents opening introductions for federal agency participants joining the panel on election infrastructure defense.",
-      "summary": null,
+      "summary": "This introductory segment introduces the marquee \"Panel with the Feds on Election Security\" in the DEF CON 28 Safe Mode Voting Village, presenting the professional backgrounds of federal officials and cybersecurity leaders convening to discuss the defense of the 2020 U.S. elections [00:11].\n\nThe introduction profiles panel participants: David Bordino (National Security Agency Election Security Lead), Brigadier General William Hartman (Commander, Cyber National Mission Force, U.S. Cyber Command), Matt Masterson (Senior Cybersecurity Advisor, Department of Homeland Security CISA), Cynthia Kaiser (Deputy Chief of Analysis for National Security Cyber Threats, FBI), Maurice Turner (Senior Advisor, U.S. Election Assistance Commission), and panel moderator Bryson Bort (Founder of SCYTHE and GRIMM, and Co-Founder of the ICS Village) [00:25]. The bios underscore the cross-agency collaboration between intelligence, military, law enforcement, and civil election administrators in mitigating foreign threat actor interference in American democratic processes.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 241
     },
     {
@@ -532,7 +532,7 @@
         "elections"
       ],
       "teaser": "Sang Oun Lee presents an evaluation framework assessing the trustworthiness and security of remote voting methods during pandemic conditions, drawing lessons from South Korea.",
-      "summary": "Evaluating Remote Voting Amidst Public Health Crises\n\nGlobal pandemic containment measures forced election administrators worldwide to evaluate alternative remote voting modalities\u2014including vote-by-mail, online voting, and blockchain-based solutions.\n\nAn Objective Framework for Election Security Evaluation\n\nSang Oun Lee introduces an evaluation methodology to assess the trustworthiness, voter anonymity, and auditability of remote balloting procedures under emergency constraints.\n\nCase Study: South Korea's Pandemic General Election\n\nLee analyzes the Republic of Korea's April 2020 national legislative elections, which achieved record voter turnout during an active epidemic through strict biometric and hygienic protocols without compromising ballot integrity.\n\nPolicy Guidance for Election Administrators\n\nThe presentation outlines policy recommendations for local election jurisdictions, balancing public health necessity against the imperative of verifiable voter authentication and chain of custody.",
+      "summary": "Evaluating Remote Voting Amidst Public Health Crises\n\nGlobal pandemic containment measures forced election administrators worldwide to evaluate alternative remote voting modalities—including vote-by-mail, online voting, and blockchain-based solutions.\n\nAn Objective Framework for Election Security Evaluation\n\nSang Oun Lee introduces an evaluation methodology to assess the trustworthiness, voter anonymity, and auditability of remote balloting procedures under emergency constraints.\n\nCase Study: South Korea's Pandemic General Election\n\nLee analyzes the Republic of Korea's April 2020 national legislative elections, which achieved record voter turnout during an active epidemic through strict biometric and hygienic protocols without compromising ballot integrity.\n\nPolicy Guidance for Election Administrators\n\nThe presentation outlines policy recommendations for local election jurisdictions, balancing public health necessity against the imperative of verifiable voter authentication and chain of custody.",
       "durationSeconds": 1102
     },
     {
