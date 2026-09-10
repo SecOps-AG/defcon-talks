@@ -20,7 +20,7 @@
         "hardening"
       ],
       "teaser": "Outlines five practical and high-impact security wins for strengthening industrial control system defenses.",
-      "summary": null,
+      "summary": "In this industrial cybersecurity briefing from the DEF CON Safe Mode ICS Village, principal industrial penetration tester Austin Scott presents five immediate, high-impact strategies for improving Operational Technology (OT) security posture. Opening at 00:02, Austin emphasizes practical security controls that can be implemented without disrupting continuous physical operations.\n\nAt 08:00, he stresses building collaborative relationships between enterprise security teams and plant operators to bridge cultural divides. At 16:01, he examines credential security, showing how client-side tools like SessionGopher extract saved credentials from jump boxes and highlighting the necessity of removing hardcoded administrative passwords.\n\nAt 24:01 and 32:00, Austin details endpoint hardening and passive network monitoring, demonstrating open-source tools like Sofia and NetworkMiner to establish asset inventories, baseline industrial protocol traffic, and detect anomalous communications across OT networks. (AI summary — Gemini Flash)",
       "durationSeconds": 2089
     },
     {
@@ -94,7 +94,7 @@
         "plc"
       ],
       "teaser": "Explores parsing proprietary ICS engineering project files to gain deep forensic visibility into industrial controllers.",
-      "summary": null,
+      "summary": "In this technical reverse engineering session from the DEF CON Safe Mode ICS Village, a security researcher explores the forensic value and security risks of Industrial Control System (ICS) engineering project files. Opening at 00:00, the speaker introduces project files as rich repositories containing full plant architectures, PLC logic, I/O tag databases, and network topologies.\n\nAt 12:00, the presenter demonstrates how threat actors weaponize project files during reconnaissance to identify vulnerable controllers and map critical process tags prior to executing targeted physical disruption.\n\nAt 24:01 and 36:00, the talk dives into proprietary binary file formats, revealing how parser flaws and embedded database vulnerabilities in engineering workstations allow attackers to plant malicious payloads directly within project archives. Concluding at 48:00, the speaker urges defenders to treat ICS project files with the same scrutiny as executable macro files, establishing strict validation and sandboxing procedures before opening them on engineering stations. (AI summary — Gemini Flash)",
       "durationSeconds": 2946
     },
     {

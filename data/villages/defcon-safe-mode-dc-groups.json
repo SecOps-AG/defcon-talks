@@ -100,7 +100,7 @@
         "community"
       ],
       "teaser": "DC619 and DC858 San Diego explore privacy, operating system hardening, and alternatives for securing digital workflows.",
-      "summary": null,
+      "summary": "In this community presentation from the DEF CON Safe Mode DC Groups Village, 800XL from DEF CON Group 858 (San Diego) presents \"Saving Yourself from Microsoft\" and reflects on local hacker community organizing. Opening at 00:01, 800XL recounts attending DEF CON since DEF CON 14 at the Riviera, detailing how DC858 was formed, hosting monthly technical meetups, and curating community presentations.\n\nAt 03:00, the speaker explores the operational logistics of maintaining an active hacker group, discussing member outreach, annual holiday parties, and securing engaging technical speakers.\n\nMoving into the technical segment past 10:00, the presentation examines Windows telemetry, privacy concerns, and software bloat. Concluding past 25:00, the speaker details practical steps for transitioning to Linux distributions, configuring privacy-respecting open-source alternatives, and establishing decentralized computing practices to minimize reliance on proprietary commercial ecosystems. (AI summary — Gemini Flash)",
       "durationSeconds": 2606
     },
     {
@@ -172,7 +172,7 @@
         "community"
       ],
       "teaser": "DC574 South Bend introduces open-source intelligence (OSINT) methodology, tooling, and investigative workflows.",
-      "summary": null,
+      "summary": "In this instructional briefing from the DEF CON Safe Mode DC Groups Village, an organizer from DC574 (South Bend, Indiana) delivers a beginner-friendly overview of Open Source Intelligence (OSINT). Opening at 00:00, the presenter defines the foundational principles of OSINT and the analytical methodology for collecting and verifying publicly available information.\n\nAt 02:20 and 03:02, the speaker demonstrates dossier structuring, showing how investigators organize digital evidence, social media profiles, public records, and relationship graphs for target individuals and corporate entities.\n\nConcluding at 04:31, the talk shares practical search techniques and targeted search operators (Google dorks) to locate exposed CSV files, unindexed web assets, and metadata-rich documents, while encouraging regional hackers to get involved with DC574. (AI summary — Gemini Flash)",
       "durationSeconds": 1102
     }
   ]

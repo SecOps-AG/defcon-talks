@@ -20,7 +20,7 @@
         "pcb"
       ],
       "teaser": "Guides viewers through essential soldering skills and through-hole component assembly using the Badge Buddy kit.",
-      "summary": null,
+      "summary": "In this beginner-friendly workshop from the DEF CON Safe Mode Hardware Hacking Village, Joe from HackerBoxes teaches the fundamentals of through-hole electronics soldering. Opening at 00:00, Joe introduces the \"Badge Buddy\" soldering kit, an interactive printed circuit board featuring flashing LEDs designed to teach soldering skills.\n\nAt 09:00, he explains essential soldering equipment—including temperature-controlled soldering irons, rosin-core solder, flux pens, and isopropyl alcohol cleaning solvents to remove sticky flux residue.\n\nAt 18:01 and 27:00, Joe demonstrates proper iron positioning, pad heating, applying solder to create clean concave fillets, and safely trimming component leads. Concluding at 36:00, he demonstrates desoldering techniques using copper solder wick to fix accidental solder bridges, encouraging newcomers to gain confidence in hardware fabrication. (AI summary — Gemini Flash)",
       "durationSeconds": 2260
     },
     {

@@ -57,7 +57,7 @@
         "governance"
       ],
       "teaser": "FDA Cyber Policy Advisor Jessica Wilkerson examines regulatory frameworks, vulnerability disclosure, and patient safety ethics in medical devices.",
-      "summary": null,
+      "summary": "In this keynote from the DEF CON Safe Mode Ethics Village, Jessica Wilkerson from the U.S. Food and Drug Administration (FDA) examines the ethical, regulatory, and technical dimensions of medical device cybersecurity. Opening at 00:04, Jessica outlines the FDA's regulatory authority over medical devices and discusses inter-agency coordination with HHS and CISA.\n\nAt 04:00 and 08:00, she explores the delicate balance between patient safety and vulnerability research, highlighting coordinated vulnerability disclosure policies and public-private partnerships across the healthcare ecosystem.\n\nConcluding at 12:00 and 16:01, Jessica analyzes the regulatory framework governing medical device recalls and software patching, praising pioneering researchers and device manufacturers who embraced ethical vulnerability disclosure to protect patient well-being. (AI summary — Gemini Flash)",
       "durationSeconds": 1115
     },
     {
