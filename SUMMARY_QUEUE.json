@@ -2321,7 +2321,7 @@
       "youtubeId": "JyEpuQyqtbU",
       "title": "Abusing P2P to Hack 3 Million Cameras (Q&A)",
       "slug": "safe-mode-paul-marrapese-abusing-p2p-to-hack-3-million-cameras-q",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-main-stage.json",
@@ -2329,7 +2329,7 @@
       "youtubeId": "Ns-WujgsCt4",
       "title": "How We Recovered $300,000 in Bitcoin from an Encrypted Zip File (Q&A)",
       "slug": "safe-mode-michael-stay-how-we-recovered-xxx-000-in-bitcoin-from-2",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-main-stage.json",
@@ -2337,7 +2337,7 @@
       "youtubeId": "Y-0oHxzpJ-8",
       "title": "Whispers Among the Stars: Satellite Broadband Security (Q&A)",
       "slug": "safe-mode-james-pavur-whispers-among-the-stars-q-and-a",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-main-stage.json",
@@ -2345,7 +2345,7 @@
       "youtubeId": "ZRKsf2Zw--0",
       "title": "DNSSECTION: A Practical Attack on DNS (Q&A)",
       "slug": "safe-mode-hadrien-barral-remi-geraud-stewart-dnssection-q-and-a",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-monero-village.json",
@@ -2353,7 +2353,7 @@
       "youtubeId": "NSFDlF95GhI",
       "title": "Decentralization in a Centralized World",
       "slug": "decentralization-in-a-centralized-world",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-monero-village.json",
@@ -2361,7 +2361,7 @@
       "youtubeId": "QdPgAl3nBH8",
       "title": "Bitcoin Monero Atomic Swaps",
       "slug": "bitcoin-monero-atomic-swaps",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-monero-village.json",
@@ -2369,7 +2369,7 @@
       "youtubeId": "U5PyZT0VUwU",
       "title": "Monero Wallet Basics",
       "slug": "monero-wallet-basics",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-monero-village.json",
@@ -2377,7 +2377,7 @@
       "youtubeId": "a206226v9zY",
       "title": "Transaction Capacity and Fees",
       "slug": "transaction-capacity-and-fees",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-new-years-eve.json",
@@ -2385,7 +2385,7 @@
       "youtubeId": "XKyqli9qFM8",
       "title": "New Year's Eve Live Set: Miss Jackalope",
       "slug": "new-years-eve-live-set-miss-jackalope",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-password-village.json",
@@ -2393,7 +2393,7 @@
       "youtubeId": "8iDbRb7R4-s",
       "title": "Getting Started with Hashcat (PNI)",
       "slug": "getting-started-with-hashcat-pni",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-password-village.json",
