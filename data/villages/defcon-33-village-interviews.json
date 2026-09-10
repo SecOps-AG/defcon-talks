@@ -384,7 +384,7 @@
         "automated-exploit-generation"
       ],
       "teaser": "Silk interviews members of legendary hacking group Shellphish on competing in DARPA's AI Cyber Challenge and automated vulnerability reasoning.",
-      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": null,
       "durationSeconds": 1957
     },
     {
@@ -458,7 +458,7 @@
         "music"
       ],
       "teaser": "A look at the KevOps community pool party at the Sahara, celebrating hacker camaraderie, music, and after-hours social traditions.",
-      "summary": "This DEF CON talk covers kevops sahara pool party and community gathering.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": null,
       "durationSeconds": 149
     },
     {
@@ -528,7 +528,7 @@
         "community"
       ],
       "teaser": "A celebration of ten years of the Internet of Things Village, reviewing a decade of embedded router research, zero-days, and bug bounties.",
-      "summary": "This presentation focuses on Internet of Things security and embedded systems vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": null,
       "durationSeconds": 146
     },
     {
@@ -592,7 +592,7 @@
         "community"
       ],
       "teaser": "An update on attack workshops, offensive tool releases, and adversary emulation labs happening in the Red Team Village at DEF CON 33.",
-      "summary": "This DEF CON talk covers red team village at def con 33 spotlight.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": null,
       "durationSeconds": 60
     },
     {
