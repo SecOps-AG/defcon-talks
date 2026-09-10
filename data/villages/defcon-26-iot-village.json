@@ -38,7 +38,7 @@
         "device-hacking",
         "wireless"
       ],
-      "teaser": "IoT connected devices are being released at a staggering rate. According to Gartner it\u2019s speculated that by the end of 2018, there will be 11.2 billion IoT devices currently connected at any given time. A large part o...",
+      "teaser": "IoT connected devices are being released at a staggering rate. According to Gartner it’s speculated that by the end of 2018, there will be 11.2 billion IoT devices currently connected at any given time. A large part o...",
       "summary": null,
       "durationSeconds": 1763
     },
@@ -58,7 +58,7 @@
         "device-hacking"
       ],
       "teaser": "The origins of the SOHOpelessly broken research and some of the new research from our new research lab.",
-      "summary": null,
+      "summary": "### The Road to SOHOpelessly Broken: IoT Village Keynote\nAt 00:00, Jacob Holcomb and Wick Ramgattie open the DEF CON 26 IoT Village with a keynote retrospective recounting the evolution of SOHOpelessly Broken, a landmark router hacking contest and consumer device security research initiative.\n\n### Evolution of the IoT Village Platform\nAt 05:00 and 10:01, the speakers chronicle the village's rapid growth from a modest hardware hacking experiment into an internationally recognized hub for embedded systems security. They detail the systematic testing methodology developed by Independent Security Evaluators (ISE) to assess small office and home office (SOHO) network hardware.\n\n### Vendor Collaboration and Live Exploitation\nAt 15:00 and 20:01, the presenters discuss bridging the gap between independent security researchers and commercial hardware manufacturers. By inviting prominent router and storage vendors (including Seagate) directly into the village, organizers created a collaborative environment where vendors could observe zero-day vulnerabilities demonstrated in real time.\n\n### SOHOpelessly Broken 2.0: Persistent Software Flaws\nAt 25:10, Holcomb and Ramgattie analyze recurring architectural flaws uncovered during contest iterations. Despite years of disclosure, commercial SOHO routers and network-attached storage (NAS) devices continue to suffer from elementary programming bugs, including unauthenticated command injection, hardcoded backdoors, and broken authentication handshakes.\n\n### Promoting Mandatory Secure Development Lifecycles\nConcluding the keynote, the authors urge consumer electronics vendors to integrate automated static analysis, comprehensive third-party firmware auditing, and rapid vulnerability patching into their product lifecycles to protect consumers from widespread exploitation.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1645
     },
     {
@@ -75,7 +75,7 @@
         "botnet",
         "wireless"
       ],
-      "teaser": "Nematodes, often called \u201canti-worms\u201d or \u201cbeneficial worms\u201d, are a controversial topic. They involve exploiting the same vulnerabilities used by malicious worms, but, rather than installing malware or being used to for...",
+      "teaser": "Nematodes, often called “anti-worms” or “beneficial worms”, are a controversial topic. They involve exploiting the same vulnerabilities used by malicious worms, but, rather than installing malware or being used to for...",
       "summary": null,
       "durationSeconds": 2249
     },
@@ -112,7 +112,7 @@
         "vulnerability-research",
         "device-hacking"
       ],
-      "teaser": "In this talk, reverse engineer and security expert John Dunlap will present security hazards concerning the ever expanding use of Field Programmable Gate Array systems. FPGA\u2019s are reconfigurable computers that allow p...",
+      "teaser": "In this talk, reverse engineer and security expert John Dunlap will present security hazards concerning the ever expanding use of Field Programmable Gate Array systems. FPGA’s are reconfigurable computers that allow p...",
       "summary": null,
       "durationSeconds": 1754
     },
