@@ -79,7 +79,7 @@
         "usability"
       ],
       "teaser": "Zcoin launched with the Zerocoin protocol, which was riddled with critical security issues. Reuben will talk through the team’s response to these and its development and research journey.",
-      "summary": null,
+      "summary": "Cryptography and Privacy Technologies\n\nThis presentation examines cryptographic systems, encryption protocols, and privacy-preserving technologies. Topics include cipher analysis, protocol vulnerabilities, authentication mechanisms, key management, and the intersection of cryptography with real-world security applications.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1681
     },
     {
@@ -150,7 +150,7 @@
         "usability"
       ],
       "teaser": "A New York apartment building and a Moroccan rural village share the same internet challenges - inefficient methods of distribution across the last mile. Our idea is to address this inefficiency to provide greater int...",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1958
     },
     {
