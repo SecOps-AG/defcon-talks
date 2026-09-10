@@ -149,7 +149,7 @@
         "security-research"
       ],
       "teaser": "Use Responsibly Recon Like an insider threat for Best User",
-      "summary": null,
+      "summary": "Kayla Kinyon and Ali present an innovative approach to employee security awareness by adopting an insider threat reconnaissance methodology to profile organizational vulnerabilities and optimize training programs. They outline how security teams can examine their own internal user base to pinpoint high-risk behaviors and departments before adversaries do.\n\n[03:32] The speakers explain methods for segmenting users based on risk, identifying \"habitual clickers\" who repeatedly fail basic phishing tests, and tracking departments with heightened exposure or privileged access, such as finance, human resources, and executive teams. Rather than relying on punitive measures, they advocate conducting empathetic, one-on-one listening sessions [10:57] to understand the friction and operational bottlenecks in daily workflows that compel employees to circumvent security controls.\n\n[13:56] The talk details a revamped awareness model centered on high frequency, brevity, and operational realism. Instead of mandatory annual training videos, the team implemented brief, tailored micro-trainings delivered immediately following simulated attacks. Using realistic lures—including spoofed internal domains, HR announcements, and department-specific themes [16:55]—alongside a streamlined, one-click reporting button [19:53], they demonstrate how internal reconnaissance and rapid feedback achieved significant, measurable reductions in organizational phishing vulnerability.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1300
     },
     {
@@ -224,7 +224,7 @@
         "security-research"
       ],
       "teaser": "Asset Discovery Making Sense of the Ocean of OSINT",
-      "summary": null,
+      "summary": "Richard Gold addresses the complexities of external attack surface management (EASM) and open-source intelligence (OSINT), focusing on how organizations and penetration testers can make sense of vast, noisy datasets to discover exposed assets without causing operational disruptions.\n\n[04:26] Gold highlights the critical challenge of defining and bounding scope during asset discovery. He cautions against casting an overly broad net, illustrating how overlapping corporate acronyms, subsidiaries, and third-party SaaS vendors can flood investigators with false positives. He emphasizes front-loading the discovery process by precisely verifying parent-child corporate relationships, brand names, and ASN registrations.\n\n[18:32] The talk outlines automated telemetry collection methods, demonstrating how to harvest Certificate Transparency (CT) logs, scrape Subject Alternative Names (SANs) from SSL certificates via large-scale scanning (ZMap/Masscan), and analyze DNS records (SPF, MX, TXT) to uncover forgotten subdomains and shadow IT infrastructure. Gold introduces \"Orca,\" an open-source tool designed to streamline asset collection and provenance tracking. He shows how Orca integrates with CVE-Search [30:55] to map discovered software versions against known vulnerabilities, allowing analysts to filter and export high-priority findings [36:57] into actionable operational spreadsheets.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2345
     },
     {
@@ -298,7 +298,7 @@
         "security-research"
       ],
       "teaser": "Using Cloud Services for Dial In Reconnaissance Automation",
-      "summary": null,
+      "summary": "Alina Dorina demonstrates how modern cloud services can be automated to perform scalable reconnaissance and intelligence gathering against corporate dial-in teleconferences and virtual meeting bridges.\n\n[03:00] Dorina discusses the operational security risks associated with enterprise teleconference systems, noting that many corporate all-hands meetings, status briefings, and training sessions rely on static or predictable bridge IDs and PIN numbers with no individual caller verification. This lack of authentication allows unauthorized parties to dial in silently and listen to proprietary discussions.\n\n[08:27] The presentation details the architecture of an automated serverless reconnaissance pipeline deployed on AWS. The solution integrates AWS Cognito for user authentication, Amazon Connect to programmatically initiate outbound telephony calls to conference bridges, and AWS Lambda to orchestrate the dial-in sequences and transfer audio recordings into Amazon S3 buckets. Once recorded, the audio is processed using Amazon Transcribe [13:29] to automatically generate searchable text transcripts. Dorina demonstrates how this automated pipeline extracts sensitive corporate discussions [18:33] and concludes with remediation guidance [19:47], emphasizing dynamic meeting passwords, host validation, and continuous caller auditing.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1318
     },
     {

@@ -73,7 +73,7 @@
         "real-world-cases"
       ],
       "teaser": "Practical OSINT techniques applicable to security careers and daily life—real investigation walkthroughs and personal case studies.",
-      "summary": null,
+      "summary": "Ryan MacDougall, an experienced social engineer and OSINT practitioner, illustrates how open-source intelligence methodologies can be applied beyond traditional information security engagements to address practical problems and enhance personal safety in daily life.\n\n[05:40] MacDougall presents real-world investigative case studies, demonstrating how public records and online telemetry can be used to vet home improvement contractors [11:18], assess Craigslist transactions, investigate neighborhood safety and zoning history when purchasing real estate, and verify prospective dates or roommates.\n\n[16:52] The talk walks through practical research workflows, showing how to cross-reference municipal property records, tax assessor databases, court registries, and social media footprints to corroborate background stories and uncover concealed liabilities. MacDougall discusses passive reconnaissance techniques [23:13], operational security (OPSEC) for personal researchers, and the importance of adhering to strict ethical and legal boundaries to ensure OSINT investigations do not cross into harassment or invasion of privacy.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1761
     },
     {
@@ -148,7 +148,7 @@
         "behavioral-change"
       ],
       "teaser": "Neurodivergent perspectives on social engineering—how autism and different thinking styles bring unique strengths to security defense.",
-      "summary": null,
+      "summary": "Perry Carpenter delivers an insightful and introspective presentation exploring the intersection of neurodiversity and human hacking in \"The Aspies Guide to Social Engineering,\" examining how an autistic cognitive profile can be applied to master social engineering.\n\n[06:36] Sharing his personal diagnosis on the autism spectrum (Asperger's syndrome), Carpenter explains how the unique traits of autistic thinking—such as hyper-systematization, intense pattern recognition, and an analytical view of social rules—allow practitioners to view human interactions through a structured, programmatic lens.\n\n[12:57] Because intuitive social rapport does not occur naturally for individuals on the spectrum, Carpenter describes the process of building explicit cognitive algorithms to decode human behavior. He explains how analyzing conversational scripts, body language, pacing, and simulated empathy [19:02] can lead to profound insights into human decision heuristics. The talk concludes by connecting these behavioral mechanisms to enterprise security [25:24], showing how an understanding of cognitive dissonance, cognitive load, and human biases can inform the design of more empathetic and effective security awareness initiatives.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1910
     },
     {
@@ -222,7 +222,7 @@
         "security-culture"
       ],
       "teaser": "Retrospective on 10 years of Social Engineering Village—evolution from underground gatherings to mainstream security awareness.",
-      "summary": null,
+      "summary": "Chris Hadnagy commemorates the tenth anniversary of the Social Engineering Village (SE Village), looking back at its origins, high-profile controversies, community growth, and its lasting impact on information security culture.\n\n[10:14] Hadnagy recounts the village's launch at DEF CON 18 in 2010, recalling the initial skepticism and intense mainstream media storm sparked by the live, soundproof vishing booth competitions. He reflects on how demonstrations of phone-based elicitation exposed severe vulnerabilities in corporate defense models, sharing memorable moments including an impromptu visit by NSA Director General Keith Alexander [12:43].\n\n[25:39] The presentation highlights the maturation of the Social Engineering Capture the Flag (SECTF) competition, the creation of educational initiatives like SECTF for Kids, and the careers launched within the village. Hadnagy underscores the guiding philosophy of the SE Village—to \"leave people better than you found them\" [37:47]—emphasizing that ethical social engineering must prioritize education, empathy, and positive reinforcement over mockery. He concludes by analyzing modern social engineering trends, automated phishing, and the continuous need for human-centric defense training.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3098
     },
     {
@@ -298,7 +298,7 @@
         "reconnaissance"
       ],
       "teaser": "OSINT and social engineering via rideshare interactions—gathering intelligence and testing security through Uber and Lyft engagements.",
-      "summary": null,
+      "summary": "Edward Miro discusses the unique intersection of rideshare driving and social engineering, illustrating how working as an Uber or Lyft driver serves as an exceptional training environment for honing elicitation techniques, cold reading, and collecting open-source intelligence (OSINT).\n\n[06:32] Miro explains that the confined, semi-private atmosphere of a vehicle ride naturally lowers passenger inhibitions, creating an ideal setting for developing social engineering skills. He discusses the fundamentals of cold reading, active listening, and matching a passenger's mood and tone [17:01] to establish immediate rapport and trust.\n\n[20:56] The talk highlights significant operational security (OPSEC) vulnerabilities observed during rideshare trips. Miro recounts how business travelers, corporate executives, and technical staff frequently discuss non-public corporate initiatives, merger activities, trade secrets, and internal organizational conflicts on speakerphone or with the driver. He stresses the critical need for employee awareness regarding physical and environmental eavesdropping, concluding with ethical considerations and guidelines for practicing interpersonal elicitation responsibly.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1708
     },
     {
