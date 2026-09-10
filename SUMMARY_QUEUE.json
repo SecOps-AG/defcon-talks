@@ -401,7 +401,7 @@
       "youtubeId": "b9B3Dn40rQ0",
       "title": "Lokesh Pidawekar - An OSINT Approach to 3rd Party Cloud Services",
       "slug": "lokesh-pidawekar-an-osint-approach-to-3rd-party-cloud-services",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-packet-hacking-village.json",
@@ -409,7 +409,7 @@
       "youtubeId": "hHmxZxJ-eEY",
       "title": "Gita Ziabari = How to Tune Automation to Avoid False Positives",
       "slug": "gita-ziabari-how-to-tune-automation-to-avoid-false-positives",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-packet-hacking-village.json",
@@ -417,7 +417,7 @@
       "youtubeId": "f4Is62csQQk",
       "title": "Chris Hanlon - Holes in the Foundation of Modern Security",
       "slug": "chris-hanlon-holes-in-the-foundation-of-modern-security",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-packet-hacking-village.json",
@@ -425,7 +425,7 @@
       "youtubeId": "ZjTmrakUc3o",
       "title": "Alex Stanev - wpa sec The Largest Online WPA Handshake Database",
       "slug": "alex-stanev-wpa-sec-the-largest-online-wpa-handshake-database",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-recon-village.json",
@@ -433,7 +433,7 @@
       "youtubeId": "Eq2jax963xw",
       "title": "Hackathon and CTF Prizes   Video",
       "slug": "team-hackathon-and-ctf-prizes-video",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-social-engineering-village.json",
@@ -441,7 +441,7 @@
       "youtubeId": "vgKAxd_4s0A",
       "title": "On the Hunt Hacking the Hunt Group",
       "slug": "se-village-silvers-and-banks-on-the-hunt-hacking-the-hunt-group",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-social-engineering-village.json",
@@ -449,7 +449,7 @@
       "youtubeId": "F1sbd7hFFy4",
       "title": "Social Engineering From a CISOs Perspective",
       "slug": "se-village-kathleen-mullin-social-engineering-from-a-cisos-persp",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-social-engineering-village.json",
@@ -457,7 +457,7 @@
       "youtubeId": "YJHR2XUGrpg",
       "title": "In-N-Out: That's What It's All About",
       "slug": "se-village-billy-boatright-in-n-out-thats-what-its-all-about",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-voting-village.json",
@@ -465,7 +465,7 @@
       "youtubeId": "9xVnP7dY2vA",
       "title": "Lightning Talk A Crash Course on Election Security",
       "slug": "matthew-bernhard-lightning-talk-a-crash-course-on-election-secur",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-voting-village.json",
@@ -473,7 +473,7 @@
       "youtubeId": "4K0YZcbbzhc",
       "title": "Election Security Threats and Solutions",
       "slug": "j-alex-halderman-election-security-threats-and-solutions",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-wireless-village.json",
