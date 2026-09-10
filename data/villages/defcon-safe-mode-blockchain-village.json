@@ -56,7 +56,7 @@
         "cryptocurrency"
       ],
       "teaser": "Assesses the maturity, security postures, flash loan risks, and protocol vulnerabilities in decentralized finance (DeFi).",
-      "summary": null,
+      "summary": "This DEF CON talk covers is defi ready for prime time?.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3440
     },
     {
@@ -128,7 +128,7 @@
         "p2p"
       ],
       "teaser": "Analyzes attack vectors against blockchain peer-to-peer nodes and RPC endpoints, and details hardening configurations for node operators.",
-      "summary": null,
+      "summary": "This talk discusses blockchain technology, cryptocurrency security, and distributed systems.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:05. 440><c> and</c><00:00:05.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2712
     },
     {
@@ -200,7 +200,7 @@
         "appsec"
       ],
       "teaser": "Keynote presentation by Peter Kacherginsky exploring blockchain security challenges, threats, and emerging decentralized technology.",
-      "summary": null,
+      "summary": "This talk discusses blockchain technology, cryptocurrency security, and distributed systems.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:03. 439><c> and</c><00:00:03.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3225
     }
   ]
