@@ -64,7 +64,7 @@
         "interviews"
       ],
       "teaser": "Explores network monitoring, packet forensics challenges, and Packet Hacking Village operations at DEF CON 30.",
-      "summary": null,
+      "summary": "This DEF CON talk covers packet hacking village interview.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 60
     },
     {
@@ -127,7 +127,7 @@
         "interviews"
       ],
       "teaser": "AppSec Village leaders discuss application defense, secure code development, and API security auditing.",
-      "summary": null,
+      "summary": "This DEF CON talk covers appsec village interview.\n\nKey topics discussed include: Kind: captions Language: en hi<00:00:00. 640><c> it's</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 61
     },
     {
@@ -190,7 +190,7 @@
         "interviews"
       ],
       "teaser": "Interviews with physical security researchers covering covert entry tools, barrier bypasses, and access control evaluations.",
-      "summary": null,
+      "summary": "This DEF CON talk covers physical security village interview.\n\nKey topics discussed include: Kind: captions Language: en foreign [Music] [Music] [Music] [Music] folks<00:00:23. 939><c> you</c><00:00:24.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 375
     },
     {
@@ -254,7 +254,7 @@
         "interviews"
       ],
       "teaser": "Ham Radio Village operators discuss emergency communications, amateur radio licensing, and RF fox hunting.",
-      "summary": null,
+      "summary": "This DEF CON talk covers ham radio village interview (part 2).\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:00. 320><c> i'm</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 363
     },
     {
@@ -319,7 +319,7 @@
         "interviews"
       ],
       "teaser": "A discussion with Cloud Village leaders on multi-cloud security posture, container escapes, and IAM auditing.",
-      "summary": null,
+      "summary": "This presentation discusses cloud infrastructure security and cloud platform vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 235
     },
     {
@@ -385,7 +385,7 @@
         "culture"
       ],
       "teaser": "Highlights collaborative hardware development and penetration testing tools produced by DEF CON and Hak5.",
-      "summary": null,
+      "summary": "This DEF CON talk covers hak5 collaboration showcase.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1771
     },
     {
