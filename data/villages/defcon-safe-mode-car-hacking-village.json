@@ -38,7 +38,7 @@
         "hardware"
       ],
       "teaser": "Explores bit-level manipulation, error frame exploitation, and defensive hardening on Controller Area Networks.",
-      "summary": null,
+      "summary": "In this technical hardware presentation from the DEF CON Safe Mode Car Hacking Village, researcher Brent explores physical-layer defense mechanisms for Controller Area Network (CAN) bus architectures. Opening at 00:01, Brent reviews the inherent vulnerabilities of legacy broadcast CAN protocols, which lack message encryption, source authentication, and replay protection.\n\nAt 05:00, the presentation examines how unauthorized message injection and spoofed arbitration IDs allow attackers to manipulate critical vehicle ECUs. At 10:01, Brent introduces \"bit smashing\"—an active physical defense strategy where monitoring hardware actively injects dominant error bits onto the differential bus whenever rogue or spoofed frames are detected.\n\nAt 15:00 and 20:00, Brent demonstrates how bit smashing forces compromised ECUs into a \"fail-silent\" bus-off state, isolating malicious nodes and neutralizing denial-of-service and spoofing attacks in real time without requiring heavy cryptographic overhead. (AI summary — Gemini Flash)",
       "durationSeconds": 1243
     },
     {

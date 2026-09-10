@@ -67,7 +67,7 @@
       "slug": "o365-squatting",
       "title": "O365 Squatting",
       "speakers": [
-        "Juan Francisco Bol\u00edvar",
+        "Juan Francisco Bolívar",
         "Jose Miguel Marichal"
       ],
       "track": "threat-intel",
@@ -113,7 +113,7 @@
         "community"
       ],
       "teaser": "Introduces the DEF CON Safe Mode Blue Team Village track sessions, OpenSOC CTF, and community workshops.",
-      "summary": null,
+      "summary": "In this opening orientation for DEF CON Safe Mode, organizers of the Blue Team Village welcome the community and introduce the virtual village schedule, workshops, and contests. Opening at 00:20, the hosts discuss adapting hands-on defensive security labs and electronic badge culture to an online conference environment.\n\nAt 04:00, the organizers preview community competitions and swag giveaways, outlining rules for participating in defensive CTF challenges and social media recognition contests.\n\nConcluding at 06:03 and 08:01, the hosts spotlight creative custom hardware badges and wearable electronics built by village members, inviting attendees to connect on Discord and collaborate on defensive labs throughout the weekend. (AI summary — Gemini Flash)",
       "durationSeconds": 518
     },
     {
@@ -360,7 +360,7 @@
         "lolbas"
       ],
       "teaser": "Uncovers popular Not-PowerShell offensive tools and demonstrates how defenders can spot non-PowerShell tradecraft.",
-      "summary": "The Shift Away from PowerShell Tradecraft\n\nEnhanced security visibility in PowerShell version 5\u2014including Script Block Logging, Constrained Language Mode, and AMSI\u2014pushed red teams toward alternative living-off-the-land techniques.\n\nEmergence of Not-PowerShell Tools\n\nAdversaries increasingly adopt compiled C# binaries, direct API invocations, and LOLBAS utilities that bypass standard PowerShell logging and monitoring configurations.\n\nBuilding Resilient Host Detections\n\nDefenders examine practical detection engineering methods using Sysmon, ETW, and process telemetry to expose unauthorized runtime executions, process injection, and unmanaged code execution.",
+      "summary": "The Shift Away from PowerShell Tradecraft\n\nEnhanced security visibility in PowerShell version 5—including Script Block Logging, Constrained Language Mode, and AMSI—pushed red teams toward alternative living-off-the-land techniques.\n\nEmergence of Not-PowerShell Tools\n\nAdversaries increasingly adopt compiled C# binaries, direct API invocations, and LOLBAS utilities that bypass standard PowerShell logging and monitoring configurations.\n\nBuilding Resilient Host Detections\n\nDefenders examine practical detection engineering methods using Sysmon, ETW, and process telemetry to expose unauthorized runtime executions, process injection, and unmanaged code execution.",
       "durationSeconds": 1895
     },
     {

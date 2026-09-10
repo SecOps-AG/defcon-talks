@@ -38,7 +38,7 @@
         "contest"
       ],
       "teaser": "Organizers and commentators recap the key plays, strategy shifts, and team standings from Shift 1 of DEF CON Safe Mode CTF.",
-      "summary": null,
+      "summary": "In this comprehensive recap from DEF CON Safe Mode CTF, tournament organizers and challenge designers reflect on the mechanics and solutions of the premier competitive hacking event. Opening at 00:00, the organizers address community questions and review telemetry from the virtual competition.\n\nAt 16:01, the team highlights a standout challenge featuring a massive 2048x2048 pixel Conway's Game of Life steganographic matrix, explaining how competitors had to simulate state evolutions to decode embedded flags. At 32:02, the challenge authors discuss problem design, sharing how they engineered binary exploitation and reverse engineering tasks to prevent unintended shortcuts while maintaining competitive balance.\n\nMoving past 48:04, the walkthrough details custom x86 assembly challenges, dynamic binary instrumentation frameworks, and the automated evaluation pipelines used to verify competitor exploit scripts in real time. (AI summary — Gemini Flash)",
       "durationSeconds": 3795
     },
     {

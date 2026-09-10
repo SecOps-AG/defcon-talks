@@ -74,7 +74,7 @@
         "community"
       ],
       "teaser": "Ryan Rubin answers audience questions on decentralized finance architecture, systemic risks, and protocol auditing.",
-      "summary": null,
+      "summary": "In this interactive Q&A session from the DEF CON Safe Mode Blockchain Village, researchers and village organizers examine whether Decentralized Finance (DeFi) protocols and automated market makers are mature enough for enterprise financial adoption. Opening at 00:00, the panel explores the rapid influx of capital into decentralized lending pools and algorithmic trading platforms.\n\nAt 02:00, the discussion delves into smart contract composability vulnerabilities and flash loan exploitation, showing how economic dependencies across multiple smart contracts can lead to cascading liquidation failures.\n\nConcluding at 05:00, the speakers address regulatory scrutiny, debating how emerging compliance mandates and centralized oversight interact with the core principles of censorship resistance and decentralized governance. (AI summary — Gemini Flash)",
       "durationSeconds": 363
     },
     {
@@ -146,7 +146,7 @@
         "appsec"
       ],
       "teaser": "A live walkthrough demonstrating vulnerability identification, reverse engineering, and exploitation of flawed crypto wallet applications.",
-      "summary": null,
+      "summary": "In this hands-on exploitation demonstration from the DEF CON Safe Mode Blockchain Village, a security researcher walks through discovering and exploiting client-side vulnerabilities in cryptocurrency web and browser wallets. Opening at 00:04, the speaker introduces common architectural weaknesses in web-based cryptocurrency interfaces.\n\nAt 07:01, the presenter analyzes DOM-based message handling vulnerabilities, demonstrating how improper validation in window postMessage listeners allows malicious origins to inject unauthorized commands. At 14:01, the talk investigates stored cross-site scripting (XSS) bugs, showing that missing HTML output encoding allows attackers to execute arbitrary JavaScript within the wallet's application context.\n\nMoving to exploitation past 21:01 and 28:02, the researcher demonstrates how an attacker can leverage cross-site scripting to silently alter transaction recipients, manipulate approvals, and siphon cryptocurrency tokens directly from victims' wallets without triggering warning prompts. (AI summary — Gemini Flash)",
       "durationSeconds": 1856
     },
     {

@@ -21,7 +21,7 @@
         "authentication"
       ],
       "teaser": "Explores applying TLS-style cryptographic identity and encryption primitives to telephone networks to mitigate spoofing and call interception.",
-      "summary": null,
+      "summary": "In this technical briefing from the DEF CON Safe Mode Crypto & Privacy Village, Twilio developer advocate Kelley Robinson presents \"What If We Had TLS for Phone Numbers?\", exploring caller ID authentication and cryptographic identity in telecommunications. Opening at 00:00, Kelley analyzes the structural origins of robocall fraud, explaining that the legacy Public Switched Telephone Network (PSTN) was designed on implicit trust without origin verification.\n\nAt 08:00, she introduces the STIR (Secure Telephone Identity Revisited) and SHAKEN (Signature-based Handling of Asserted information using toKENs) standards, illustrating how public key cryptography, digital certificates, and SIP header signing bring cryptographic verification to phone calls much like TLS secures web traffic.\n\nAt 16:00, Kelley breaks down the three tiers of SHAKEN attestation (Full, Partial, and Gateway) and discusses the impact of regulatory mandates such as the federal TRACED Act. Concluding past 22:00, she evaluates the operational hurdles of global carrier adoption, legacy circuit-switched interconnects, and the limitations of cryptographic attestation in combating modern caller spoofing. (AI summary — Gemini Flash)",
       "durationSeconds": 1527
     },
     {
@@ -94,7 +94,7 @@
         "privacy"
       ],
       "teaser": "Reviews best practices and modern architectural patterns for encrypting and securely storing sensitive data in cloud environments.",
-      "summary": null,
+      "summary": "In this cryptographic architecture tutorial from the DEF CON Safe Mode Crypto Village, a security researcher delivers an authoritative guide on modern cryptographic algorithms for protecting sensitive data and credentials at rest. Opening at 00:02, the presenter highlights why legacy hashing algorithms are no longer sufficient to protect sensitive secrets against modern offline attack hardware.\n\nAt 11:00, the session examines key derivation functions (KDFs), detailing the internal design of memory-hard functions that force attackers to expend extensive hardware resources during brute-force attempts. At 22:01, the speaker provides an in-depth breakdown of Argon2, contrasting the side-channel resistance of Argon2i with the GPU cracking resistance of Argon2d.\n\nAt 33:00, the presentation reviews the processing capabilities of modern GPU password-cracking rigs, concluding at 44:00 with practical implementation guidance on tuning memory size, iteration counts, and thread parallelism to secure enterprise password storage. (AI summary — Gemini Flash)",
       "durationSeconds": 2679
     },
     {
@@ -141,7 +141,7 @@
       "slug": "hanno-bock-starttls-is-dangerous",
       "title": "STARTTLS is Dangerous",
       "speakers": [
-        "Hanno B\u00f6ck"
+        "Hanno Böck"
       ],
       "track": "privacy",
       "topics": [
@@ -151,8 +151,8 @@
         "cryptography",
         "mitm"
       ],
-      "teaser": "Hanno B\u00f6ck reveals critical flaws in STARTTLS implementations across mail servers and clients, demonstrating command injection and credential theft via protocol downgrade attacks.",
-      "summary": "The Inherent Fragility of STARTTLS\n\nThe STARTTLS mechanism was designed to opportunistically upgrade plaintext application protocols (such as SMTP, IMAP, and POP3) to encrypted TLS sessions, but its design introduces severe architectural risks.\n\nCommand Injection in Mail Transfer Agents\n\nHanno B\u00f6ck revisits classic protocol flaws\u2014including Wietse Venema's 2011 Postfix vulnerability\u2014showing that command injection across plaintext-to-ciphertext transitions remains pervasive in modern mail servers.\n\nClient-Side Credential Theft\n\nB\u00f6ck reveals that widespread email clients are equally susceptible to machine-in-the-middle command injection, allowing attackers to hijack authentication sessions and harvest plaintext user credentials.\n\nAbandoning Opportunistic Upgrades\n\nThe speaker demonstrates ambiguous and contradictory RFC specifications governing STARTTLS, arguing that the security community must deprecate STARTTLS in favor of strict implicit TLS connections.",
+      "teaser": "Hanno Böck reveals critical flaws in STARTTLS implementations across mail servers and clients, demonstrating command injection and credential theft via protocol downgrade attacks.",
+      "summary": "The Inherent Fragility of STARTTLS\n\nThe STARTTLS mechanism was designed to opportunistically upgrade plaintext application protocols (such as SMTP, IMAP, and POP3) to encrypted TLS sessions, but its design introduces severe architectural risks.\n\nCommand Injection in Mail Transfer Agents\n\nHanno Böck revisits classic protocol flaws—including Wietse Venema's 2011 Postfix vulnerability—showing that command injection across plaintext-to-ciphertext transitions remains pervasive in modern mail servers.\n\nClient-Side Credential Theft\n\nBöck reveals that widespread email clients are equally susceptible to machine-in-the-middle command injection, allowing attackers to hijack authentication sessions and harvest plaintext user credentials.\n\nAbandoning Opportunistic Upgrades\n\nThe speaker demonstrates ambiguous and contradictory RFC specifications governing STARTTLS, arguing that the security community must deprecate STARTTLS in favor of strict implicit TLS connections.",
       "durationSeconds": 2720
     }
   ]
