@@ -40,7 +40,7 @@
         "wireless-security"
       ],
       "teaser": "BlueTooth is everywhere, it is in all of our pockets and the only protection most use is not being in discoverable mode. This will be a talk on enumeration, tracking non-discoverable Bluetooth devices, as well as an o...",
-      "summary": null,
+      "summary": "This DEF CON talk covers blue sonar.\n\nKey topics discussed include: Kind: captions Language: en should<00:00:00. 599><c> we</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2843
     },
     {
@@ -114,7 +114,7 @@
         "wireless-security"
       ],
       "teaser": "The purpose of BLE CTF (https://github.com/hackgnar/ble_ctf) is to teach the core concepts of Bluetooth low energy client and server interactions. While it has also been built to be fun, it was built with the intent t...",
-      "summary": null,
+      "summary": "This presentation covers wireless security, network analysis, and radio frequency hacking techniques.\n\nKey topics discussed include: Kind: captions Language: en I<00:00:00. 030><c> am</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 977
     },
     {
@@ -188,7 +188,7 @@
         "adaptive-detection"
       ],
       "teaser": "Machine learning for adaptive wireless security—detecting rogue access points through statistical signal analysis.",
-      "summary": null,
+      "summary": "This presentation covers wireless security, network analysis, and radio frequency hacking techniques.\n\nKey topics discussed include: Kind: captions Language: en I<00:00:00. 089><c> would</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1739
     },
     {
@@ -263,7 +263,7 @@
         "public-safety"
       ],
       "teaser": "SirenJack—Breaking security in emergency siren systems through wireless exploitation.",
-      "summary": null,
+      "summary": "This DEF CON talk covers sirenjack cracking a secure emergency  siren system.\n\nKey topics discussed include: Kind: captions Language: en thanks<00:00:00. 359><c> for</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3325
     },
     {

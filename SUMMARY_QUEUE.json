@@ -481,7 +481,7 @@
       "youtubeId": "xIUdtlFRdKk",
       "title": "Blue Sonar",
       "slug": "zero-chaos-and-mellendick",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-wireless-village.json",
@@ -489,7 +489,7 @@
       "youtubeId": "lx5MAOyu9N0",
       "title": "BLE CTF",
       "slug": "ryan-holeman",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-wireless-village.json",
@@ -497,7 +497,7 @@
       "youtubeId": "nctbeAfCZP8",
       "title": "Learning to Listen Machine Learning for Adaptive Wireless",
       "slug": "dunlap-learning-to-listen-machine-learning-for-adaptive-wireless",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-wireless-village.json",
@@ -505,7 +505,7 @@
       "youtubeId": "6OVo_6ZRo4Q",
       "title": "SirenJack Cracking a Secure Emergency  Siren System",
       "slug": "balint-seeber-sirenjack-cracking-a-secure-emergency-siren-system",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ai-village.json",
@@ -513,7 +513,7 @@
       "youtubeId": "XOBUeyzop5E",
       "title": "Machine Learning's Privacy Problem",
       "slug": "machine-learning-privacy-problem",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ai-village.json",
@@ -521,7 +521,7 @@
       "youtubeId": "yudsZy37qFI",
       "title": "Securing your Kubeflow Clusters",
       "slug": "barton-rhodes-securing-your-kubeflow-clusters",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ai-village.json",
@@ -529,7 +529,7 @@
       "youtubeId": "0NaFrxpSq7A",
       "title": "Behavioral Biometrics and Context Analytics",
       "slug": "jesus-solano-behavioral-biometrics-and-context-analytics",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ai-village.json",
@@ -537,7 +537,7 @@
       "youtubeId": "BUYMh1edqdg",
       "title": "Regulating AI and Algorithms: Lessons",
       "slug": "laurin-weissinger-regulating-ai-and-algorithms-lessons",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ai-village.json",
@@ -545,7 +545,7 @@
       "youtubeId": "0u-KkEKMjo8",
       "title": "Datasciencery by the Splunk Field",
       "slug": "ryan-kovar-datasciencery-by-the-splunk-field",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ai-village.json",
@@ -553,7 +553,7 @@
       "youtubeId": "Yt3AW46145A",
       "title": "Automated Injection and Removal of Medical Evidence in CT",
       "slug": "yisroel-mirsky-automated-injection-and-removal-of-medical-eviden",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-appsec-village.json",
