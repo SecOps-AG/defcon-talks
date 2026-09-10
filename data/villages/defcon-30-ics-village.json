@@ -19,7 +19,7 @@
         "ot-security"
       ],
       "teaser": "A competition overview and challenge breakdown from the DEF CON 30 ICS Village Social Engineering and Adversary Capture the Flag (SEAtf).",
-      "summary": null,
+      "summary": "This presentation provides an overview and live leaderboard recap of the maritime operational technology capture-the-flag (SEAtf) competition held at the DEF CON 30 ICS Village.\n\n[01:16] Organizers explain the mission of the SEAtf: bringing together maritime operational technology engineers, industrial control system (ICS) specialists, and security researchers to explore vulnerabilities in commercial vessel infrastructure. The competition features realistic challenges simulating shipboard networks, maritime satellite communications, ballast water management systems [04:21], propulsion controllers, and GPS/navigation receivers.\n\n[02:29] The broadcast recaps the intense race for the top of the leaderboard, breaking down the point differentials between leading teams, the design of dynamic physical testbeds, and the educational value of providing hackers with hands-on access to specialized marine automation systems.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 348
     },
     {
