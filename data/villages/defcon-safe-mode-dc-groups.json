@@ -36,7 +36,7 @@
         "education"
       ],
       "teaser": "Members of DC212 New York City share strategies and tools for effective remote presenting and virtual community meetups.",
-      "summary": null,
+      "summary": "In this practical hardware walkthrough from DEF CON Safe Mode DC Groups, Spam from DC212 (New York City) shares expert tips for building low-cost, high-reliability video streaming setups for remote presentations and virtual community meetups. Opening at 00:00, Spam reviews lessons learned from shifting local hacker meetings to online platforms.\n\nAt 06:00, the speaker details lighting and exposure fundamentals, explaining how proper placement of key and fill lights prevents webcams from clipping highlights or losing shadow detail.\n\nAt 12:00 and 18:00, Spam evaluates affordable hardware options, recommending budget-friendly USB HDMI capture dongles, broadcast microphones with physical hardware mute switches, and open-source OBS configurations to optimize audio-visual fidelity for virtual conferences. (AI summary — Gemini Flash)",
       "durationSeconds": 1440
     },
     {
