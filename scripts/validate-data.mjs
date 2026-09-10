@@ -50,6 +50,23 @@ const VILLAGE_FIELDS = new Set([
 const MAX_TOPICS = 6;
 const MAX_TEASER = 220;
 
+const YOUTUBE_HOSTS = new Set([
+  "youtube.com",
+  "www.youtube.com",
+  "m.youtube.com",
+  "youtu.be",
+  "www.youtu.be",
+]);
+
+function isYouTubeUrl(value) {
+  try {
+    const url = new URL(value);
+    return url.protocol === "https:" && YOUTUBE_HOSTS.has(url.hostname);
+  } catch {
+    return false;
+  }
+}
+
 /* ---------- events ---------- */
 
 const events = readEvents();
@@ -126,8 +143,11 @@ for (const file of files) {
   if (villageKeys.has(key)) error(where, `duplicate village ${key}`);
   villageKeys.add(key);
 
-  if (typeof village.playlistUrl === "string" && !/youtube\.com|youtu\.be/.test(village.playlistUrl)) {
-    warn(where, "playlistUrl does not look like a YouTube URL");
+  // The URL is rendered as a link on the village page, so the host is checked
+  // rather than pattern-matched: "https://elsewhere.example/?youtube.com" used
+  // to pass a substring test.
+  if (typeof village.playlistUrl === "string" && !isYouTubeUrl(village.playlistUrl)) {
+    error(where, `playlistUrl "${village.playlistUrl}" must be an https YouTube URL`);
   }
   if (!village.description || !String(village.description).trim()) {
     error(where, `"description" is empty — one or two sentences about the village`);
