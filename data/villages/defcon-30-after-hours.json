@@ -59,6 +59,22 @@
       "teaser": "Ry captures the after-dark energy, hallway cons, social gatherings, and late-night festivities across DEF CON 30 venues.",
       "summary": null,
       "durationSeconds": 120
+    },
+    {
+      "youtubeId": "r63ycQyA0cg",
+      "slug": "violin-ninja",
+      "title": "Violin Ninja",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "music",
+        "performance",
+        "culture"
+      ],
+      "teaser": "Violin Ninja performance clip from DEF CON 30.",
+      "summary": null,
+      "durationSeconds": 217
     }
   ]
 }

@@ -1424,6 +1424,22 @@
       "teaser": "A consumer reports style walkthrough exposing systemic security flaws across 21 consumer products including DIY home security and fitness trackers.",
       "summary": "General presentation: I Fight For The Users - Episode I. Technical content on cybersecurity.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2599
+    },
+    {
+      "youtubeId": "A9ew4jdLjYY",
+      "slug": "rise-of-the-machines",
+      "title": "RISE OF THE MACHINES",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "trailer",
+        "robots",
+        "def-con"
+      ],
+      "teaser": "DEF CON 24 Rise of the Machines trailer.",
+      "summary": null,
+      "durationSeconds": 103
     }
   ]
 }
