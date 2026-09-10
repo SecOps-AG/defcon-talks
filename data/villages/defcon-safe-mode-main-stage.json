@@ -1100,7 +1100,7 @@
         "appsec"
       ],
       "teaser": "Michael Stay answers questions on GPU-accelerated PKZIP cryptanalysis, key reduction algorithms, and cryptocurrency archive recovery.",
-      "summary": null,
+      "summary": "This DEF CON talk covers how we recovered $300,000 in bitcoin from an encrypted zip file (q&a).\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1750
     },
     {
@@ -1179,7 +1179,7 @@
         "wireless"
       ],
       "teaser": "James Pavur answers questions on intercepting satellite downlinks with home TV dishes, satellite network topology, and encryption requirements.",
-      "summary": null,
+      "summary": "This DEF CON talk covers whispers among the stars: satellite broadband security (q&a).\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1725
     },
     {
@@ -1257,7 +1257,7 @@
         "network-security"
       ],
       "teaser": "Hadrien Barral and Rémi Géraud-Stewart answer questions on DNSSECTION attacks, DNS record parsing semantics, and DNSSEC resolver validation.",
-      "summary": null,
+      "summary": "This DEF CON talk covers dnssection: a practical attack on dns (q&a).\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1927
     },
     {
