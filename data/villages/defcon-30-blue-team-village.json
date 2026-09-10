@@ -40,7 +40,7 @@
         "blue-team"
       ],
       "teaser": "Meisam Eslahi presents advanced threat hunting tradecraft to track stealthy adversaries lurking across enterprise infrastructure.",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 30 Blue Team Village, cybersecurity researcher Meisam Eslahi presents \"Threat Hunt Trilogy: A Beast in the Shadow,\" detailing a disciplined forensic methodology for identifying hidden adversaries within compromised enterprise networks. He opens at 09:00 by detailing the continuous threat hunting loop, stressing that analysts must systematically review, improve, document, and update detection logic with each investigation.\n\nMeisam explores detecting destructive malware at 18:00, explaining how anomalous mass-file modification behavior serves as a high-fidelity indicator of active ransomware or disk-wiping payloads. At 27:00, he demonstrates live host triage techniques, examining running process hierarchies, active file descriptors, and open network sockets to detect anomalous execution trees.\n\nTransitioning to deep memory forensics at 36:00, Meisam showcases using Volatility 3 plugins like netscan to uncover covert command-and-control network sockets hidden from traditional OS diagnostic tools. He correlates these findings with network traffic captures at 45:00, analyzing malicious HTTP beacon intervals to expose stealthy adversary communication channels. He concludes at 54:00 with recommendations for translating hunt findings into durable SIEM correlation rules. (AI summary — Gemini Flash)",
       "durationSeconds": 3293
     },
     {
@@ -116,7 +116,7 @@
         "blue-team"
       ],
       "teaser": "Filipi Pires demonstrates techniques for dissecting malicious PDF documents, extracting embedded JavaScript, and uncovering hidden exploit streams.",
-      "summary": null,
+      "summary": "In this technical workshop at the DEF CON 30 Blue Team Village, security researcher Filipi Pires provides an in-depth breakdown of malicious PDF analysis, examining the evasion techniques employed by threat actors to deliver document-based exploits. He begins at 08:00 by discussing cyber resilience strategies, emphasizing that defensive teams must understand attacker delivery tradecraft to protect enterprise endpoints from weaponized email attachments.\n\nFilipi deconstructs the internal architecture of the PDF specification at 16:00, explaining how objects, dictionaries, streams, and cross-reference (XREF) tables function together. At 24:00, he demonstrates inspecting raw file headers and strings to identify anomalous embedded scripts, followed by using diagnostic tools like PDFiD and pdf-parser at 32:00 to detect suspicious OpenAction triggers and embedded JavaScript.\n\nAt 40:00, Filipi analyzes advanced obfuscation methods, showing how attackers nest objects and apply multiple encoding layers (such as FlateDecode and hex encoding) to evade static antivirus scanners. He concludes at 48:00 by demonstrating how to extract and decode raw shellcode payloads from PDF streams, providing guidance on authoring robust YARA detection signatures for SOC and malware analysis teams. (AI summary — Gemini Flash)",
       "durationSeconds": 3099
     },
     {
@@ -134,7 +134,7 @@
         "volatility",
         "blue-team"
       ],
-      "teaser": "Connor Morley analyzes Windows in-memory injection techniques\u2014including process hollowing and thread hijacking\u2014and how defenders detect them.",
+      "teaser": "Connor Morley analyzes Windows in-memory injection techniques—including process hollowing and thread hijacking—and how defenders detect them.",
       "summary": null,
       "durationSeconds": 3574
     },
