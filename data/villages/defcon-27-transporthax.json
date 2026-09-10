@@ -36,7 +36,7 @@
         "ics-ot"
       ],
       "teaser": "Behind the scenes of hacking airplanes -",
-      "summary": null,
+      "summary": "Zoltan Madarassy provides a comprehensive technical overview of commercial aircraft cybersecurity engineering, walking through the architecture, communication buses, and security assessment methodologies applied to modern aviation systems.\n\n[06:44] Madarassy outlines the core security domains established under standard avionics architectures: the Aircraft Control Domain (ACD) responsible for flight-critical operations, the Airline Information Services Domain (AISD) handling airline administrative data, the Passenger Information and Entertainment Services Domain (PIESD), and Passenger Owned Devices (POD). He explains the physical, logical, and cryptographic isolation mechanisms separating passenger Wi-Fi and in-flight entertainment from core flight systems.\n\n[13:29] The presentation analyzes standard avionics data buses and protocols, including unidirectional ARINC 429 buses, ARINC 664 (Avionics Full-Duplex Switched Ethernet / AFDX), and CAN bus integrations [16:28]. Madarassy examines data loading mechanisms such as ARINC 615A [19:51] used to install field-loadable software updates on Line Replaceable Units (LRUs). He concludes by discussing airworthiness cybersecurity certifications (such as DO-178C, DO-254, and DO-326A/ED-202A) and the strict safety and regulatory constraints [27:05] that govern security testing on operational aircraft.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2076
     },
     {
@@ -102,7 +102,7 @@
         "ics-ot"
       ],
       "teaser": "Wireless Attacks on Aircraft ILS -",
-      "summary": null,
+      "summary": "Harshad Sathaye explores the wireless attack surface of aircraft Instrument Landing Systems (ILS), demonstrating how commercial off-the-shelf Software Defined Radios (SDR) can be weaponized to spoof critical radio navigation signals during the final landing approach.\n\nThe presentation details the radio frequency characteristics of ILS localizer (runway horizontal alignment) and glideslope (vertical descent slope) beacons, which modulate 90 Hz and 150 Hz audio tones onto VHF and UHF carrier frequencies. Sathaye demonstrates how an attacker can manipulate the difference in depth of modulation (DDM) to exercise precise, real-time control over an aircraft's Course Deviation Indicator (CDI). He introduces the \"single-tone attack,\" an optimized transmission technique that significantly reduces the RF power required to override legitimate airport navigation transmitters.\n\nSathaye showcases an automated, closed-loop ILS spoofer that dynamically tracks an approaching aircraft's GPS coordinates to adjust spoofed RF signals, stealthily altering the glidepath without triggering cockpit warning flags or receiver alarm flags. The attack was successfully validated against an FAA-certified flight simulator (X-Plane) utilizing AI-based autoland, producing off-runway touchdown offsets ranging from 18 to over 50 meters. The talk concludes with an analysis of potential mitigations, explaining why legacy analog RF navigation cannot easily be retrofitted with conventional cryptographic authentication and discussing the architectural challenges of securing next-generation aviation systems.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1873
     },
     {
@@ -170,7 +170,7 @@
         "ics-ot"
       ],
       "teaser": "Hacking the airforce and beyond -",
-      "summary": null,
+      "summary": "Dr. Will Roper, Assistant Secretary of the Air Force for Acquisition, Technology and Logistics, hosts an open discussion on modernizing military cybersecurity culture, accelerating defense software delivery, and expanding partnerships with the independent hacker community.\n\n[04:35] Roper reflects on the evolution of military bug bounty initiatives, tracing the shift from initial institutional hesitation to the success of \"Hack the Air Force.\" He explains why military leadership recognized the necessity of crowdsourcing external vulnerability discovery across defense networks, public websites, and enterprise systems.\n\n[09:08] The presentation explores structural reforms in defense acquisition, highlighting agile software factories like Kessel Run. Roper emphasizes that modern warfare is driven by software speed, arguing that systems must deploy updates in days or weeks rather than multi-year acquisition cycles, with security integrated continuously rather than verified through lagging compliance audits [11:30]. He outlines plans to expand hacker access [18:25] to physical aircraft avionics, flight-line components, and satellite platforms, emphasizing that embracing transparent security research and collaborating with the hacker community is essential for national defense resilience.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1414
     },
     {
