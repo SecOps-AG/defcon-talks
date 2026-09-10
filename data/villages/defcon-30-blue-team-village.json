@@ -21,7 +21,7 @@
         "blue-team"
       ],
       "teaser": "Saurabh Chaudhary demonstrates crafting high-performance, modular YARA rules to detect complex malware variants and streamline threat hunting.",
-      "summary": null,
+      "summary": "This DEF CON talk covers yara rules to rule them all.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1049
     },
     {
@@ -97,7 +97,7 @@
         "blue-team"
       ],
       "teaser": "Project Obsidian explains forensic preparation and tooling organization to accelerate digital forensics and incident triage workflows.",
-      "summary": null,
+      "summary": "This DEF CON talk covers project obsidian: mise en place for incident investigations.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2774
     },
     {

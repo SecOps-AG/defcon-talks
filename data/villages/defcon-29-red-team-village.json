@@ -26,7 +26,7 @@
         "ai-village"
       ],
       "teaser": "Bruce Schneier, Omar Santos, and industry AI leaders debate the future of artificial intelligence in offensive security, automated exploitation, and red teaming.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3614
     },
     {
@@ -95,7 +95,7 @@
         "community"
       ],
       "teaser": "The Red Team Village team recaps competition highlights, announces CTF winners, and previews upcoming community training events.",
-      "summary": null,
+      "summary": "This DEF CON talk covers ctf recap and upcoming events.\n\nKey topics discussed include: Kind: captions Language: en [Music] well<00:00:24. 240><c> hello</c><00:00:24.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1538
     },
     {
@@ -165,7 +165,7 @@
         "adversary-emulation"
       ],
       "teaser": "An introduction and technical overview of CyberWraith, the Red Team Village's open-source command-and-control and engagement infrastructure platform.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\nKey topics discussed include: Kind: captions Language: en my<00:00:00. 799><c> name</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2285
     }
   ]
