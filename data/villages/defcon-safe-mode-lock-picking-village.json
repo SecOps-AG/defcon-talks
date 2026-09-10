@@ -57,7 +57,7 @@
         "red-team"
       ],
       "teaser": "Examines building perimeter access controls, mantrap bypasses, sensor blind spots, and optical monitoring vulnerabilities.",
-      "summary": null,
+      "summary": "In this lively physical security guide from the DEF CON Safe Mode Lock Picking Village, physical penetration tester Dylan the Magician presents \"Doors, Cameras, and Mantraps, Oh My!\", exploring the layered architecture of commercial facility protection. Opening at 00:01, Dylan introduces the holistic principles of physical access defense.\n\nAt 05:02, he reviews perimeter countermeasures, discussing the physical deterrence of vehicle bollards and analyzing the design of mantraps (two-door interlocking vestibules) engineered to eliminate tailgating into sensitive areas. At 10:02, Dylan highlights traffic pattern analysis, showing how secondary employee entrances (such as smoking areas or loading docks) frequently represent the weakest link in building perimeters.\n\nConcluding at 15:01 and 20:02, Dylan emphasizes constructive communication with facility managers, advising penetration testers to avoid adversarial language and instead partner with client stakeholders to implement practical, low-cost physical hardening measures. (AI summary — Gemini Flash)",
       "durationSeconds": 1377
     },
     {
@@ -120,7 +120,7 @@
       "slug": "intro-to-high-security-locks-and-lockpicking",
       "title": "Intro to High Security Locks and Lockpicking",
       "speakers": [
-        "N\u2205thing"
+        "N∅thing"
       ],
       "track": "hardware",
       "topics": [
@@ -131,7 +131,7 @@
         "locksport"
       ],
       "teaser": "Covers the principles, sidebars, interactive elements, and specialized picks required to defeat high-security lock cylinders.",
-      "summary": null,
+      "summary": "In this masterclass from the DEF CON Safe Mode Lock Picking Village, locksport specialist Nothing provides an extensive overview of high-security mechanical locks and advanced picking techniques. Opening at 00:01, Nothing explains what separates consumer pin-tumbler locks from high-security cylinders engineered for government and financial institutions.\n\nAt 14:02, the presenter demonstrates interactive mechanical elements, showing how floating balls and movable ball-bearings embedded in key blades must interact with secondary pins in the cylinder before the plug will rotate. At 28:00, the talk explores sidebar mechanisms and slider arrays, explaining how false gates cut into sliders disguise true gate positions and frustrate manual manipulation.\n\nContinuing past 42:01 and 56:02, Nothing showcases specialized picks and decoders designed for Medeco, Assa, and Chubb locks, walking through the tactile feedback and precise tolerances required to manipulate institutional high-security locking systems. (AI summary — Gemini Flash)",
       "durationSeconds": 3539
     },
     {
@@ -175,7 +175,7 @@
       "slug": "how-i-defeated-the-western-electric-30c",
       "title": "How I Defeated the Western Electric 30C",
       "speakers": [
-        "N\u2205thing"
+        "N∅thing"
       ],
       "track": "hardware",
       "topics": [
@@ -203,7 +203,7 @@
         "physical-security"
       ],
       "teaser": "A beginner-friendly introduction to pin-tumbler lock mechanics, shear lines, binding order, and single-pin picking.",
-      "summary": null,
+      "summary": "In this foundational tutorial from the DEF CON Safe Mode Lock Picking Village, Preston Thomas from The Open Organisation of Lockpickers (TOOOL) introduces the core principles and mechanical physics of lock manipulation. Opening at 00:01, Preston welcomes newcomers to the locksport community, explaining TOOOL's mission to demystify physical security.\n\nAt 05:00, Preston uses cutaway locks and 3D diagrams to explain the internal components of pin-tumbler cylinders, detailing the relationship between key pins, driver pins, springs, and the critical shear line. At 10:02, he illustrates the \"binding pin principle,\" explaining how microscopic manufacturing variances prevent all pin holes from being drilled in a perfect line, causing one pin to bind when rotational force is applied.\n\nConcluding at 15:01 and 20:00, Preston demonstrates tensioning control with turning tools, proper lock grip ergonomics, and single-pin picking methodology, empowering beginners to systematically set binding pins and understand mechanical lock vulnerabilities. (AI summary — Gemini Flash)",
       "durationSeconds": 1354
     },
     {

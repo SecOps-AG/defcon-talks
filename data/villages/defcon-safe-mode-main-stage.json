@@ -718,7 +718,7 @@
         "appsec"
       ],
       "teaser": "Feng Xiao answers audience questions on Hidden Property Abusing (HPA), JavaScript runtime internals, and securing NPM libraries.",
-      "summary": null,
+      "summary": "In this live Q&A session from the DEF CON Safe Mode Main Stage, security researcher Feng Xiao answers community questions following his presentation on discovering hidden properties to attack the Node.js ecosystem. Opening at 00:15, Feng discusses the practical mechanics of Prototype Pollution and HTTP Parameter Pollution (HPP) in modern JavaScript applications.\n\nAt 08:02 and 16:06, Feng shares his vulnerability research methodology, describing how he combined manual code auditing of popular npm packages with automated semantic fuzzing to uncover exploitable property injection flaws across major web frameworks.\n\nConcluding at 24:01, Feng addresses defensive mitigations, advising software developers to use Object.freeze() on base prototypes, validate JSON schemas, and avoid recursive object merges to protect production Node.js applications against unauthorized privilege escalation and remote code execution. (AI summary — Gemini Flash)",
       "durationSeconds": 1886
     },
     {
