@@ -52,7 +52,7 @@
         "community",
         "def-con"
       ],
-      "teaser": "massive security vulnerability was discovered which allowed PHI to be leaked from closed patient support groups on Facebook. In this session we\u2019ll discuss how a coalition of patients and security researchers faced thi...",
+      "teaser": "massive security vulnerability was discovered which allowed PHI to be leaked from closed patient support groups on Facebook. In this session we’ll discuss how a coalition of patients and security researchers faced thi...",
       "summary": null,
       "durationSeconds": 1680
     },
@@ -70,7 +70,7 @@
         "community"
       ],
       "teaser": "Even a device with the most ironclad firmware can still be subject to a broad variety of attacks depending on its interaction with other external components. This presentation will examine commonly overlooked vulnerab...",
-      "summary": null,
+      "summary": "### Networked Medical Devices and Clinical Threat Surfaces\nAt 00:00, Professor Avi Rubin (Johns Hopkins University) explores the attack surfaces and threat models associated with modern networked and implantable medical devices across hospital ecosystems.\n\n### The Critical Imperative of Software Bill of Materials (SBOM)\nAt 07:03, Dr. Rubin explains the vital role of Software Bills of Materials (SBOMs) in healthcare. Medical devices—including infusion pumps, surgical robotics, and bedside monitors—regularly embed commercial off-the-shelf software components and legacy third-party libraries that harbor documented vulnerabilities.\n\n### The Regulatory Patching Dilemma\nAt 14:01, the presentation examines the operational conflict between vulnerability remediation and regulatory compliance. Healthcare facilities often delay patching vulnerable devices due to fears of invalidating FDA 510(k) clearances or inadvertently causing clinical downtime in life-support equipment.\n\n### Cloud Telemetry and Transport Security Risks\nAt 21:00, Dr. Rubin evaluates the push toward cloud-connected medical devices. He expresses skepticism regarding streaming sensitive patient physiological telemetry to external cloud platforms, discussing risks of unauthenticated access, HIPAA compliance violations, and network latency.\n\n### Bluetooth Low Energy (BLE) and Device Interfaces\nConcluding between 28:00 and 35:00, the speaker details wireless attack vectors. Wearable and implantable devices frequently rely on Bluetooth Low Energy (BLE) to communicate with patient smartphones, exposing pairing handshakes to eavesdropping and replay attacks. He concludes by praising recent FDA cybersecurity guidance and urging researchers to engage in responsible disclosure with medical manufacturers.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2125
     },
     {
@@ -136,7 +136,7 @@
         "def-con"
       ],
       "teaser": "Want to learn how an epic clash between hackers turns into a battle of survival? How an intense, immersive experience builds critical cybersecurity skills? This talk highlights how storytelling, gamification and theat...",
-      "summary": null,
+      "summary": "### Advancing Experiential Cybersecurity Learning\nAt 00:00, cybersecurity executive JC Vega delivers an energetic presentation on transforming technical training through realistic experiential learning and immersive crisis simulation exercises.\n\n### Moving Beyond Static Syllabi to Mission-Driven Scenarios\nAt 06:02, Vega contrasts static classroom lectures with immersive simulation exercises. Effective operational training requires placing participants in realistic scenarios where they are provided with ambiguous objectives, incomplete data, and dynamic adversaries.\n\n### Integrating Multi-Disciplinary Crisis Pressures\nAt 12:03, the speaker emphasizes that technical compromise is only one facet of a major cyber crisis. Realistic simulations must incorporate external pressures—including mock media interviews, public relations fallout, regulatory reporting deadlines, and legal liability constraints.\n\n### The Pedagogical Value of Consequence\nAt 18:00, Vega argues that genuine learning occurs when operational decisions carry palpable consequences. Allowing teams to experience the failure of poor technical decisions under pressure instills visceral muscle memory that theoretical training cannot replicate.\n\n### Multi-Agency Coordination and Supply Chain Dependencies\nConcluding between 24:01 and 30:01, Vega highlights external organizational dependencies. Modern enterprise defense relies heavily on coordinating with external hosting providers, critical vendors, legal counsel, and law enforcement, emphasizing that incident response teams must practice cross-organizational collaboration before a real breach occurs.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1942
     },
     {
@@ -186,7 +186,7 @@
         "healthcare",
         "community"
       ],
-      "teaser": "What tools are currently available to us to create \u201cliving\u201d or bio-hybrid materials\u2014those that can be animated with biological functionalities for growth, response, distributed information processing, and cuing to the...",
+      "teaser": "What tools are currently available to us to create “living” or bio-hybrid materials—those that can be animated with biological functionalities for growth, response, distributed information processing, and cuing to the...",
       "summary": null,
       "durationSeconds": 1778
     },
@@ -205,7 +205,7 @@
         "biomedical-engineering"
       ],
       "teaser": "The human body is the most elegant and complex machine ever created, but often we do not realize how well it works until a major system has been compromised such as with an amputation severing and removing an element ...",
-      "summary": null,
+      "summary": "### Biomechanical and Technical Challenges in Prosthetics\nAt 00:00, biomedical engineer and certified prosthetist Wayne Penn presents a comprehensive exploration of the clinical, mechanical, and electronic engineering challenges in modern artificial limb design.\n\n### Anatomical Socket Casting and High-Fidelity Imaging\nAt 13:03, Penn explains the foundational challenge of prosthetic design: the interface between the residual limb and the artificial socket. He demonstrates plaster casting and trans-femoral imaging, illustrating how micro-shifts in weight distribution cause tissue necrosis, skin abrasions, and extreme discomfort.\n\n### Global Amputation Demographics and Etiology\nAt 26:01, the speaker dispels common misconceptions regarding the causes of limb loss. While public perception often focuses on military combat injuries and acute trauma, vascular disease and diabetes account for over 80% of amputations globally, demanding designs tailored for elderly and diabetic patients.\n\n### Microprocessor-Controlled Joints and Adaptive Hydraulics\nAt 39:01, Penn details the architecture of computerized prosthetics, highlighting microprocessor knees (such as the C-Leg) and powered bionic ankles (BiOM). He explains how onboard microcontrollers process accelerometer and gyroscope telemetry in real time to dynamically adjust hydraulic valving across swing and stance phases.\n\n### Myoelectric Signal Filtering and Open-Source Collaboration\nConcluding between 52:00 and 01:05:01, Penn reviews upper-limb myoelectric systems. Capturing and filtering faint electromyography (EMG) muscle signals through sweat and skin movement remains an immense challenge. He concludes by highlighting open-source maker initiatives developing accessible, 3D-printed prosthetic limbs for underserved communities.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 4099
     },
     {
@@ -275,7 +275,7 @@
         "extreme-environments"
       ],
       "teaser": "Adapting human biological systems and DIY hacking methodologies for survival and autonomy in space environments.",
-      "summary": null,
+      "summary": "### Extreme Environmental Biology and Space Analog Habitats\nAt 00:00, biohacker and analog astronaut JJ Hastings delivers a keynote on human survival in extreme environments, exploring how biohacking and synthetic biology enable off-world human exploration.\n\n### Whole-Genome Sequencing and Metabolic Self-Determination\nAt 06:00, Hastings recounts undergoing comprehensive whole-genome sequencing in 2016 through Project Demiurge. She explores how analyzing personal genomic data enables researchers to understand individualized physiological resilience, radiation sensitivity, and metabolic traits.\n\n### The Architecture of Closed-Loop Analog Habitats\nAt 12:00, the speaker details life inside isolated space analog research facilities, such as the HI-SEAS habitat in Hawaii. She explores closed-loop life support engineering, detailing air filtration systems, water recycling loops, and onboard biological laboratories designed for planetary surface simulation missions.\n\n### Sensory Deprivation and Psychological Resilience\nAt 18:02 and 24:01, Hastings shares the physical and psychological realities of prolonged isolation. Crews endure months of sensory deprivation—showering only once every two weeks, consuming dehydrated rations, and living under simulated planetary communication delays with zero outside contact.\n\n### Microbiome Shifts and Interplanetary Evolution\nConcluding at 30:01, Hastings presents research tracking human microbiome adaptations in sealed synthetic habitats. She argues that expanding humanity across the cosmos will require genetic engineering, closed-loop biomanufacturing, and synthetic biological enhancement to endure extraterrestrial environments.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1828
     },
     {
