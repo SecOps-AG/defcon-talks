@@ -40,7 +40,7 @@
         "virtual-reality"
       ],
       "teaser": "hoodiepony discusses digital privacy, operational security, and network footprint reduction in virtual reality and connected cyberspace.",
-      "summary": null,
+      "summary": "In this virtual presentation for DEF CON 31 DCGVR, security researcher Hoodie Pony presents \"Ghost on the Wire,\" demonstrating how to construct out-of-band covert command-and-control (C2) channels over radio frequencies when traditional network egress is completely locked down. At 04:00, he configures an isolated virtual machine with all virtual network adapters severed, demonstrating that network-isolated environments remain vulnerable to RF-based signaling.\n\nHoodie Pony introduces Software-Defined Radios (SDRs) at 08:00, showing how attackers can transmit covert data payloads directly to target hosts. At 16:00, he leverages amateur radio infrastructure, broadcasting encoded AX.25 packets over the 2-meter band (144.390 MHz) using the Automatic Packet Reporting System (APRS). At 20:00, he details configuring the Dire Wolf software soundcard TNC to modulate and demodulate packet radio signals. He concludes at 24:00 by evaluating defensive countermeasures, emphasizing RF shielding and physical perimeter controls in high-security facilities. (AI summary — Gemini Flash)",
       "durationSeconds": 1744
     },
     {
@@ -116,7 +116,7 @@
         "volunteering"
       ],
       "teaser": "Joe Mast highlights grassroots organizing and community mentorship initiatives across DEF CON Groups.",
-      "summary": null,
+      "summary": "In this operational security briefing for DEF CON 31 DCGVR, Joe M., a security engineer at CrowdStrike, delivers a comprehensive guide to brand protection, combatting typosquatting, and arbitrating fraudulent domain registrations. At 07:00, he outlines the dispute lifecycle, breaking down the seven procedural phases required to build an evidentiary case against trademark infringers.\n\nJoe contrasts dispute mechanisms at 14:00, comparing the Uniform Domain-Name Dispute-Resolution Policy (UDRP) with the Uniform Rapid Suspension (URS) system, explaining that URS offers an expedited, cost-effective avenue ($300-$500) to freeze abusive domains rapidly without costly legal proceedings. At 28:00, he discusses techniques for piercing WHOIS privacy proxies during fraud investigations. He finishes at 35:00 by detailing enterprise domain registrar hardening, recommending registry locking and phishing-resistant multi-factor authentication to prevent unauthorized domain hijacks. (AI summary — Gemini Flash)",
       "durationSeconds": 2642
     },
     {

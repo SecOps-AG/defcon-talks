@@ -659,7 +659,7 @@
         "community"
       ],
       "teaser": "Silk explores the nuucsoda electronic badge, custom PCB art, and interactive hardware puzzles on the convention floor.",
-      "summary": null,
+      "summary": "In this hardware showcase from DEF CON 30, video creator Alex Chaveriat (\"Silk\") explores the \"nuucsoda\" interactive vending machine project situated in the conference contest area. The project transforms a decommissioned soda vending machine into a multi-tiered hacker puzzle box. At 04:00, the makers explain how the machine integrates physical coin and bill validators with an embedded Raspberry Pi running custom software dubbed \"sugar-free bsd.\"\n\nThe creators describe the hardware layout at 06:00, featuring dual networked Star TSP650 thermal receipt printers that dispense puzzle flags, code receipts, and custom artwork. At 08:00, they emphasize that DEF CON hardware projects require an interdisciplinary balance of PCB design, graphic art, mechanical fabrication, and embedded code. At 12:00, they demonstrate how attendees who successfully exploit the machine can spawn interactive root shells and dispense exclusive custom badges. (AI summary — Gemini Flash)",
       "durationSeconds": 767
     },
     {
@@ -729,7 +729,7 @@
         "community"
       ],
       "teaser": "Silk dives into the nightlife, social culture, and musical camaraderie of DEF CON Hacker Karaoke.",
-      "summary": null,
+      "summary": "In this vibrant dispatch from DEF CON 30, content creator and Photogoon Alex Chaveriat (\"Silk\") documents the high-spirited atmosphere of DEF CON's legendary Hacker Karaoke night. At 00:00, the video captures attendees gathering after dark to unwind, socializing away from the technical lectures and competition arenas.\n\nSilk takes the stage at 01:30 to deliver an enthusiastic, crowd-pleasing performance of Train's classic rock anthem \"Drops of Jupiter.\" The video highlights the unique camaraderie of the hacker community, illustrating how DEF CON's nocturnal traditions foster lasting friendships and spontaneous musical moments across the conference. (AI summary — Gemini Flash)",
       "durationSeconds": 257
     },
     {
@@ -801,7 +801,7 @@
         "interviews"
       ],
       "teaser": "Silk speaks with vehicle security researchers hacking instrument clusters, infotainment heads, and drive-by-wire buses.",
-      "summary": null,
+      "summary": "In this live interview from the DEF CON 30 Car Hacking Village, Silk speaks with a team of researchers attempting to compromise a fully patched production Tesla on the contest floor. At 01:00, the competitors discuss their zero-knowledge approach, explaining how they begin by observing network telemetry and injecting fuzzing packets across internal automotive networks to gauge vehicle responses.\n\nAt 02:00, the team walks through reconnaissance fundamentals, demonstrating how sniffing automotive CAN arbitration IDs allows them to map Electronic Control Units (ECUs) before attempting deep exploitation. At 04:30, they analyze the vehicle's wireless attack surfaces, examining how the car prioritizes local Wi-Fi connections over cellular LTE links and probing the gateway architecture connecting infotainment subsystems to powertrain controls. (AI summary — Gemini Flash)",
       "durationSeconds": 320
     },
     {
