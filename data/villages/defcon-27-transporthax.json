@@ -221,7 +221,7 @@
         "ics-ot"
       ],
       "teaser": "Lojackd pwning car alarms vehicle trackers - DEF CON 27 Car Hacking Village",
-      "summary": null,
+      "summary": "In this talk at the DEF CON 27 Car Hacking Village (TransportHax), Ken Munro exposes severe security vulnerabilities across major aftermarket vehicle alarms, GPS tracking units, and remote immobilizers. He begins at 03:00 by detailing how security assessments into companion mobile applications and cloud management APIs uncovered broken object-level authorization (BOLA) and insecure direct object references (IDOR), allowing unauthenticated attackers to hijack user accounts.\n\nKen demonstrates the physical hazards of these flaws at 09:00, showing how an attacker could track real-time GPS locations for millions of equipped vehicles worldwide, remotely unlock car doors, sound alarms, and even send cut-off commands to shut down vehicle engines while in transit. At 12:00, he explains how incomplete vendor remediations left entire geographic regions exposed, noting that European cloud endpoints remained unpatched long after initial alerts.\n\nAddressing the vulnerability disclosure lifecycle at 15:00, Ken contrasts cooperative vendors who patched bugs within hours against defensive manufacturers who issued legal threats. He concludes at 18:00 by warning consumers and fleet managers about misleading industry safety certifications, arguing that physical security accreditations frequently fail to evaluate underlying API and cloud backend security. (AI summary — Gemini Flash)",
       "durationSeconds": 1199
     },
     {
@@ -289,7 +289,7 @@
         "ics-ot"
       ],
       "teaser": "Intro to UDS video - DEF CON 27 Car Hacking Village",
-      "summary": null,
+      "summary": "In this technical deep dive at the DEF CON 27 Car Hacking Village (TransportHax), Aaron Cornelius from GRIMM provides a comprehensive guide to understanding and reverse engineering Unified Diagnostic Services (UDS / ISO 14229) across automotive CAN bus networks. He begins at 05:00 by explaining that while UDS standardizes high-level service requests, automotive manufacturers customize parameter identifiers, necessitating active bus interrogation to map functionality.\n\nAaron walks through ISO-TP (ISO 15765-2) network layer framing at 10:00, contrasting single-frame requests with multi-frame segmented packets used to transfer larger data buffers across eight-byte CAN payloads. At 15:00, he demonstrates techniques for scanning unknown CAN buses to enumerate active Electronic Control Units (ECUs), isolating diagnostic arbitration IDs, and querying software version identifiers.\n\nMoving to active interaction at 20:00, Aaron explains diagnostic service handlers including RoutineControl (0x31) and DiagnosticSessionControl (0x10). He illustrates ECU fingerprinting at 25:00, showing how systematically cycling diagnostic sessions and observing physical resets (such as an infotainment display restarting) allows researchers to unambiguously correlate unseen CAN arbitration IDs with specific hardware modules inside the car. (AI summary — Gemini Flash)",
       "durationSeconds": 1773
     },
     {
@@ -357,7 +357,7 @@
         "ics-ot"
       ],
       "teaser": "Maritime Cyber Policy Panel - DEF CON 27 Hack the Sea Village",
-      "summary": null,
+      "summary": "In this panel discussion from the inaugural Hack the Sea / Maritime Cyber Village at DEF CON 27, moderator Cris DeWitt and industry experts examine the rapidly evolving landscape of maritime cybersecurity policy, vessel operations, and regulatory oversight. The panel begins at 07:00 by examining international mandates, notably the International Maritime Organization (IMO) 2021 cyber risk management requirements and corresponding United States Coast Guard navigation safety circulars.\n\nAt 14:00, the panelists analyze cyber threat surfaces unique to commercial shipping vessels, offshore oil drilling rigs, and container port terminals. Coast Guard representatives detail their specialized incident response teams and port facility assessment programs at 21:00, discussing how military and civilian agencies coordinate during suspected operational disruptions.\n\nThe panel tackles the persistent myth of the \"air-gapped\" ship at 28:00, pointing out that modern vessels rely continuously on satellite VSAT communications, electronic chart display updates (ECDIS), and remote vendor engine diagnostics. At 35:00, they emphasize the need to move beyond compliance-driven checkbox mentalities toward practical security monitoring. They conclude at 42:00 by advocating for collaborative information sharing across commercial fleets to safeguard global marine supply chains. (AI summary — Gemini Flash)",
       "durationSeconds": 2553
     },
     {
@@ -425,7 +425,7 @@
         "ics-ot"
       ],
       "teaser": "PENTESTING How to Get into the Field Explained - DEF CON 27 Hack the Sea Village",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 27 Hack the Sea Village (TransportHax), security researcher Weston Hecker offers candid career advice and technical strategies for transitioning into specialized penetration testing domains. Using gaming analogies at 04:00, he compares security career development to role-playing talent trees, encouraging practitioners to build foundational IT testing skills before specializing in esoteric niches like industrial control systems (ICS) or maritime infrastructure.\n\nWeston reflects on his extensive vulnerability research at 08:00, explaining how identifying and responsibly disclosing more than twenty CVEs established his professional credibility. At 12:00, he describes the technical complexities of auditing offshore marine rigs, where cellular base stations, satellite backhauls, and industrial telemetry intersect in harsh physical environments.\n\nHe evaluates industry employment models at 16:00, comparing the fast-paced variety of billable consulting firms with internal enterprise security roles. At 20:00, Weston encourages aspiring testers to overcome initial programming intimidation by writing practical automation scripts. He closes at 24:00 with advice on managing burnout, maintaining curiosity, and finding renewed motivation by mentoring the next generation of researchers. (AI summary — Gemini Flash)",
       "durationSeconds": 1458
     }
   ]
