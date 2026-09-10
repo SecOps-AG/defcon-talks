@@ -55,7 +55,7 @@
         "community"
       ],
       "teaser": "Exploits & Dragons explores how tabletop roleplaying game mechanics can be used to simulate cyber attacks, incident response, and threat modeling.",
-      "summary": null,
+      "summary": "Security researchers and founders from DEF CON group DC5411 (Argentina and Uruguay) present \"Exploits & Dragons,\" an innovative initiative that gamifies cybersecurity education and incident response training using tabletop role-playing games (RPGs).\n\n[01:27] The speakers discuss how traditional security awareness training and technical workshops often struggle to engage participants. In response, they designed \"Exploits & Dragons,\" adapting tabletop role-playing mechanics (similar to Dungeons & Dragons) to represent computer networks, defensive controls, threat actors, and digital vulnerabilities in a collaborative narrative setting.\n\n[04:30] The presentation walks through character archetypes, game scenarios, and quest structures where players utilize real-world infosec skills—such as network reconnaissance, threat modeling, and incident containment—to overcome challenges. The speakers demonstrate how custom templates [19:05], quest-based scoring, and hands-on tabletop storytelling foster critical thinking, teamwork, and deeper technical comprehension for newcomers and experienced security professionals alike.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1264
     },
     {
@@ -123,7 +123,7 @@
         "human-factors"
       ],
       "teaser": "Exploring how storytelling, character development, and narrative pacing learned in creative writing form the foundation of compelling social engineering pretexts.",
-      "summary": null,
+      "summary": "In this engaging presentation hosted in the DEF CON 30 virtual altspace, the speaker illustrates how principles learned in high school creative writing classes directly translate into advanced tradecraft for social engineering and tabletop exercise facilitation.\n\n[10:39] The speaker explores the core literary elements of storytelling—genre, setting, character backstory, and dialogue tone—demonstrating how social engineers use these exact concepts to craft convincing pretexts and realistic personas. She explains that effective social engineering relies on establishing believable narratives that resonate with a target's expectations, emotional triggers, and organizational reality.\n\n[21:21] The talk expands on applying creative writing to incident response tabletop simulations. The speaker explains how scenario design, narrative pacing, escalating conflict, and multi-threaded plot twists [31:55] transform boring compliance exercises into immersive, high-stakes simulations that genuinely test an organization's crisis decision-making. She concludes with practical advice on debriefing participants [43:06], using detailed observational notes to provide actionable feedback and strengthen organizational resilience.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3267
     },
     {

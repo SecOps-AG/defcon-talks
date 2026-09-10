@@ -59,7 +59,7 @@
         "blue-team"
       ],
       "teaser": "Project Obsidian walks through triaging and reverse engineering high volumes of malicious email attachments and phishing lures.",
-      "summary": null,
+      "summary": "Security researcher Scrabble leads a hands-on technical workshop for Blue Team Village's Project Obsidian, walking through reverse engineering malware (REM) triage workflows for suspicious phishing attachments and malicious executables.\n\n[07:15] The workshop begins with safe handling and initial static analysis of a malicious payload delivered via an email phishing campaign. Scrabble demonstrates using command-line and graphical static analysis tools (such as PEview, pestudio, and strings) to examine file hashes, inspect compiler timestamps, and evaluate entropy to identify potential packing or encryption routines.\n\n[21:23] The session walks through analyzing Portable Executable (PE) structures, including DOS headers, NT headers, Section headers, and the Import Address Table (IAT). Scrabble shows how examining imported Windows APIs (such as VirtualAlloc, WriteProcessMemory, and CreateRemoteThread) provides immediate indicators of process injection or evasion capabilities. He introduces Ghidra and Capa [28:25] to identify higher-level attacker capabilities, extract embedded command-and-control (C2) URLs and IP addresses, and formulate detection rules without executing the sample in a sandbox.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2152
     },
     {
@@ -135,7 +135,7 @@
         "blue-team"
       ],
       "teaser": "Connor Morley analyzes Windows in-memory injection techniques—including process hollowing and thread hijacking—and how defenders detect them.",
-      "summary": null,
+      "summary": "Connor Morley presents a comprehensive deep-dive into advanced in-memory offensive tradecraft on Windows and the corresponding forensic techniques defenders must use to detect memory manipulation.\n\n[12:04] Morley analyzes how modern adversaries and red teams bypass standard endpoint detection and response (EDR) user-land API hooks. He reviews the mechanics of process injection, DLL unhooking, and direct system calls (Syswhispers, Hell's Gate, and Halo's Gate), explaining how attackers retrieve unhooked syscall numbers directly from ntdll.dll to avoid triggering EDR instrumentation callbacks.\n\n[24:22] The talk delves into kernel-mode hook detection, I/O control (IOCTL) routing, and advanced evasion methods such as Heaven's Gate [37:06] (transitioning between 32-bit WoW64 emulation and 64-bit execution) and Vectored Exception Handling (VEH) manipulation [48:08]. Morley outlines forensic inspection workflows for blue team analysts, showing how to leverage memory analysis frameworks like Volatility, Moneta, and Pe-sieve to identify abnormal memory page protections (PAGE_EXECUTE_READWRITE), detect unbacked executable code, trace modified function preambles, and uncover hidden in-memory implants.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3574
     },
     {
@@ -211,7 +211,7 @@
         "blue-team"
       ],
       "teaser": "Project Obsidian shares guidelines for translating complex forensic findings into clear, impactful incident reports for leadership and stakeholders.",
-      "summary": null,
+      "summary": "Incident responder Count Zero delivers a practical, career-essential guide in the Project Obsidian track on transforming dry technical incident response findings into persuasive, executive-ready final reports.\n\n[06:15] Count Zero breaks down the fundamental anatomy of an incident response report, emphasizing that different stakeholders require distinct communication styles. He explains how to construct an executive summary tailored for C-suite executives and board members that succinctly outlines business impact, data exposure risks, downtime costs, and regulatory compliance obligations without overwhelming readers with low-level command logs.\n\n[12:17] The presentation explores the technical narrative sections of the report, detailing how to document the containment and eradication phases, provide an accurate timeline of adversary actions, and map observed techniques to the MITRE ATT&CK framework. Count Zero shares actionable writing strategies [18:07], emphasizing clear sentence structure, professional visualization of attack chains, and converting investigative lessons-learned into an actionable, prioritized security roadmap [30:01] that justifies cybersecurity budget investments.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1806
     },
     {
@@ -288,7 +288,7 @@
         "threat-hunting"
       ],
       "teaser": "Project Obsidian demonstrates using Chainsaw and Sigma rules to rapidly parse gigabytes of Windows event logs and identify malicious artifacts.",
-      "summary": null,
+      "summary": "Danny Henderson (Bane) demonstrates high-speed digital forensics and incident response (DFIR) triage in \"Using Chainsaw to Identify Malicious Activity,\" part of the Blue Team Village Project Obsidian workshop series.\n\n[03:08] Henderson introduces \"Chainsaw,\" an open-source, high-performance forensic tool written in Rust designed to rapidly search, parse, and extract intelligence from Windows Event Logs (.evtx). He explains how Chainsaw addresses the performance bottlenecks of native Event Viewer and slower PowerShell scripts when analyzing gigabytes of event logs across dozens of compromised endpoints.\n\n[07:43] The workshop walks through practical command syntax and flag configurations, demonstrating how to execute generic string searches, extract targeted event IDs (such as logon failures, service creation, and process execution), and map activity chronologically. Henderson showcases Chainsaw's integration with Sigma detection rules [12:36], demonstrating how the tool automatically detects adversary behaviors [16:44]—including credential dumping, suspicious scheduled task generation, and lateral movement via PsExec—generating structured output that dramatically accelerates incident triage.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1290
     },
     {
@@ -364,7 +364,7 @@
         "education"
       ],
       "teaser": "Sarthak Taneja presents an accessible, real-world approach to threat modeling, showing how everyday risk intuition translates to software and architecture defense.",
-      "summary": null,
+      "summary": "Sarthak Taneja demystifies threat modeling by connecting software security concepts to intuitive, everyday risk assessments that anyone—including non-technical stakeholders—can easily understand.\n\n[04:44] Taneja explains that threat modeling is fundamentally a structured risk management process rather than an arcane security discipline. He grounds the practice in Adam Shostack's four core threat modeling questions: What are we building? What can go wrong? What are we going to do about it? Did we do a good job?\n\n[09:22] The presentation walks through the STRIDE threat modeling framework, translating each category into accessible analogies: Spoofing (identity falsification), Tampering (data manipulation), Repudiation (denying actions), Information Disclosure (data leakage), Denial of Service (availability loss), and Elevation of Privilege (unauthorized permissions). Taneja demonstrates how development teams and product owners can incorporate lightweight threat modeling [14:13] into agile sprints, prioritize residual risks [18:46], and design security countermeasures early in the software development lifecycle.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1403
     },
     {
@@ -440,7 +440,7 @@
         "blue-team"
       ],
       "teaser": "Project Obsidian details hunting for malicious scheduled tasks, cron jobs, and stealthy persistence mechanisms across enterprise endpoints.",
-      "summary": null,
+      "summary": "This Project Obsidian threat hunting workshop provides an extensive, hands-on methodology for detecting adversary persistence on Windows systems by hunting for malicious scheduled tasks.\n\n[09:03] The instructor explains how to formulate structured threat hunting hypotheses based on real-world adversary tradecraft documented in threat intelligence reports, using campaigns by advanced persistent threat groups (such as Hafnium [18:48]) as practical case studies.\n\n[29:03] The session guides participants through querying endpoint telemetry, Windows Event Logs (Event IDs 4698, 4700, and 4702), and sysmon logs to detect anomalies. The instructor demonstrates identifying suspicious parent-child process hierarchies [39:19]—such as PowerShell executing cmd.exe or schtasks.exe to register hidden tasks—auditing scheduled task XML configuration files on disk, and inspecting registry keys (HKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache) to uncover stealthy persistence mechanisms that evade basic autorun scanners.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2975
     },
     {

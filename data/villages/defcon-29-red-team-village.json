@@ -61,7 +61,7 @@
         "hardware-hacking"
       ],
       "teaser": "A hands-on maker session demonstrating custom mechanical keyboard assembly, PCB soldering, key switch lubing, and firmware flashing.",
-      "summary": null,
+      "summary": "The Red Team Village hosts an interactive, comprehensive workshop on building and customizing high-performance mechanical keyboards, bridging hardware craftsmanship with daily operational tools for security researchers and developers.\n\n[18:15] The presenter breaks down the essential hardware components of custom keyboards, comparing printed circuit board (PCB) designs, soldered connections, and hot-swappable switch sockets. He details the mechanical characteristics of keyboard switches—contrasting linear, tactile, and clicky variants across Cherry MX, Gateron, and Kailh ecosystems—and demonstrates the meticulous process of switch lubing (using Krytox 205g0) and stabilizer clipping/tuning to eliminate rattle and improve tactile feedback.\n\n[35:51] The session explores premium case construction, acoustic dampening materials, plate choices (brass, aluminum, polycarbonate, FR4), and custom metal finishes, including patina techniques on solid copper and brass weights. The workshop concludes with demonstrations of open-source firmware customization using QMK and VIA [53:43], showing how to program custom keymaps, macro layers, and dynamic RGB backlighting to enhance productivity during security testing and programming.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 4997
     },
     {
@@ -129,7 +129,7 @@
         "community"
       ],
       "teaser": "Kickoff briefing, rules of engagement, and Day 1 scoreboard update for the DEF CON 29 Red Team Village CTF.",
-      "summary": null,
+      "summary": "This introductory broadcast marks the official kick-off of Day 1 of the DEF CON 29 Red Team Village Capture the Flag (CTF) competition.\n\nThe video welcomes attendees and virtual participants to the multi-day offensive cybersecurity tournament, highlighting the realistic adversary simulation tracks and enterprise network architectures designed for the competition. Participants are challenged to test their technical skills in external network reconnaissance, initial access, active directory exploitation, privilege escalation, lateral movement, and command-and-control operations across complex hybrid target environments.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 51
     },
     {
