@@ -1521,7 +1521,7 @@
       "youtubeId": "jfX4YIWScoo",
       "title": "Hacker Jeopardy: Night 1",
       "slug": "hacker-jeopardy-night-1-dc32",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-main.json",
@@ -1529,7 +1529,7 @@
       "youtubeId": "_0kKEPLbLds",
       "title": "Trailer",
       "slug": "def-con-32-trailer",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1537,7 +1537,7 @@
       "youtubeId": "G9hAgitK-wE",
       "title": "Scanning with Daniel: Badge and RF Reconnaissance",
       "slug": "scanning-with-daniel-badge-and-rf-reconnaissance",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1545,7 +1545,7 @@
       "youtubeId": "CVflCxKFE8Y",
       "title": "OWASP at DEF CON 32",
       "slug": "owasp-at-def-con-32",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1553,7 +1553,7 @@
       "youtubeId": "INOGwDyJ-8M",
       "title": "Women in Security and Privacy (WISP) Spotlight",
       "slug": "women-in-security-and-privacy-wisp-spotlight",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1561,7 +1561,7 @@
       "youtubeId": "bgtaGcN6FZU",
       "title": "Clue Hunt Winner Interview: Marco",
       "slug": "clue-hunt-winner-interview-marco",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1569,7 +1569,7 @@
       "youtubeId": "Fy-3P8v5e8g",
       "title": "Hardware Hacking and Soldering Skills Village",
       "slug": "hardware-hacking-and-soldering-skills-village",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1577,7 +1577,7 @@
       "youtubeId": "ntqNaFysYI0",
       "title": "Car Hacking Village Showcase",
       "slug": "car-hacking-village-showcase-dc32",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1585,7 +1585,7 @@
       "youtubeId": "EuuXHQNztZc",
       "title": "Badgelife: The Art and Engineering of Custom Badges",
       "slug": "badgelife-the-art-and-engineering-of-custom-badges",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-32-village-interviews.json",
@@ -1593,7 +1593,7 @@
       "youtubeId": "Mdqh2n8f_uQ",
       "title": "Blacks In Cybersecurity Village Spotlight",
       "slug": "blacks-in-cybersecurity-village-spotlight",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-33-blacks-in-cybersecurity-village.json",
