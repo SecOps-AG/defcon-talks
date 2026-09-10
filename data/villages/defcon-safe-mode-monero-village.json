@@ -54,7 +54,7 @@
         "contest"
       ],
       "teaser": "Interactive Monero community trivia contest covering privacy technology, cryptocurrency history, and meme culture.",
-      "summary": null,
+      "summary": "In this energetic virtual contest from the DEF CON Safe Mode Monero Village, the host leads a live interactive trivia game testing participants' knowledge of privacy-preserving cryptocurrencies. Opening at 00:00, the host launches a multi-round Kahoot challenge covering cryptographic primitives, Monero protocol history, and blockchain privacy mechanisms.\n\nAt 10:01 and 19:01, questions explore zero-knowledge bulletproofs, ring confidential transactions (RingCT), stealth addresses, and the evolution of transaction verification efficiency.\n\nConcluding at 28:01, the game covers coinbase output mechanics and mining decentralization, offering an engaging and educational review of privacy coin economics for community members. (AI summary — Gemini Flash)",
       "durationSeconds": 2178
     },
     {
@@ -124,7 +124,7 @@
         "blockchain"
       ],
       "teaser": "Analyzes Monero coinbase transaction outputs, mining reward distributions, and their implications for on-chain privacy.",
-      "summary": null,
+      "summary": "In this cryptographic analysis from the DEF CON Safe Mode Monero Village, a blockchain researcher explores privacy degradation risks associated with coinbase outputs in the Monero network. Opening at 00:00, the speaker introduces the concept of newly minted mining reward outputs (coinbase outputs) and explains why mixing them with regular transaction outputs creates unintended privacy side effects.\n\nAt 06:01 and 12:01, the presenter breaks down mining pool payout behaviors, showing how predictable spending patterns of mining pools allow external observers to distinguish true spenders from decoy outputs in ring signatures.\n\nConcluding at 18:01 and 24:01, the researcher details statistical deanonymization heuristics that exploit \"toxic\" coinbase pools and proposes protocol modifications to segregate coinbase outputs to preserve RingCT anonymity. (AI summary — Gemini Flash)",
       "durationSeconds": 1540
     },
     {
@@ -196,7 +196,7 @@
         "radio"
       ],
       "teaser": "Presents Locha Mesh, an open-source decentralized radio mesh networking device for transmitting Monero transactions offline.",
-      "summary": null,
+      "summary": "In this decentralized hardware demonstration from the DEF CON Safe Mode Monero Village, developers present Locha Mesh, an open-source hardware initiative enabling private, off-grid cryptocurrency transactions. Opening at 00:07, the speakers thank the community and introduce the Turpial hardware device, designed to facilitate peer-to-peer radio mesh communications.\n\nAt 05:06 and 10:07, the presenters demonstrate live terminal and graphical interfaces, showing how transactions are constructed and transmitted across local radio mesh nodes without internet access.\n\nConcluding at 15:00 and 20:00, the developers illustrate broadcasting Monero and Bitcoin Lightning transactions through mesh relays to reach internet gateways, explaining incentivization models that enable uncensored financial transactions during network blackouts. (AI summary — Gemini Flash)",
       "durationSeconds": 1367
     },
     {
