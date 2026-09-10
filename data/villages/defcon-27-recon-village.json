@@ -77,7 +77,7 @@
         "security-research"
       ],
       "teaser": "Social Media The New Court of Public opinion",
-      "summary": null,
+      "summary": "Susan examines the sociotechnical impact of social media as the modern \"Court of Public Opinion\" and its implications for open-source intelligence (OSINT), information security, and cognitive bias within Security Operations Centers (SOCs).\n\n[03:39] The presentation explores how the transition from traditional news media to fast-moving social media platforms (such as Twitter and Facebook) has accelerated the virality of unverified allegations. Susan analyzes the psychology of rapid public condemnation, showing how initial viral posts often establish persistent public narratives before factual corroboration or investigative verification can take place.\n\n[06:29] Using cultural analogies—such as the misdirection surrounding Professor Snape and Professor Quirrell in Harry Potter—and real-world case studies (including a viral West Virginia mall abduction scare [09:46] and the Covington Catholic encounter [11:16]), Susan demonstrates how initial media portrayals often omit crucial context. She examines the escalation of disinformation into conspiracy theories like Pizzagate [14:08] and highlights the psychological drivers of confirmation bias, the Dunning-Kruger effect, and halo/horns effects [16:16]. The talk concludes by challenging intelligence analysts and security professionals [19:48] to develop rigorous self-awareness, question viral consensus, evaluate corroborating evidence, and counteract unconscious cognitive biases during investigations.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1238
     },
     {
