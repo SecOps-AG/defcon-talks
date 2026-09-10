@@ -20,7 +20,7 @@
         "security-engineering"
       ],
       "teaser": "Lessons from building a scalable security platform on serverless cloud infrastructure.",
-      "summary": null,
+      "summary": "An engineering lead from Jit delivers a guide to architecting secure, production-ready serverless applications in the Cloud Village, addressing the misconceptions surrounding serverless security [00:00]. While cloud providers manage underlying physical infrastructure and OS patching, the speaker clarifies that tenants remain entirely responsible for identity, access controls, code vulnerabilities, secrets management, and runtime logging under the shared responsibility model [02:33].\n\nThe presentation maps the OWASP Top 10 vulnerabilities directly onto serverless architectures, detailing mitigations for broken access controls, command injection, and vulnerable third-party dependencies [03:03, 05:31]. The speaker demonstrates automated enforcement strategies, including deploying AWS IAM Access Analyzer to restrict overly permissive Lambda execution roles down to least-privilege policies [08:05, 10:52], configuring Amazon CloudWatch metric alarms to detect anomalous DynamoDB scans [11:16], using open-source tools like Prowler and Checkov for infrastructure-as-code linting [13:36, 14:10], and running Google OSV Scanner to detect outdated dependencies and unmaintained Lambda runtime environments [16:41, 17:33].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1357
     },
     {
@@ -93,7 +93,7 @@
         "red-team"
       ],
       "teaser": "Exfiltrating cloud data from behind Google Identity-Aware Proxy without a public IP.",
-      "summary": null,
+      "summary": "A cloud security researcher demonstrates how Google Cloud Platform's Identity-Aware Proxy (IAP) can be covertly abused to exfiltrate sensitive data from internal applications without requiring public IP assignments or external network access [00:00]. The talk begins with an architectural breakdown of GCP IAP, explaining how the proxy acts as a centralized perimeter that verifies user identities, enforces IAM policies, and injects authenticated identity tokens into requests forwarded to backend App Engine, Compute Engine, or GKE workloads [01:15, 02:11].\n\nThe researcher details a vulnerability stemming from cross-origin resource sharing (CORS) handling, where unauthenticated HTTP OPTIONS preflight requests are permitted through IAP by design to allow browser preflight negotiations [08:56, 09:06]. By gaining access to application configuration files (such as app.yaml) via CI/CD pipelines or internal App Engine deployment roles, an insider or compromised account can dynamically embed internal secrets into the Access-Control-Allow-Origin response header [13:26, 13:48]. An external attacker can then issue unauthenticated OPTIONS requests to harvest the reflected secrets from outside the protected network [11:26]. The session concludes with detection strategies using Cloud Audit Logs to identify rapid bursts of App Engine createVersion API events [15:42] and recommendations for hardening deployment pipelines.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1074
     },
     {
