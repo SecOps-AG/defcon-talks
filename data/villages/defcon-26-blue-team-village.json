@@ -19,7 +19,7 @@
         "blue-team"
       ],
       "teaser": "Cloud Security Myths",
-      "summary": "Defensive security: Cloud Security Myths. Best practices and common misconceptions.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Defensive security: Cloud Security Myths. Best practices and common misconceptions.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2692
     },
     {
@@ -53,7 +53,7 @@
         "defense"
       ],
       "teaser": "Effective Log and Events Management",
-      "summary": "Defensive security: Effective Log and Events Management. Best practices and common misconceptions.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Defensive security: Effective Log and Events Management. Best practices and common misconceptions.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1229
     },
     {
@@ -70,7 +70,7 @@
         "threat-intel"
       ],
       "teaser": "Evolving Security Operations to the Year 2020",
-      "summary": null,
+      "summary": "### Practical Blue Team Operations for the Next Decade\nAt 00:00, IrishMasms delivers an energetic guide to modernizing enterprise Security Operations Centers (SOCs) at the Blue Team Village. The presentation cuts through industry hype to provide pragmatic guidance for defensive practitioners and engineering leads.\n\n### Securing Executive Buy-In and Strategic Funding\nAt 08:04, IrishMasms explains how SOC leaders must communicate security value to executive stakeholders. By mapping defensive capabilities to concrete risk reduction and regulatory compliance, security teams can secure the long-term operational budget required for staff and tooling.\n\n### Asset Discovery and Sensor Placement Fundamentals\nAt 16:37, the speaker highlights visibility as the foundation of defense. A detection program is only as good as its asset inventory; teams must establish accurate counts of monitored hosts, virtual workloads, and network telemetry sources before attempting advanced analytics.\n\n### Network Traffic Architecture: SPAN Ports vs. Dedicated TAPs\nAt 24:51, the presentation critiques widespread reliance on switch SPAN ports. IrishMasms warns that SPAN ports drop packets under high-load conditions and were never designed for permanent monitoring, advocating for dedicated hardware test access points (TAPs) and packet brokers.\n\n### Vendor Evaluation and Operational Sustainability\nConcluding between 33:21 and 40:00, IrishMasms offers practical advice on evaluating vendor pitches. He advises blue teams to prioritize interoperable, well-documented tooling over black-box AI platforms and to design sustainable analyst shift rotations that prevent operational burnout.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2495
     },
     {
@@ -87,7 +87,7 @@
         "blue-team"
       ],
       "teaser": "Hacking Your Dev Job to Save the World",
-      "summary": "Secure development: Hacking Your Dev Job to Save the World. Developer responsibilities in security.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Secure development: Hacking Your Dev Job to Save the World. Developer responsibilities in security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2162
     },
     {
@@ -121,7 +121,7 @@
         "blue-team"
       ],
       "teaser": "SAEDAY Subversion and Espionage Directed Against You",
-      "summary": "Threat defense: SAEDAY Subversion and Espionage Directed Against You. Countering espionage and insider threats.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Threat defense: SAEDAY Subversion and Espionage Directed Against You. Countering espionage and insider threats.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2960
     },
     {
@@ -155,7 +155,7 @@
         "community"
       ],
       "teaser": "Open Source Endpoint Monitoring",
-      "summary": "Defensive security: Open Source Endpoint Monitoring. Best practices and common misconceptions.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Defensive security: Open Source Endpoint Monitoring. Best practices and common misconceptions.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2550
     }
   ]
