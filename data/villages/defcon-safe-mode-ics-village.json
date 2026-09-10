@@ -76,7 +76,7 @@
         "control-systems"
       ],
       "teaser": "Examines systemic architectural flaws and insecure-by-design vulnerabilities in turbine control systems.",
-      "summary": null,
+      "summary": "This DEF CON talk covers on the insecure nature of turbine control systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3002
     },
     {
@@ -150,7 +150,7 @@
         "policy"
       ],
       "teaser": "Provides an overview of the industrial cybersecurity landscape, threats, and regulatory status in Mexico.",
-      "summary": null,
+      "summary": "This talk covers industrial control systems security and critical infrastructure protection.\n\nKey topics discussed include: Kind: captions Language: en hi hi hi everyone<00:00:08. 480><c> we</c><00:00:08.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1493
     },
     {
@@ -220,7 +220,7 @@
         "power-systems"
       ],
       "teaser": "Explores security research and vulnerabilities in electrical power distribution systems and substations.",
-      "summary": null,
+      "summary": "This DEF CON talk covers playing with electricity.\n\nKey topics discussed include: Kind: captions Language: en thank<00:00:00. 799><c> you</c><00:00:02.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3566
     },
     {
@@ -293,7 +293,7 @@
         "ics-ot"
       ],
       "teaser": "Analyzes how sophisticated adversaries design malware to target industrial physical processes and induce mission kills.",
-      "summary": null,
+      "summary": "This talk covers industrial control systems security and critical infrastructure protection.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1878
     }
   ]
