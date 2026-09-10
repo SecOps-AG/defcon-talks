@@ -38,7 +38,7 @@
         "opening-remarks"
       ],
       "teaser": "Opening remarks for DEF CON 26 AI Village conference track.",
-      "summary": "Opening remarks: Opening Remarks. Brief introductory content.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Opening remarks: Opening Remarks. Brief introductory content.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 194
     },
     {
@@ -56,7 +56,7 @@
         "prize-awards"
       ],
       "teaser": "Closing remarks and prize announcements for DEF CON 26 AI Village.",
-      "summary": null,
+      "summary": "### Celebrating the Inaugural AI Village\nAt 00:00, co-founder Clarence Chio closes out the first-ever AI Village at DEF CON 26. Chio expresses deep gratitude to the speakers, sponsors, volunteers, and the security community whose enthusiasm generated massive queues and standing-room-only crowds.\n\n### Expanding the Frontier of Artificial Intelligence Security\nAt 00:15 and 00:36, Chio reviews key achievements of the debut village, noting the critical importance of bringing together machine learning practitioners and traditional security researchers. He encourages attendees to get involved, submit research, and prepare for an expanded village footprint with new CTF competitions at DEF CON 27.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 52
     },
     {
@@ -170,7 +170,7 @@
         "threat-detection"
       ],
       "teaser": "Using automated planning and AI to improve red team offensive operations.",
-      "summary": "AI security: Automated Planning for the Automated Red Team. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI security: Automated Planning for the Automated Red Team. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1649
     },
     {
@@ -206,7 +206,7 @@
         "model-security"
       ],
       "teaser": "Machine learning applications and techniques in cybersecurity.",
-      "summary": "AI security: Hunting the Ethereum Smart Contract Color Inspired Inspection. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI security: Hunting the Ethereum Smart Contract Color Inspired Inspection. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1607
     },
     {
@@ -242,7 +242,7 @@
         "robustness"
       ],
       "teaser": "Adversarial machine learning techniques and defense mechanisms.",
-      "summary": "AI safety: Towards a Framework to Quantitatively Assess AI Safety. Framework and evaluation methods discussed throughout.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI safety: Towards a Framework to Quantitatively Assess AI Safety. Framework and evaluation methods discussed throughout.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1890
     },
     {
@@ -278,7 +278,7 @@
         "model-hardening"
       ],
       "teaser": "Defensive machine learning strategies against adversarial attacks.",
-      "summary": "AI adversarial attacks: StuxNNet Practical Live Memory Attacks on Machine Learning. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI adversarial attacks: StuxNNet Practical Live Memory Attacks on Machine Learning. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1196
     },
     {
@@ -296,7 +296,7 @@
         "ai-security"
       ],
       "teaser": "Neural network approaches to cybersecurity challenges.",
-      "summary": null,
+      "summary": "### High-Throughput Malware Clustering Challenges\nAt 00:00, Matt opens his AI Village talk on scalable nearest-neighbor algorithms for malware analysis. He outlines the operational challenge facing threat intelligence teams who must process and classify hundreds of thousands of newly discovered binary samples daily.\n\n### Approximate Nearest Neighbors and Locality Sensitive Hashing\nAt 05:03, Matt explores the computational limitations of exhaustive pairwise distance comparisons across large binary corpuses. He demonstrates how Approximate Nearest Neighbor (ANN) indexing and Locality Sensitive Hashing (LSH) reduce quadratic comparison complexity to sub-linear time by hashing similar binaries into shared buckets.\n\n### Building Multi-Index Architectures for Rapid Retrieval\nAt 10:08, the presentation details the construction of multi-index hashing tables. By partitioning feature spaces across multiple hash tables, analysts can tune the tradeoff between search precision, recall rates, and query latency across millions of samples.\n\n### Feature Extraction from Portable Executable Headers\nAt 15:30 and 20:58, Matt discusses feature engineering methodologies for Windows Portable Executable (PE) binaries. He details how combining import address tables, section byte-entropies, compiler metadata, and custom similarity hashing creates dense vector representations capable of detecting polymorphic malware families.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1647
     },
     {
@@ -314,7 +314,7 @@
         "adversarial-examples"
       ],
       "teaser": "Malware detection using machine learning classifiers.",
-      "summary": "AI security: Rapid Anomaly Detection via Ransom Note File Classification. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI security: Rapid Anomaly Detection via Ransom Note File Classification. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2338
     },
     {
@@ -350,7 +350,7 @@
         "defensive-ml"
       ],
       "teaser": "Threat detection using defensive machine learning techniques.",
-      "summary": "AI adversarial attacks: DeepPhish Simulating the Malicious Use of AI. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI adversarial attacks: DeepPhish Simulating the Malicious Use of AI. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 927
     },
     {
@@ -386,7 +386,7 @@
         "model-analysis"
       ],
       "teaser": "Security research applications of machine learning analysis.",
-      "summary": "AI-based defense: Detecting Web Attacks with Recurrent Neural Networks. Detection approaches covered early. Case studies in second half.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI-based defense: Detecting Web Attacks with Recurrent Neural Networks. Detection approaches covered early. Case studies in second half.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1961
     },
     {
@@ -423,7 +423,7 @@
         "ai-security"
       ],
       "teaser": "An overview of recent progress and developments in adversarial deep learning attacks and defenses.",
-      "summary": "AI security: Recent Progress in Adversarial Deep Learning. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI security: Recent Progress in Adversarial Deep Learning. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1118
     },
     {
@@ -441,7 +441,7 @@
         "ai-defense"
       ],
       "teaser": "Techniques and empirical results in adversarial training for hardening neural network models against evasion.",
-      "summary": null,
+      "summary": "### Adversarial Attacks Against Computer Vision Systems\nAt 00:00, Wenqing Cao and Yaohua Guo present their winning competition methodology for generating targeted adversarial images against deep neural networks at the AI Village. They explain how minor input perturbations deceive state-of-the-art vision models.\n\n### Gradient-Based Perturbation Generation\nAt 02:20, the speakers break down gradient-based attack mechanics, including Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD). By computing gradients of model loss functions with respect to input pixels, attackers craft high-frequency, imperceptible image noise that forces targeted misclassifications.\n\n### Black-Box Attack Transferability Across Architectures\nAt 04:56, Cao and Guo address black-box attack scenarios where model architectures and weights are hidden from the attacker. They explain how training diverse ensembles of surrogate models generates perturbations that generalize and transfer successfully across unobserved target classifiers.\n\n### Optimization Under Budget Constraints and Submission Limits\nAt 06:55 and 11:22, the presenters share practical optimization strategies used during competition rounds under strict rate limits. They demonstrate how fine-tuning step sizes and gradient momentum produces robust adversarial samples with minimal query expenditures.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 693
     },
     {
@@ -460,7 +460,7 @@
         "ai-security"
       ],
       "teaser": "Practical black-box and gradient-free adversarial attack methodologies against machine learning systems.",
-      "summary": "AI adversarial attacks: Practical Adversarial Attacks. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI adversarial attacks: Practical Adversarial Attacks. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1959
     },
     {
@@ -497,7 +497,7 @@
         "object-detection"
       ],
       "teaser": "Adversarial physical and digital perturbations that make objects disappear from autonomous driving perception models.",
-      "summary": "AI adversarial attacks: The Vanishing Trick for Self-Driving Cars. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI adversarial attacks: The Vanishing Trick for Self-Driving Cars. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1650
     },
     {
@@ -534,7 +534,7 @@
         "ai-security"
       ],
       "teaser": "Adapting and mutating malware samples using adversarial techniques to bypass machine-learning antivirus detectors.",
-      "summary": "AI security: Weapons for Dog Fight: Adapting Malware. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI security: Weapons for Dog Fight: Adapting Malware. At 2:00-3:00, problem statement. Around 6:00-8:00, technical approach. Later sections (12:00+) show results.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1378
     },
     {
@@ -571,7 +571,7 @@
         "evasion"
       ],
       "teaser": "Creating transferable adversarial perturbations that reliably fool multiple disparate machine learning architectures.",
-      "summary": "AI adversarial attacks: Transferable Adversarial Perturbations. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "AI adversarial attacks: Transferable Adversarial Perturbations. At 3:00-4:00, attack methodology introduced. Mid-presentation demonstrates practical exploitation.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 592
     },
     {
@@ -589,7 +589,7 @@
         "ai-security"
       ],
       "teaser": "Designing hardware trojan exploits embedded directly into neural network accelerator silicon and hardware.",
-      "summary": null,
+      "summary": "### The Threat of Hardware Trojans in Deep Learning Hardware\nAt 00:00, Joseph Clements presents research on the vulnerabilities of dedicated neural network processing chips at the AI Village. Clements examines how malicious modifications introduced during silicon design or manufacturing compromise deep learning models running on edge devices.\n\n### Embedded Systems Constraints and Specialized Accelerators\nAt 04:39, Clements reviews the architectural trade-offs of deploying deep neural networks on battery-constrained edge platforms. To achieve real-time performance, mobile systems rely heavily on dedicated ASIC and FPGA hardware accelerators whose complex silicon layouts are difficult to verify.\n\n### Supply Chain Risks in Semiconductor Fabrication\nAt 09:49 and 14:50, the talk explores semiconductor supply chain vectors. Because modern chip design relies on outsourced third-party fabrication foundries and commercial intellectual property (IP) cores, adversaries can insert dormant hardware trojans into mask sets prior to fabrication without detection.\n\n### Trigger Mechanics and Activation Manipulation in Silicon\nAt 19:34, Clements details how hardware trojans operate in silicon. By altering arithmetic logic units or modifying internal activation function circuits upon receiving subtle hardware or physical triggers, the trojan forces targeted model misclassifications while behaving normally under diagnostic test suites.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1478
     }
   ]

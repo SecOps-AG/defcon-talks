@@ -40,7 +40,7 @@
         "reverse-engineering"
       ],
       "teaser": "Packet sniffing and reverse engineering of GoTenna wireless communication devices.",
-      "summary": "Wireless/RF security: GODUMPiNG packet sniffing the Gotenna. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Wireless/RF security: GODUMPiNG packet sniffing the Gotenna. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3383
     },
     {
@@ -80,7 +80,7 @@
         "amplification"
       ],
       "teaser": "Hardware design and implementation of automatic gain control circuits for RF receivers.",
-      "summary": "Wireless/RF security: Designing An Automatic Gain Control. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Wireless/RF security: Designing An Automatic Gain Control. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3071
     },
     {
@@ -99,7 +99,7 @@
         "simplisafe"
       ],
       "teaser": "Exploitation techniques against SimpliSafe home security systems via wireless attack vectors.",
-      "summary": null,
+      "summary": "### Physical and Wireless Attack Surfaces in Consumer Security\nAt 00:00, security researcher Nick DePetrillo examines wireless physical security weaknesses in SimpliSafe consumer home alarm systems at the Wireless Village. He discusses the growing reliance of residential security on unencrypted, low-power radio frequency protocols.\n\n### Radio Reconnaissance on ISM Bands\nAt 13:12, DePetrillo explains his methodology for reverse-engineering SimpliSafe keypad and sensor communications. Operating across the 433 MHz and 315 MHz ISM bands, he reveals that early SimpliSafe hardware communicates in unencrypted, unauthenticated radio packets between window/door contacts, base stations, and keypads.\n\n### Replay Attacks and Packet Injection via Software-Defined Radio\nAt 26:39, the speaker demonstrates how low-cost Software-Defined Radio (SDR) hardware (such as RTL-SDR and the Yard Stick One) can capture wireless transmission sequences. By analyzing recorded signal waveforms, he constructs Python scripts to forge alarm state messages and replay legitimate disarm transmissions.\n\n### Cleartext PIN Interception and Silent System Disarming\nAt 39:40, DePetrillo demonstrates the capture of cleartext administrative PIN codes transmitted by keypads during daily operation. An adversary stationed outside a property can intercept the passcode over the air, spoof a valid disarm command, and suppress alarm notifications without notifying the homeowner or monitoring station.\n\n### Engineering Mitigations: Cryptographic Authentication and Rolling Codes\nConcluding around 45:00, DePetrillo contrasts insecure static radio packets with robust wireless cryptographic standards. He stresses that consumer alarm manufacturers must implement rolling code mechanisms, cryptographic message authentication (such as AES-CCM), and secure key exchange to prevent unauthorized interception.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3171
     },
     {
@@ -118,7 +118,7 @@
         "surveillance"
       ],
       "teaser": "Practical signal intelligence techniques and tools for reconnaissance and monitoring of wireless communications.",
-      "summary": "Wireless/RF security: Sigint for the rest of us. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Wireless/RF security: Sigint for the rest of us. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3954
     },
     {
@@ -156,7 +156,7 @@
         "protocols"
       ],
       "teaser": "Exploration of wireless hacking techniques and tools for discovering and exploiting RF-based systems.",
-      "summary": "Wireless/RF security: Hacking Some More of the Wireless World. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Wireless/RF security: Hacking Some More of the Wireless World. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 6391
     },
     {
@@ -194,7 +194,7 @@
         "protocol-analysis"
       ],
       "teaser": "Monitoring and understanding POCSAG amateur pager network protocols and communications.",
-      "summary": "Wireless/RF security: POCSAG Amateur Pager Network. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Wireless/RF security: POCSAG Amateur Pager Network. Early sections cover foundational concepts. Around 5:00-8:00, technical demonstrations. Mid-talk (10:00+) explores advanced techniques.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1715
     },
     {
