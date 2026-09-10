@@ -2401,7 +2401,7 @@
       "youtubeId": "-712GV6mtRY",
       "title": "PathWell Dynamic Password Strength Enforcement",
       "slug": "pathwell-dynamic-password-strength-enforcement",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-password-village.json",
@@ -2409,7 +2409,7 @@
       "youtubeId": "Gr_1_LDUZSY",
       "title": "Getting Started with Hashcat (Tutorial)",
       "slug": "getting-started-with-hashcat-tutorial",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-payment-village.json",
@@ -2417,7 +2417,7 @@
       "youtubeId": "EI14PtTmOzI",
       "title": "Welcome to the Payment Village",
       "slug": "welcome-to-the-payment-village",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-recon-village.json",
@@ -2425,7 +2425,7 @@
       "youtubeId": "iI077rK6HPI",
       "title": "Hunting for Blue Mockingbird Coinminers",
       "slug": "hunting-for-blue-mockingbird-coinminers",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-recon-village.json",
@@ -2433,7 +2433,7 @@
       "youtubeId": "PWeKDjMtC9M",
       "title": "Hunting for Blue Mockingbird Coinminers (Session 2)",
       "slug": "hunting-for-blue-mockingbird-coinminers-session-2",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-red-team-village.json",
@@ -2441,7 +2441,7 @@
       "youtubeId": "S8geErf2Sos",
       "title": "Evil Genius: Why You Shouldn't Trust That Keyboard",
       "slug": "safe-mode-red-team-village-mauro-casere-evil-genius-why-you-shou",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-red-team-village.json",
@@ -2449,7 +2449,7 @@
       "youtubeId": "Tc8gWwf3KAc",
       "title": "Evil Genius: Why you shouldn't trust that keyboard by Mauro Caceres & Farith Perez",
       "slug": "evil-genius-why-you-shouldn-t-trust-that-keyboard-by-mauro-cacer",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-red-team-village.json",
@@ -2457,7 +2457,7 @@
       "youtubeId": "un2EbYjp3Zg",
       "title": "OU having a laugh? - Petros Koutroumpis",
       "slug": "ou-having-a-laugh-petros-koutroumpis",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-red-team-village.json",
@@ -2465,7 +2465,7 @@
       "youtubeId": "_i17MaZaJHM",
       "title": "Weaponized XSS - Moving Beyond Alert(1) by Ray Doyle",
       "slug": "weaponized-xss-moving-beyond-alert-1-by-ray-doyle",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-red-team-village.json",
@@ -2473,7 +2473,7 @@
       "youtubeId": "ShedHPvT2lw",
       "title": "Bypassing in Mobile Network From Red-Team Points of View",
       "slug": "bypassing-in-mobile-network-from-red-team-points-of-view",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-red-team-village.json",
