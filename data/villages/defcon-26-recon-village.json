@@ -115,7 +115,7 @@
         "event-intro"
       ],
       "teaser": "Opening remarks for DEF CON 26 Recon Village.",
-      "summary": null,
+      "summary": "### Welcoming the DEF CON 26 Recon Village\nAt 00:00, Recon Village lead coordinator Sudhanshu Chauhan welcomes attendees to DEF CON 26, reflecting on the community's enthusiastic reception and the growing importance of Open Source Intelligence (OSINT).\n\n### Overview of Village Tracks, Tool Demos, and CTF\nAt 01:01, Chauhan outlines the weekend's schedule, highlighting expert technical lectures, live open-source tool demonstration stages, and the annual OSINT capture-the-flag (CTF) tournament designed to challenge investigative methodology.\n\n### Empowering Grassroots Tool Development\nAt 02:00, the speaker emphasizes the village's mission to nurture grassroots open-source tooling. He encourages aspiring researchers to publish and share custom automation scripts, noting that community encouragement and peer feedback are vital for advancing the OSINT ecosystem.\n\n### Setting the Stage for Investigative Keynotes\nConcluding at 03:01, Chauhan introduces the track organizers and hands over the stage to commence the village's keynote presentations and collaborative research workshops.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 216
     },
     {
@@ -354,7 +354,7 @@
         "osint-intelligence"
       ],
       "teaser": "Keynote on analyzing breaches and investigation techniques from breach to legal action.",
-      "summary": null,
+      "summary": "### Keynote: Tracing Adversaries From Breach to Bust\nAt 00:00, Andrew Macpherson (Andrew Mohawk) delivers the DEF CON 26 Recon Village Keynote, presenting advanced entity-relationship graph analysis techniques for tracing cybercriminals from initial corporate data breaches to real-world attribution.\n\n### Ingesting and Structuring Compromised Data\nAt 07:00, Macpherson explores the processing of unstructured breach datasets. Corporate leaks, underground forum dumps, and stolen credential collections contain millions of disparate data points—including email addresses, IP logs, usernames, and cryptocurrency addresses—that must be normalized for automated analysis.\n\n### Visual Layouts and Relational Graph Models\nAt 14:01, the speaker demonstrates how graph algorithms reveal hidden relational patterns. Rather than analyzing spreadsheets, plotting breach indicators as interconnected nodes and edges allows investigators to identify central communication hubs, shared hosting servers, and common administrative personas.\n\n### Case Studies: Piercing Online Anonymity\nAt 21:02 and 28:00, Macpherson walks through real-world forensic investigations. By pivoting across WHOIS registration records, forum post timestamps, and leaked database hashes using custom Maltego transforms, he illustrates how subtle operational security (OPSEC) failures unmask pseudonymous threat actors.\n\n### Ethical Governance and Privacy in OSINT Investigations\nConcluding at 35:01, Macpherson addresses the ethical and regulatory boundaries of OSINT research. He discusses data protection standards (including GDPR), the risks of aggregating non-consensual personal data, and the professional responsibility investigators carry when managing sensitive intelligence.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2194
     },
     {

@@ -20,7 +20,7 @@
         "red-teaming",
         "intelligence-gathering"
       ],
-      "teaser": "DEF CON SECTF champions demonstrate advanced hunting techniques\u2014combining phishing, OSINT, and red team tactics to track and engage targets.",
+      "teaser": "DEF CON SECTF champions demonstrate advanced hunting techniques—combining phishing, OSINT, and red team tactics to track and engage targets.",
       "summary": null,
       "durationSeconds": 3055
     },
@@ -39,8 +39,8 @@
         "communication",
         "personal-development"
       ],
-      "teaser": "Personal journey from introversion to becoming a skilled social engineer\u2014lessons learned overcoming personality barriers to master manipulation.",
-      "summary": null,
+      "teaser": "Personal journey from introversion to becoming a skilled social engineer—lessons learned overcoming personality barriers to master manipulation.",
+      "summary": "### Transforming Introversion into a Social Engineering Asset\nAt 00:00, professional red-teamer Ryan MacDougall shares an autobiographical perspective on how an introverted personality can be developed into an asset for elite social engineering engagements.\n\n### Psychological Emulation and Observational Analysis\nAt 08:02, MacDougall discusses psychological coping mechanisms. By treating interpersonal communication as an analytical system to be studied and modeled, introverts can deconstruct conversational cues, body language, and behavioral heuristics with methodical precision.\n\n### Navigating Early Career Anxiety\nAt 16:00, the speaker reflects on early professional struggles with social anxiety in corporate IT environments. He explains how learning to listen actively—rather than attempting to dominate conversations—became his most potent skill for extracting intelligence during client engagements.\n\n### Pivoting to Full-Time Offensive Security\nAt 24:02, MacDougall details his career pivot into penetration testing. He demonstrates that contrary to popular stereotypes of charismatic extroverts, introverted operatives often make superior social engineers because they excel at patient reconnaissance, emotional empathy, and situational awareness.\n\n### Resilience and the Hacker Mindset\nConcluding at 32:05, MacDougall shares a harrowing personal experience surviving a life-threatening injury (a ruptured diaphragm and collapsed lung). The recovery fundamentally recalibrated his tolerance for personal risk, reinforcing a resilient mindset that he applies to both life and professional security operations.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2363
     },
     {
@@ -58,7 +58,7 @@
         "psychology",
         "collective-behavior"
       ],
-      "teaser": "Apply swarm intelligence concepts\u2014collective autonomous behavior\u2014to manipulate group dynamics and influence large-scale red team operations.",
+      "teaser": "Apply swarm intelligence concepts—collective autonomous behavior—to manipulate group dynamics and influence large-scale red team operations.",
       "summary": null,
       "durationSeconds": 1851
     },
@@ -77,7 +77,7 @@
         "psychology",
         "influence"
       ],
-      "teaser": "Historical and modern manipulation techniques\u2014how social engineers across millennia have influenced decision-making and shaped realities.",
+      "teaser": "Historical and modern manipulation techniques—how social engineers across millennia have influenced decision-making and shaped realities.",
       "summary": null,
       "durationSeconds": 3058
     },
@@ -96,7 +96,7 @@
         "security-culture",
         "organizational-defense"
       ],
-      "teaser": "CISO perspective on defending against social engineering\u2014building organizational resilience through security awareness and cultural transformation.",
+      "teaser": "CISO perspective on defending against social engineering—building organizational resilience through security awareness and cultural transformation.",
       "summary": null,
       "durationSeconds": 1866
     },
@@ -115,8 +115,8 @@
         "deception",
         "awareness-testing"
       ],
-      "teaser": "Analysis of a viral Facebook phishing campaign\u2014how seemingly innocent naming games become effective social engineering attacks.",
-      "summary": null,
+      "teaser": "Analysis of a viral Facebook phishing campaign—how seemingly innocent naming games become effective social engineering attacks.",
+      "summary": "### Harvesting OSINT from Viral Social Media Trends\nAt 00:00, researcher Hannah Silvers opens an investigation into how viral social media memes, quizzes, and casual online games serve as effective crowdsourced intelligence harvesting mechanisms.\n\n### The Anatomy of Deceptive Online Quizzes\nAt 05:01, Silvers analyzes popular social media tropes (e.g., \"Your stripper name is your first pet plus the street you grew up on\"). She exposes the direct correlation between these innocuous viral prompts and the standard password recovery security questions used by banks, email providers, and corporate portals.\n\n### Empirical Analysis of Social Feed Telemetry\nAt 10:02, the speaker presents findings from monitoring hundreds of public social media threads over several months. Users routinely share maiden names, high school mascots, vehicle models, and birthplaces in public comment sections without recognizing that they are broadcasting sensitive authentication answers.\n\n### Aggregated Employee Profiling and Social Graphing\nAt 15:01, Silvers explains how adversaries weaponize this data against corporate enterprises. Aggregating responses across employees of a targeted organization enables attackers to map corporate social graphs, identify vulnerable personnel, and craft personalized spear-phishing pretexts.\n\n### Familial Oversharing and Privacy Defense\nConcluding between 20:00 and 25:14, Silvers addresses third-party exposure—highlighting that even privacy-conscious individuals are frequently compromised when friends or family members tag them online. She provides communication strategies for explaining digital privacy risks to non-technical relatives without sounding dismissive.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1688
     },
     {
@@ -134,7 +134,7 @@
         "future-trends",
         "risk-analysis"
       ],
-      "teaser": "Exploration of human evolutionary paths and future trajectories\u2014understanding psychological and behavioral trends shaping security landscapes.",
+      "teaser": "Exploration of human evolutionary paths and future trajectories—understanding psychological and behavioral trends shaping security landscapes.",
       "summary": null,
       "durationSeconds": 3026
     },
@@ -153,7 +153,7 @@
         "predator-hunting",
         "security-research"
       ],
-      "teaser": "Using social engineering techniques defensively\u2014panel discussion on The Innocent Lives Foundation's efforts to identify and stop child predators.",
+      "teaser": "Using social engineering techniques defensively—panel discussion on The Innocent Lives Foundation's efforts to identify and stop child predators.",
       "summary": null,
       "durationSeconds": 3041
     },
@@ -172,7 +172,7 @@
         "red-teaming",
         "methodology"
       ],
-      "teaser": "Physical and social tactics for gaining access\u2014tools, techniques, and psychological approaches to overcome initial resistance in pretexting attacks.",
+      "teaser": "Physical and social tactics for gaining access—tools, techniques, and psychological approaches to overcome initial resistance in pretexting attacks.",
       "summary": null,
       "durationSeconds": 2162
     },
@@ -191,8 +191,8 @@
         "academic-programs",
         "research-methodology"
       ],
-      "teaser": "Integrating social engineering and psychology into undergraduate cybersecurity curricula\u2014practical course projects that teach offensive and defensive concepts.",
-      "summary": null,
+      "teaser": "Integrating social engineering and psychology into undergraduate cybersecurity curricula—practical course projects that teach offensive and defensive concepts.",
+      "summary": "### Experiential Social Engineering in Higher Education\nAt 00:00, Dr. Aunshul Rege (Temple University) presents an innovative academic curriculum that integrates hands-on social engineering and red-teaming projects into undergraduate cybersecurity education.\n\n### Navigating Institutional Review Boards (IRB) and Ethics\nAt 10:01, Dr. Rege details the process of obtaining university Institutional Review Board (IRB) approval for human-subjects research. She explains how faculty established strict safety boundaries, non-punitive rules of engagement, and mandatory supervision to ensure student projects remained ethical and lawful.\n\n### Scoping Tactical Campus Red-Team Assessments\nAt 20:00, the presentation examines course project assignments. Students were tasked with executing controlled social engineering assessments across university facilities—including physical tailgating into secure campus buildings, phone vishing tests, and in-person pretexting.\n\n### Student Debriefings and Cognitive Realizations\nAt 30:02, Dr. Rege reviews student debriefings. Working through the discomfort of in-person deception provided students with firsthand insight into how social politeness, perceived authority, and institutional confusion are exploited during social engineering attacks.\n\n### Collaboration with University IT and Enterprise Defense\nConcluding between 40:02 and 50:02, Dr. Rege showcases collaborative debriefings between students and campus IT security personnel. The experiential model bridges academic theory and operational security, demonstrating how structured gamification cultivates deep defensive empathy and practical problem-solving in future cybersecurity professionals.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3046
     }
   ]
