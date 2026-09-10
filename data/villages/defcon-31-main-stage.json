@@ -374,7 +374,7 @@
         "open-source"
       ],
       "teaser": "DARPA Program Manager Perri Adams and industry leaders announce the AI Cyber Challenge (AIxCC) to automate software vulnerability discovery and remediation.",
-      "summary": null,
+      "summary": "DARPA program manager Perri Adams is joined by industry and open-source leaders on the DEF CON 31 Main Stage to formally announce the launch of the AI Cyber Challenge (AIxCC).\n\n[00:03] Adams introduces the initiative, which pairs DARPA with leading AI research laboratories—including Anthropic, Google, Google DeepMind, and OpenAI—alongside the Open Source Security Foundation (OpenSSF). The two-year competition is designed to develop novel Cyber Reasoning Systems (CRSs) that integrate advanced artificial intelligence and large language models with automated program analysis [09:20] to secure critical open-source software infrastructure.\n\n[13:22] The panelists discuss the technical vision of AIxCC: moving beyond manual vulnerability research to create autonomous systems that can discover complex software vulnerabilities, verify exploitability, and automatically generate and test verified source code patches. Adams outlines the competition structure and substantial prize pool [17:27], featuring over $20 million in funding culminating in finals at DEF CON 33, inviting global security researchers and AI practitioners to participate.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1287
     },
     {
@@ -1841,7 +1841,7 @@
         "orientation"
       ],
       "teaser": "DEF CON Founder Jeff Moss (The Dark Tangent) officially kicks off DEF CON 31, welcoming hackers from around the globe to Las Vegas.",
-      "summary": null,
+      "summary": "DEF CON founder Jeff Moss (The Dark Tangent) officially welcomes attendees to Las Vegas for DEF CON 31, reflecting on the milestone gathering and the state of global hacker culture.\n\n[03:43] Moss characterizes DEF CON as a \"meta-conference\"—a massive umbrella organization supporting dozens of independent, community-driven villages, contests, and specialized tracks spanning aerospace, voting security, hardware reverse engineering, and biohacking. He emphasizes DEF CON's role as a trusted third-party validator [07:42] for civil society, where researchers can rigorously challenge technology claims without commercial interference.\n\n[11:31] The keynote explores the logistical complexities of organizing the massive event, highlighting the evolution of custom electronic badges, hardware supply chain challenges, and the historical roots of DEF CON media archives dating back to audio cassette recordings at DEF CON 1 [15:14]. Moss encourages attendees to explore unfamiliar villages, embrace lifelong learning, and uphold the open, collaborative spirit of the convention.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1140
     },
     {
@@ -1914,7 +1914,7 @@
         "community"
       ],
       "teaser": "The Contest Goons announce competition winners, present awards, and recap tournament highlights across all official contests at DEF CON 31.",
-      "summary": null,
+      "summary": "The DEF CON 31 Contest Closing Ceremonies gather attendees, organizers, and Contest Goons on the Main Stage to celebrate the winners of official DEF CON competitions.\n\n[12:02] Organizers review the weekend's highlights across the broad ecosystem of challenges, including the Wireless Village capture-the-flag, physical lockpicking contests, hardware badge challenges, and the world-famous Tin Foil Hat contest [43:49], showcasing the most outrageous, structurally complex headwear engineered by participants.\n\n[23:08] The ceremony honors winners with custom prizes, including first-edition books signed by technothriller author Daniel Suarez, and culminates in the presentation of DEF CON Black Badges [34:39] to the champions of premier contests like the DEF CON CTF finals. Village leads celebrate the creativity, technical brilliance, and enduring camaraderie of the hacker community [54:00].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3255
     },
     {

@@ -59,7 +59,7 @@
         "security-culture"
       ],
       "teaser": "Sam Colaizzi examines cryptocurrency hype, blockchain security pitfalls, and realistic threat models for decentralized systems.",
-      "summary": null,
+      "summary": "Sam Colaizzi delivers an exhaustive, critical analysis of cybersecurity threats across the cryptocurrency and decentralized finance (DeFi) ecosystem in \"Hey Crypto Bro,\" presented at the DEF CON 31 DCGVR Village.\n\n[15:52] Colaizzi evaluates the threat models of various cryptocurrency storage solutions, contrasting non-custodial hardware wallets (Coldcard, Ledger, Trezor) with software hot wallets and centralized exchanges. He dissects the dark web cybercriminal economy [30:18], analyzing specialized threat actor forums where stolen seed phrases, malware logs, and compromised exchange accounts are routinely traded.\n\n[44:33] The presentation examines massive state-sponsored cyber operations targeting the blockchain sector, focusing on North Korean advanced persistent threat groups (such as Lazarus Group / APT38) responsible for stealing billions of dollars through sophisticated cross-chain bridge hacks and smart contract exploits (including the Ronin and Harmony bridge compromises). Colaizzi breaks down specific smart contract attack vectors [58:58]—such as reentrancy, flash loan price manipulation, and compromised multi-sig keys—concluding with defensive best practices for securing digital assets.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 4434
     },
     {
@@ -135,7 +135,7 @@
         "linux"
       ],
       "teaser": "JBO explores the quirks, historical bugs, and text user interface development challenges in ncurses.",
-      "summary": null,
+      "summary": "Security researcher JBO presents a deep technical vulnerability research case study in \"The Curse of the Ncurses,\" detailing multiple memory corruption vulnerabilities discovered during a code audit of GNU ncurses and the terminfo terminal capabilities database.\n\n[09:19] JBO explains the historical complexity and stack-based virtual machine architecture of ncurses terminfo string parsing. Terminfo files define terminal capabilities using a specialized bytecode language with an internal evaluation stack [18:07], allowing terminal drivers to push parameters, manipulate strings, and calculate dynamic offsets.\n\n[26:51] The talk explores the attack surface of flawed format string and parameter expansion logic in ncurses capabilities (such as %p, %d, %s, and %v specifiers [35:59]). JBO demonstrates how crafted terminfo descriptions can trigger out-of-bounds stack reads, heap overflows, and memory corruption, highlighting how unprivileged local attackers can exploit vulnerable terminal libraries to target setuid binaries and terminal emulators.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2700
     },
     {

@@ -542,7 +542,7 @@
         "interviews"
       ],
       "teaser": "A look at seal manipulation, evidence-tampering analysis, and covert physical inspection techniques at Tamper Evident Village.",
-      "summary": null,
+      "summary": "Silk visits the Tamper Evident Village at DEF CON 30, exploring physical security controls designed to indicate unauthorized access across sensitive cargo, election equipment, and electronic hardware.\n\n[02:03] An instructor explains the threat model of physical tamper-evident seals and tape, using cryptocurrency hardware wallets as a prime case study. Attackers intercepting hardware in transit can attempt to open packaging, extract private keys or seed phrases, and reseal the box to deceive the recipient.\n\n[04:08] The walkthrough demonstrates practical physical bypass techniques. The instructor shows how applying controlled heat (via heat guns) or cooling agents softens pressure-sensitive adhesives, allowing seals to be lifted intact without triggering the characteristic \"VOID\" pattern. The demonstration covers solvent manipulation, adhesive reconstruction, and resealing methods [06:11], underscoring why organizations must not rely solely on visual inspection of physical seals for critical chain-of-custody verification.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 504
     },
     {
@@ -605,7 +605,7 @@
         "community"
       ],
       "teaser": "Silk inspects a custom mechanical XOR encryption machine built by hardware enthusiasts at DEF CON.",
-      "summary": null,
+      "summary": "In this DEF CON 30 feature, Silk explores the \"XOR Machine\"—a custom automated vending machine and mechanical puzzle challenge created for conference attendees.\n\n[00:04] Silk documents attendees attempting to bypass the machine's mechanical controls and retrieve puzzle prizes. The feature highlights the creativity and problem-solving mindset of the hacker community, as participants improvise custom tools [01:26]—using dipole antenna wires, lighting fixtures, and chopsticks—to manipulate torque and tension within the dispenser mechanism, illustrating the playful intersection of hardware hacking and physical puzzle-solving at DEF CON.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 179
     },
     {
@@ -677,7 +677,7 @@
         "interviews"
       ],
       "teaser": "Silk visits the DEF CON Memorial space to honor departed hackers, mentors, and community pioneers.",
-      "summary": null,
+      "summary": "Silk interviews the organizers and curators of the DEF CON Memorial Room at DEF CON 30, a dedicated quiet space established to honor deceased members of the hacker and cybersecurity community.\n\n[03:02] A veteran organizer reflects on working with DEF CON founder Jeff Moss (The Dark Tangent) since DEF CON 7 and discusses the motivation behind creating the memorial space. The room serves as a sanctuary for remembering friends, mentors, and pioneers who helped build the foundations of hacker culture and cybersecurity research.\n\n[06:10] The conversation touches on the profound importance of community, mental health awareness, and mutual support within information security. The organizer emphasizes that recognizing the human lives behind the handles and preserving the memory of fallen community members [09:28] provides an essential emotional anchor for conference attendees amidst the frantic pace of the convention.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 756
     },
     {
@@ -746,7 +746,7 @@
         "community"
       ],
       "teaser": "Silk checks out custom electric vehicle builds and hacker GoKart racing during DEF CON evening events.",
-      "summary": null,
+      "summary": "Silk reports from the Car Hacking Village at DEF CON 30, checking out the \"Hacker GoKarts\" project where researchers apply automotive radio frequency exploit techniques to electric go-karts.\n\n[00:45] The researchers explain how they modified the electric go-kart's motor controller and analyzed its wireless control telemetry using Software Defined Radios (SDR) and GNU Radio.\n\n[01:36] The demonstration explores RF replay vulnerabilities, drawing parallels to known key fob replay attacks affecting commercial vehicles (such as Honda Rolling-PWN). By capturing radio transmissions from the kart's remote control and replaying the demodulated signals, researchers demonstrate remotely throttling, steering, and stopping the vehicle [03:08], illustrating how embedded wireless vulnerabilities in consumer micro-mobility platforms pose direct physical safety risks.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 246
     },
     {
@@ -818,7 +818,7 @@
         "community"
       ],
       "teaser": "An inside look at the Recon Village CTF, testing OSINT investigative methodology, public records pivots, and asset discovery.",
-      "summary": null,
+      "summary": "This promotional feature highlights the DEF CON 30 Recon Village Capture the Flag (CTF) tournament, celebrating six years of open-source intelligence (OSINT) competition at DEF CON.\n\n[00:16] Organizers explain the premise of the challenge: the entire public internet serves as a unified intelligence database. Participants must navigate complex investigation tracks, solve multi-tiered OSINT puzzles, correlate public records, and track real-world investigative leads [00:46] to score points, test reconnaissance methodology, and compete for community awards.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 75
     }
   ]
