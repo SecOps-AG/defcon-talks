@@ -37,7 +37,7 @@
         "iot-security"
       ],
       "teaser": "Josh Corman and Dean catch up with the DEF CON Video Team to provide an update on the I Am the Cavalry public safety and cybersecurity initiative.",
-      "summary": "This DEF CON talk covers i am the cavalry initiative update.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers i am the cavalry initiative update.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 259
     },
     {
@@ -105,7 +105,7 @@
         "microcontrollers"
       ],
       "teaser": "The DEF CON Video Team gets the full overview of hands-on hardware labs, firmware analysis, and microelectronics at the Embedded Systems Village.",
-      "summary": null,
+      "summary": "This presentation focuses on Internet of Things security and embedded systems vulnerabilities.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 545
     },
     {
@@ -174,7 +174,7 @@
         "vulnerability-disclosure"
       ],
       "teaser": "The Voting Machine Hacking Village returns to DEF CON 34 to evaluate the security and resilience of critical election equipment.",
-      "summary": null,
+      "summary": "This DEF CON talk covers voting machine hacking village spotlight.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 767
     },
     {
@@ -245,7 +245,7 @@
         "reinforcement-learning"
       ],
       "teaser": "The AI Village demonstrates an innovative artificial intelligence setup capable of playing Pokémon autonomously without expensive API token bills.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 810
     },
     {
