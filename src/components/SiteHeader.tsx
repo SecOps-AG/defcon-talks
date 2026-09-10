@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { GitHubStarButton } from "@/components/GitHubStarButton";
 
 const NAV = [
   { href: "/", label: "All talks" },
@@ -33,7 +34,7 @@ export function SiteHeader() {
             Unofficial
           </span>
         </div>
-        <div className="flex items-center gap-4">
+        <div className="flex flex-wrap items-center gap-x-5 gap-y-2">
           <nav
             aria-label="Primary"
             className="flex flex-wrap items-center gap-x-5 gap-y-1 text-[11px] uppercase tracking-[0.16em] text-mint/80"
@@ -52,6 +53,7 @@ export function SiteHeader() {
           >
             <span>⌘K</span>
           </button>
+          <GitHubStarButton />
         </div>
       </div>
     </header>
