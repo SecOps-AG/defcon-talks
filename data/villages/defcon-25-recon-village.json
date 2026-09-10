@@ -150,7 +150,7 @@
         "datasploit"
       ],
       "teaser": "DataSploit—an open-source tool for automating OSINT tasks including domain analysis, email tracking, and data collection.",
-      "summary": null,
+      "summary": "OSINT and Information Gathering Tools\n\nThis presentation covers DataSploit, an open-source tool for OSINT (Open Source Intelligence) gathering. The talk demonstrates automated approaches to collecting publicly available information about targets, including data aggregation, analysis, and synthesis techniques used in reconnaissance operations.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1153
     },
     {

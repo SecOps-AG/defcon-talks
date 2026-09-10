@@ -1681,7 +1681,7 @@
         "adversary-emulation"
       ],
       "teaser": "Emulating an Adversary with Imperfect Intelligence.",
-      "summary": null,
+      "summary": "Red Team Operations and Adversary Emulation\n\nThis talk covers techniques for emulating adversary tactics and operations with incomplete information. Discussion includes red team methodologies, hypothesis-driven security testing, and adapting to evolving threat scenarios.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3445
     },
     {

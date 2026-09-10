@@ -132,7 +132,7 @@
         "privacy"
       ],
       "teaser": "Examines severe privacy flaws, Bluetooth Low Energy vulnerabilities, and cloud data risks in connected smart devices.",
-      "summary": null,
+      "summary": "IoT Security: Smart Device Vulnerabilities\n\nThis presentation examines security flaws in internet-connected consumer devices, including examples from smart devices. Topics include firmware vulnerabilities, wireless protocol weaknesses, and privacy implications.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2307
     },
     {

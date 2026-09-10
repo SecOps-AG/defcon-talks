@@ -111,7 +111,7 @@
         "blue-team"
       ],
       "teaser": "Practical Kubernetes security techniques for both offensive and defensive practitioners.",
-      "summary": null,
+      "summary": "Kubernetes Security for Penetration Testers\n\nThis presentation covers Kubernetes security vulnerabilities and penetration testing approaches. Topics include kubectl exploitation, cluster architecture weaknesses, container escape techniques, and RBAC misconfigurations.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1385
     },
     {
