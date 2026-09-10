@@ -21,7 +21,7 @@
         "penetration-testing"
       ],
       "teaser": "SiestaTime Automation fr Long term implants",
-      "summary": null,
+      "summary": "In this technical session at the DEF CON 27 Red Team Village, Alvaro Folgado introduces \"SiestaTime,\" an automated framework designed to manage and orchestrate long-term persistent implants during extended adversary emulation engagements. He begins at 05:00 by demonstrating how SiestaTime automates the provisioning of disposable cloud infrastructure across AWS and DigitalOcean, dynamically generating redirectors, domains, and virtual private servers on demand.\n\nAlvaro dives into covert communication channels at 10:00, explaining how SiestaTime maintains stealthy access while bypassing corporate firewalls and intrusion detection systems. At 15:00, he presents out-of-band staging mechanisms and dead-drop resolvers, showcasing an evasion technique at 20:00 that utilizes web-based services like Gmail drafts as an asynchronous command-and-control channel where messages are read without ever transmitting an outbound SMTP email.\n\nTurning to defensive evasion at 25:00, Alvaro discusses how randomized beacon jitter and extended hibernation cycles prevent network security monitoring tools from establishing behavioral baselines. He concludes at 30:00 by releasing the tool to the security community, offering guidance on safely automating implant staging while avoiding common network hygiene mistakes during prolonged enterprise red team operations. (AI summary — Gemini Flash)",
       "durationSeconds": 2012
     },
     {
@@ -97,7 +97,7 @@
         "penetration-testing"
       ],
       "teaser": "Casting with the Pros Tips and Tricks",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 27 Red Team Village, Nathan Sweaney shares advanced social engineering methodologies and tradecraft for professional red team operations. He begins at 06:00 by emphasizing the importance of high-fidelity threat emulation, explaining that realistic assessments must mirror sophisticated adversary playbooks to properly evaluate an organization's defense-in-depth posture from external perimeter to internal domain controller.\n\nNathan discusses analyzing workflow bottlenecks and policy gaps at 12:00, showing how defenders often rely on technical controls that degrade under operational pressure. At 18:00, he demonstrates chaining web application vulnerabilities with targeted phishing campaigns, using Cross-Site Scripting (XSS) on trusted partner portals to execute authenticated actions. At 24:00, he illustrates weaponizing Cross-Site Request Forgery (CSRF) via phishing links, executing an administrative API call that silently adds a red team account into the Domain Admins active directory group.\n\nAddressing corporate context at 30:00, Nathan recounts working with executives following high-profile incidents like the OPM breach, explaining how to communicate systemic risk without inducing organizational paralysis. He finishes at 36:00 by demonstrating how to craft email templates that evade advanced threat protection filters and spam gateways, emphasizing that testing must validate human reporting mechanisms alongside technical perimeter controls. (AI summary — Gemini Flash)",
       "durationSeconds": 2453
     },
     {

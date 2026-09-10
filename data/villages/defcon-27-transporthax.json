@@ -19,7 +19,7 @@
         "ics-ot"
       ],
       "teaser": "Common Online Security Fails In Pilot Training -",
-      "summary": null,
+      "summary": "In this eye-opening talk at the DEF CON 27 TransportHax Village, Tarah Wheeler investigates severe privacy vulnerabilities and cybersecurity oversights embedded within civil aviation pilot training programs. She begins at 04:00 by recounting her personal experience learning to fly open-cockpit vintage aircraft like the de Havilland DH.60 Tiger Moth, noting the profound contrast between archaic mechanical flying and modern electronic aviation administration.\n\nAt 08:00, Tarah reviews federal aviation regulations, outlining the legal obligations pilots face regarding flight safety and passenger oversight. She reveals a critical data privacy failure at 12:00 within the Federal Aviation Administration (FAA) Airmen Certification Registry, showing how public databases expose student and commercial pilots' full legal names, home street addresses, medical certificate tiers, and pilot ratings to anyone on the internet without authentication.\n\nTarah highlights the dangerous threat modeling implications at 16:00, illustrating how stalkers and hostile actors can correlate real-time public ADS-B flight-tracking data with FAA registry records at 20:00 to track student pilots from departure to their home doorsteps. She concludes at 24:00 by calling on the FAA and regulatory bodies to modernize aviation privacy standards, restrict open access to personal identifying information, and protect general aviation aviators from digital harassment. (AI summary — Gemini Flash)",
       "durationSeconds": 1536
     },
     {
@@ -85,7 +85,7 @@
         "ics-ot"
       ],
       "teaser": "In The Air And On The Air Aviation Radio Systems -",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 27 TransportHax Village, Exploding Lemur (Nick) provides an educational overview of aeronautical radio frequencies, avionics protocols, and how hackers can monitor aviation communications using low-cost Software-Defined Radios (SDR). He starts at 04:00 by detailing VHF AM voice communications across the 118–137 MHz band, explaining how Air Traffic Control (ATC) towers, automated terminal information services (ATIS), and pilot unicom channels operate.\n\nNick examines transponder surveillance systems at 08:00, breaking down secondary surveillance radar, Mode A squawk codes, Mode C pressure altitude encoding, and Mode S interrogation. At 12:00, he discusses ADS-B data streams broadcast over 1090 MHz and contrasts them with satellite-delivered weather services like SiriusXM Aviation. He details satellite navigation architecture at 16:00, explaining how GPS time beacons and WAAS (Wide Area Augmentation System) differential signals ensure precise aircraft positioning.\n\nAt 20:00, Nick reviews Distance Measuring Equipment (DME), explaining its pulse ping-and-reply mechanics between airborne transceivers and ground stations. He wraps up at 24:00 by demonstrating how to build a dedicated dual-dongle SDR monitoring station to capture both 1090 MHz Extended Squitter and 978 MHz Universal Access Transceiver (UAT) broadcasts, highlighting essential bandpass filters and antenna considerations at 28:00. (AI summary — Gemini Flash)",
       "durationSeconds": 1694
     },
     {
@@ -153,7 +153,7 @@
         "ics-ot"
       ],
       "teaser": "Ideas whose time has come CVD SBOM and SOTA -",
-      "summary": null,
+      "summary": "In this address at the DEF CON 27 TransportHax Village, Art Manion from the CERT Coordination Center (CERT/CC) discusses the critical evolution of Coordinated Vulnerability Disclosure (CVD), Software Bills of Materials (SBOM), and Software Origin Transparency and Authenticity (SOTA) across critical infrastructure sectors. Drawing on his extensive experience managing thousands of vulnerability disclosures at 05:00, he tracks the transformation of vendor attitudes from hostile denial toward collaborative remediation.\n\nArt explains the multi-party coordination challenges handled by CERT/CC at 10:00, showing how vulnerabilities impacting shared libraries or hardware components ripple across interconnected supply chains. At 15:00, he examines pioneering regulatory guidance from the FDA for medical device manufacturers, illustrating how establishing post-market vulnerability handling policies creates a proven template for automotive, aerospace, and transportation safety.\n\nDiving into supply chain visibility at 20:00, Art highlights the monumental challenge of uniquely identifying software packages across the internet, discussing Package URLs (purl) and Common Platform Enumerations (CPE). He examines SOTA frameworks at 25:00, emphasizing that securing transport systems requires knowing not just what code is running, but where it originated and whether its integrity was cryptographically preserved. He concludes at 29:00 with a roadmap for institutionalizing transparency across critical infrastructure. (AI summary — Gemini Flash)",
       "durationSeconds": 1753
     },
     {

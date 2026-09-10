@@ -85,7 +85,7 @@
       "slug": "seyfullah-kilic-osint-approach-in-big-data",
       "title": "OSINT Approach in Big Data",
       "speakers": [
-        "Seyfullah KILI\u00c7"
+        "Seyfullah KILIÇ"
       ],
       "track": "osint",
       "topics": [
@@ -279,7 +279,7 @@
         "security-research"
       ],
       "teaser": "Derevolutionizing OS Fingerprinting  cat and mouse game",
-      "summary": null,
+      "summary": "In this talk at the DEF CON 27 Recon Village, Jaime Sanchez explores the dynamics of TCP/IP network stack operating system fingerprinting and introduces methods to deceive active reconnaissance scanners. He opens at 05:00 by explaining the fundamental protocol variations across TCP, UDP, and ICMP implementations, highlighting how different operating systems configure network behaviors differently by default.\n\nAt 10:00, Jaime details the specific network parameters scanners analyze, including IP Time to Live (TTL), default TCP window size, the Don't Fragment (DF) flag, TCP options ordering, and idiosyncratic ICMP error responses. He examines how tools like Nmap parse these probe responses at 15:00 to match targets against extensive signature databases. He then presents his open-source Python tool, \"OSpiller,\" at 20:00, demonstrating how it dynamically alters outbound packet headers at the network interface.\n\nDuring live demonstrations at 25:00, Jaime shows how OSpiller tricks Nmap into identifying a contemporary Linux system as legacy Windows 2000 by intentionally manipulating TCP handshake parameters and ICMP replies. He wraps up at 30:00 by inviting community contributions on GitHub, arguing that active stack manipulation effectively disrupts automated reconnaissance and prevents adversaries from tailoring targeted exploits against host operating systems. (AI summary — Gemini Flash)",
       "durationSeconds": 1961
     },
     {
