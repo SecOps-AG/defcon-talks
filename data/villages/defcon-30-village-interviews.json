@@ -33,7 +33,7 @@
         "interviews"
       ],
       "teaser": "A walkthrough and interview covering offensive operations, adversary emulation workshops, and CTF challenges in the Red Team Village.",
-      "summary": null,
+      "summary": "In this DEF CON 30 interview, Ali Diamond speaks with the organizers of the Red Team Village to discuss their community initiatives, offensive training tracks, and competitive events.\n\n[00:43] The organizers discuss the village's signature Capture the Flag (CTF) tournament, detailing the realistic adversary simulation ranges designed for attendees and the coveted challenge coins [02:29] and custom badges awarded to top competitors. They emphasize the village's educational focus [01:53], which provides attendees with structured, practical offensive techniques that mirror real-world red team engagements rather than artificial puzzle challenges.\n\n[03:15] The interview highlights community partnerships with leading security educators and creators—including John Hammond, NahamSec, and Heath Adams (TCM Security)—and explores the village's ongoing transition into a 501(c)(3) non-profit dedicated to providing accessible cybersecurity education year-round.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 206
     },
     {
@@ -96,7 +96,7 @@
         "interviews"
       ],
       "teaser": "A tour of CAN bus test benches, ECU exploitation rigs, and vehicle security research at Car Hacking Village.",
-      "summary": null,
+      "summary": "Silk interviews automotive security researchers in the heavy vehicle section of the DEF CON 30 Car Hacking Village, exploring the unique attack surface of commercial trucks and tractor-trailers.\n\n[00:40] The researchers demonstrate how heavy-duty commercial vehicles communicate across specialized protocols, specifically SAE J1939 CAN networks and the SAE J2497 standard (also known as PLC4TRUCKS), which modulates digital diagnostic and control signals onto the vehicle's 12V DC power lines.\n\n[01:16] The discussion explores radio frequency attack vectors against trailer power lines. The researchers explain that the wiring harness acting as a power-line bus is susceptible to external RF interference [01:58], allowing an attacker with a software-defined radio to wirelessly induce messages onto the bus. They illustrate how injecting forged J2497 frames can remotely manipulate trailer anti-lock braking systems (ABS), control auxiliary trailer hardware, and disrupt fleet telematics without physical access.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 203
     },
     {
@@ -158,7 +158,7 @@
         "interviews"
       ],
       "teaser": "A discussion on prestidigitation, deception tradecraft, street cons, and physical social engineering at Rogues Village.",
-      "summary": null,
+      "summary": "TheRealFakeJ sits down with professional pickpocket entertainer and physical security expert Pickpocket James at the DEF CON 30 Rogues Village to discuss the mechanics, psychology, and defense against street theft and distraction techniques.\n\n[01:33] James explains the educational philosophy of the Rogues Village, comparing physical theft awareness to martial arts training: understanding how pickpockets exploit cognitive blind spots helps individuals build natural, proactive defenses. He details the principles of misdirection, tactile manipulation, and spatial awareness, explaining that opportunistic thieves look for easy targets with exposed items rather than attempting difficult maneuvers [02:31].\n\n[03:32] The interview offers practical personal defense guidance for navigating high-density environments like conference halls, crowded public transit, and elevators. James explains how body positioning, secure pocket selection, and situational awareness neutralize common distraction ruses, concluding with details about upcoming hands-on physical awareness workshops at the village [04:30].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 354
     },
     {
@@ -222,7 +222,7 @@
         "interviews"
       ],
       "teaser": "A visit to the Lockpick Village covering hands-on picking tables, locksport culture, and mechanical bypass techniques.",
-      "summary": null,
+      "summary": "Ali Diamond conducts a tiny-mic interview at the DEF CON 30 Lockpick Village, exploring how the long-running village teaches conference attendees the fundamentals of non-destructive physical entry.\n\n[00:41] An instructor demonstrates the mechanical inner workings of pin-tumbler locks, explaining how key pins and driver pins align along the shear line and how using a tension wrench and pick allows an operator to exploit minor manufacturing tolerances to manipulate pins individually.\n\n[02:07] The conversation explores the community appeal of lockpicking as an accessible, tactile puzzle that demystifies physical security. The instructor explains that learning how easily standard commercial locks can be picked [02:55] transforms how individuals evaluate home and physical perimeter defenses, highlighting the village's hands-on coaching, practice stations, and beginner pick sets available to attendees.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 226
     },
     {
@@ -287,7 +287,7 @@
         "interviews"
       ],
       "teaser": "Silk interviews Crypto and Privacy Village coordinators on emerging cryptographic standards and digital surveillance threats.",
-      "summary": null,
+      "summary": "Silk interviews the organizers of the Crypto and Privacy Village at DEF CON 30, celebrating nine years of community education, cryptographic research, and digital privacy advocacy.\n\n[01:54] The organizers reflect on the village's growth from an informal, side-room gathering into an established 501(c)(3) non-profit organization featuring multi-track lectures, interactive workshops, and high-difficulty cryptographic puzzle hunts.\n\n[02:37] The interview covers the village's mission to bridge advanced mathematical cryptography with practical user privacy, examining the importance of end-to-end encryption, decentralized protocols, and digital rights in an era of expanding corporate and state surveillance. Organizers share details on how attendees can get involved, participate in the yearly \"Through the Looking Glass\" crypto challenge, and contribute to privacy-preserving open-source tools [03:25].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 247
     },
     {
@@ -354,7 +354,7 @@
         "appsec"
       ],
       "teaser": "Researchers demonstrate firmware reverse engineering and physical hardware bypasses targeting enterprise access control systems.",
-      "summary": null,
+      "summary": "Security researchers Sam Quinn and Steve Povolny discuss their research into commercial Physical Access Control Systems (PACS), revealing eight zero-day vulnerabilities discovered in enterprise door controller hardware.\n\n[00:31] Quinn and Povolny explain that the target access control panel (widely deployed in corporate facilities, data centers, and government buildings) acts as the bridge between central management software (such as LenelS2 OnGuard) and physical door locks. They detail their methodology for reverse engineering the controller's firmware and communication protocols.\n\n[01:29] The researchers demonstrate the exploitation of an unauthenticated remote command injection vulnerability. By sending crafted network packets to the panel's management port, they bypass authentication, gain root execution, and drop a reverse shell [01:02]. Crucially, they show that an attacker can command the hardware relays to unlock physical perimeter doors [01:56] without triggering alarm events or alerting the central monitoring server, concluding with patch validation and remediation advice [02:25].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 150
     },
     {
@@ -419,7 +419,7 @@
         "interviews"
       ],
       "teaser": "An interview with ICS Village organizers covering industrial control system defense, SCADA security, and mini-plant mockups.",
-      "summary": null,
+      "summary": "Tradecraft provides an insider tour and interview at the DEF CON 30 Industrial Control Systems (ICS) Village, showcasing the interactive exhibits and hardware testbeds designed to educate hackers on critical infrastructure security.\n\n[01:31] The organizers explain the critical role of operational technology (OT) in modern society, discussing how programmable logic controllers (PLCs), human-machine interfaces (HMIs), and SCADA networks control water utilities, power generation, and transportation systems.\n\n[02:35] The tour showcases the village's physical simulation environments, including a miniature smart city powered by solar panels and wind microgrids, chemical processing models, and a simulated maritime vessel bridge [03:32] connected to the SEAtf competition. Organizers reflect on the village's seven-year history [04:28] and emphasize the importance of training security professionals to defend industrial environments against nation-state cyber attacks.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 339
     },
     {
@@ -481,7 +481,7 @@
         "community"
       ],
       "teaser": "Examines the design, RF capabilities, and satellite tracking puzzles incorporated into the DEF CON 30 Aerospace Badge.",
-      "summary": null,
+      "summary": "Silk interviews the hardware designers of the custom electronic badge created for the DEF CON 30 Aerospace Village, examining the engineering, aesthetics, and puzzle mechanics integrated into the design.\n\n[01:03] The badge designer details the creative process and iterations behind the PCB, which is modeled after the Space Shuttle and features five functional ports, custom silkscreen layer art, and an authentic \"Remove Before Flight\" fabric lanyard ribbon [03:16].\n\n[04:20] The discussion explores the interactive hardware hacking challenges embedded into the board. The designer reveals that attendees must inspect the circuit schematic, physically cut specific traces, and solder custom jumper bridges to unlock hidden modes and illuminate interactive warning indicators, turning the badge into a hands-on electronic training device.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 337
     },
     {

@@ -36,7 +36,7 @@
         "competition"
       ],
       "teaser": "Live match commentary and speed-pwning showdowns from Day 1 (Part 2) of the DEF CON 30 LiveCTF tournament.",
-      "summary": null,
+      "summary": "This broadcast provides live commentary and technical analysis of the head-to-head matches during Day 1 of the DEF CON 30 Capture the Flag (CTF) tournament, the world's most prestigious competitive hacking championship.\n\n[47:20] Expert commentators break down the fast-paced, speed-run format of LiveCTF, where elite teams compete directly against one another on isolated binary exploitation challenges. The hosts analyze competitors' reverse engineering workflows, tracking their progress as they disassemble custom binaries, identify memory corruption flaws (such as stack and heap buffer overflows, format string bugs, and integer wraps), and calculate memory offsets [01:23:29] to craft working remote exploits.\n\n[01:05:12] The broadcast highlights competitive strategies, observing how teams balance speed against accuracy, develop automated triage scripts, and deploy zero-day patches to defend their own services while launching weaponized payloads against their opponents' targets in real time.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 7168
     },
     {

@@ -191,7 +191,7 @@
         "compliance"
       ],
       "teaser": "An inside look at vulnerabilities in clinical laboratory automation, analyzing unauthenticated analyzer instruments, legacy LIMS software, and patient data risks.",
-      "summary": null,
+      "summary": "Clinical laboratory scientist and security researcher Squiddy sheds light on the frequently overlooked cybersecurity and operational risks within hospital and reference diagnostic medical laboratories.\n\n[05:39] Squiddy contrasts traditional healthcare enterprise IT with the operational realities of the clinical laboratory, examining how Laboratory Information Systems (LIS) interact with high-throughput diagnostic instrumentation (such as automated hematology, clinical chemistry, and pathology analyzers). She describes cultural vulnerabilities in lab workflows, including high staff turnover, shared generic workstation logins, and the routine sharing of credentials among rotating technicians [11:15] racing to process critical patient samples under tight turnaround deadlines.\n\n[17:29] The presentation highlights severe technical vulnerabilities in medical laboratory environments, noting that expensive diagnostic machines often run outdated, unsupported Windows operating systems with unpatched embedded controllers. Squiddy warns that while direct ransomware disruptions are dangerous, the subtler and more catastrophic threat is unauthorized data tampering—where malicious actors or human errors alter quantitative lab values (such as blood glucose, potassium, or troponin levels) in transit, leading clinicians to make fatal diagnostic and treatment decisions.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1500
     },
     {
