@@ -18,7 +18,7 @@
         "security-design",
         "infrastructure-protection"
       ],
-      "teaser": "Securing voting systems beyond paper ballots\u2014comprehensive approaches to election infrastructure protection.",
+      "teaser": "Securing voting systems beyond paper ballots—comprehensive approaches to election infrastructure protection.",
       "summary": null,
       "durationSeconds": 1498
     },
@@ -35,7 +35,7 @@
         "preparedness",
         "vulnerability-analysis"
       ],
-      "teaser": "2020 election readiness\u2014assessing whether voting systems are prepared for modern threats.",
+      "teaser": "2020 election readiness—assessing whether voting systems are prepared for modern threats.",
       "summary": null,
       "durationSeconds": 2146
     },
@@ -70,7 +70,7 @@
         "recovery"
       ],
       "teaser": "Incident lifecycle and response planning for election infrastructure emergencies.",
-      "summary": null,
+      "summary": "In this operational security presentation at the DEF CON 27 Voting Village, Rahul Patel and Tonya Rice from the Cook County Clerk's Office and Chicago Board of Election Commissioners discuss incident lifecycle management and rapid response planning for municipal elections. At 04:00, they describe the unique operational pressure of election day, where election administrators face an unforgiving, compressed timeframe with zero tolerance for prolonged system outages.\n\nRahul details proactive preparedness at 08:00, emphasizing that detection, containment, and restoration strategies must be fully tested and rehearsed well before voters arrive at polling stations. At 12:00, he introduces modular, single-page incident action runbooks designed to guide poll workers and technical triage teams through specific failure scenarios—such as electronic poll book sync errors or network link drops—without escalating into panic.\n\nThe speakers examine the operational differences between daytime polling hours and evening ballot tallying at 16:00, highlighting the shift in threat vectors once voting closes at 6:00 PM. They review collaborative governance at 20:00, showing how joint coordination between county and city election boards unifies incident logging. They conclude at 24:00 by detailing real-time communication protocols with federal agencies (DHS CISA) and private election software vendors throughout election night. (AI summary — Gemini Flash)",
       "durationSeconds": 1527
     },
     {
@@ -137,8 +137,8 @@
         "transparency",
         "oversight"
       ],
-      "teaser": "Role of journalists in election security\u2014reporting, awareness, and public oversight mechanisms.",
-      "summary": null,
+      "teaser": "Role of journalists in election security—reporting, awareness, and public oversight mechanisms.",
+      "summary": "In this session at the DEF CON 27 Voting Village, veteran cybersecurity reporter Kevin Collier examines the role and responsibilities of journalism in covering election infrastructure security. He opens at 08:00 by discussing the fundamental challenge of communicating intricate technical security concepts clearly and responsibly to non-technical news consumers without sensationalizing risk or undermining voter faith in democratic institutions.\n\nKevin dissects media coverage trends at 16:00, analyzing the viral media frenzy surrounding youth participants hacking mock election results websites in the Voting Village, explaining how headlines conflated unofficial reporting displays with hardened tabulator machines. At 24:00, he explores investigative reporting into voting machine vendors, scrutinizing the use of cellular modems in optical scan tabulators and vulnerabilities in county election night reporting portals.\n\nReflecting on bipartisan security consensus at 32:00, Kevin discusses the widespread agreement among security researchers and election officials on the necessity of voter-verified paper ballots. At 40:00, he shares how journalists vet researcher credibility and verify technical claims before publishing. He closes at 48:00 with expectations for investigative press coverage leading up to the 2020 presidential election, focusing on regulatory accountability and supply chain security. (AI summary — Gemini Flash)",
       "durationSeconds": 3049
     },
     {
@@ -206,7 +206,7 @@
         "evaluation"
       ],
       "teaser": "Comprehensive assessment frameworks for evaluating election infrastructure security posture.",
-      "summary": null,
+      "summary": "In this informative briefing at the DEF CON 27 Voting Village, Jason Hill and Genevieve Marquart from the Cybersecurity and Infrastructure Security Agency (CISA / DHS) detail the specialized election infrastructure assessment services offered by the National Cybersecurity Assessments and Technical Services (NCATS) team. At 04:00, they provide an overview of nine no-cost cybersecurity services available to state, county, and municipal election officials, ranging from external vulnerability scanning to in-depth Risk and Vulnerability Assessments (RVA).\n\nThe speakers discuss state-mandated security directives at 08:00, showing how jurisdictions are proactively leveraging federal technical support ahead of the 2020 general election. At 12:00, Jason explains the methodology behind external penetration testing on election networks, where operators test whether compromised low-privilege accounts can escalate privileges or pivot laterally into sensitive voter registration databases.\n\nAt 16:00, Genevieve explains the formal onboarding process for local election directors seeking DHS assistance. They highlight federal initiatives to migrate municipal election sites to secure .gov domains at 20:00, enhancing resilience against phishing and domain spoofing. They conclude at 24:00 by describing CISA's proactive threat hunting and incident response teams, which assist election administrators in rapid containment and digital forensics in the event of an active intrusion. (AI summary — Gemini Flash)",
       "durationSeconds": 1479
     },
     {
@@ -274,7 +274,7 @@
         "threat-analysis"
       ],
       "teaser": "Dr Philip Stark Trustworthy Elections Evidence and Dispute Resolution - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "In this keynote address at the DEF CON 27 Voting Village, Dr. Philip Stark, Professor of Statistics at UC Berkeley, outlines rigorous mathematical frameworks for verifiable democratic elections and evidence-based dispute resolution. He begins at 04:00 by challenging the premise of software trust in democratic elections, arguing that elections should never rely on blind faith in complex computer code, firmware, or vendor secrecy.\n\nDr. Stark presents the statistical mechanics of Risk-Limiting Audits (RLAs) at 08:00, explaining how this audit methodology provides strong mathematical guarantees of detecting and correcting incorrect contest outcomes by conducting systematic manual audits of paper ballots. At 12:00, he underscores the indispensable prerequisite for RLAs: an immutable, voter-verified physical paper trail, noting that any jurisdiction utilizing paper ballots can conduct rigorous risk-limiting audits.\n\nExamining ongoing disputes within the election security community at 16:00, Dr. Stark analyzes the technical risks of universal Ballot Marking Devices (BMDs) versus hand-marked paper ballots, arguing that BMDs introduce software dependencies between voter intent and the physical record. He concludes at 24:00 by detailing how combining strongly software-independent voting systems, optical scanners, and robust hand-count audits establishes verifiable evidence necessary to resolve electoral challenges transparently. (AI summary — Gemini Flash)",
       "durationSeconds": 1620
     },
     {
@@ -342,7 +342,7 @@
         "threat-analysis"
       ],
       "teaser": "Dr Linton Salmon The DARPA SSITH Program at DEFCON - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 27 Voting Village, Dr. Linton Salmon, Program Manager at DARPA's Microsystems Technology Office, introduces the System Security Integration Through Hardware and Firmware (SSITH) program and invites the hacker community to evaluate its prototype hardware defenses. He opens at 05:00 by explaining the foundational philosophy of SSITH: rather than continuously patching software vulnerabilities, SSITH designs microarchitectures that eliminate entire classes of software exploits directly in silicon.\n\nDr. Salmon discusses why real-world offensive testing is critical at 10:00, stating that formal security proofs are insufficient without adversarial red-teaming by independent researchers. At 15:00, he demonstrates prototype FPGA systems implementing novel hardware protections against common vulnerability classes, including buffer overflows, return-oriented programming (ROP), code injection, and information leakage side channels.\n\nHe explains the crowdsourced testing engagement at 20:00, outlining the DEF CON bug bounty framework and inviting attendees to compromise the SSITH hardware prototypes. At 25:00, Dr. Salmon explores engineering tradeoffs between silicon area, clock speed, power consumption, and security guarantees. He concludes at 30:00 by addressing questions regarding how hardware-enforced memory safety distinguishes between malicious exploit primitives and benign developer bugs, highlighting applications for high-assurance electronic voting systems. (AI summary — Gemini Flash)",
       "durationSeconds": 1875
     },
     {

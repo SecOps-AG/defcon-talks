@@ -20,7 +20,7 @@
         "wireless-security"
       ],
       "teaser": "Wireless Capture The Flag equipment review and contest overview.",
-      "summary": null,
+      "summary": "In this comprehensive hardware and RF session at the DEF CON 27 Wireless Village, The Ricks deliver their detailed guide to building, optimizing, and deploying gear for the Wireless Capture The Flag (WCTF) competition. They begin at 21:00 by analyzing Wi-Fi network interface card (NIC) chipsets, detailing the performance tradeoffs between Atheros, Ralink, and Realtek hardware, specifically comparing raw receive sensitivity against packet injection reliability and high-power transmission.\n\nAt 42:00, the speakers explore antenna theory and field deployment, reviewing directional Yagi arrays, flat patch antennas, and collinear omnidirectional antennas used to hunt hidden access points and score CTF flags. They delve into mobile field endurance at 01:03:00, sharing battle-tested advice on lithium battery packs, voltage regulation, and ruggedizing portable field setups against extreme thermal conditions.\n\nHighlighting unconventional attack vectors at 01:24:00, they demonstrate RF keystroke injection attacks that exploit unencrypted wireless presentation clickers and bypass USB device whitelisting on victim laptops. At 01:45:00, they review Software-Defined Radio (SDR) toolkits, including HackRF and RTL-SDR setups for non-Wi-Fi signals like Zigbee and Bluetooth. They close at 02:06:00 with strategic tips on assembling lightweight, modular wireless assault packs for competitive wardriving. (AI summary — Gemini Flash)",
       "durationSeconds": 7847
     },
     {
@@ -38,7 +38,7 @@
         "denial-of-service",
         "wireless-vehicles"
       ],
-      "teaser": "Ford keyfob security flaws\u2014exploitation techniques for denial of service and vehicle control.",
+      "teaser": "Ford keyfob security flaws—exploitation techniques for denial of service and vehicle control.",
       "summary": null,
       "durationSeconds": 3516
     },
@@ -76,7 +76,7 @@
         "penetration-testing",
         "rf-analysis"
       ],
-      "teaser": "In this presentation we will introduce working proof-of-concept attacks that can be used against wireless networks that use Opportunity Wireless Encryption (OWE), which is better known as WPA3\u2019s \u201cEnhanced Open.\u201d We\u2019ll...",
+      "teaser": "In this presentation we will introduce working proof-of-concept attacks that can be used against wireless networks that use Opportunity Wireless Encryption (OWE), which is better known as WPA3’s “Enhanced Open.” We’ll...",
       "summary": null,
       "durationSeconds": 2450
     },
@@ -95,7 +95,7 @@
         "soho-networks",
         "network-hardening"
       ],
-      "teaser": "WiFi access point security\u2014development best practices for SOHO routers and wireless infrastructure.",
+      "teaser": "WiFi access point security—development best practices for SOHO routers and wireless infrastructure.",
       "summary": null,
       "durationSeconds": 2912
     },
