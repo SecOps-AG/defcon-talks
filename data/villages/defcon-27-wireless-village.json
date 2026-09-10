@@ -264,7 +264,7 @@
         "rf-analysis"
       ],
       "teaser": "AirWire is a popular wireless control system for large scale model railroad locomotives and accessories. A handheld transmitter is used to control train speed, lights, sound, and trackside accessories. Analysis of thi...",
-      "summary": null,
+      "summary": "Eric Reuter presents a hardware reverse engineering and RF analysis project focused on wireless command control systems used in large G-scale model railroads. Reuter explains the unique operational constraints of outdoor garden railways, where battery power and wireless radio control are preferred over traditional track-powered locomotives to avoid dirt and weather-related conductivity failures.\n\n[04:17] Reuter examines the target wireless architecture—the AirWire900 system manufactured by CVP Products—which operates in the 900 MHz ISM band using frequency-shift keying (FSK) modulation. He walks through probing the hardware internals of both the hand-held transmitter throttle and the onboard locomotive receiver module, locating the RF transceiver chip, tracing PCB traces, and tapping GPIO signal lines [08:52] to analyze the serial data exchanged between microcontrollers.\n\n[13:06] The presentation demonstrates capturing and decoding the over-the-air radio packets. Reuter reverse engineers the packet framing, byte structure, checksums, and speed/direction control commands. He shows how he constructed a custom software modem and transceiver interface using an Arduino and transceiver module, enabling automated computer control, speed management, and wireless locomotive command injection without relying on proprietary vendor throttles.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1075
     },
     {

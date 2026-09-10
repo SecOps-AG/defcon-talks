@@ -59,7 +59,7 @@
         "wireless"
       ],
       "teaser": "Eric Escobar shares foundational techniques for low-power (QRP) and long-range RF communications, leveraging LoRa, directional antennas, and digital protocols.",
-      "summary": null,
+      "summary": "Eric Escobar provides a practical, beginner-friendly introduction to low-power, long-range radio communications (QRP) at the Ham Radio Village, demonstrating how amateur operators can transmit signals over hundreds or thousands of miles using minimal electrical power.\n\n[06:06] Escobar explains the physics of radio frequency propagation across High Frequency (HF) bands, detailing how ionospheric refraction (skywave propagation) enables signals to bounce beyond the horizon and circumvent the curvature of the earth. He compares traditional voice modes with highly efficient digital protocols like FT8 and JS8Call, which can decode transmissions buried beneath the atmospheric noise floor with as little as five watts of power.\n\n[11:53] The presentation examines essential portable hardware and antenna kits, highlighting portable deployment setups such as the Chameleon MPAS 2.0 modular antenna system. Escobar discusses the trade-offs of end-fed half-wave (EFHW) wires, random wire antennas, and magnetic loop antennas. He touches on emerging low-power decentralized mesh networks like LoRa/Meshtastic [18:06], providing guidance on off-grid battery management, solar charging, and field emergency communication planning.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1446
     },
     {
