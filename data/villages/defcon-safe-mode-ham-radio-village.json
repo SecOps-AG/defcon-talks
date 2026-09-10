@@ -77,7 +77,7 @@
         "doppler-shift"
       ],
       "teaser": "Explains how to track amateur satellites, calculate Doppler shift, and establish two-way voice and packet contacts.",
-      "summary": null,
+      "summary": "This DEF CON talk covers talking to satellites.\n\nKey topics discussed include: Kind: captions Language: en [Music] [Music] [Music] [Applause] [Applause] [Applause] [Music] [Music] [Music] [Applause] so so so [Music] [Music] [Music] [Applause] [Applause] [Applause] [Music] [Music] [Music] so [Music] [Music] [Music] this<00:01:39. 439><c> son</c><00:01:40.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3030
     },
     {
@@ -166,7 +166,7 @@
         "ham-radio"
       ],
       "teaser": "Demonstrates the Automatic Packet Reporting System (APRS) protocol for transmitting GPS telemetry and tactical messages over VHF.",
-      "summary": null,
+      "summary": "This DEF CON talk covers aprs demo.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2288
     }
   ]

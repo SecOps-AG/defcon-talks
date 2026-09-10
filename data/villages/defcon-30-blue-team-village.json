@@ -21,7 +21,7 @@
         "blue-team"
       ],
       "teaser": "Saurabh Chaudhary demonstrates crafting high-performance, modular YARA rules to detect complex malware variants and streamline threat hunting.",
-      "summary": null,
+      "summary": "This DEF CON talk covers yara rules to rule them all.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1049
     },
     {
@@ -97,7 +97,7 @@
         "blue-team"
       ],
       "teaser": "Project Obsidian explains forensic preparation and tooling organization to accelerate digital forensics and incident triage workflows.",
-      "summary": null,
+      "summary": "This DEF CON talk covers project obsidian: mise en place for incident investigations.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2774
     },
     {
@@ -173,7 +173,7 @@
         "blue-team"
       ],
       "teaser": "Project Obsidian breaks down the Observe-Orient-Decide-Act (OODA) loop applied to real-time incident triage and crisis response.",
-      "summary": null,
+      "summary": "This DEF CON talk covers project obsidian: incident response ooda loop - an hour in an incident responder's life.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2045
     },
     {
@@ -249,7 +249,7 @@
         "detection-engineering"
       ],
       "teaser": "Anton Ovrutsky demonstrates behavioral detection patterns, static parsing tools, and deobfuscation methods to hunt malicious Office VBA macros.",
-      "summary": null,
+      "summary": "This DEF CON talk covers hunting malicious office macros: vba deobfuscation & detection.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1763
     },
     {
@@ -326,7 +326,7 @@
         "shimcache"
       ],
       "teaser": "Project Obsidian walks through an end-to-end endpoint forensic investigation, reconstructing attacker actions using MFT, Prefetch, and Shimcache artifacts.",
-      "summary": null,
+      "summary": "This talk covers industrial control systems security and critical infrastructure protection.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1757
     },
     {
@@ -402,7 +402,7 @@
         "usn-journal"
       ],
       "teaser": "Project Obsidian shows how threat hunters investigate compromises when adversaries clear event logs, leveraging USN journals, volume shadow copies, and memory artifacts.",
-      "summary": null,
+      "summary": "This DEF CON talk covers project obsidian: cyber threat hunting - when the logs are gone.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2188
     },
     {

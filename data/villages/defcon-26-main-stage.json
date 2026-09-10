@@ -939,7 +939,7 @@
         "embedded-systems"
       ],
       "teaser": "Zeng presents lora smart water meter security analysis: To avoid the tedious task of collecting water usage data by go user's home _ water meters that are equipped with wireless communication modules are now being p...",
-      "summary": null,
+      "summary": "This DEF CON talk covers lora smart water meter security analysis.\n\nKey topics discussed include: Kind: captions Language: en everybody<00:00:00. 450><c> welcome</c><00:00:01.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1400
     },
     {
@@ -1209,7 +1209,7 @@
         "conference-history"
       ],
       "teaser": "The Dark Tangent presents Closing Ceremonies at DEF CON 26.",
-      "summary": null,
+      "summary": "This DEF CON talk covers closing ceremonies.\n\nKey topics discussed include: Kind: captions Language: en welcome<00:00:00. 510><c> to</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 5503
     },
     {
@@ -1844,7 +1844,7 @@
         "threat-detection"
       ],
       "teaser": "Automated YARA rule generation methodologies to detect emerging malware variants while minimizing false positives.",
-      "summary": null,
+      "summary": "This DEF CON talk covers looking for the perfect signature: automatic yara rules.\n\nKey topics discussed include: Kind: captions Language: en you<00:00:00. 240><c> know</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1133
     },
     {

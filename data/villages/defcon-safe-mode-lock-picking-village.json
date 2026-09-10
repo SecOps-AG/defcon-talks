@@ -39,7 +39,7 @@
         "red-team"
       ],
       "teaser": "Showcases multi-functional physical security tools designed for bypass, lock manipulation, and covert entry.",
-      "summary": null,
+      "summary": "This DEF CON talk covers hybrid physec tools.\n\nKey topics discussed include: Kind: captions Language: en all<00:00:00. 719><c> right</c><00:00:01.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1747
     },
     {
@@ -112,7 +112,7 @@
         "physical-security"
       ],
       "teaser": "Demonstrates improvised lock picking using modified bobby pins and everyday materials to defeat common pin-tumbler locks.",
-      "summary": null,
+      "summary": "This DEF CON talk covers bobby pins: more effective than lockpicks.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:01. 439><c> everyone</c><00:00:01.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1420
     },
     {
@@ -185,7 +185,7 @@
         "reverse-engineering"
       ],
       "teaser": "A case study in defeating the vintage Western Electric 30C vault lock through custom tool fabrication and precision picking.",
-      "summary": null,
+      "summary": "This DEF CON talk covers how i defeated the western electric 30c.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2910
     },
     {

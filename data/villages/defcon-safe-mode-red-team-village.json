@@ -195,7 +195,7 @@
         "hardware"
       ],
       "teaser": "Mauro Cáseres explores weaponized keyboards and hardware keyloggers, demonstrating how physical peripherals can be backdoored for stealthy initial access.",
-      "summary": null,
+      "summary": "This DEF CON talk covers evil genius: why you shouldn't trust that keyboard.\n\nKey topics discussed include: Kind: captions Language: en okay<00:00:00. 640><c> welcome</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1366
     },
     {
@@ -1087,7 +1087,7 @@
         "community"
       ],
       "teaser": "Evil Genius: Why you shouldn't trust that keyboard.",
-      "summary": null,
+      "summary": "This DEF CON talk covers evil genius: why you shouldn't trust that keyboard by mauro caceres & farith perez.\n\nKey topics discussed include: Kind: captions Language: en okay<00:00:01. 680><c> welcome</c><00:00:02.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1370
     },
     {
@@ -1155,7 +1155,7 @@
         "community"
       ],
       "teaser": "OU having a laugh?.",
-      "summary": null,
+      "summary": "This DEF CON talk covers ou having a laugh? - petros koutroumpis.\n\nKey topics discussed include: Kind: captions Language: en hi<00:00:04. 880><c> everyone</c> hi everyone hi everyone uh<00:00:05.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1820
     },
     {
@@ -1224,7 +1224,7 @@
         "appsec"
       ],
       "teaser": "Weaponized XSS.",
-      "summary": null,
+      "summary": "This DEF CON talk covers weaponized xss - moving beyond alert(1) by ray doyle.\n\nKey topics discussed include: Kind: captions Language: en so<00:00:01. 680><c> um</c><00:00:01.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2792
     },
     {
@@ -1290,7 +1290,7 @@
         "mobile"
       ],
       "teaser": "Bypassing in Mobile Network From Red-Team Points of View.",
-      "summary": null,
+      "summary": "This DEF CON talk covers bypassing in mobile network from red-team points of view.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:02. 560><c> guys</c> hello guys hello guys hope<00:00:03.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1408
     },
     {
@@ -1356,7 +1356,7 @@
         "community"
       ],
       "teaser": "Executing Red Team Scenarios with Built-in Scenario Place  Gokberk Gulgun and Erdener Uyan.",
-      "summary": null,
+      "summary": "This DEF CON talk covers executing red team scenarios with built-in scenario place  gokberk gulgun and erdener uyan.\n\nKey topics discussed include: Kind: captions Language: en hello hello hello hello<00:00:06. 319><c> everyone</c><00:00:07.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2126
     },
     {
@@ -1424,7 +1424,7 @@
         "community"
       ],
       "teaser": "PatrOwl - Red flavour of SOC automation -Nicolas MATTIOCCO.",
-      "summary": null,
+      "summary": "This DEF CON talk covers patrowl - red flavour of soc automation -nicolas mattiocco.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:04. 160><c> everyone</c> hello everyone hello everyone so<00:00:05.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2708
     },
     {
@@ -1493,7 +1493,7 @@
         "community"
       ],
       "teaser": "50 Shades of Sudo Abuse Tyler Boykin.",
-      "summary": null,
+      "summary": "This DEF CON talk covers 50 shades of sudo abuse tyler boykin.\n\nKey topics discussed include: Kind: captions Language: en all<00:00:01. 439><c> right</c><00:00:01.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3467
     },
     {
@@ -1561,7 +1561,7 @@
         "community"
       ],
       "teaser": "Trust, but Verify: Maintaining Democracy In Spite of Информационные контрмеры.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:02. 000><c> everyone</c><00:00:02.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2149
     },
     {
@@ -1629,7 +1629,7 @@
         "community"
       ],
       "teaser": "Inside the Mind of a Threat Actor: Beyond Pentesting - by  Phillip Wylie.",
-      "summary": null,
+      "summary": "This DEF CON talk covers inside the mind of a threat actor: beyond pentesting - by  phillip wylie.\n\nKey topics discussed include: Kind: captions Language: en work<00:00:00. 240><c> with</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2307
     },
     {
@@ -1698,7 +1698,7 @@
         "community"
       ],
       "teaser": "PWN The World.",
-      "summary": null,
+      "summary": "This talk covers exploitation techniques and vulnerability analysis in computer systems.\n\nKey topics discussed include: Kind: captions Language: en khan<00:00:00. 399><c> supporting</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3446
     },
     {
@@ -1767,7 +1767,7 @@
         "community"
       ],
       "teaser": "OWASP Amass Red Team Village Training -.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:04. 160><c> defcon</c><00:00:04.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 6519
     },
     {
@@ -1835,7 +1835,7 @@
         "community"
       ],
       "teaser": "The Bug Hunter's Methodology Full 2-hour Training.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\nKey topics discussed include: Kind: captions Language: en to<00:00:00. 160><c> make</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 6833
     }
   ]

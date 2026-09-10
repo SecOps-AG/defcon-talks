@@ -57,7 +57,7 @@
         "appsec"
       ],
       "teaser": "How misconfigured authentication allows unauthenticated access to cloud resources.",
-      "summary": null,
+      "summary": "This DEF CON talk covers auths gone wild: when \u2018authenticated\u2019 means anyone.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1212
     },
     {
@@ -130,7 +130,7 @@
         "azure"
       ],
       "teaser": "Implementing and enforcing least-privilege IAM policies across cloud environments.",
-      "summary": null,
+      "summary": "This DEF CON talk covers may the least privilege be with you.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2431
     },
     {
@@ -204,7 +204,7 @@
         "oauth"
       ],
       "teaser": "Dangling issuer vulnerabilities in federated cloud credentials and how to exploit them.",
-      "summary": null,
+      "summary": "This DEF CON talk covers uncovering hidden threats: the risks of dangling issuers in federated credentials.\n\nKey topics discussed include: Kind: captions Language: en All<00:00:01. 160><c> Uh</c> All right.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1895
     },
     {
@@ -277,7 +277,7 @@
         "microsoft-365"
       ],
       "teaser": "Designing effective honey tokens in Microsoft 365 to detect and attribute cloud intrusions.",
-      "summary": null,
+      "summary": "This DEF CON talk covers sweet deception: designing effective m365 honey tokens.\n\nKey topics discussed include: Kind: captions Language: en Awesome. 639><c> you</c><00:00:02.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1207
     },
     {
@@ -351,7 +351,7 @@
         "name-confusion"
       ],
       "teaser": "Discovering and exploiting large-scale AMI name confusion attacks across the AWS ecosystem.",
-      "summary": null,
+      "summary": "This talk covers exploitation techniques and vulnerability analysis in computer systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1832
     },
     {
@@ -426,7 +426,7 @@
         "detection"
       ],
       "teaser": "KIEMPossible: exploiting KIEM (Key Identity and Execution Manager) weaknesses in Azure environments.",
-      "summary": null,
+      "summary": "This presentation covers wireless security, network analysis, and radio frequency hacking techniques.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1158
     },
     {

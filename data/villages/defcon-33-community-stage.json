@@ -139,7 +139,7 @@
         "mitigations"
       ],
       "teaser": "Explores the future of Distributed Denial of Service (DDoS) attack vectors, dynamic amplification techniques, and emerging mitigation architectures.",
-      "summary": null,
+      "summary": "This DEF CON talk covers ddos: the next generation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2294
     },
     {
@@ -275,7 +275,7 @@
         "recon"
       ],
       "teaser": "Cybersecurity architect Desiree Wilson outlines proactive counter-surveillance strategies and OSINT methodologies to protect personal privacy in daily life.",
-      "summary": null,
+      "summary": "This presentation focuses on reconnaissance and open-source intelligence gathering methodologies.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1310
     },
     {

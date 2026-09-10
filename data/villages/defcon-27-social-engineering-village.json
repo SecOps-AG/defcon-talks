@@ -37,7 +37,7 @@
         "geographic-perspective"
       ],
       "teaser": "Red team operations from an international perspective—techniques and methodologies from down under applied to modern security assessments.",
-      "summary": null,
+      "summary": "This DEF CON talk covers red teaming from down under.\n\nKey topics discussed include: Kind: captions Language: en if<00:00:00. 659><c> you</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2038
     },
     {
@@ -110,7 +110,7 @@
         "exploitation"
       ],
       "teaser": "Insider threat exploitation techniques—manipulating employees to steal data, equipment, or commit sabotage from within an organization.",
-      "summary": null,
+      "summary": "This DEF CON talk covers leveraging the insider threat.\n\nKey topics discussed include: Kind: captions Language: en all<00:00:00. 390><c> right</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1870
     },
     {
@@ -185,7 +185,7 @@
         "target-assessment"
       ],
       "teaser": "Advanced people-reading techniques—assessing personality, trust signals, and building rapport through behavioral analysis.",
-      "summary": null,
+      "summary": "This DEF CON talk covers sizing people up.\n\nKey topics discussed include: Kind: captions Language: en okay<00:00:00. 840><c> I</c><00:00:01.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3228
     },
     {
@@ -260,7 +260,7 @@
         "methodology"
       ],
       "teaser": "Fundamentals of social engineering for beginners—you don't need to be charismatic or outgoing to succeed as a social engineer.",
-      "summary": null,
+      "summary": "This talk explores social engineering techniques and human-factor security vulnerabilities.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1477
     },
     {
@@ -336,7 +336,7 @@
         "case-study"
       ],
       "teaser": "Entertainment industry security failures—lessons from high-profile breaches and vulnerabilities specific to content production.",
-      "summary": null,
+      "summary": "This DEF CON talk covers hacking hollywood.\n\nKey topics discussed include: Kind: captions Language: en alright<00:00:00. 599><c> next</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1762
     }
   ]

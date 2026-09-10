@@ -21,7 +21,7 @@
         "culture"
       ],
       "teaser": "Jayson E. Street delivers the DCGVR Village keynote, reflecting on global DEF CON Groups, community resilience, and unconventional security career paths.",
-      "summary": null,
+      "summary": "This DEF CON talk covers dcgvr village keynote.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1613
     },
     {
@@ -89,7 +89,7 @@
         "network-forensics"
       ],
       "teaser": "Mastering advanced tcpdump command-line syntax, Berkeley Packet Filters (BPF), and real-time packet carving for network troubleshooting and threat analysis.",
-      "summary": null,
+      "summary": "This DEF CON talk covers advanced packet wrangling with tcpdump.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2288
     },
     {
@@ -157,7 +157,7 @@
         "supply-chain"
       ],
       "teaser": "Auditing security boundaries in Google Colaboratory, demonstrating data exfiltration vectors, runtime sandbox escapes, and risks in shared machine learning notebooks.",
-      "summary": null,
+      "summary": "This talk examines automotive cybersecurity vulnerabilities and vehicle systems exploitation.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1762
     },
     {
@@ -225,7 +225,7 @@
         "opsec"
       ],
       "teaser": "Using unique optical patterns of glitter nail polish to create uncloneable, low-cost physical tamper-evident seals against Evil Maid attacks on laptops and screws.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1917
     },
     {

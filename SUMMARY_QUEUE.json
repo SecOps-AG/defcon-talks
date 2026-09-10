@@ -1,0 +1,2591 @@
+{
+  "lane": "haiku2",
+  "count": 323,
+  "note": "AI summary backfill; mark done when PR merged",
+  "playlists": [
+    {
+      "file": "data/villages/defcon-20-documentary-extras.json",
+      "index": 21,
+      "youtubeId": "7s1j1cBw55E",
+      "title": "Documentary Teaser Trailer",
+      "slug": "documentary-teaser-trailer",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-23-main-stage.json",
+      "index": 53,
+      "youtubeId": "W5B-zjaDzfU",
+      "title": "How to Secure the Keyboard Chain",
+      "slug": "how-to-secure-the-keyboard-chain",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-23-presentations-attack.json",
+      "index": 3,
+      "youtubeId": "F9cYW7oPNw4",
+      "title": "One Device to Pwn Them All",
+      "slug": "dr-phil-polstra-one-device-to-pwn-them-all",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-23-presentations-attack.json",
+      "index": 11,
+      "youtubeId": "UWOxzfRUwis",
+      "title": "USB Attack to Decrypt Wi Fi Communications",
+      "slug": "jeremy-dorrough-usb-attack-to-decrypt-wi-fi-communications",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-23-presentations-auto.json",
+      "index": 2,
+      "youtubeId": "OobLb1McxnI",
+      "title": "Remote Exploitation of an Unaltered Passenger Vehicle",
+      "slug": "charlie-miller-chris-valasek-remote-exploitation-of-an-unaltered",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-r00tz.json",
+      "index": 6,
+      "youtubeId": "OIVvRP9-b4M",
+      "title": "Opening Ceremonies: A Place Where Kids Learn White Hat Hacking",
+      "slug": "def-con-25-rootz-asylum-eff-nic0-opening-ceremoniesa-place-w",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-recon-village.json",
+      "index": 1,
+      "youtubeId": "x6ZFxpx1M50",
+      "title": "Into the Bird's Nest: A Comprehensive Look at Twitter",
+      "slug": "tracy-maleeff-into-the-birds-nest-a-comprehensive-look-at-twitte",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-recon-village.json",
+      "index": 8,
+      "youtubeId": "NUsJpquFq0Q",
+      "title": "Domain Discovery:Expanding Your Scope Like A Boss",
+      "slug": "jason-haddix-domain-discovery-expanding-your-scope-like-a-boss",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-recon-village.json",
+      "index": 12,
+      "youtubeId": "eHp2ZhyIryc",
+      "title": "Building Google For Criminal Enterprises",
+      "slug": "anthony-russell-building-google-for-criminal-enterprises",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-social-engineering-village.json",
+      "index": 0,
+      "youtubeId": "e_TQTDrRyWI",
+      "title": "Nor Lose The Common Touch",
+      "slug": "se-village-billy-boatright-nor-lose-the-common-touch",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-social-engineering-village.json",
+      "index": 4,
+      "youtubeId": "3bb87rb70jU",
+      "title": "Social Engineering With Web Analytics",
+      "slug": "se-village-tyler-rosonke-social-engineering-with-web-analytics",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-social-engineering-village.json",
+      "index": 8,
+      "youtubeId": "yJCq8ajdd0U",
+      "title": "Skills For A Red Teamer",
+      "slug": "se-village-brent-white-tim-roberts-skills-for-a-red-teamer",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-voting-village.json",
+      "index": 0,
+      "youtubeId": "v5UcuY33Hic",
+      "title": "Securing the Election Office: A Local Response",
+      "slug": "jake-braun-securing-the-election-office-a-local-response",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-voting-village.json",
+      "index": 4,
+      "youtubeId": "QLmREgJxFJI",
+      "title": "Election Hacking: Legal Considerations from the Civil Side",
+      "slug": "joseph-hall-election-hacking-legal-considerations-from-the-civil",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-wifi-village.json",
+      "index": 0,
+      "youtubeId": "fSsTgazmHCw",
+      "title": "WIGLE Like You Mean It  Maximizing Your Wardriving",
+      "slug": "aardvark-darkmatter-wigle-like-you-mean-it-maximizing-your-wardr",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-25-wifi-village.json",
+      "index": 8,
+      "youtubeId": "CoQsYhFSjtg",
+      "title": "Suitcase Repeater Build for UHF 70cm",
+      "slug": "andrew-strutt-suitcase-repeater-build-for-uhf-70cm",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-ai-village.json",
+      "index": 11,
+      "youtubeId": "y1w2srpQ4u8",
+      "title": "Adversarial Patches",
+      "slug": "sven-cattell",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-ai-village.json",
+      "index": 19,
+      "youtubeId": "TlAUp1S-6W0",
+      "title": "The Current State of Adversarial Machine Learning",
+      "slug": "infosecanon-the-current-state-of-adversarial-machine-learning",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-ai-village.json",
+      "index": 27,
+      "youtubeId": "__5H-MopPts",
+      "title": "How to Leverage the Open Source Information",
+      "slug": "li-jiao-how-to-leverage-the-open-source-information",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-biohacking-village.json",
+      "index": 3,
+      "youtubeId": "Nm4n-XhqERY",
+      "title": "Biohacking Village Microfluidics Badge",
+      "slug": "bio-hacking-village-joel-murphy",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-biohacking-village.json",
+      "index": 11,
+      "youtubeId": "sw_D-12S1G0",
+      "title": "DNA Encryption: Bioencryption to Store Secrets",
+      "slug": "john-dunlap-dna-encryption-bioencryption-to-store-secrets",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-blue-team-village.json",
+      "index": 7,
+      "youtubeId": "SMKVkpzGhOs",
+      "title": "Stop Drop and Assess your SOC",
+      "slug": "andy-applebaum-stop-drop-and-assess-your-soc",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-cannabis-village.json",
+      "index": 6,
+      "youtubeId": "CsRYAUlb6_E",
+      "title": "Diagnosing Sick Plants with Computer Vision",
+      "slug": "harry-moreno-diagnosing-sick-plants-with-computer-vision",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-car-hacking-village.json",
+      "index": 2,
+      "youtubeId": "PlOj0Mt-2NM",
+      "title": "Go Hack Cars",
+      "slug": "eric-evenchick",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-car-hacking-village.json",
+      "index": 7,
+      "youtubeId": "bK3SFDKvkHQ",
+      "title": "Automotive Exploitation Sandbox",
+      "slug": "nathaniel-boggs",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
+      "index": 1,
+      "youtubeId": "nfQG7GOCL-g",
+      "title": "Green Locks for You and Me",
+      "slug": "wendy-knox-everette-green-locks-for-you-and-me",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
+      "index": 5,
+      "youtubeId": "RijGNytjbOI",
+      "title": "No Way JOSE! Designing Cryptography",
+      "slug": "scott-arciszewski-no-way-jose-designing-cryptography",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
+      "index": 9,
+      "youtubeId": "ySl2ywGiFkw",
+      "title": "Geolocation and Homomorphic Encryption",
+      "slug": "nicholas-doiron-geolocation-and-homomorphic-encryption",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
+      "index": 13,
+      "youtubeId": "tEQgkSuxNk4",
+      "title": "Opportunistic Onion",
+      "slug": "mahrud-sayrafi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
+      "index": 17,
+      "youtubeId": "SCdaYAFx7hw",
+      "title": "Integrating Post Quantum Crypto",
+      "slug": "christian-paquin",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
+      "index": 21,
+      "youtubeId": "Obz_FHriEnw",
+      "title": "JARVIS never saw it coming",
+      "slug": "barnhart-magen-and-caltum",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-data-duplication-village.json",
+      "index": 2,
+      "youtubeId": "3J6r59Tl7iI",
+      "title": "Beginners Guide to Musical Scales of Cyberwar",
+      "slug": "jessica-smith-beginners-guide-to-musical-scales-of-cyberwar",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-dc-groups.json",
+      "index": 2,
+      "youtubeId": "fHRgB6x78d4",
+      "title": "Spotlight on DC2744 Garden Route South Africa",
+      "slug": "spotlight-on-dc2744-garden-route-south-africa",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-ethics-village.json",
+      "index": 2,
+      "youtubeId": "DWr6ou_7514",
+      "title": "Ethics of Technology in Humanitarian and Disaster Response",
+      "slug": "ethics-of-technology-in-humanitarian-and-disaster-response",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-ethics-village.json",
+      "index": 6,
+      "youtubeId": "GcgIfYLCrDQ",
+      "title": "Hack Back: Not An Option But A Necessity",
+      "slug": "david-scott-lewis-hack-back-not-an-option-but-a-necessity",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-hardware-hacking-village.json",
+      "index": 3,
+      "youtubeId": "5GSxa_VgOvk",
+      "title": "Building Drones the Hard Way",
+      "slug": "david-melendez-cano-building-drones-the-hard-way",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-ics-village.json",
+      "index": 2,
+      "youtubeId": "w6Ng8OEnI3g",
+      "title": "How We Cost Our Client 1 point 2M with 4 lines of code",
+      "slug": "ica-village-mike-godfrey-how-we-cost-our-client-1-point-2m-with",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-ics-village.json",
+      "index": 6,
+      "youtubeId": "2ds0yDzuLhs",
+      "title": "Analyzing VPNFilters Modbus Module",
+      "slug": "ica-village-desantis-and-pacho",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-iot-village.json",
+      "index": 1,
+      "youtubeId": "zzgmWlCfCRU",
+      "title": "The Sound of a Targeted Attack  Attacking IoT Speakers",
+      "slug": "stephen-hilt-the-sound-of-a-targeted-attack-attacking-iot-speake",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-iot-village.json",
+      "index": 5,
+      "youtubeId": "Rjd3DP5W8Z0",
+      "title": "FPGAs a new attack surface for embedded adversaries",
+      "slug": "john-dunlap-fpgas-a-new-attack-surface-for-embedded-adversaries",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-iot-village.json",
+      "index": 9,
+      "youtubeId": "M5S2-PdvGc4",
+      "title": "Attacking Commercial Smart Irrigation Systems",
+      "slug": "ben-nassi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-main-stage.json",
+      "index": 50,
+      "youtubeId": "b7ekygjC3so",
+      "title": "Lora Smart Water Meter Security Analysis",
+      "slug": "lora-smart-water-meter-security-analysis",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-main-stage.json",
+      "index": 65,
+      "youtubeId": "N5_dNdp8SNc",
+      "title": "Closing Ceremonies",
+      "slug": "closing-ceremonies-4",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-main-stage.json",
+      "index": 100,
+      "youtubeId": "Dz0C55Azn1Y",
+      "title": "Looking for the Perfect Signature: Automatic YARA Rules",
+      "slug": "andrea-marcelli-looking-for-the-perfect-signature-automatic-yara-rules",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-monero-village.json",
+      "index": 2,
+      "youtubeId": "lIGbNTbMd-A",
+      "title": "BCOS Keynote",
+      "slug": "bcos-monero-village-philip-martin",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-monero-village.json",
+      "index": 6,
+      "youtubeId": "ljSA51FZKdE",
+      "title": "A Rundown of Security Issues in Crypto  Wallets",
+      "slug": "bcos-monero-village-marko-bencun-a-rundown-of-security-issues-in",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-monero-village.json",
+      "index": 10,
+      "youtubeId": "LjM3GTBaUvo",
+      "title": "Moneros Emerging Applications",
+      "slug": "bcos-monero-village-fluffy-pony",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-packet-hacking-village.json",
+      "index": 0,
+      "youtubeId": "9CoZUulhiwo",
+      "title": "TryCatchHCF - PacketWhisper Stealthily Exfiltrating Data",
+      "slug": "trycatchhcf",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-packet-hacking-village.json",
+      "index": 4,
+      "youtubeId": "7kGFqYu07jg",
+      "title": "Rogan Dawes - Mallet A Proxy for Arbitrary Traffic",
+      "slug": "rogan-dawes-mallet-a-proxy-for-arbitrary-traffic",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-packet-hacking-village.json",
+      "index": 8,
+      "youtubeId": "b9B3Dn40rQ0",
+      "title": "Lokesh Pidawekar - An OSINT Approach to 3rd Party Cloud Services",
+      "slug": "lokesh-pidawekar-an-osint-approach-to-3rd-party-cloud-services",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-packet-hacking-village.json",
+      "index": 12,
+      "youtubeId": "hHmxZxJ-eEY",
+      "title": "Gita Ziabari = How to Tune Automation to Avoid False Positives",
+      "slug": "gita-ziabari-how-to-tune-automation-to-avoid-false-positives",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-packet-hacking-village.json",
+      "index": 16,
+      "youtubeId": "f4Is62csQQk",
+      "title": "Chris Hanlon - Holes in the Foundation of Modern Security",
+      "slug": "chris-hanlon-holes-in-the-foundation-of-modern-security",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-packet-hacking-village.json",
+      "index": 20,
+      "youtubeId": "ZjTmrakUc3o",
+      "title": "Alex Stanev - wpa sec The Largest Online WPA Handshake Database",
+      "slug": "alex-stanev-wpa-sec-the-largest-online-wpa-handshake-database",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-recon-village.json",
+      "index": 13,
+      "youtubeId": "Eq2jax963xw",
+      "title": "Hackathon and CTF Prizes   Video",
+      "slug": "team-hackathon-and-ctf-prizes-video",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-social-engineering-village.json",
+      "index": 0,
+      "youtubeId": "vgKAxd_4s0A",
+      "title": "On the Hunt Hacking the Hunt Group",
+      "slug": "se-village-silvers-and-banks-on-the-hunt-hacking-the-hunt-group",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-social-engineering-village.json",
+      "index": 4,
+      "youtubeId": "F1sbd7hFFy4",
+      "title": "Social Engineering From a CISOs Perspective",
+      "slug": "se-village-kathleen-mullin-social-engineering-from-a-cisos-persp",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-social-engineering-village.json",
+      "index": 8,
+      "youtubeId": "YJHR2XUGrpg",
+      "title": "In-N-Out: That's What It's All About",
+      "slug": "se-village-billy-boatright-in-n-out-thats-what-its-all-about",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-voting-village.json",
+      "index": 2,
+      "youtubeId": "9xVnP7dY2vA",
+      "title": "Lightning Talk A Crash Course on Election Security",
+      "slug": "matthew-bernhard-lightning-talk-a-crash-course-on-election-secur",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-voting-village.json",
+      "index": 6,
+      "youtubeId": "4K0YZcbbzhc",
+      "title": "Election Security Threats and Solutions",
+      "slug": "j-alex-halderman-election-security-threats-and-solutions",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-wireless-village.json",
+      "index": 1,
+      "youtubeId": "xIUdtlFRdKk",
+      "title": "Blue Sonar",
+      "slug": "zero-chaos-and-mellendick",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-wireless-village.json",
+      "index": 5,
+      "youtubeId": "lx5MAOyu9N0",
+      "title": "BLE CTF",
+      "slug": "ryan-holeman",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-wireless-village.json",
+      "index": 9,
+      "youtubeId": "nctbeAfCZP8",
+      "title": "Learning to Listen Machine Learning for Adaptive Wireless",
+      "slug": "dunlap-learning-to-listen-machine-learning-for-adaptive-wireless",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-26-wireless-village.json",
+      "index": 13,
+      "youtubeId": "6OVo_6ZRo4Q",
+      "title": "SirenJack Cracking a Secure Emergency  Siren System",
+      "slug": "balint-seeber-sirenjack-cracking-a-secure-emergency-siren-system",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ai-village.json",
+      "index": 0,
+      "youtubeId": "XOBUeyzop5E",
+      "title": "Machine Learning's Privacy Problem",
+      "slug": "machine-learning-privacy-problem",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ai-village.json",
+      "index": 4,
+      "youtubeId": "yudsZy37qFI",
+      "title": "Securing your Kubeflow Clusters",
+      "slug": "barton-rhodes-securing-your-kubeflow-clusters",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ai-village.json",
+      "index": 8,
+      "youtubeId": "0NaFrxpSq7A",
+      "title": "Behavioral Biometrics and Context Analytics",
+      "slug": "jesus-solano-behavioral-biometrics-and-context-analytics",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ai-village.json",
+      "index": 12,
+      "youtubeId": "BUYMh1edqdg",
+      "title": "Regulating AI and Algorithms: Lessons",
+      "slug": "laurin-weissinger-regulating-ai-and-algorithms-lessons",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ai-village.json",
+      "index": 16,
+      "youtubeId": "0u-KkEKMjo8",
+      "title": "Datasciencery by the Splunk Field",
+      "slug": "ryan-kovar-datasciencery-by-the-splunk-field",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ai-village.json",
+      "index": 20,
+      "youtubeId": "Yt3AW46145A",
+      "title": "Automated Injection and Removal of Medical Evidence in CT",
+      "slug": "yisroel-mirsky-automated-injection-and-removal-of-medical-eviden",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-appsec-village.json",
+      "index": 2,
+      "youtubeId": "8TnV0-zGsKU",
+      "title": "Purple Team Strategies for Application Security",
+      "slug": "joe-schottman-purple-team-strategies-for-application-security",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-appsec-village.json",
+      "index": 6,
+      "youtubeId": "0IAyPq81JFg",
+      "title": "How bad could it be Inside Law Enforcement",
+      "slug": "anthony-kava-how-bad-could-it-be-inside-law-enforcement",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-biohacking-village.json",
+      "index": 2,
+      "youtubeId": "lb2p212rc6o",
+      "title": "A Previvors Story of Uncovering Massive Zero Day",
+      "slug": "andrea-downing-a-previvors-story-of-uncovering-massive-zero-day",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-biohacking-village.json",
+      "index": 6,
+      "youtubeId": "fsU27wVYQ_I",
+      "title": "Building a New Decentralized Internet With the Nodes",
+      "slug": "nick-titus-building-a-new-decentralized-internet-with-the-nodes",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-biohacking-village.json",
+      "index": 10,
+      "youtubeId": "5pIp2Bs3oe0",
+      "title": "Liven Up Augmenting Materials  Bio Hybrid Function",
+      "slug": "rachel-smith-liven-up-augmenting-materials-bio-hybrid-function-d",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-biohacking-village.json",
+      "index": 14,
+      "youtubeId": "9mEqKsJDzXk",
+      "title": "Cyberbiosecurity and the Full Stack Biotechnologist",
+      "slug": "steve-lewis-cyberbiosecurity-and-the-full-stack-biotechnologist",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-blockchain-village.json",
+      "index": 1,
+      "youtubeId": "K60VNlFpzR4",
+      "title": "Responding to Firefox 0 days",
+      "slug": "philip-martin-responding-to-firefox-0-days-def-con-27-block-chai",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-blockchain-village.json",
+      "index": 5,
+      "youtubeId": "RyOJ1kriKv0",
+      "title": "Hacking Cryptocurrencies",
+      "slug": "mark-nesbitt-hacking-cryptocurrencies-def-con-27-block-chain-vil",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-blue-team-village.json",
+      "index": 1,
+      "youtubeId": "JGsrRROEhkk",
+      "title": "BloodHound From Red to Blue 1 point 5",
+      "slug": "scoubi-bloodhound-from-red-to-blue-1-point-5-def-con-27-blue-tea",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-blue-team-village.json",
+      "index": 5,
+      "youtubeId": "hM6pa_aW0f4",
+      "title": "Extending Zeek For ICS Defense",
+      "slug": "norman-lundt-extending-zeek-for-ics-defense-def-con-27-blue-team",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-blue-team-village.json",
+      "index": 9,
+      "youtubeId": "lQvwdbZQNlc",
+      "title": "Anatomy Of A Megabreach Equifax Report",
+      "slug": "dumby-anatomy-of-a-megabreach-equifax-report-def-con-27-blue-tea",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-blue-team-village.json",
+      "index": 13,
+      "youtubeId": "gb1ZAuj4RHY",
+      "title": "The Cyber Threat Intelligence Mindset",
+      "slug": "ch33r10-the-cyber-threat-intelligence-mindset-def-con-27-blue-te",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-cloud-village.json",
+      "index": 3,
+      "youtubeId": "6NQeop_47EM",
+      "title": "Hacking into Automotive Clouds",
+      "slug": "rotem-bar-hacking-into-automative-clouds",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
+      "index": 0,
+      "youtubeId": "YG33kAaFs6Q",
+      "title": "TLS decryption attacks and back doors -",
+      "slug": "chris-hanlon-tls-decryption-attacks-and-back-doors-def-con-27-cr",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
+      "index": 4,
+      "youtubeId": "trFQj6fEic4",
+      "title": "Tiplines Today -",
+      "slug": "harlo-holmes-tiplines-today-def-con-27-crypto-and-privacy-villag",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
+      "index": 8,
+      "youtubeId": "rH0X6-lxygk",
+      "title": "PKI and SHAKEN STIR Will Fix Robocalls -",
+      "slug": "mark-b-cooper-pki-and-shaken-stir-will-fix-robocalls-def-con-27",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
+      "index": 12,
+      "youtubeId": "28SM5ILpHEE",
+      "title": "Easy PAKE Oven -",
+      "slug": "steve-thomas-easy-pake-oven-def-con-27-crypto-and-privacy-villag",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
+      "index": 16,
+      "youtubeId": "8BmZBnS30As",
+      "title": "Snoop all Telegram messages -",
+      "slug": "vitor-ventura-snoop-all-telegram-messages-def-con-27-crypto-and",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ethics-village.json",
+      "index": 0,
+      "youtubeId": "7O3d6YaDa88",
+      "title": "Who is Tracking Your Body Health Apps and Your Privacy",
+      "slug": "wendy-edwards-who-is-tracking-your-body-health-apps-and-your-pri",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ethics-village.json",
+      "index": 4,
+      "youtubeId": "G2kZ5kzyKqU",
+      "title": "Rant on Disclosure",
+      "slug": "renderman-rant-on-disclosure",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ethics-village.json",
+      "index": 8,
+      "youtubeId": "XI7Wg54C24A",
+      "title": "Coffee Talk",
+      "slug": "anthony-ferrante-coffee-talk",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-hardware-hacking-village.json",
+      "index": 1,
+      "youtubeId": "iHo0EKKsRFw",
+      "title": "Another Car Hacking Approach",
+      "slug": "benjamin-lafois-another-car-hacking-approach-def-con-27-hardware",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ics-village.json",
+      "index": 2,
+      "youtubeId": "zFxoxxbwA4o",
+      "title": "Nation State Supply Chain Attacks for Dummies",
+      "slug": "monta-elkins-nation-state-supply-chain-attacks-for-dummies",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ics-village.json",
+      "index": 6,
+      "youtubeId": "c1H-UV1v2W0",
+      "title": "Abusing the IoT in Smart Building",
+      "slug": "daniel-dos-santos-abusing-the-iot-in-smart-building",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-ics-village.json",
+      "index": 10,
+      "youtubeId": "0pFCTKX8Q8E",
+      "title": "What the next Stuxnet will look like and how to prevent it",
+      "slug": "joseph-bingham-what-the-next-stuxnet-will-look-like-and-how-to-p",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-iot-village.json",
+      "index": 3,
+      "youtubeId": "tzl-0vmOiMQ",
+      "title": "Hacking the Zyxel NAS 326 from the Perspective of a n00b",
+      "slug": "maxwell-dulin-hacking-the-zyxel-nas-326-from-the-perspective-of",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-iot-village.json",
+      "index": 7,
+      "youtubeId": "e1_vfnnsesw",
+      "title": "Greenwaves and Ham",
+      "slug": "elvis-collado-greenwaves-and-ham",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-iot-village.json",
+      "index": 11,
+      "youtubeId": "zhJomUeVW94",
+      "title": "Regulatory Trends in IoT and impact on research community",
+      "slug": "amit-elazari-regulatory-trends-in-iot-and-impact-on-research-com",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-monero-village.json",
+      "index": 0,
+      "youtubeId": "87joZVWCJEo",
+      "title": "Creating cake from Scratch",
+      "slug": "vik-sharma-creating-cake-from-scratch",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-monero-village.json",
+      "index": 4,
+      "youtubeId": "8oROeqz4I7U",
+      "title": "The Future of Accessible Mining",
+      "slug": "kristy-leigh-minehan-the-future-of-accessible-mining",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-monero-village.json",
+      "index": 8,
+      "youtubeId": "Rw0Xd7cJm5U",
+      "title": "InfoSec vs Hacker The War for the Soul of a Technology",
+      "slug": "allan-stevo-infosec-vs-hacker-the-war-for-the-soul-of-a-technolo",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-monero-village.json",
+      "index": 12,
+      "youtubeId": "8osfuktRWx4",
+      "title": "Monero is UGLY and DIFFICULT to use",
+      "slug": "diego-monero-is-ugly-and-difficult-to-use",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-packet-hacking-village.json",
+      "index": 0,
+      "youtubeId": "4AtmC7P0vzc",
+      "title": "Personalized Wordlists With NLP by Analyzing Tweets",
+      "slug": "utku-sen-personalized-wordlists-with-nlp-by-analyzing-tweets-def",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-packet-hacking-village.json",
+      "index": 4,
+      "youtubeId": "1pqCqz3JzXE",
+      "title": "Hunting Certificates and Servers",
+      "slug": "sam-erb-hunting-certificates-and-servers-def-con-27-packet-hacki",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-packet-hacking-village.json",
+      "index": 8,
+      "youtubeId": "BitqDHxlxYc",
+      "title": "Rethinking Security Given the Spectre of a Meltdown",
+      "slug": "jeff-man-rethinking-security-given-the-spectre-of-a-meltdown-def",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-packet-hacking-village.json",
+      "index": 12,
+      "youtubeId": "GJAsALPHnkY",
+      "title": "Solving Crimes with Wireless GeoFencing",
+      "slug": "gleb-esman-solving-crimes-with-wireless-geofencing-def-con-27-pa",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-packet-hacking-village.json",
+      "index": 16,
+      "youtubeId": "8LfcgPWtV78",
+      "title": "Security to Make the CFO Happy",
+      "slug": "adam-security-to-make-the-cfo-happy-def-con-27-packet-hacking-vi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-recon-village.json",
+      "index": 1,
+      "youtubeId": "9FnE3Y9YMJs",
+      "title": "Finding the needle in the Twitter haystack",
+      "slug": "wicked-clown-finding-the-needle-in-the-twitter-haystack",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-recon-village.json",
+      "index": 5,
+      "youtubeId": "RWh4RH5XkkE",
+      "title": "Hack the Planet Hackers Influencing Positive Change",
+      "slug": "robert-sell-hack-the-planet-hackers-influencing-positive-change",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-recon-village.json",
+      "index": 9,
+      "youtubeId": "DEbnP0bmq3Y",
+      "title": "A URL Shortened By Any Other Name video",
+      "slug": "master-chen-a-url-shortened-by-any-other-name-video",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-recon-village.json",
+      "index": 13,
+      "youtubeId": "zj50_lMV-pI",
+      "title": "Lets get technical and hunt harder video",
+      "slug": "bug-crowd-lets-get-technical-and-hunt-harder-video",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-recon-village.json",
+      "index": 17,
+      "youtubeId": "ES6OKjgW36w",
+      "title": "Advanced Recon with OWASP Amass",
+      "slug": "jeff-foley-advanced-recon-with-owasp-amass",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-red-team-village.json",
+      "index": 3,
+      "youtubeId": "G-heFh4t-Pk",
+      "title": "Through the Looking Glass Own the Data Center",
+      "slug": "chris-mccoy-through-the-looking-glass-own-the-data-center-def-co",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-social-engineering-village.json",
+      "index": 1,
+      "youtubeId": "IJ0MuyzaaaY",
+      "title": "RED TEAMING FROM DOWN UNDER",
+      "slug": "wayne-ronaldson-red-teaming-from-down-under-def-con-27-social-en",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-social-engineering-village.json",
+      "index": 5,
+      "youtubeId": "fLmgP2h5O8s",
+      "title": "Leveraging the Insider Threat",
+      "slug": "marcus-liotta-leveraging-the-insider-threat-def-con-27-social-en",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-social-engineering-village.json",
+      "index": 9,
+      "youtubeId": "H3XR4QrJyxA",
+      "title": "Sizing People Up",
+      "slug": "robin-dreeke-sizing-people-up-def-con-27-social-engineering-vill",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-social-engineering-village.json",
+      "index": 13,
+      "youtubeId": "tCRT3QFzwm8",
+      "title": "The Basics of Social Engineering",
+      "slug": "chris-pritchard-the-basics-of-social-engineering-def-con-27-soci",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-social-engineering-village.json",
+      "index": 17,
+      "youtubeId": "4LdwU71Gpi4",
+      "title": "Hacking Hollywood",
+      "slug": "andrew-nicholson-hacking-hollywood-def-con-27-social-engineering",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-transporthax.json",
+      "index": 3,
+      "youtubeId": "EjLcbHlKSGw",
+      "title": "The Long Haul The State of Aviation Policy -",
+      "slug": "panel-the-long-haul-the-state-of-aviation-policy",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-transporthax.json",
+      "index": 7,
+      "youtubeId": "n9MnloQhw9Q",
+      "title": "A Hackers First Solo Airplane Avionics Security 101 -",
+      "slug": "ken-and-alex-a-hackers-first-solo-airplane-avionics-security-101",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-transporthax.json",
+      "index": 11,
+      "youtubeId": "4EkXYD76Quk",
+      "title": "Infotainment Hacking - DEF CON 27 Car Hacking Village",
+      "slug": "neiko-rivera-infotainment-hacking-def-con-27-car-hacking-village",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-transporthax.json",
+      "index": 15,
+      "youtubeId": "nb1v8MrV9tM",
+      "title": "Reverse Engineering and Flashing ECU Firmware Updates - DEF CON 27 Car Hacking Village",
+      "slug": "greg-hogan-reverse-engineering-and-flashing-ecu-firmware-updates",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-transporthax.json",
+      "index": 19,
+      "youtubeId": "WonKnDVpmQ8",
+      "title": "Opening Remarks - DEF CON 27 Hack the Sea Village",
+      "slug": "brian-satira-opening-remarks-def-con-27-hack-the-sea-village",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-transporthax.json",
+      "index": 23,
+      "youtubeId": "vt2t75RoCDY",
+      "title": "Yacht Hacking from SatCOM to engine control - DEF CON 27 Hack the Sea Village",
+      "slug": "stephan-gerling-yacht-hacking-from-satcom-to-engine-control-def",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-voting-village.json",
+      "index": 2,
+      "youtubeId": "ishV9waHqAg",
+      "title": "Ron Wyden - Keynote Remarks from Senator Ron Wyden",
+      "slug": "ron-wyden-keynote-remarks-from-senator-ron-wyden",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-voting-village.json",
+      "index": 6,
+      "youtubeId": "Hk2wZX3O9Oc",
+      "title": "Kate Trimble - Ideas Whose Time Has Come CVD SBOM and SOTA",
+      "slug": "kate-trimble-ideas-whose-time-has-come-cvd-sbom-and-sota",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-voting-village.json",
+      "index": 10,
+      "youtubeId": "QH8AmNM48bw",
+      "title": "Jake Braun - Lessons Learned DEF CON Voting Village",
+      "slug": "jake-braun-lessons-learned-def-con-voting-village",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-voting-village.json",
+      "index": 14,
+      "youtubeId": "zHJYwjyFfmU",
+      "title": "Jack Cable - Bootstrapping Vulnerability Disclosure For Election Systems",
+      "slug": "jack-cable-bootstrapping-vulnerability-disclosure-for-election-s",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-voting-village.json",
+      "index": 18,
+      "youtubeId": "pFLW2uFu5zk",
+      "title": "Chris Krebs - Chris Krebs",
+      "slug": "chris-krebs-chris-krebs",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-voting-village.json",
+      "index": 22,
+      "youtubeId": "6-gHzUenJ5Y",
+      "title": "Brian Varner - Beyond the Voting Machine Other High Value Targets",
+      "slug": "brian-varner-beyond-the-voting-machine-other-high-value-targets",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-wireless-village.json",
+      "index": 3,
+      "youtubeId": "xo_iUfbCyN4",
+      "title": "War Never Changes Attacks Against WPA3s Enhanced Open",
+      "slug": "s0lst1c3-war-never-changes-attacks-against-wpa3s-enhanced-open",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-wireless-village.json",
+      "index": 7,
+      "youtubeId": "gj6DnxkjuIM",
+      "title": "Introducing new Hak5 gear",
+      "slug": "hak5crew-introducing-new-hak5-gear",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-27-wireless-village.json",
+      "index": 11,
+      "youtubeId": "tfF9sCr9Cec",
+      "title": "edu driving",
+      "slug": "besim-altinok-edu-driving",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-adversary-village.json",
+      "index": 11,
+      "youtubeId": "kdSFjjPZFpo",
+      "title": "Adversary Village Kick-Off",
+      "slug": "abhijith-b-r",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-blockchain-village.json",
+      "index": 6,
+      "youtubeId": "tyrGSQmJ-gk",
+      "title": "Ethereum Hacks & How to Stop Them: OpenZeppelin Defender",
+      "slug": "michael-lewellen-ethereum-hacks-and-how-to-stop-them",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-car-hacking-village.json",
+      "index": 4,
+      "youtubeId": "IMZ8DD4lTAY",
+      "title": "Fuzzing CAN & CAN FD ECUs and Networks",
+      "slug": "samir-bhagwat-fuzzing-can-can-fd-ecus-and-network",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-ham-radio-village.json",
+      "index": 0,
+      "youtubeId": "fH-yyTZffAk",
+      "title": "Spectrum Coordination for Amateur Radio",
+      "slug": "bryan-fields-spectrum-coordination-for-amateur-radio",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-ham-radio-village.json",
+      "index": 4,
+      "youtubeId": "9opTlr5TPsA",
+      "title": "Amateur Radio Mesh Networking",
+      "slug": "tyler-gardner",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-ics-village.json",
+      "index": 10,
+      "youtubeId": "QL_sZvwS7-w",
+      "title": "ICS Village Opening and Introduction",
+      "slug": "opening-and-introduction",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-live-presentations.json",
+      "index": 12,
+      "youtubeId": "BWXAmImiNZA",
+      "title": "Community Panel: DEF CON 102 (Live)",
+      "slug": "the-dark-tangent-panel-def-con-102",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-payment-village.json",
+      "index": 1,
+      "youtubeId": "9ZaHuV4erUE",
+      "title": "When Businesses Decide to Enrol Cryptocurrency Cards",
+      "slug": "timur-yunusov-when-businesses-decide-to-enrol-cryptocurrency-car",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-recon-village.json",
+      "index": 3,
+      "youtubeId": "YKFG4IAaTRo",
+      "title": "The Bug Hunter's Recon Methodology",
+      "slug": "tushar-verma-the-bug-hunters-recon-methodology",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-recon-village.json",
+      "index": 7,
+      "youtubeId": "HLzv8TVMQHo",
+      "title": "OSINT and the Hermit Kingdom",
+      "slug": "nick-roy-osint-and-the-hermit-kingdom",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-recon-village.json",
+      "index": 11,
+      "youtubeId": "BlcORtyfKWk",
+      "title": "Finding Hidden Gems via URL Shortener Services",
+      "slug": "utku-sen-finding-hidden-gems-via-url-shortener-services",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-red-team-village.json",
+      "index": 0,
+      "youtubeId": "gv0yMVFwCM4",
+      "title": "The Future of AI, Machine Learning, and Offensive Security",
+      "slug": "panel-the-future-of-ai-machine-learning-and-offensive-security",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-red-team-village.json",
+      "index": 4,
+      "youtubeId": "3vZjOtFyUY0",
+      "title": "CTF Recap and Upcoming Events",
+      "slug": "ctf-recap-and-upcoming-events",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-29-red-team-village.json",
+      "index": 8,
+      "youtubeId": "HmYb9F-Npdw",
+      "title": "CyberWraith: Red Team Village C2 & Infrastructure Framework",
+      "slug": "a-discussion-about-the-red-team-village-cyberwraith",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-after-hours.json",
+      "index": 1,
+      "youtubeId": "cBTz0aiDYaQ",
+      "title": "Behind the Beats: Music Production with Zziks",
+      "slug": "behind-the-beats-defcon-music-production",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-blue-team-village.json",
+      "index": 0,
+      "youtubeId": "-upNhwmNGp8",
+      "title": "YARA Rules to Rule Them All",
+      "slug": "saurabh-chaudhary-yara-rules-to-rule-them-all",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-blue-team-village.json",
+      "index": 4,
+      "youtubeId": "47L9tS0eORE",
+      "title": "Project Obsidian: Mise En Place for Incident Investigations",
+      "slug": "project-obsidian-mise-en-place-for-investigations",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-blue-team-village.json",
+      "index": 8,
+      "youtubeId": "yn9DmRMo_so",
+      "title": "Project Obsidian: Incident Response OODA Loop - An Hour in an Incident Responder's Life",
+      "slug": "project-obsidian-ir-ooda-an-hour-in-incident-responder-life",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-blue-team-village.json",
+      "index": 12,
+      "youtubeId": "lrcAl_WD0HY",
+      "title": "Hunting Malicious Office Macros: VBA Deobfuscation & Detection",
+      "slug": "anton-ovrutsky",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-blue-team-village.json",
+      "index": 16,
+      "youtubeId": "t2h-Mz27iSI",
+      "title": "Project Obsidian: Kill Chain Endpoint Forensics Walkthrough",
+      "slug": "project-obsidian-kill-chain-3-endpoint-forensics-walkthrough",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-blue-team-village.json",
+      "index": 20,
+      "youtubeId": "YN0dbIzWQNM",
+      "title": "Project Obsidian: Cyber Threat Hunting - When the Logs Are Gone",
+      "slug": "project-obsidian-cth-the-logs-are-gone",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-dcgvr-village.json",
+      "index": 0,
+      "youtubeId": "bzhQIQ9lSy0",
+      "title": "DCGVR Village Keynote",
+      "slug": "dcgvr-talks-jayson-street",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-dcgvr-village.json",
+      "index": 4,
+      "youtubeId": "LloLFZtMyEA",
+      "title": "Advanced Packet Wrangling with tcpdump",
+      "slug": "dc30-dcgvr-talks-advanced-packet-wrangling-with-tcpdump",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-dcgvr-village.json",
+      "index": 8,
+      "youtubeId": "qWJKL5xk6kU",
+      "title": "Careful Who You Colab With: Security Risks in Google Colab & Shared Notebooks",
+      "slug": "dc30-dcgvr-talks-careful-who-you-colab-with",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-dcgvr-village.json",
+      "index": 12,
+      "youtubeId": "euOGB3GR7oo",
+      "title": "Glitter Nail Polish vs. The Evil Maid: Low-Cost Tamper Evident Verification",
+      "slug": "dc30-dcgvr-talks-glitter-nail-polish-vs-the-evil-maid",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-ics-village.json",
+      "index": 2,
+      "youtubeId": "douawM9UqHc",
+      "title": "ICS Village - SEAtf Setup",
+      "slug": "ics-village-seatf-setup",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-live-ctf.json",
+      "index": 3,
+      "youtubeId": "G5R912yhHGs",
+      "title": "LiveCTF: Day 3 Finals",
+      "slug": "livectf-3",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-main-stage.json",
+      "index": 83,
+      "youtubeId": "xWY0Yw8a7fM",
+      "title": "A Policy Fireside Chat with the National Cyber Director",
+      "slug": "chris-inglis-kim-zetter-a-policy-fireside-chat-with-the-national",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 3,
+      "youtubeId": "slsw68EnsH8",
+      "title": "Packet Hacking Village Interview",
+      "slug": "packet-hacking-village-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 7,
+      "youtubeId": "ZS2cemvD00U",
+      "title": "AppSec Village Interview",
+      "slug": "app-sec-village-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 11,
+      "youtubeId": "8NL--ilPm5A",
+      "title": "Physical Security Village Interview",
+      "slug": "physical-security-village-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 15,
+      "youtubeId": "2IGEhg1bptE",
+      "title": "Ham Radio Village Interview (Part 2)",
+      "slug": "ham-radio-village-interview-2",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 19,
+      "youtubeId": "8MYOOj7LpLU",
+      "title": "Cloud Village Interview",
+      "slug": "cloud-village-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 23,
+      "youtubeId": "1sI_NkAimmE",
+      "title": "Hak5 Collaboration Showcase",
+      "slug": "hak5-collaboration-showcase",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 27,
+      "youtubeId": "A6bFMqx2LpU",
+      "title": "MKFactor Badge Talk",
+      "slug": "mkfactor-badge-talk",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 31,
+      "youtubeId": "da5TFN8rR5E",
+      "title": "Demo Labs Showcase",
+      "slug": "demo-labs-showcase",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 35,
+      "youtubeId": "qA_LggJz5vI",
+      "title": "Blue Team Village Walkthrough",
+      "slug": "blue-team-village-walkthrough",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 39,
+      "youtubeId": "wxmMrwFVc4g",
+      "title": "Silk: Open Research Institute",
+      "slug": "silk-open-research-institute",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 43,
+      "youtubeId": "cINgbB4IeQU",
+      "title": "Silk: Hack Fortress Contest",
+      "slug": "silk-hack-fortress-contest",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-30-village-interviews.json",
+      "index": 47,
+      "youtubeId": "LvvhvhqDV9k",
+      "title": "Silk: Darknet Team Chat",
+      "slug": "silk-darknet-team-chat",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-dcgvr-village.json",
+      "index": 0,
+      "youtubeId": "oabdIS9PqAc",
+      "title": "What Is a GRC Hacker?",
+      "slug": "what-is-a-grc-hacker",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-dcgvr-village.json",
+      "index": 4,
+      "youtubeId": "5y9HhDp3MHQ",
+      "title": "VR Workspaces",
+      "slug": "vr-workspaces",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-dcgvr-village.json",
+      "index": 8,
+      "youtubeId": "PGxV_bmpe-E",
+      "title": "DCGVR Village Keynote",
+      "slug": "dcgvr-village-keynote",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-main-stage.json",
+      "index": 65,
+      "youtubeId": "ieKgIDOPyNw",
+      "title": "Fireside Chat with the National Cyber Director",
+      "slug": "fireside-chat-with-the-national-cyber-director",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-main-stage.json",
+      "index": 95,
+      "youtubeId": "MdNZC_CdHJA",
+      "title": "Secretary of the Department of Homeland Security at DEF CON 31",
+      "slug": "secretary-of-the-department-of-homeland-security",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-village-interviews.json",
+      "index": 0,
+      "youtubeId": "uYpVg--aFS8",
+      "title": "Red Team Village Overview and Operations",
+      "slug": "red-team-village-overview-and-operations",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-village-interviews.json",
+      "index": 4,
+      "youtubeId": "rKOsWMOMe0Q",
+      "title": "Apple TV Spoof and Hallway Shenanigans",
+      "slug": "apple-tv-spoof-and-hallway-shenanigans",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-village-interviews.json",
+      "index": 8,
+      "youtubeId": "Gwft7ZVlLLQ",
+      "title": "Amateur Radio Foxhunt Interview with Silk",
+      "slug": "amateur-radio-foxhunt-interview-with-silk",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-village-interviews.json",
+      "index": 12,
+      "youtubeId": "uxkurgqx_ZI",
+      "title": "Hacker Memorial Community Space Interview",
+      "slug": "hacker-memorial-community-space-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-village-interviews.json",
+      "index": 16,
+      "youtubeId": "7lL1Fo3Wp5c",
+      "title": "Hacker Badges and BadgeLife Interview",
+      "slug": "hacker-badges-and-badgelife-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-village-interviews.json",
+      "index": 20,
+      "youtubeId": "DsTEbsNM2G0",
+      "title": "Lock Picking Village Interview",
+      "slug": "lock-picking-village-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-village-interviews.json",
+      "index": 24,
+      "youtubeId": "q2trWkuVSGw",
+      "title": "Hack-A-Sat Orbital Satellite Hacking Interview",
+      "slug": "hack-a-sat-orbital-satellite-hacking-interview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-31-xr-village.json",
+      "index": 2,
+      "youtubeId": "Gc56q16RAGg",
+      "title": "Push All the Buttons: Digital Twinning with Idaho National Laboratory",
+      "slug": "push-all-the-buttons-digital-twinning-w-idaho-national-labs",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-creator-stage.json",
+      "index": 19,
+      "youtubeId": "dvV0y7gKCro",
+      "title": "Student Engagement Doesn't Have to Suck",
+      "slug": "student-engagement-doesnt-have-to-suck",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-creator-stage.json",
+      "index": 67,
+      "youtubeId": "GJgTkxL5txw",
+      "title": "Bypass 102",
+      "slug": "bypass-102",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-main-stage.json",
+      "index": 5,
+      "youtubeId": "GdeKrNlvG8g",
+      "title": "Closing Ceremonies & Awards",
+      "slug": "closing-ceremonies-and-awards",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-main-stage.json",
+      "index": 53,
+      "youtubeId": "FDVcF28PPnI",
+      "title": "AIxCC Closing Ceremonies",
+      "slug": "aixcc-closing-ceremonies",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-main-stage.json",
+      "index": 91,
+      "youtubeId": "jfX4YIWScoo",
+      "title": "Hacker Jeopardy: Night 1",
+      "slug": "hacker-jeopardy-night-1-dc32",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-main.json",
+      "index": 2,
+      "youtubeId": "_0kKEPLbLds",
+      "title": "Trailer",
+      "slug": "def-con-32-trailer",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 1,
+      "youtubeId": "G9hAgitK-wE",
+      "title": "Scanning with Daniel: Badge and RF Reconnaissance",
+      "slug": "scanning-with-daniel-badge-and-rf-reconnaissance",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 5,
+      "youtubeId": "CVflCxKFE8Y",
+      "title": "OWASP at DEF CON 32",
+      "slug": "owasp-at-def-con-32",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 9,
+      "youtubeId": "INOGwDyJ-8M",
+      "title": "Women in Security and Privacy (WISP) Spotlight",
+      "slug": "women-in-security-and-privacy-wisp-spotlight",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 13,
+      "youtubeId": "bgtaGcN6FZU",
+      "title": "Clue Hunt Winner Interview: Marco",
+      "slug": "clue-hunt-winner-interview-marco",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 17,
+      "youtubeId": "Fy-3P8v5e8g",
+      "title": "Hardware Hacking and Soldering Skills Village",
+      "slug": "hardware-hacking-and-soldering-skills-village",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 21,
+      "youtubeId": "ntqNaFysYI0",
+      "title": "Car Hacking Village Showcase",
+      "slug": "car-hacking-village-showcase-dc32",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 25,
+      "youtubeId": "EuuXHQNztZc",
+      "title": "Badgelife: The Art and Engineering of Custom Badges",
+      "slug": "badgelife-the-art-and-engineering-of-custom-badges",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-32-village-interviews.json",
+      "index": 29,
+      "youtubeId": "Mdqh2n8f_uQ",
+      "title": "Blacks In Cybersecurity Village Spotlight",
+      "slug": "blacks-in-cybersecurity-village-spotlight",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-blacks-in-cybersecurity-village.json",
+      "index": 3,
+      "youtubeId": "qN9qduX-fFM",
+      "title": "Cyber Game Changers: Women Who Lead, Secure and Inspire",
+      "slug": "bic-village-cyber-game-changers-women-who-lead-secure-and-inspir",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-blacks-in-cybersecurity-village.json",
+      "index": 8,
+      "youtubeId": "S4jr6k52sNU",
+      "title": "Embedded System Design vs Traditional Software Design",
+      "slug": "bic-village-embedded-system-design-vs-traditional-software-desig",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-blacks-in-cybersecurity-village.json",
+      "index": 12,
+      "youtubeId": "BczXjBh6bsM",
+      "title": "BIC Pick: DEF CON 33 Badge Walkthrough",
+      "slug": "bic-village-b-i-c-pick-def-con-33-badge-walkthrough",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-cloud-village.json",
+      "index": 2,
+      "youtubeId": "MfGfHHkQppg",
+      "title": "Auths Gone Wild: When \u2018Authenticated\u2019 Means Anyone",
+      "slug": "auths-gone-wild-when-authenticated-means-anyone",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-cloud-village.json",
+      "index": 6,
+      "youtubeId": "730Qd3gjniU",
+      "title": "May the Least Privilege Be With You",
+      "slug": "may-the-least-privilege-be-with-you",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-cloud-village.json",
+      "index": 10,
+      "youtubeId": "lBlqhp1xv90",
+      "title": "Uncovering Hidden Threats: The Risks of Dangling Issuers in Federated Credentials",
+      "slug": "uncovering-hidden-threats-the-risks-of-dangling-issuers-in-feder",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-cloud-village.json",
+      "index": 14,
+      "youtubeId": "JExFqn7aKNs",
+      "title": "Sweet Deception: Designing Effective M365 Honey Tokens",
+      "slug": "sweet-deception-designing-effective-m365-honey-tokens",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-cloud-village.json",
+      "index": 18,
+      "youtubeId": "-yjcRS4GhLo",
+      "title": "whoAMI: Discovering and exploiting a large-scale AMI name confusion attack",
+      "slug": "whoami-discovering-and-exploiting-a-large-scale-ami-name-confusi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-cloud-village.json",
+      "index": 22,
+      "youtubeId": "8IK7bxDbUOM",
+      "title": "Don't trust Rufus, he's a mole - introducing KIEMPossible",
+      "slug": "dont-trust-rufus-hes-a-mole-introducing-kiempossible",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-community-stage.json",
+      "index": 6,
+      "youtubeId": "VlOUGECw6kc",
+      "title": "DDoS: The Next Generation",
+      "slug": "ddos-the-next-generation",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-community-stage.json",
+      "index": 13,
+      "youtubeId": "9-a4OhOChss",
+      "title": "OSINT Enabled Ghost Mode: Counter Surveillance for Everyday People",
+      "slug": "osint-enabled-ghost-mode-counter-surveillance-for-everyday-peopl",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-contests.json",
+      "index": 3,
+      "youtubeId": "Gpx6JsZ0Vzw",
+      "title": "The 2025 Pwnie Awards",
+      "slug": "the-2025-pwnie-awards",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-creator-stage.json",
+      "index": 26,
+      "youtubeId": "bp4E9ri5Xd4",
+      "title": "China's Health Sector Ambitions and Info Needs",
+      "slug": "chinas-health-sector-ambitions-and-info-needs",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-creator-stage.json",
+      "index": 74,
+      "youtubeId": "PK6F4LdwwOU",
+      "title": "Hard Hat Brigade Creations Q&A",
+      "slug": "hard-hat-brigade-creations-q-and-a",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-ics-village.json",
+      "index": 1,
+      "youtubeId": "6U_CepoMSl4",
+      "title": "Don\u2019t Cry Wolf: Evidence based assessments of ICS Threats",
+      "slug": "dont-cry-wolf-evidence-based-assessments-of-ics-threats-3",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-ics-village.json",
+      "index": 5,
+      "youtubeId": "YBPYYk8FIkc",
+      "title": "There and Back Again: Detecting OT Devices Across Protocol Gateways",
+      "slug": "there-and-back-again-detecting-ot-devices-across-protocol-gatewa-3",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-ics-village.json",
+      "index": 9,
+      "youtubeId": "-ElW725i8z4",
+      "title": "Critically Neglected: Cybersecurity for buildings",
+      "slug": "critically-neglected-cybersecurity-for-buildings-3",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-live-music.json",
+      "index": 3,
+      "youtubeId": "-97xg_1a66E",
+      "title": "Thursday Night Live Set: N8",
+      "slug": "thursday-night-live-set-n8",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-live-music.json",
+      "index": 7,
+      "youtubeId": "PbXdFEkc4ns",
+      "title": "Saturday Night Live Set: 0xdade",
+      "slug": "saturday-night-live-set-0xdade",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-payment-village.json",
+      "index": 3,
+      "youtubeId": "_fGpR4Fqni0",
+      "title": "How Extra Features in Contactless Payments Break Security, What We Can Do",
+      "slug": "how-extra-features-in-contactless-payments-break-security-what-w",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-previews.json",
+      "index": 3,
+      "youtubeId": "lQDOIFZgBs4",
+      "title": "DARPA AI Cyber Challenge Preview",
+      "slug": "darpa-ai-cyber-challenge-preview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 0,
+      "youtubeId": "Omfyox5kxUQ",
+      "title": "HackerPager Engineering and Teardown",
+      "slug": "hackerpager-engineering-and-teardown",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 4,
+      "youtubeId": "f-r_JoBd1aw",
+      "title": "VetCon Community Showcase with Jim",
+      "slug": "vetcon-community-showcase-with-jim",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 8,
+      "youtubeId": "woTtS1ri9F4",
+      "title": "IoT Village Spotlight: Connected Device Security",
+      "slug": "iot-village-spotlight-connected-device-security",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 12,
+      "youtubeId": "Ov8GSLqoPvQ",
+      "title": "AIxCC Debrief: Team 42 Beyond Bugs",
+      "slug": "aixcc-debrief-team-42-beyond-bugs",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 16,
+      "youtubeId": "Taue9SWH3Os",
+      "title": "Introducing Illumicon: Interactive Art and Hacking",
+      "slug": "introducing-illumicon-interactive-art-and-hacking",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 20,
+      "youtubeId": "PiJwIUGJGmw",
+      "title": "DARPA AIxCC with Shellphish",
+      "slug": "darpa-aixcc-with-shellphish",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 24,
+      "youtubeId": "K8fjM9k_AUY",
+      "title": "KevOps Sahara Pool Party and Community Gathering",
+      "slug": "kevops-sahara-pool-party-and-community-gathering",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 28,
+      "youtubeId": "Xx94tMP_6ys",
+      "title": "Ten Years of the IoT Village: Anniversary Preview",
+      "slug": "ten-years-of-the-iot-village-anniversary-preview",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-33-village-interviews.json",
+      "index": 32,
+      "youtubeId": "-B_rYhHQ_9k",
+      "title": "Red Team Village at DEF CON 33 Spotlight",
+      "slug": "red-team-village-at-def-con-33-spotlight",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-community.json",
+      "index": 0,
+      "youtubeId": "ISvdz0EBixY",
+      "title": "is coming. Hackers on high alert. TAKE CONTROL THIS YEAR.",
+      "slug": "defcon-34-is-coming-hackers-on-high-alert-take-control-thi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-community.json",
+      "index": 4,
+      "youtubeId": "dIFDnY6zhz4",
+      "title": "HACKERS GONNA HACK #defcon",
+      "slug": "hackers-gonna-hack-defcon",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-main-stage.json",
+      "index": 2,
+      "youtubeId": "WyPmt8CE5L4",
+      "title": "noRecognition: Could a Pattern on Clothing Fool Facial Recognition?",
+      "slug": "norecognition-could-a-pattern-on-clothing-fool-facial-recognition",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-village-interviews.json",
+      "index": 1,
+      "youtubeId": "KKSRwtMGYQU",
+      "title": "I Am the Cavalry Initiative Update",
+      "slug": "i-am-the-cavalry-initiative-update",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-village-interviews.json",
+      "index": 5,
+      "youtubeId": "fqs--Ha7gfw",
+      "title": "Embedded Systems Village Walkthrough",
+      "slug": "embedded-systems-village-walkthrough-dc34",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-village-interviews.json",
+      "index": 9,
+      "youtubeId": "toi0keDnOsc",
+      "title": "Voting Machine Hacking Village Spotlight",
+      "slug": "voting-machine-hacking-village-spotlight",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-village-interviews.json",
+      "index": 13,
+      "youtubeId": "Egzf_aWSxZc",
+      "title": "AI Village: Low-Cost AI That Plays Pok\u00e9mon",
+      "slug": "ai-village-low-cost-ai-that-plays-pokemon",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-village-interviews.json",
+      "index": 17,
+      "youtubeId": "YEkvj70zFx8",
+      "title": "DC Nextgen Community Spotlight with Bia",
+      "slug": "dc-nextgen-community-spotlight-with-bia",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-34-village-interviews.json",
+      "index": 21,
+      "youtubeId": "Oz6n6xYNmfs",
+      "title": "EFF Update at DEF CON 34",
+      "slug": "eff-update-at-defcon-34",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-china-party-2021-main-stage.json",
+      "index": 8,
+      "youtubeId": "rsHSkRAt8Gg",
+      "title": "Miss Jackalope DJ Set",
+      "slug": "miss-jackalope-dj-set",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ai-village.json",
+      "index": 0,
+      "youtubeId": "H7KfmNNkXiY",
+      "title": "Spectrum Framework for ML-Based Threat Monitoring",
+      "slug": "spectrum-framework-for-ml-based-threat-monitoring",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ai-village.json",
+      "index": 4,
+      "youtubeId": "Nkroi-fjlys",
+      "title": "Pursuit of Exploitable Bugs in Machine Learning",
+      "slug": "pursuit-of-exploitable-bugs-in-machine-learning",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ai-village.json",
+      "index": 8,
+      "youtubeId": "u5SPg9XDqGM",
+      "title": "Security Challenges in Deep Reinforcement Learning",
+      "slug": "security-challenges-in-deep-reinforcement-learning",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-app-sec-village.json",
+      "index": 0,
+      "youtubeId": "YgsoBP2ahmU",
+      "title": "10,000 Dependencies Under the Sea",
+      "slug": "10-000-dependencies-under-the-sea",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-app-sec-village.json",
+      "index": 4,
+      "youtubeId": "QmcXtfLU1Xw",
+      "title": "Android Bug Foraging",
+      "slug": "android-bug-foraging",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-app-sec-village.json",
+      "index": 8,
+      "youtubeId": "YpT8Euc0mm4",
+      "title": "Threat Modelling the Death Star",
+      "slug": "threat-modelling-the-death-star",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-app-sec-village.json",
+      "index": 12,
+      "youtubeId": "lhLI5bNK4vQ",
+      "title": "What Bruce Lee Can Teach Us About AppSec",
+      "slug": "what-bruce-lee-can-teach-us-about-appsec",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-app-sec-village.json",
+      "index": 16,
+      "youtubeId": "XS_aNuUk6I0",
+      "title": "The Elephant in the Room: Burnout",
+      "slug": "the-elephant-in-the-room-burnout",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-biohacking-village.json",
+      "index": 10,
+      "youtubeId": "1Ii4tct5io0",
+      "title": "MedICS",
+      "slug": "medics",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-biohacking-village.json",
+      "index": 14,
+      "youtubeId": "O_4bcdeFFYs",
+      "title": "How to Grow a Brain in a Jar",
+      "slug": "how-to-grow-a-brain-in-a-jar",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-biohacking-village.json",
+      "index": 18,
+      "youtubeId": "g7vgMbHwtsI",
+      "title": "Making Next Generation Drugs at Home",
+      "slug": "making-next-generation-drugs-at-home",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-blockchain-village.json",
+      "index": 2,
+      "youtubeId": "Fb6os7noZiA",
+      "title": "Is DeFi Ready for Prime Time?",
+      "slug": "is-defi-ready-for-prime-time",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-blockchain-village.json",
+      "index": 6,
+      "youtubeId": "ht-oztt7kns",
+      "title": "Attacking & Defending Blockchain Nodes",
+      "slug": "attacking-and-defending-blockchain-nodes",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-blockchain-village.json",
+      "index": 10,
+      "youtubeId": "ZRnXDG15nKU",
+      "title": "Blockchain Village Keynote",
+      "slug": "peter-kacherginsky-blockchain-village-keynote",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-car-hacking-village.json",
+      "index": 0,
+      "youtubeId": "-rwXSVT7kNo",
+      "title": "ChupaCarBrah",
+      "slug": "chupacarbrah",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-career-hacking-village.json",
+      "index": 1,
+      "youtubeId": "RAJI4NvkRzM",
+      "title": "But I Still Need a Job",
+      "slug": "but-i-still-need-a-job",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-career-hacking-village.json",
+      "index": 5,
+      "youtubeId": "JJLPvJSNTYQ",
+      "title": "Building Teams Is the New Normal",
+      "slug": "building-teams-is-the-new-normal",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-career-hacking-village.json",
+      "index": 9,
+      "youtubeId": "KCnVCdasZMc",
+      "title": "Future Proofing Your Career",
+      "slug": "future-proofing-your-career",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-career-hacking-village.json",
+      "index": 13,
+      "youtubeId": "oyoG3FCh-Rg",
+      "title": "Key Ingredients for the Job Interviews",
+      "slug": "key-ingredients-for-the-job-interviews",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-contests.json",
+      "index": 3,
+      "youtubeId": "71w3bOMw7uE",
+      "title": "Safe Mode Hacker Jeopardy Saturday",
+      "slug": "safe-mode-hacker-jeopardy-saturday",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-crypto-village.json",
+      "index": 3,
+      "youtubeId": "Yx-0PdSGb8I",
+      "title": "Hacking Like Paris Hilton",
+      "slug": "hacking-like-paris-hilton",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ctf.json",
+      "index": 0,
+      "youtubeId": "hd0gkciEsn0",
+      "title": "Safe Mode -CTF",
+      "slug": "safe-mode-ctf",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-dc-groups.json",
+      "index": 0,
+      "youtubeId": "isnp54q47VI",
+      "title": "Safe Mode DC Groups Village - Jayson Street",
+      "slug": "safe-mode-dc-groups-village-jayson-street",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-dc-groups.json",
+      "index": 4,
+      "youtubeId": "90wL1kpmEXQ",
+      "title": "Safe Mode DC Groups - DC201 New Jersey - Show and Tell",
+      "slug": "safe-mode-dc-groups-dc201-new-jersey-show-and-tell",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-dc-groups.json",
+      "index": 8,
+      "youtubeId": "SGZqpM7W_p8",
+      "title": "Safe Mode DC Groups Village - quaddi",
+      "slug": "safe-mode-dc-groups-village-quaddi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-demo-labs.json",
+      "index": 2,
+      "youtubeId": "vTDQF3dW2sg",
+      "title": "Safe Mode Demo Labs - Viral Maniar",
+      "slug": "safe-mode-demo-labs-viral-maniar",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-demo-labs.json",
+      "index": 6,
+      "youtubeId": "LJFuydx-HtE",
+      "title": "Safe Mode Demo Labs - Chris Nevin",
+      "slug": "safe-mode-demo-labs-chris-nevin",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ethics-village.json",
+      "index": 1,
+      "youtubeId": "3uOjkJ4BwkE",
+      "title": "US Privacy and Civil Liberties Oversight Board",
+      "slug": "travis-leblanc-us-privacy-and-civil-liberties-oversight-board",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-hack-the-seas-village.json",
+      "index": 0,
+      "youtubeId": "fLuQIY7HlvY",
+      "title": "Build a Raspberry AIS",
+      "slug": "build-a-raspberry-ais",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-hack-the-seas-village.json",
+      "index": 4,
+      "youtubeId": "ThoizEv4QV0",
+      "title": "Build an AIS Receiver with a Raspberry Pi",
+      "slug": "build-an-ais-receiver-with-a-raspberry-pi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-hacked.json",
+      "index": 0,
+      "youtubeId": "aQ37in74tlk",
+      "title": "Lockpicking Table @ HACKED TriBeCa Film Festival",
+      "slug": "lockpicking-table-hacked-tribeca-film-festival",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ham-radio-village.json",
+      "index": 3,
+      "youtubeId": "XyrmdDVQN_A",
+      "title": "Talking to Satellites",
+      "slug": "eric-escobar-talking-to-satellites",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ham-radio-village.json",
+      "index": 8,
+      "youtubeId": "fBj-HI7uyho",
+      "title": "APRS Demo",
+      "slug": "aprs-demo",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-hardware-hacking-village.json",
+      "index": 3,
+      "youtubeId": "1shC1dbLg04",
+      "title": "Onkeypress Hack",
+      "slug": "onkeypress-hack",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ics-village.json",
+      "index": 3,
+      "youtubeId": "J1W5ELDqynM",
+      "title": "On the Insecure Nature of Turbine Control Systems",
+      "slug": "on-the-insecure-nature-of-turbine-control-systems",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ics-village.json",
+      "index": 7,
+      "youtubeId": "M32Y7USSGWY",
+      "title": "Industrial Cybersecurity in Mexico",
+      "slug": "industrial-cybersecurity-in-mexico",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ics-village.json",
+      "index": 11,
+      "youtubeId": "H2RjbQ0YpAU",
+      "title": "Playing with Electricity",
+      "slug": "playing-with-electricity",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-ics-village.json",
+      "index": 15,
+      "youtubeId": "-ch322ff4-Y",
+      "title": "Mission Kill: Process Targeting in ICS Attacks",
+      "slug": "mission-kill-process-targeting-in-ics-attacks",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-iot-village.json",
+      "index": 3,
+      "youtubeId": "4Hefeu9lxvs",
+      "title": "Your Connected World Isn't Yours Now",
+      "slug": "your-connected-world-isnt-yours-now",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-iot-village.json",
+      "index": 7,
+      "youtubeId": "V6lElrPNntQ",
+      "title": "How to Get Rights for Hackers",
+      "slug": "how-to-get-rights-for-hackers",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-iot-village.json",
+      "index": 11,
+      "youtubeId": "AzxjBwdK2BE",
+      "title": "Learning to Use Logic Analyzers",
+      "slug": "learning-to-use-logic-analyzers",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-iot-village.json",
+      "index": 15,
+      "youtubeId": "0G2g-tLMK70",
+      "title": "Kicking Devices, Taking CVEs: Zoomer Guide to Hacking",
+      "slug": "kicking-devices-taking-cves-zoomer-guide-to-hacking",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-lock-bypass-village.json",
+      "index": 0,
+      "youtubeId": "EzL72_OzMK0",
+      "title": "DIY Bypass Tools",
+      "slug": "diy-bypass-tools",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-lock-picking-village.json",
+      "index": 1,
+      "youtubeId": "qR-SguTPAp0",
+      "title": "Hybrid PhySec Tools",
+      "slug": "hybrid-physec-tools",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-lock-picking-village.json",
+      "index": 5,
+      "youtubeId": "Y34oVq5juQ4",
+      "title": "Bobby Pins: More Effective Than Lockpicks",
+      "slug": "bobby-pins-more-effective-than-lockpicks",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-lock-picking-village.json",
+      "index": 9,
+      "youtubeId": "wHpXsmnd-XA",
+      "title": "How I Defeated the Western Electric 30C",
+      "slug": "how-i-defeated-the-western-electric-30c",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 35,
+      "youtubeId": "pqCaaB_EieY",
+      "title": "Don't Ruck Us Again: The Exploit Returns (Q&A)",
+      "slug": "safe-mode-gal-zror-dont-ruck-us-again-the-exploit-returns-q-and",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 39,
+      "youtubeId": "nGKfWD5BnRI",
+      "title": "A Hacker's Guide to Reducing Side Channel Attack Surfaces (Q&A)",
+      "slug": "safe-mode-elie-bursztein-a-hackers-guide-to-reducing-side-channe-2",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 43,
+      "youtubeId": "w-BtSUTdTk0",
+      "title": "D0 N0 H4RM: Healthcare Security (Q&A)",
+      "slug": "safe-mode-christian-quaddi-dameff-md-and-panel-d0-n0-h4rm-q-and",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 48,
+      "youtubeId": "8ERCa8e6vRQ",
+      "title": "Ask the EFF: Meet the EFA (Q&A)",
+      "slug": "safe-mode-ask-the-eff-meet-the-efa-q-and-a",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 52,
+      "youtubeId": "JyEpuQyqtbU",
+      "title": "Abusing P2P to Hack 3 Million Cameras (Q&A)",
+      "slug": "safe-mode-paul-marrapese-abusing-p2p-to-hack-3-million-cameras-q",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 56,
+      "youtubeId": "Ns-WujgsCt4",
+      "title": "How We Recovered $300,000 in Bitcoin from an Encrypted Zip File (Q&A)",
+      "slug": "safe-mode-michael-stay-how-we-recovered-xxx-000-in-bitcoin-from-2",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 60,
+      "youtubeId": "Y-0oHxzpJ-8",
+      "title": "Whispers Among the Stars: Satellite Broadband Security (Q&A)",
+      "slug": "safe-mode-james-pavur-whispers-among-the-stars-q-and-a",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-main-stage.json",
+      "index": 64,
+      "youtubeId": "ZRKsf2Zw--0",
+      "title": "DNSSECTION: A Practical Attack on DNS (Q&A)",
+      "slug": "safe-mode-hadrien-barral-remi-geraud-stewart-dnssection-q-and-a",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-monero-village.json",
+      "index": 1,
+      "youtubeId": "NSFDlF95GhI",
+      "title": "Decentralization in a Centralized World",
+      "slug": "decentralization-in-a-centralized-world",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-monero-village.json",
+      "index": 5,
+      "youtubeId": "QdPgAl3nBH8",
+      "title": "Bitcoin Monero Atomic Swaps",
+      "slug": "bitcoin-monero-atomic-swaps",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-monero-village.json",
+      "index": 9,
+      "youtubeId": "U5PyZT0VUwU",
+      "title": "Monero Wallet Basics",
+      "slug": "monero-wallet-basics",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-monero-village.json",
+      "index": 13,
+      "youtubeId": "a206226v9zY",
+      "title": "Transaction Capacity and Fees",
+      "slug": "transaction-capacity-and-fees",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-new-years-eve.json",
+      "index": 3,
+      "youtubeId": "XKyqli9qFM8",
+      "title": "New Year's Eve Live Set: Miss Jackalope",
+      "slug": "new-years-eve-live-set-miss-jackalope",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-password-village.json",
+      "index": 0,
+      "youtubeId": "8iDbRb7R4-s",
+      "title": "Getting Started with Hashcat (PNI)",
+      "slug": "getting-started-with-hashcat-pni",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-password-village.json",
+      "index": 4,
+      "youtubeId": "-712GV6mtRY",
+      "title": "PathWell Dynamic Password Strength Enforcement",
+      "slug": "pathwell-dynamic-password-strength-enforcement",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-password-village.json",
+      "index": 8,
+      "youtubeId": "Gr_1_LDUZSY",
+      "title": "Getting Started with Hashcat (Tutorial)",
+      "slug": "getting-started-with-hashcat-tutorial",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-payment-village.json",
+      "index": 2,
+      "youtubeId": "EI14PtTmOzI",
+      "title": "Welcome to the Payment Village",
+      "slug": "welcome-to-the-payment-village",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-recon-village.json",
+      "index": 0,
+      "youtubeId": "iI077rK6HPI",
+      "title": "Hunting for Blue Mockingbird Coinminers",
+      "slug": "hunting-for-blue-mockingbird-coinminers",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-recon-village.json",
+      "index": 4,
+      "youtubeId": "PWeKDjMtC9M",
+      "title": "Hunting for Blue Mockingbird Coinminers (Session 2)",
+      "slug": "hunting-for-blue-mockingbird-coinminers-session-2",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 9,
+      "youtubeId": "S8geErf2Sos",
+      "title": "Evil Genius: Why You Shouldn't Trust That Keyboard",
+      "slug": "safe-mode-red-team-village-mauro-casere-evil-genius-why-you-shou",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 56,
+      "youtubeId": "Tc8gWwf3KAc",
+      "title": "Evil Genius: Why you shouldn't trust that keyboard by Mauro Caceres & Farith Perez",
+      "slug": "evil-genius-why-you-shouldn-t-trust-that-keyboard-by-mauro-cacer",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 60,
+      "youtubeId": "un2EbYjp3Zg",
+      "title": "OU having a laugh? - Petros Koutroumpis",
+      "slug": "ou-having-a-laugh-petros-koutroumpis",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 64,
+      "youtubeId": "_i17MaZaJHM",
+      "title": "Weaponized XSS - Moving Beyond Alert(1) by Ray Doyle",
+      "slug": "weaponized-xss-moving-beyond-alert-1-by-ray-doyle",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 68,
+      "youtubeId": "ShedHPvT2lw",
+      "title": "Bypassing in Mobile Network From Red-Team Points of View",
+      "slug": "bypassing-in-mobile-network-from-red-team-points-of-view",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 72,
+      "youtubeId": "QnJ7BKpr-mE",
+      "title": "Executing Red Team Scenarios with Built-in Scenario Place  Gokberk Gulgun and Erdener Uyan",
+      "slug": "executing-red-team-scenarios-with-built-in-scenario-place-gokber",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 76,
+      "youtubeId": "uTRo6WpGctw",
+      "title": "PatrOwl - Red flavour of SOC automation -Nicolas MATTIOCCO",
+      "slug": "patrowl-red-flavour-of-soc-automation-nicolas-mattiocco",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 80,
+      "youtubeId": "FULfnGwL2JM",
+      "title": "50 Shades of Sudo Abuse Tyler Boykin",
+      "slug": "50-shades-of-sudo-abuse-tyler-boykin",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 84,
+      "youtubeId": "0n6iMDQRljc",
+      "title": "Trust, but Verify: Maintaining Democracy In Spite of \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u043a\u043e\u043d\u0442\u0440\u043c\u0435\u0440\u044b by Allie Mellen",
+      "slug": "trust-but-verify-maintaining-democracy-in-spite-of-by-allie-mell",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 88,
+      "youtubeId": "nlAH46h2npk",
+      "title": "Inside the Mind of a Threat Actor: Beyond Pentesting - by  Phillip Wylie",
+      "slug": "inside-the-mind-of-a-threat-actor-beyond-pentesting-by-phillip-w",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 92,
+      "youtubeId": "BFGSpO-plos",
+      "title": "PWN The World by Chris Kubecka",
+      "slug": "pwn-the-world-by-chris-kubecka",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 96,
+      "youtubeId": "0ZSsiH2-AwA",
+      "title": "OWASP Amass Red Team Village Training - by Jeff Foley (Cafffix)",
+      "slug": "owasp-amass-red-team-village-training-by-jeff-foley-cafffix",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-red-team-village.json",
+      "index": 100,
+      "youtubeId": "uKWu6yhnhbQ",
+      "title": "The Bug Hunter's Methodology Full 2-hour Training by Jason Haddix",
+      "slug": "the-bug-hunter-s-methodology-full-2-hour-training-by-jason-haddi",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-voting-village.json",
+      "index": 1,
+      "youtubeId": "grmOio_oWEE",
+      "title": "See Something, Say Something",
+      "slug": "see-something-say-something",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-voting-village.json",
+      "index": 9,
+      "youtubeId": "e5aw3_hqg4c",
+      "title": "Voting Village Keynote Remarks",
+      "slug": "voting-village-keynote-remarks",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-voting-village.json",
+      "index": 17,
+      "youtubeId": "jZpL6tH-1sk",
+      "title": "Presentation Intros",
+      "slug": "presentation-intros",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-voting-village.json",
+      "index": 23,
+      "youtubeId": "w-BD1fmaRco",
+      "title": "Day 1 Opening Remarks",
+      "slug": "day-1-opening-remarks",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-voting-village.json",
+      "index": 31,
+      "youtubeId": "L7wU1ZatGaQ",
+      "title": "Policy Approach to Resolving Cybersecurity Problems",
+      "slug": "jody-westby-policy-approach-to-resolving-cybersecurity-problems",
+      "status": "done"
+    },
+    {
+      "file": "data/villages/defcon-safe-mode-wireless-village.json",
+      "index": 3,
+      "youtubeId": "X2ARyfjzxhY",
+      "title": "The Basics of Breaking BLE v3",
+      "slug": "the-basics-of-breaking-ble-v3",
+      "status": "done"
+    }
+  ]
+}

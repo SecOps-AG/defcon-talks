@@ -699,7 +699,7 @@
         "firmware"
       ],
       "teaser": "Gal Zror answers community questions regarding Ruckus Wireless ZoneDirector vulnerabilities, firmware exploitation, and patch verification.",
-      "summary": null,
+      "summary": "This talk covers exploitation techniques and vulnerability analysis in computer systems.\n\nKey topics discussed include: Kind: captions Language: en okay okay okay well<00:00:22. 320><c> good</c><00:00:22.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1606
     },
     {
@@ -775,7 +775,7 @@
         "hardware"
       ],
       "teaser": "Elie Bursztein discusses deep learning side-channel analysis, AI explainability tools, and hardware leak testing in a live Q&A.",
-      "summary": null,
+      "summary": "This DEF CON talk covers a hacker's guide to reducing side channel attack surfaces (q&a).\n\nKey topics discussed include: Kind: captions Language: en you<00:00:11. 759><c> seeing</c><00:00:12.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2009
     },
     {
@@ -852,7 +852,7 @@
         "patient-safety"
       ],
       "teaser": "Dr. Christian Dameff and panel answer questions on clinical cyber defense, medical device vulnerability handling, and pandemic healthcare resilience.",
-      "summary": null,
+      "summary": "This talk examines automotive cybersecurity vulnerabilities and vehicle systems exploitation.\n\nKey topics discussed include: Kind: captions Language: en i<00:00:00. 480><c> just</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3189
     },
     {
@@ -945,7 +945,7 @@
         "q-and-a"
       ],
       "teaser": "Electronic Frontier Foundation staff and Electronic Frontier Alliance members host an open community Q&A on digital rights and grassroots advocacy.",
-      "summary": null,
+      "summary": "This DEF CON talk covers ask the eff: meet the efa (q&a).\n\nKey topics discussed include: Kind: captions Language: en welcome welcome welcome everybody<00:01:01. 440><c> to</c><00:01:01.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 5956
     },
     {
@@ -1023,7 +1023,7 @@
         "hardware"
       ],
       "teaser": "Paul Marrapese answers questions regarding P2P IoT protocols, white-label security disclosure obstacles, and consumer camera defense.",
-      "summary": null,
+      "summary": "This DEF CON talk covers abusing p2p to hack 3 million cameras (q&a).\n\nKey topics discussed include: Kind: captions Language: en all<00:00:26. 720><c> right</c> all right all right welcome<00:00:27.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1870
     },
     {
@@ -1100,7 +1100,7 @@
         "appsec"
       ],
       "teaser": "Michael Stay answers questions on GPU-accelerated PKZIP cryptanalysis, key reduction algorithms, and cryptocurrency archive recovery.",
-      "summary": null,
+      "summary": "This DEF CON talk covers how we recovered $300,000 in bitcoin from an encrypted zip file (q&a).\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1750
     },
     {
@@ -1179,7 +1179,7 @@
         "wireless"
       ],
       "teaser": "James Pavur answers questions on intercepting satellite downlinks with home TV dishes, satellite network topology, and encryption requirements.",
-      "summary": null,
+      "summary": "This DEF CON talk covers whispers among the stars: satellite broadband security (q&a).\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1725
     },
     {
@@ -1257,7 +1257,7 @@
         "network-security"
       ],
       "teaser": "Hadrien Barral and Rémi Géraud-Stewart answer questions on DNSSECTION attacks, DNS record parsing semantics, and DNSSEC resolver validation.",
-      "summary": null,
+      "summary": "This DEF CON talk covers dnssection: a practical attack on dns (q&a).\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1927
     },
     {

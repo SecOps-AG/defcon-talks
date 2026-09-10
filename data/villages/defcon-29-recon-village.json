@@ -78,7 +78,7 @@
         "automation"
       ],
       "teaser": "Tushar Verma breaks down a structured reconnaissance methodology for bug bounty hunters, covering subdomain enumeration, content discovery, and asset tracking.",
-      "summary": null,
+      "summary": "This presentation focuses on reconnaissance and open-source intelligence gathering methodologies.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 938
     },
     {
@@ -154,7 +154,7 @@
         "satellite-imagery"
       ],
       "teaser": "Nick Roy demonstrates investigating North Korean digital infrastructure, trade evasion, and state activity using public OSINT and commercial satellite telemetry.",
-      "summary": null,
+      "summary": "This presentation focuses on reconnaissance and open-source intelligence gathering methodologies.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2522
     },
     {
@@ -230,7 +230,7 @@
         "osint"
       ],
       "teaser": "Utku Sen reveals how brute forcing and analyzing short URL endpoints leaks confidential cloud documents, private tokens, and unindexed internal infrastructure.",
-      "summary": null,
+      "summary": "This DEF CON talk covers finding hidden gems via url shortener services.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1156
     },
     {

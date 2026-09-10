@@ -37,7 +37,7 @@
         "talk"
       ],
       "teaser": "Don’t Cry Wolf: Evidence based assessments of ICS Threats — DEF CON Conference upload.",
-      "summary": null,
+      "summary": "This talk covers industrial control systems security and critical infrastructure protection.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1435
     },
     {
@@ -105,7 +105,7 @@
         "talk"
       ],
       "teaser": "There and Back Again: Detecting OT Devices Across Protocol Gateways — DEF CON Conference upload.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1314
     },
     {
@@ -174,7 +174,7 @@
         "talk"
       ],
       "teaser": "Critically Neglected: Cybersecurity for buildings — DEF CON Conference upload.",
-      "summary": null,
+      "summary": "This DEF CON talk covers critically neglected: cybersecurity for buildings.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1393
     }
   ]

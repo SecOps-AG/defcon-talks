@@ -136,7 +136,7 @@
         "blue-team"
       ],
       "teaser": "OpenZeppelin security architect Michael Lewellen reviews major smart contract hacks and demonstrates automated incident response using Defender.",
-      "summary": null,
+      "summary": "This DEF CON talk covers ethereum hacks & how to stop them: openzeppelin defender.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2718
     },
     {

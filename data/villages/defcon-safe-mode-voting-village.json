@@ -40,7 +40,7 @@
         "policy"
       ],
       "teaser": "Discusses how coordinated vulnerability disclosure and bug bounty programs enable researchers to report security flaws in election systems.",
-      "summary": null,
+      "summary": "This DEF CON talk covers see something, say something.\n\nKey topics discussed include: Kind: captions Language: en good<00:00:05. 440><c> morning</c> good morning good morning good<00:00:06.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 783
     },
     {
@@ -190,7 +190,7 @@
         "government"
       ],
       "teaser": "U.S. Representative Jackie Speier delivers keynote remarks on federal election security legislation and protecting democratic voting infrastructure.",
-      "summary": null,
+      "summary": "This DEF CON talk covers voting village keynote remarks.\n\nKey topics discussed include: Kind: captions Language: en good<00:00:05. 680><c> morning</c><00:00:06.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1000
     },
     {
@@ -341,7 +341,7 @@
         "defcon"
       ],
       "teaser": "Features introductory presentations and welcomes for speakers at the DEF CON Safe Mode Voting Village.",
-      "summary": null,
+      "summary": "This DEF CON talk covers presentation intros.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2069
     },
     {
@@ -445,7 +445,7 @@
         "defcon"
       ],
       "teaser": "Kicks off the DEF CON Safe Mode Voting Village, introducing the event's virtual format and speaker schedule.",
-      "summary": null,
+      "summary": "This DEF CON talk covers day 1 opening remarks.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1626
     },
     {
@@ -588,7 +588,7 @@
         "regulatory-compliance"
       ],
       "teaser": "A policy and legal framework for compelling vendors and election officials to remediate known vulnerabilities in voting infrastructure.",
-      "summary": null,
+      "summary": "This presentation covers wireless security, network analysis, and radio frequency hacking techniques.\n\nKey topics discussed include: Kind: captions Language: en hello hello hello it's<00:00:09. 679><c> nice</c><00:00:09.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1760
     }
   ]

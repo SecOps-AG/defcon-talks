@@ -36,7 +36,7 @@
         "community"
       ],
       "teaser": "A walkthrough with Daniel exploring wireless and hardware scanning techniques across the DEF CON 32 convention floor.",
-      "summary": null,
+      "summary": "This presentation focuses on reconnaissance and open-source intelligence gathering methodologies.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 604
     },
     {
@@ -101,7 +101,7 @@
         "community"
       ],
       "teaser": "A feature on OWASP community initiatives, open-source application security projects, and developer outreach at DEF CON 32.",
-      "summary": null,
+      "summary": "This DEF CON talk covers owasp at def con 32.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 576
     },
     {
@@ -171,7 +171,7 @@
         "privacy"
       ],
       "teaser": "An overview of Women in Security and Privacy (WISP) programs, mentorship opportunities, and events hosted at DEF CON 32.",
-      "summary": null,
+      "summary": "This DEF CON talk covers women in security and privacy (wisp) spotlight.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:00. 760><c> I'm</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 80
     },
     {
@@ -237,7 +237,7 @@
         "community"
       ],
       "teaser": "An interview with Marco, winner of the DEF CON 32 Clue Hunt contest, discussing puzzle solving strategies and badge hunting adventures.",
-      "summary": null,
+      "summary": "This DEF CON talk covers clue hunt winner interview: marco.\n\nKey topics discussed include: Kind: captions Language: en Defcon<00:00:02. 280><c> what's</c><00:00:02.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 434
     },
     {
@@ -305,7 +305,7 @@
         "community"
       ],
       "teaser": "A walkthrough of the Soldering Skills Village at DEF CON 32 teaching surface-mount assembly, circuit debugging, and badge assembly.",
-      "summary": null,
+      "summary": "This DEF CON talk covers hardware hacking and soldering skills village.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 78
     },
     {
@@ -369,7 +369,7 @@
         "community"
       ],
       "teaser": "A tour of the Car Hacking Village at DEF CON 32 featuring CAN bus testing benches, instrument cluster fuzzing, and connected vehicle targets.",
-      "summary": null,
+      "summary": "This talk examines automotive cybersecurity vulnerabilities and vehicle systems exploitation.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:00. 359><c> everybody</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 36
     },
     {
@@ -433,7 +433,7 @@
         "community"
       ],
       "teaser": "DEF CON 32 attendees and indie hardware creators showcase custom electronic badges, artistic circuit designs, and #badgelife culture.",
-      "summary": null,
+      "summary": "This DEF CON talk covers badgelife: the art and engineering of custom badges.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:01. 040><c> this</c><00:00:01.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 143
     },
     {
@@ -499,7 +499,7 @@
         "mentorship"
       ],
       "teaser": "A DEF CON 32 Video Team walkthrough highlighting the Blacks In Cybersecurity (BIC) Village, community mentorship, career tracks, and technical presentations.",
-      "summary": null,
+      "summary": "This DEF CON talk covers blacks in cybersecurity village spotlight.\n\nKey topics discussed include: Kind: captions Language: en hi<00:00:00. 560><c> everybody</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 36
     }
   ]

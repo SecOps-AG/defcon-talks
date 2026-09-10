@@ -75,7 +75,7 @@
         "usb"
       ],
       "teaser": "Demonstrates physical keystroke injection attacks and hardware implants exploiting USB Human Interface Devices.",
-      "summary": null,
+      "summary": "This DEF CON talk covers onkeypress hack.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1223
     }
   ]
