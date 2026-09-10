@@ -2081,7 +2081,7 @@
       "youtubeId": "Yx-0PdSGb8I",
       "title": "Hacking Like Paris Hilton",
       "slug": "hacking-like-paris-hilton",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-ctf.json",
@@ -2089,7 +2089,7 @@
       "youtubeId": "hd0gkciEsn0",
       "title": "Safe Mode -CTF",
       "slug": "safe-mode-ctf",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-dc-groups.json",
@@ -2097,7 +2097,7 @@
       "youtubeId": "isnp54q47VI",
       "title": "Safe Mode DC Groups Village - Jayson Street",
       "slug": "safe-mode-dc-groups-village-jayson-street",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-dc-groups.json",
@@ -2105,7 +2105,7 @@
       "youtubeId": "90wL1kpmEXQ",
       "title": "Safe Mode DC Groups - DC201 New Jersey - Show and Tell",
       "slug": "safe-mode-dc-groups-dc201-new-jersey-show-and-tell",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-dc-groups.json",
@@ -2113,7 +2113,7 @@
       "youtubeId": "SGZqpM7W_p8",
       "title": "Safe Mode DC Groups Village - quaddi",
       "slug": "safe-mode-dc-groups-village-quaddi",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-demo-labs.json",
@@ -2121,7 +2121,7 @@
       "youtubeId": "vTDQF3dW2sg",
       "title": "Safe Mode Demo Labs - Viral Maniar",
       "slug": "safe-mode-demo-labs-viral-maniar",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-demo-labs.json",
@@ -2129,7 +2129,7 @@
       "youtubeId": "LJFuydx-HtE",
       "title": "Safe Mode Demo Labs - Chris Nevin",
       "slug": "safe-mode-demo-labs-chris-nevin",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-ethics-village.json",
@@ -2137,7 +2137,7 @@
       "youtubeId": "3uOjkJ4BwkE",
       "title": "US Privacy and Civil Liberties Oversight Board",
       "slug": "travis-leblanc-us-privacy-and-civil-liberties-oversight-board",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-hack-the-seas-village.json",
@@ -2145,7 +2145,7 @@
       "youtubeId": "fLuQIY7HlvY",
       "title": "Build a Raspberry AIS",
       "slug": "build-a-raspberry-ais",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-hack-the-seas-village.json",
@@ -2153,7 +2153,7 @@
       "youtubeId": "ThoizEv4QV0",
       "title": "Build an AIS Receiver with a Raspberry Pi",
       "slug": "build-an-ais-receiver-with-a-raspberry-pi",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-hacked.json",
