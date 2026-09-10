@@ -57,7 +57,7 @@
         "embedded-systems"
       ],
       "teaser": "A showcase of the TipsyBadge electronic badge, exploring optical manipulation, custom sensors, and interactive firmware effects.",
-      "summary": null,
+      "summary": "Hardware developers showcase the TipsyBadge at DEF CON 33, an interactive electronic badge that uses Galvanic Vestibular Stimulation (GVS) to physically manipulate the wearer's sense of balance and spatial orientation [00:05]. The creators explain how low-amperage electrical currents applied behind the ears interact directly with the vestibular nerve in the inner ear.\n\nThe demonstration walks through calibration and engages \"wobble mode,\" showing how varying current levels cause an involuntary physical tilt or stumble while walking, simulating intoxication without chemical substances [01:00, 01:58]. The developers describe how the vestibular system couples with ocular reflexes to produce harmless horizontal nystagmus (involuntary eye twitches) [02:49], and demonstrate an onboard color-matching Stroop effect puzzle game played while experiencing vestibular distortion, noting that badges are available at the Hacker Warehouse booth for $100 [03:51, 04:54].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 300
     },
     {
@@ -128,7 +128,7 @@
         "awareness"
       ],
       "teaser": "An introduction to Scam Village, demonstrating safe scam-baiting techniques, telecommunication fraud analysis, and consumer defense.",
-      "summary": null,
+      "summary": "Scam baiter and community organizer Deo introduces Scam Bait Village at DEF CON 33, outlining a secure environment where attendees can learn to safely engage telephone and internet scammers without leaking personal identifying information [00:00, 00:08].\n\nDeo emphasizes the importance of community education in defending vulnerable family members, such as elderly relatives, from predatory telemarketing schemes and financial fraud [00:16]. Highlighting appearances by prominent YouTube creators and veteran baiters, he explains that \"applied knowledge is power,\" encouraging attendees to turn passive fraud awareness into active, hands-on disruption of criminal call centers [00:22, 00:35].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 42
     },
     {
@@ -196,7 +196,7 @@
         "automated-defense"
       ],
       "teaser": "Andrew Carney from DARPA details the finals of the AI Cyber Challenge, where autonomous AI agents detect and repair software vulnerabilities.",
-      "summary": null,
+      "summary": "DARPA and ARPA-H Program Manager Andrew Carney previews the culmination of the AI Cyber Challenge (AIxCC) finals at DEF CON 33, highlighting the conclusion of the two-year competition aimed at creating autonomous Cyber Reasoning Systems (CRS) [00:00, 00:11].\n\nCarney details how the competition brought together government agencies, open-source maintainers, and private security teams to automatically identify and patch critical software vulnerabilities at machine speed [00:17]. Reflecting on his 18 years participating in the DEF CON community as a CTF player, Carney invites attendees to visit the AIxCC Experience to review competition data and explore open-source autonomous defense technology built to protect global infrastructure [00:27, 00:46].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 59
     },
     {
@@ -271,7 +271,7 @@
         "hacker-culture"
       ],
       "teaser": "d3dbot interviews Arts & Entertainment Goon Ch0wn35 about event logistics, stage productions, and running DEF CON 33 operations.",
-      "summary": null,
+      "summary": "Arts and Entertainment Goon Ch0wn35 joins interviewer d3dbot for a behind-the-scenes look at the creative and atmospheric design of DEF CON 33 [00:03]. Ch0wn35 describes the effort required to transform vast convention hall spaces into an immersive, distinctively hacker-focused aesthetic by dropping overhead lighting and coordinating lighting and visual installations [00:52, 01:00].\n\nReflecting on multiple years of volunteer service, Ch0wn35 depicts DEF CON as an organic, self-reinventing community that continuously evolves as new generations of hackers and creators contribute their ideas [02:23]. He celebrates the selfless culture and camaraderie of the Goons and volunteers who work behind the scenes to create an inclusive environment where all attendees can find their tribe [03:09].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 244
     },
     {
@@ -346,7 +346,7 @@
         "supply-chain"
       ],
       "teaser": "Jordan Kasper analyzes the adoption of open-source software in government agencies and public-sector obligations to upstream maintainers.",
-      "summary": null,
+      "summary": "Open source maintainer and federal government technologist Jordan Kasper speaks with interviewer Dreadware about the opportunities and cultural frictions surrounding open-source software adoption across United States government agencies [00:00, 03:24].\n\nKasper advocates for shifting security and privacy reviews significantly earlier in government procurement pipelines, demonstrating how embedding security reviews prior to software development prevents the crippling bureaucratic delays typical of retrospective audits [09:51]. He discusses federal obligations to support and sustain the open-source libraries that underpin critical public infrastructure [06:44], concluding with advice on effective communication with government leadership through interactive, slide-free discussions [13:05].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 972
     },
     {
@@ -422,7 +422,7 @@
         "community"
       ],
       "teaser": "Silk explores DEF CON NextGen, a community initiative providing cybersecurity education, hardware soldering, and safe hacking spaces for youth.",
-      "summary": null,
+      "summary": "Interviewer Silk speaks with organizers of DEF CON NextGen (formerly Roots Asylum), an educational space created under Jeff Moss's guidance to introduce kids and young adults to ethical hacking, programming, and hardware electronics [00:00, 00:10].\n\nThe organizers showcase interactive learning tools, including custom youth conference badges equipped with infrared (IR) transceivers that let participants capture proximity signals and learn wireless communication concepts [04:23]. They describe demystifying web applications by teaching kids to inspect source code using browser developer tools (F12) [08:00], while emphasizing the importance of creating supportive spaces where young minds can explore, question, and experiment without fear of making mistakes [11:54, 15:43].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1180
     },
     {
@@ -496,7 +496,7 @@
         "community"
       ],
       "teaser": "A live panel with d3dbot, psyop, and grrrizzzz exploring the intersection of retro hardware preservation, custom silicon, and badge culture.",
-      "summary": null,
+      "summary": "Community organizer Reanimation XP (Drew) joins Baroy (Bar9), Psyop, and Grrrizzzz for a live showcase exploring the lively intersection of vintage computing and the Badgelife custom hardware community at DEF CON 33 [00:05, 00:12].\n\nDrew highlights the tight-knit network of electronics makers who collaborate year-round on Discord to design schematics, fabricate PCBs, and preserve vintage computing equipment [03:44]. The panel examines the rapid evolution of custom badge hardware, demonstrating dynamic color displays, retro CRT/OLED integrations, and creative circuit layouts [10:44]. They also explain the playful tradition of badge quests, where attendees earn exclusive custom hardware by solving cryptographic puzzles or completing hilarious community challenges [14:31].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1107
     },
     {
