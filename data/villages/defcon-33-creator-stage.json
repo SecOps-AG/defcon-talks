@@ -418,7 +418,7 @@
         "policy"
       ],
       "teaser": "Examines student data pipelines, third-party vendor integrations, consent frameworks, and privacy challenges across enterprise university systems.",
-      "summary": null,
+      "summary": "A student privacy researcher and advocate presents a critical postmortem on student data privacy on the Creator Stage, examining how legal exemptions and digital learning platforms expose student records to commercial entities [06:18, 12:13]. The speaker critiques broad institutional definitions of \"directory information\" under FERPA, explaining how loosely regulated classifications allow colleges to share sensitive student records without explicit consent.\n\nThe talk reveals how educational institutions routinely transmit bulk student data to external third parties, including the National Student Clearinghouse, financial aid vendors, and commercial predictive analytics services [18:00]. The speaker explains how aggregated academic histories and enrollment data are used to generate predictive algorithms and retention scores [23:45], highlighting the ethical hazards of non-consensual profiling. The session calls on students and faculty to demand transparency through mandatory disclosures of institutional data-sharing contracts and enforceable student opt-out rights [29:48].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2165
     },
     {
@@ -827,7 +827,7 @@
         "compliance"
       ],
       "teaser": "Advocates for treating secure software code as vital critical infrastructure, bridging application security practices with public policy reforms.",
-      "summary": null,
+      "summary": "A Canadian civic technologist and software security advocate argues that secure code and vulnerability disclosure frameworks must be treated as essential national critical infrastructure on the Creator Stage [00:11]. The speaker critiques sluggish government cybersecurity policies, pointing out systemic vulnerabilities such as public sector portals failing basic security baselines like mandatory HTTPS enforcement [05:19].\n\nThe presentation examines the operational shortcomings of government supply chain directives that mandate manual reviews of every software dependency, calling instead for automated, enforceable baseline security controls [10:04]. The speaker recounts systemic breaches across Canadian federal agencies—including incidents at the Canada Revenue Agency (CRA) [14:55]—and chronicles grassroots advocacy efforts in Ottawa to establish legally protected vulnerability disclosure programs (VDPs) and direct public funding for critical open-source software maintenance [19:32, 24:20].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1760
     },
     {
