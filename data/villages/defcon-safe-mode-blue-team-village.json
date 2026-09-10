@@ -202,7 +202,7 @@
         "slideshow"
       ],
       "teaser": "Displays promotional announcements, village schedules, and community contest details for Blue Team Village Safe Mode.",
-      "summary": null,
+      "summary": "Blue Team Village presents an informational slideshow and community orientation reel for attendees participating in DEF CON Safe Mode.\n\nThe presentation showcases the virtual village lineup, highlighting defensive security workshops, Project Sauron attack-and-defense training ranges, live threat hunting simulations, and community mentorship initiatives. It provides essential navigation details, Discord server channels, schedule coordinates, and acknowledgments of the community volunteers and sponsors supporting defensive security operations throughout the conference.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 626
     },
     {

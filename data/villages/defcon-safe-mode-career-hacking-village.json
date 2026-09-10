@@ -75,7 +75,7 @@
         "interviews"
       ],
       "teaser": "Actionable advice from a veteran recruiter on optimizing technical resumes, highlighting impact, and beating applicant tracking systems.",
-      "summary": null,
+      "summary": "Technical recruiter Kris Rides joins host Kathleen in the Career Hacking Village to share actionable guidance on optimizing cybersecurity resumes for competitive industry hiring pipelines [00:04, 00:12]. Rides cautions candidates against hiring generalist resume writers who lack familiarity with specialized technical roles, advising practitioners to take personal ownership of translating their hands-on skills [10:55].\n\nThe session identifies frequent resume shortcomings, including vague employment date ranges that raise red flags for recruiters [21:31] and the risk of oversharing sensitive proprietary details or non-disclosure agreement (NDA) project data [31:54]. Rides provides strategic recommendations for highlighting capture-the-flag (CTF) achievements, home lab environments, and industry certifications, concluding with tactical advice on building genuine professional relationships by connecting directly with hiring managers and conference speakers [42:34].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3195
     },
     {
@@ -137,7 +137,9 @@
       "youtubeId": "eicUXYrJmEo",
       "slug": "national-service-panel",
       "title": "National Service Panel",
-      "speakers": [],
+      "speakers": [
+        "Joe Billingsley"
+      ],
       "track": "community",
       "topics": [
         "military",
@@ -147,7 +149,7 @@
         "policy"
       ],
       "teaser": "A panel exploring civilian and military public service pathways in federal cybersecurity, intelligence, and national defense.",
-      "summary": null,
+      "summary": "Joe Billingsley, founder of the Military Cyber Professionals Association (MCPA), convenes a panel of federal defense leaders and agency representatives to explore technology careers across United States national service in the Career Hacking Village [00:19, 00:33].\n\nThe panelists examine the diverse roles available across civilian and defense agencies, highlighting the Cybersecurity and Infrastructure Security Agency's (CISA) mandate as the nation's risk advisor protecting critical infrastructure, federal networks, and election systems [03:41, 04:04]. Representatives from the National Security Agency (NSA) and military cyber branches outline operational opportunities, educational pipelines through the National Cryptologic School [07:48], and specialized direct commissioning programs that enable experienced technologists to enter military cyber services [16:58, 25:28], emphasizing public-private collaboration in national defense.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2224
     },
     {
@@ -220,7 +222,7 @@
         "community"
       ],
       "teaser": "Bryson Bort shares hard-won lessons, pitfalls, and mindset strategies from founding and scaling cybersecurity startups.",
-      "summary": null,
+      "summary": "Cybersecurity founder and SCYTHE CEO Bryson Bort delivers an honest, practical guide to navigating technology entrepreneurship and building security startups in the Career Hacking Village [00:04]. Bort details the journey from technical practitioner to chief executive, outlining the psychological and operational shifts required to found a commercial security venture [08:59].\n\nThe presentation breaks down the core phases of startup growth, examining ideation, navigating angel and seed investment rounds, and understanding the nuances of equity dilution and board governance [16:54, 25:00]. Bort shares operational realities of scaling an engineering business, discussing strategies for hiring collaborative technical teams, establishing baseline workplace culture, and evolving organizational policies as companies expand from early-stage prototypes into mature enterprises [33:23, 41:37].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2506
     },
     {
