@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { IBM_Plex_Mono, Orbitron } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { SiteFooter } from "@/components/SiteFooter";
@@ -59,6 +60,25 @@ export default function RootLayout({
         </div>
         <CommandPaletteProvider />
         <Analytics />
+        <Script id="sc-vars" strategy="afterInteractive">
+          {`var sc_project=13354311; var sc_invisible=1; var sc_security="479323c8";`}
+        </Script>
+        <Script
+          src="https://www.statcounter.com/counter/counter.js"
+          strategy="afterInteractive"
+        />
+        <noscript>
+          <div className="statcounter">
+            <a title="web stats" href="https://statcounter.com/" target="_blank" rel="noreferrer">
+              <img
+                className="statcounter"
+                src="https://c.statcounter.com/13354311/0/479323c8/1/"
+                alt="web stats"
+                referrerPolicy="no-referrer-when-downgrade"
+              />
+            </a>
+          </div>
+        </noscript>
       </body>
     </html>
   );
