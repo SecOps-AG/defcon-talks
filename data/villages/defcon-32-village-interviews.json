@@ -51,7 +51,7 @@
         "vulnerability-disclosure"
       ],
       "teaser": "A walkthrough of Bug Bounty Village at DEF CON 32 showcasing live hacking events, bounty platforms, and community workshops.",
-      "summary": null,
+      "summary": "In this quick dispatch from Day 2 of DEF CON 32, host Harley Geiger delivers a walkthrough of the bustling Bug Bounty Village. At 00:00, he describes the high attendee energy and packed lines stretching down the hall as community members gather for hands-on application security workshops.\n\nAt 00:05, Harley previews the day's featured sessions, highlighting practical hacking demonstrations from prominent security educators and researchers including Jason Haddix, NahamSec, and Rhino Security Labs. He notes that the day concludes with an open community Q&A session hosted by PortSwigger, giving bug bounty hunters direct access to creators of premier web application testing tools. (AI summary — Gemini Flash)",
       "durationSeconds": 16
     },
     {
@@ -119,7 +119,7 @@
         "hacker-culture"
       ],
       "teaser": "Alethe and Mike discuss the worldwide network of DEF CON Groups, local meetups, and year-round hacker community organizing.",
-      "summary": null,
+      "summary": "In this community spotlight from DEF CON 32, DEF CON Groups board members Alethe Denis and Mike Spicer (DarkMatter) discuss how local DEF CON Groups sustain the hacker spirit throughout the year across the globe. Opening at 00:00, they emphasize that local groups bring the collaborative energy of the annual conference into local communities worldwide, encouraging anyone interested to visit defcongroups.org or reach out to info@defcongroups.org.\n\nAt 00:45, Mike explains that launching a new local group requires only two people, demystifying the startup process for aspiring community organizers. At 01:15, the hosts highlight their DEF CON 32 community room, featuring a nostalgic Quake III Arena LAN party running on vintage hardware, while inviting attendees to participate in hardware modding, host group meetups, and expand local hacker networks globally. (AI summary — Gemini Flash)",
       "durationSeconds": 180
     },
     {
@@ -187,7 +187,7 @@
         "community"
       ],
       "teaser": "A tour of the IoT Village at DEF CON 32 exploring hands-on router hacking, connected device vulnerability research, and zero-day labs.",
-      "summary": null,
+      "summary": "In this on-the-floor tour at DEF CON 32, IoT Village lead Rachel presents the extensive lineup of hands-on hardware and firmware security challenges available to attendees. At 00:00, she announces that the village features over 14 distinct interactive activities running across the conference weekend.\n\nAt 00:15, Rachel highlights hands-on learning labs covering Bluetooth Low Energy (BLE) protocol inspection, hardware firmware extraction, and a timed root-exploitation contest targeting embedded IP cameras. She also notes village incentives, including Flipper Zero giveaways for lab survey participants and a grand prize LEGO Ferrari set for hacking a vulnerable LG Smart TV. (AI summary — Gemini Flash)",
       "durationSeconds": 39
     },
     {
@@ -255,7 +255,7 @@
         "community"
       ],
       "teaser": "HYPU from The Open Organisation of Lockpickers (TOOOL) demonstrates lock mechanics, pin tumbler picking, and bypass fundamentals.",
-      "summary": null,
+      "summary": "In this practical interview from the DEF CON 32 Lockpicking Village, HYPU from The Open Organisation of Lockpickers (TOOOL) breaks down the art of non-destructive physical entry and locksport education. At 00:02, he introduces the village mission to demystify mechanical security, teaching attendees how pin-tumbler cylinders operate and how simple manual manipulation can defeat standard locks.\n\nAt 02:02, HYPU describes hands-on bypass drills, including physical shimming techniques, under-door tool manipulation, and escaping standard handcuffs. At 06:02, he analyzes mechanical manufacturing constraints, explaining why lock companies frequently tolerate known bypass vulnerabilities due to the prohibitive multi-million-dollar costs of factory retooling. At 08:00, the conversation reflects on how learning locksport empowers individuals to assess physical security flaws in their own homes and workplaces. (AI summary — Gemini Flash)",
       "durationSeconds": 730
     },
     {
@@ -311,7 +311,7 @@
     {
       "youtubeId": "OWlPWtNPCzw",
       "slug": "la-villa-en-espanol-at-def-con-32",
-      "title": "La Villa en Espa\u00f1ol at DEF CON 32",
+      "title": "La Villa en Español at DEF CON 32",
       "speakers": [],
       "track": "community",
       "topics": [
@@ -320,8 +320,8 @@
         "diversity",
         "hacker-culture"
       ],
-      "teaser": "A showcase of La Villa en Espa\u00f1ol at DEF CON 32, highlighting Spanish-language technical presentations, networking, and workshops.",
-      "summary": null,
+      "teaser": "A showcase of La Villa en Español at DEF CON 32, highlighting Spanish-language technical presentations, networking, and workshops.",
+      "summary": "In this community segment from DEF CON 32, organizers Giovanni (from Colombia) and Guillermo Buendía (from Mexico) introduce La Villa en Español, an inclusive space dedicated to Spanish- and Portuguese-speaking security practitioners. Opening at 00:01, Giovanni explains that the village was founded to create an open platform where Latin American and Iberian hackers can showcase their research, technical talent, and innovative ideas in their native languages.\n\nAt 00:20, Guillermo explains that the village helps first-time international attendees overcome potential language barriers and the overwhelming environment of a massive convention. By hosting technical presentations, workshops, and community networking in Spanish and Portuguese, La Villa en Español offers a welcoming home where attendees feel comfortable collaborating and building lasting relationships within the global hacker community. (AI summary — Gemini Flash)",
       "durationSeconds": 47
     },
     {
@@ -385,7 +385,7 @@
         "automated-defense"
       ],
       "teaser": "A preview of the multi-million-dollar finals of the DARPA AI Cyber Challenge (AIxCC), evaluating autonomous cyber reasoning systems.",
-      "summary": null,
+      "summary": "In this interview from DEF CON 32, host Natalia previews the DARPA AI Cyber Challenge (AIxCC), an ambitious competition designed to revolutionize software security through automated artificial intelligence. At 00:00, she explains how AIxCC creates an immersive environment demonstrating automated program analysis, vulnerability identification, and autonomous code repair targeting critical infrastructure.\n\nAt 00:25, Natalia details the competition format, noting that semifinalist teams compete for $2 million in awards before advancing to the final round featuring a $30 million prize pool. She also highlights collaboration with leading frontier AI labs—including Anthropic, Google, Microsoft, and OpenAI—illustrating how cutting-edge large language models and reasoning engines are leveraged to autonomously protect essential digital infrastructure. (AI summary — Gemini Flash)",
       "durationSeconds": 58
     },
     {
@@ -449,7 +449,7 @@
         "community"
       ],
       "teaser": "A primer on the DEF CON 32 Policy Village agenda covering critical infrastructure protection, copyright law, and researcher rights.",
-      "summary": null,
+      "summary": "In this concise overview from the DEF CON 32 floor, an organizer highlights the expansive programming and international impact of the Policy Village. At 00:00, the host outlines the village's packed schedule featuring more than a dozen technical and legislative sessions.\n\nAt 00:10, the speaker emphasizes the participation of senior government officials, regulatory authorities, and international policy experts who come to DEF CON to interface directly with security researchers and hackers. The interview underscores the mutual benefit of these exchanges, equipping policymakers with technical insights while helping researchers advocate for open, secure, and privacy-preserving internet policies. (AI summary — Gemini Flash)",
       "durationSeconds": 22
     },
     {
