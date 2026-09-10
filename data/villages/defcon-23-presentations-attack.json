@@ -36,7 +36,7 @@
         "red-team"
       ],
       "teaser": "LTE Recon and Tracking with RTLSDR",
-      "summary": null,
+      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information about targets without direct interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 819
     },
     {
