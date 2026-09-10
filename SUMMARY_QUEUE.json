@@ -641,7 +641,7 @@
       "youtubeId": "lQvwdbZQNlc",
       "title": "Anatomy Of A Megabreach Equifax Report",
       "slug": "dumby-anatomy-of-a-megabreach-equifax-report-def-con-27-blue-tea",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-blue-team-village.json",
@@ -649,7 +649,7 @@
       "youtubeId": "gb1ZAuj4RHY",
       "title": "The Cyber Threat Intelligence Mindset",
       "slug": "ch33r10-the-cyber-threat-intelligence-mindset-def-con-27-blue-te",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-cloud-village.json",
@@ -657,7 +657,7 @@
       "youtubeId": "6NQeop_47EM",
       "title": "Hacking into Automotive Clouds",
       "slug": "rotem-bar-hacking-into-automative-clouds",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
@@ -665,7 +665,7 @@
       "youtubeId": "YG33kAaFs6Q",
       "title": "TLS decryption attacks and back doors -",
       "slug": "chris-hanlon-tls-decryption-attacks-and-back-doors-def-con-27-cr",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
@@ -673,7 +673,7 @@
       "youtubeId": "trFQj6fEic4",
       "title": "Tiplines Today -",
       "slug": "harlo-holmes-tiplines-today-def-con-27-crypto-and-privacy-villag",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
@@ -681,7 +681,7 @@
       "youtubeId": "rH0X6-lxygk",
       "title": "PKI and SHAKEN STIR Will Fix Robocalls -",
       "slug": "mark-b-cooper-pki-and-shaken-stir-will-fix-robocalls-def-con-27",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
@@ -689,7 +689,7 @@
       "youtubeId": "28SM5ILpHEE",
       "title": "Easy PAKE Oven -",
       "slug": "steve-thomas-easy-pake-oven-def-con-27-crypto-and-privacy-villag",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-crypto-and-privacy-village.json",
@@ -697,7 +697,7 @@
       "youtubeId": "8BmZBnS30As",
       "title": "Snoop all Telegram messages -",
       "slug": "vitor-ventura-snoop-all-telegram-messages-def-con-27-crypto-and",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ethics-village.json",
@@ -705,7 +705,7 @@
       "youtubeId": "7O3d6YaDa88",
       "title": "Who is Tracking Your Body Health Apps and Your Privacy",
       "slug": "wendy-edwards-who-is-tracking-your-body-health-apps-and-your-pri",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ethics-village.json",
@@ -713,7 +713,7 @@
       "youtubeId": "G2kZ5kzyKqU",
       "title": "Rant on Disclosure",
       "slug": "renderman-rant-on-disclosure",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-ethics-village.json",
