@@ -172,7 +172,7 @@
         "offensive-security"
       ],
       "teaser": "Silk interviews the organizers of the Adversary Wars CTF at DEF CON 31 to explore competition mechanics, challenge designs, and offensive simulations.",
-      "summary": null,
+      "summary": "In this interview from DEF CON 31, organizers of the Adversary Wars Capture The Flag (CTF) tournament review the mission and architecture of their competitive offensive exercise. The organizers explain that Adversary Wars was created to emulate the realistic operational conditions experienced by red teams during enterprise penetration testing engagements.\n\nThe discussion highlights challenge design across multi-tiered corporate environments, requiring competitors to breach initial perimeter controls, pivot across segmented internal networks, and target industrial infrastructure. The organizers share how the tournament encourages collaborative problem-solving, welcoming both veteran operators and newcomers to test their offensive security skills in a structured, competitive setting. (AI summary — Gemini Flash)",
       "durationSeconds": 295
     },
     {
@@ -246,7 +246,7 @@
         "policy"
       ],
       "teaser": "CauseEffect interviews election security expert Harri Hursti at the DEF CON 31 Voting Village regarding voting machine vulnerabilities and audits.",
-      "summary": null,
+      "summary": "In this in-depth hardware teardown from the DEF CON 31 Voting Village, election cybersecurity expert Harri Hursti provides an eye-opening physical inspection of three generations of voting equipment. At 02:00, he examines a legacy optical scan precinct counter, explaining that while its core operating software is burned immutably into EEPROM chips, the entire system relies on external memory cards susceptible to integer overflows and ballot definition manipulation.\n\nAt 03:00, Harri investigates a high-speed central paper ballot scanner used in major metropolitan election centers, revealing that the unit runs on the QNX operating system and automatically executes arbitrary binaries placed on legacy Zip drives with full root privileges. At 05:00, he critiques paperless direct-recording electronic (DRE) touchscreen terminals running Windows CE, demonstrating at 07:00 that unseating the smart card reader drops the machine directly into unauthenticated supervisor mode. He concludes at 09:00 by asserting that hand-marked paper ballots, optical scanners, and mandatory Risk-Limiting Audits (RLAs) represent the only verifiable defense against election infrastructure tampering. (AI summary — Gemini Flash)",
       "durationSeconds": 636
     },
     {
@@ -316,7 +316,7 @@
         "advocacy"
       ],
       "teaser": "Ali explores DEF CON 31's Policy Village, discussing public policy dialogues, legal issues facing hackers, and cybersecurity regulations.",
-      "summary": null,
+      "summary": "In this dispatch from DEF CON 31, organizers of the Policy Village discuss their mission to bridge the gap between cybersecurity technical researchers and government policymakers. At 01:00, the hosts explain that bringing federal regulators, congressional staff, and agency officials into the hacker space demystifies the security community and facilitates pragmatic dialogue on critical policy issues.\n\nThe interview explores how the village provides a venue to address urgent legislative topics, including artificial intelligence governance, vulnerability research legal protections, and critical infrastructure regulations. At 02:00, the organizers highlight strong bipartisan engagement from policymakers eager to learn directly from practitioners, encouraging attendees to participate in open policy discussions at policyvillage.org. (AI summary — Gemini Flash)",
       "durationSeconds": 242
     },
     {
@@ -388,7 +388,7 @@
         "rf-shielding"
       ],
       "teaser": "CauseEffect reviews inventive aluminum foil creations and interviews eccentric contestants in the DEF CON 31 Tin Foil Hat Contest.",
-      "summary": null,
+      "summary": "In this lighthearted and creative segment from DEF CON 31, host Lunchbox explores the beloved Tin Foil Hat Contest, where attendees craft elaborate aluminum headgear to test against radio frequency emissions. At 01:00, the organizers review the testing methodology, explaining how competitors design headpieces to block specific RF frequencies and protect against fictional extraterrestrial transmissions.\n\nThe hosts demonstrate the evaluation setup at 02:00, where contestant hats are fitted onto a sensor-equipped mannequin head to measure signal attenuation inside a calibrated RF test chamber. At 04:00, they emphasize the spirit of experimentation and hardware testing, celebrating how an iconic pop-culture trope serves as an engaging, hands-on demonstration of RF shielding principles. (AI summary — Gemini Flash)",
       "durationSeconds": 263
     },
     {
@@ -460,7 +460,7 @@
         "community"
       ],
       "teaser": "Chris takes viewers behind the scenes of the DEF CON 31 Red Team Village, detailing setup logistics, offensive workshops, and cyber ranges.",
-      "summary": null,
+      "summary": "In this behind-the-scenes preview from DEF CON 31, core organizers of the Red Team Village discuss the extensive planning and logistics required to operate one of the convention's most popular village tracks. At 01:00, the organizers address the massive crowd turnout, describing expanded workshop areas and upgraded capture-the-flag infrastructure designed to accommodate thousands of attendees.\n\nThe team shares insights into their year-round preparation at 02:00, detailing how volunteer committees curate technical talks, design realistic enterprise lab environments, and coordinate adversary emulation exercises. The interview captures the dedication of the community volunteers who create accessible offensive security learning experiences for the global infosec community. (AI summary — Gemini Flash)",
       "durationSeconds": 178
     }
   ]
