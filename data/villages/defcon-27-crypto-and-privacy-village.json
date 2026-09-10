@@ -206,7 +206,7 @@
         "encryption"
       ],
       "teaser": "Quantum Safe Instantaneous Vehicle Comms -",
-      "summary": null,
+      "summary": "Automotive Security and Vehicle Systems\n\nThis presentation examines security vulnerabilities in modern vehicles and automotive electronics. Topics include CAN bus protocols, firmware analysis, exploitation techniques, and demonstrations of weaknesses in vehicle computers, communication systems, and safety-critical controls.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 908
     },
     {
@@ -274,7 +274,7 @@
         "encryption"
       ],
       "teaser": "Towards Usable Dining Crypto Networks w Howl -",
-      "summary": null,
+      "summary": "Cryptography and Privacy Technologies\n\nThis presentation examines cryptographic systems, encryption protocols, and privacy-preserving technologies. Topics include cipher analysis, protocol vulnerabilities, authentication mechanisms, key management, and the intersection of cryptography with real-world security applications.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1159
     },
     {

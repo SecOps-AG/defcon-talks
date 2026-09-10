@@ -19,7 +19,7 @@
         "iot"
       ],
       "teaser": "SWARM",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1836
     }
   ]
