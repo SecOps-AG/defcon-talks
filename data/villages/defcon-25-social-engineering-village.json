@@ -19,14 +19,14 @@
         "manipulation",
         "red-teaming"
       ],
-      "teaser": "Master the art of building genuine rapport\u2014a critical skill for successful social engineering attacks and red team operations.",
+      "teaser": "Master the art of building genuine rapport—a critical skill for successful social engineering attacks and red team operations.",
       "summary": null,
       "durationSeconds": 1872
     },
     {
       "youtubeId": "VeXlppLn5H4",
       "slug": "se-village-fahey-owens-beyond-phishing",
-      "title": "Beyond Phishing \u2013 Building & Sustaining a Corporate SE Program",
+      "title": "Beyond Phishing – Building & Sustaining a Corporate SE Program",
       "speakers": [
         "Fahey Owens"
       ],
@@ -57,7 +57,7 @@
         "security-testing"
       ],
       "teaser": "Move beyond point-in-time social engineering tests with thematic campaigns that target specific workflows and behavioral patterns for more effective security assessment.",
-      "summary": null,
+      "summary": "### Rethinking Human Risk and Social Engineering Metrics\nAt 00:00, security leader and former red teamer Robert Wood discusses why traditional enterprise social engineering programs often fail to produce meaningful security improvements. Wood argues that viewing human vulnerability through simple phishing click-rate percentages produces distorted metrics that do not correlate with an organization's true resilience against targeted attacks.\n\n### Telemetry Trends and Flaws in Conventional Security Awareness\nAt 06:36, Wood analyzes empirical security data illustrating that compliance-driven annual awareness training does not reliably change employee behavior. Rather than measuring how many users click a deceptive link, security teams must assess whether employees possess clear, friction-free reporting channels and understand organizational risk contexts.\n\n### Attack Trees and Human Decision Modeling\nAt 12:55 and 19:04, the presentation introduces thematic threat modeling through the construction of attack trees. Wood illustrates how mapping out adversarial pathways demonstrates that social engineering is rarely an isolated vector; instead, human decisions interact directly with technological configurations, identity access management, and endpoint controls.\n\n### Addressing Root Causes and Process Inefficiencies\nAt 25:24, Wood urges security teams to stop penalizing end users for systemic process failures. When employees fall victim to deception, the underlying causes frequently stem from flawed business workflows, confusing software design, or high-pressure productivity quotas that discourage verification and critical thinking.\n\n### Designing Resilient Operational Guardrails\nConcluding between 31:55 and 35:00, Wood outlines actionable strategies for engineering defense-in-depth around human workflows. He recommends implementing automated out-of-band verification processes for high-risk actions, redesigning administrative workflows, and aligning corporate key performance indicators (KPIs) to reward employees for verifying suspicious requests.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2351
     },
     {
@@ -65,7 +65,7 @@
       "slug": "se-village-yaiza-rubio-felix-brezo-heavy-diving-for-credentials",
       "title": "Heavy Diving For Credentials",
       "speakers": [
-        "Yaiza Rubio, F\u00e9lix Brezo"
+        "Yaiza Rubio, Félix Brezo"
       ],
       "track": "red-team",
       "topics": [
@@ -113,7 +113,7 @@
         "reconnaissance",
         "threat-modeling"
       ],
-      "teaser": "Examine your organization from an attacker's perspective\u2014how red teamers scout websites, employees, and systems to identify and exploit security weaknesses.",
+      "teaser": "Examine your organization from an attacker's perspective—how red teamers scout websites, employees, and systems to identify and exploit security weaknesses.",
       "summary": null,
       "durationSeconds": 3380
     },
@@ -132,8 +132,8 @@
         "threat-intelligence",
         "security-research"
       ],
-      "teaser": "Explore the psychological motivations driving hackers\u2014connecting behavioral science with security research to understand why attackers target social engineering vectors.",
-      "summary": null,
+      "teaser": "Explore the psychological motivations driving hackers—connecting behavioral science with security research to understand why attackers target social engineering vectors.",
+      "summary": "### Social Psychology Frameworks for Understanding Hacker Behavior\nAt 00:00, Helen Thackray, a PhD researcher at Bournemouth University, introduces an interdisciplinary investigation combining cyberpsychology and social identity theory to explore what drives hackers to participate in underground subcultures and technical communities.\n\n### Cognitive Categorization and Social Identity Theory\nAt 08:30, Thackray examines how the human brain utilizes cognitive shortcuts to categorize individuals into distinct in-groups and out-groups. Within hacking subcultures, this psychological categorization creates strong social bonds around shared values of technical competence, curiosity, and autonomy, while distancing members from mainstream corporate norms.\n\n### Group Dynamics and Amplification of Risk Behavior\nAt 16:44, the presentation explores the divergence between individual cognition and collective behavior, citing classic social psychology models. Thackray illustrates how group dynamics, perceived anonymity, and social validation within hacker circles can amplify risk-taking behaviors, driving individuals to attempt more daring technical exploits than they would in isolation.\n\n### Community Boundary Policing and Norm Enforcement\nAt 24:40, Thackray details the internal governance and social hierarchies that develop within technical communities. She highlights how disputes regarding acceptable targets, ethical codes, and technical prowess determine status and in-group belonging, often resulting in social policing or factional splits when norms are breached.\n\n### Empirical Research Findings Across Hacker Communities\nConcluding between 32:20 and 42:00, Thackray shares findings from her empirical surveys across multiple technical communities and forums. Her research reveals that intellectual curiosity, peer respect, and community belonging serve as primary motivators for technical exploration, far outweighing purely financial or malicious incentives.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3030
     },
     {
@@ -188,7 +188,7 @@
         "decision-making",
         "security-research"
       ],
-      "teaser": "Understand how human perception and decision-making science explains why we struggle with security\u2014and how behavioral insights can create more effective security professionals.",
+      "teaser": "Understand how human perception and decision-making science explains why we struggle with security—and how behavioral insights can create more effective security professionals.",
       "summary": null,
       "durationSeconds": 2905
     },
@@ -226,7 +226,7 @@
         "security-culture",
         "persuasion"
       ],
-      "teaser": "Transform corporate security culture through strategic change management\u2014using principles of persuasion and organizational psychology to shift security behaviors at scale.",
+      "teaser": "Transform corporate security culture through strategic change management—using principles of persuasion and organizational psychology to shift security behaviors at scale.",
       "summary": null,
       "durationSeconds": 2773
     }
