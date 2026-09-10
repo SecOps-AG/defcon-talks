@@ -19,7 +19,7 @@
         "infrastructure-protection"
       ],
       "teaser": "Securing voting systems beyond paper ballots—comprehensive approaches to election infrastructure protection.",
-      "summary": null,
+      "summary": "Tod Beardsley, Director of Research at Rapid7, examines the broader attack surface of U.S. election infrastructure in \"Securing Voting Systems Beyond Paper Ballots,\" arguing that the national conversation on election security must look beyond optical scanners and paper ballots.\n\n[05:46] Beardsley emphasizes that the decentralized architecture of American elections—comprising thousands of independent county and municipal jurisdictions operating under state-specific laws [11:13]—presents unique structural challenges. While paper ballots and voter-verifiable audit trails provide essential post-election verifiability, they do not protect against pre-election disruptions targeting voter registration databases, electronic pollbooks (e-pollbooks), or election night reporting portals.\n\n[16:38] The talk outlines practical, actionable security measures that local election officials and county IT teams can implement ahead of election cycles without waiting for major federal overhauls. Beardsley highlights the importance of network segmentation, multi-factor authentication, routine vulnerability assessments, incident response planning, and establishing cooperative relationships with the cybersecurity research community to defend municipal IT networks from ransomware and targeted interference.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1498
     },
     {
@@ -87,7 +87,7 @@
         "threat-analysis"
       ],
       "teaser": "Marian Schneider Voting Systems are Insecure Lets just Vote on Phones - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "Marian Schneider, President of Verified Voting, presents a rigorous critique of internet and smartphone-based voting proposals in \"Voting Systems are Insecure: Let's Just Vote on Phones.\" Schneider confronts the growing push to introduce mobile voting apps (such as Voatz and blockchain-backed voting platforms), deconstructing why mobile voting fundamentally undermines democratic integrity.\n\n[04:04] Schneider begins by reviewing the documented cyber threats targeting election infrastructure, recalling nation-state reconnaissance against state voter registration databases and phishing campaigns against election software vendors. She outlines the foundational requirements of democratic elections [08:11]: guaranteeing voter eligibility and the \"one person, one vote\" principle while strictly preserving ballot secrecy and preventing coercion.\n\n[12:20] The presentation details the insurmountable technical vulnerabilities of voting across mobile devices and internet portals. Schneider explains that consumer mobile devices are susceptible to client-side malware, operating system vulnerabilities, spyware, and credential theft, while internet transmission is vulnerable to denial-of-service (DoS) attacks and server-side manipulation. Crucially, because secret ballots cannot link a voter's identity to their vote, remote digital ballots lack voter-verifiable paper audit trails (VVPAT) [16:22], rendering post-election risk-limiting audits (RLAs) impossible. Schneider concludes that paper-based voting with manual auditability remains the only viable, resilient standard for national elections.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1227
     },
     {
@@ -155,7 +155,7 @@
         "multi-stakeholder"
       ],
       "teaser": "Expert panel discussion on election security policy, governance, and multi-stakeholder coordination.",
-      "summary": null,
+      "summary": "Joseph Marks, cybersecurity reporter at Politico, moderates an extensive panel discussion at the DEF CON 27 Voting Village featuring election officials, security researchers, and policy experts examining the evolving state of election security leading up to the 2020 elections.\n\n[17:49] The panelists review progress made since 2016 in coordinating threat intelligence sharing between the Department of Homeland Security (DHS/CISA), the Election Infrastructure ISAC (EI-ISAC), and state and local election administrators. They discuss the deployment of Albert network monitoring sensors, the distribution of federal Help America Vote Act (HAVA) grant funding, and the persistent resource disparities separating well-funded state election offices from under-resourced rural county clerks [33:23].\n\n[49:01] The conversation turns to the complex relationship between voting machine manufacturers and the independent security research community. Panelists debate the legal protections, DMCA exemptions, and coordinated vulnerability disclosure policies necessary for researchers to ethically probe commercial voting machines without fear of legal reprisal. They conclude by discussing the nationwide push toward universal paper ballots, the technical implementation of risk-limiting audits (RLAs) [01:07:30], and strategies for combating disinformation intended to erode public confidence in election outcomes.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 5301
     },
     {
@@ -223,7 +223,7 @@
         "threat-analysis"
       ],
       "teaser": "John Odum Election Security Threats Posed by Very Small Jurisdictions - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "John Odum, City Clerk of Montpelier, Vermont, provides a boots-on-the-ground perspective on the unique cybersecurity threats facing small and rural election jurisdictions across the United States.\n\n[04:51] Odum explains that while major metropolitan voting systems capture national media headlines, small towns and rural townships represent the soft underbelly of national election infrastructure. Local municipal clerks often manage voter registration databases using shared, multi-purpose municipal desktop computers that handle general city business, pay utility bills, and browse the web—all without dedicated IT staff, modern firewalls, or cybersecurity training [09:33].\n\n[14:03] Because small-jurisdiction election systems possess administrative credentials that connect directly into centralized statewide voter registration databases, a compromise at the town clerk level can serve as a lateral jumping point into statewide voter registries. Odum discusses practical, low-cost mitigations, including regional shared IT security services, mandatory two-factor authentication, and the continued reliability of hand-counted paper ballots in small communities [20:22], urging state and federal agencies to direct cybersecurity resources directly to local municipal offices.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1599
     },
     {
@@ -291,7 +291,7 @@
         "threat-analysis"
       ],
       "teaser": "Evanna Hu While the Bots Distracted You Overt Russian Information Ops - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "Evanna Hu delivers a compelling analysis of Russian foreign influence operations in \"While the Bots Distracted You: Overt Russian Information Ops,\" arguing that Western security discourse has focused excessively on automated social media bots while ignoring highly coordinated, overt state-sponsored media apparatuses.\n\n[05:16] Hu traces the historical evolution of modern Russian information warfare doctrines, illustrating how principles articulated in military strategy (such as the Gerasimov doctrine [16:22]) view information warfare as a continuous, permanent operational domain rather than an activity confined to election seasons. She analyzes key geopolitical precursors, including the 2008 Russo-Georgian war [10:49], the 2014 Euromaidan protests, and the annexation of Crimea.\n\n[22:09] The presentation examines the massive reach and narrative sophistication of state-controlled media outlets like RT (Russia Today) and Sputnik. Hu demonstrates how RT strategically amasses billions of views on YouTube and social media by broadcasting viral, culturally resonant, or controversial human-interest content before subtly weaving in state-aligned geopolitical narratives and societal grievances. She concludes by urging intelligence analysts and policy makers to look beyond automated bot-detection heuristics and focus on the strategic influence of state-backed overt information pipelines.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1697
     },
     {
@@ -359,7 +359,7 @@
         "threat-analysis"
       ],
       "teaser": "Alex Stanev Machine Voting The Bulgarian Experience - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "Alex Stanev presents a technical and operational case study on the deployment of electronic voting machines in Bulgaria, detailing lessons learned from the May 2019 European Parliament elections.\n\n[05:13] Stanev describes the Bulgarian electoral process, explaining how 3,000 leased Smartmatic touch-screen direct-recording electronic (DRE) voting machines equipped with paper audit printers were deployed across polling stations nationwide. He walks through the official polling station protocols and the operational requirements for certifying and initializing machines prior to election day.\n\n[11:16] The talk documents significant logistical and operational failures encountered during the deployment. Stanev details instances of missing or unauthenticated USB flash drives, defective smart cards used by voters to activate voting sessions, and widespread confusion among poll workers regarding machine tally reconciliation [23:25]. He highlights substantial discrepancies between the printed machine paper rolls and the handwritten polling station protocol sheets, illustrating how poorly trained staff and inadequate software verification protocols undermined public confidence in the electronic voting transition.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1835
     },
     {

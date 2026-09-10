@@ -238,7 +238,7 @@
         "ics-ot"
       ],
       "teaser": "Passive Keyless Entry and Start Systems - DEF CON 27 Car Hacking Village",
-      "summary": null,
+      "summary": "Lennert Wouters presents a deep dive into the security architecture of Passive Keyless Entry and Start (PKES) systems, focusing on critical cryptographic vulnerabilities discovered in the Tesla Model S key fob. Wouters details the reverse engineering of the key fob hardware manufactured by Pektron, exposing the use of an obsolete, proprietary 40-bit cipher (DST40) for wireless vehicle authentication.\n\nHe explains the creation of an efficient proof-of-concept attack capable of cloning a Tesla Model S key fob in a matter of seconds using inexpensive, commercial off-the-shelf software-defined radio (SDR) equipment and an evaluation board. By intercepting challenge-response exchanges broadcast over low-frequency (LF) and ultra-high-frequency (UHF) channels, the attack rapidly recovers the cryptographic key and spoofed authentication tokens, allowing unauthorized entry and vehicle ignition.\n\nWouters expands on the broader automotive implications by examining FCC database filings, revealing that identical Pektron PKES modules were deployed by other luxury automotive and motorcycle manufacturers, including McLaren, Karma Automotive, and Triumph Motorcycles. He concludes with an account of the coordinated vulnerability disclosure process, detailing how Tesla responded by rolling out software updates, introducing PIN-to-Drive protection, and ultimately transitioning to stronger cryptographic key fobs.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1493
     },
     {
@@ -306,7 +306,7 @@
         "ics-ot"
       ],
       "teaser": "Legal Over the Air Spoofing of GNSS and its Effects - DEF CON 27 Car Hacking Village",
-      "summary": null,
+      "summary": "Victor Murray from the Southwest Research Institute (SwRI) addresses the critical vulnerabilities of Global Navigation Satellite Systems (GNSS/GPS) used in autonomous ground vehicles, presenting a mobile testing methodology that complies with strict federal regulations. Murray notes that public GNSS signals lack cryptographic authentication and integrity protections, making them inherently susceptible to radio spoofing attacks.\n\n[04:40] Murray explains the regulatory and legal challenges of GNSS security research in the United States, where over-the-air radio frequency (RF) spoofing or jamming of satellite navigation signals is illegal under federal law. To overcome this limitation without confining tests to indoor RF chambers, SwRI engineered a legal mobile GNSS spoofing apparatus. The system utilizes RF cabling, inline attenuators, and localized frequency translation boxes [09:07] placed between software-defined radios and the vehicle's onboard GPS receivers, enabling closed-loop, over-the-road vulnerability assessments on an operational Unmanned Ground Vehicle (UGV).\n\n[13:39] The talk showcases live field demonstrations of dynamic spoofing attacks against the autonomous vehicle. Murray illustrates how manipulating satellite ephemeris data and time-of-flight signals induced severe navigation failures, including forced sudden lane departures, driving the UGV completely off the roadway, triggering emergency halts, and overriding path-planning algorithms. He concludes by emphasizing the urgent need for multi-sensor fusion—combining GNSS with LiDAR, radar, visual odometry, and inertial navigation systems (INS)—to detect and reject spoofed location telemetry in autonomous systems.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1087
     },
     {
@@ -374,7 +374,7 @@
         "ics-ot"
       ],
       "teaser": "NSC and Special Assistant for Cyber - DEF CON 27 Hack the Sea Village",
-      "summary": null,
+      "summary": "Josh Steinman, Senior Director for Cyber on the National Security Council (NSC), delivers an address at the Hack the Sea Village examining the strategic cybersecurity risks facing the global maritime sector, international shipping networks, and port infrastructure.\n\n[04:02] Steinman explores how global supply chains depend heavily on maritime logistics, pointing out that commercial cargo shipping carries over 90% of global trade. He analyzes the systemic vulnerabilities created by the rapid digitalization of vessels and terminals, where legacy operational technology (OT), industrial control systems (ICS), and automated container cranes are increasingly interconnected with enterprise networks and satellite communication links without adequate security controls.\n\n[08:40] The presentation addresses the cascading failure modes that can propagate between maritime choke points, regional electrical grids, and automated terminal logistics. Steinman outlines national cybersecurity policy initiatives coordinated by the White House and interagency partners [13:45], calling for stronger collaboration between the maritime industry, government regulators, and independent security researchers. He encourages the hacker community to bring hardware, radio, and protocol analysis into maritime environments to discover vulnerabilities before hostile nation-state actors exploit them.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1076
     },
     {
