@@ -25,6 +25,8 @@ export function TalkCard({ talk }: { talk: TalkIndexEntry | Partial<SearchEntry>
           src={`https://i.ytimg.com/vi/${talk.youtubeId}/hqdefault.jpg`}
           alt=""
           loading="lazy"
+          // A thumbnail request should not tell Google which talk page you are on.
+          referrerPolicy="no-referrer"
           className="aspect-video w-full object-cover opacity-80 transition group-hover:opacity-100"
         />
         <div className="absolute right-2 top-2 flex items-center gap-1">

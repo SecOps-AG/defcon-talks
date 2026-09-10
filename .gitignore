@@ -7,9 +7,9 @@ node_modules
 .next
 out
 
-# env
-.env
-.env*.local
+# env — every variant, so a stray .env.production cannot be committed
+.env*
+!.env.example
 
 # debug / os
 npm-debug.log*
