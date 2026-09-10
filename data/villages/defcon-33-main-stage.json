@@ -42,7 +42,7 @@
         "appsec"
       ],
       "teaser": "Exposes UI redressing and clickjacking vectors in popular browser extensions that trick users into granting administrative cloud permissions with a single click.",
-      "summary": "Browser Extensions as an Overlooked Threat Vector\n\nBrowser extensions operate with elevated privileges within web browsers, frequently interacting with active cloud sessions, password managers, and enterprise SaaS dashboards.\n\nClickjacking and UI Redressing Mechanics\n\nLior Shmueli and Tomer Peled demonstrate how malicious web pages leverage CSS opacity layering and iframe positioning to execute clickjacking attacks against browser extension popup interfaces.\n\nAccount Takeovers and Cloud Role Escalation\n\nBy manipulating users into clicking seemingly innocuous page elements, attackers trigger privileged actions inside extensions\u2014such as exporting credentials, approving OAuth authorizations, or delegating cloud IAM roles.\n\nHardening Extension UI Boundaries\n\nMitigating extension clickjacking requires browser vendors and developers to enforce CSP frame-ancestors directives, require explicit confirmation dialogues for high-privilege actions, and validate user intent.",
+      "summary": "Browser Extensions as an Overlooked Threat Vector\n\nBrowser extensions operate with elevated privileges within web browsers, frequently interacting with active cloud sessions, password managers, and enterprise SaaS dashboards.\n\nClickjacking and UI Redressing Mechanics\n\nLior Shmueli and Tomer Peled demonstrate how malicious web pages leverage CSS opacity layering and iframe positioning to execute clickjacking attacks against browser extension popup interfaces.\n\nAccount Takeovers and Cloud Role Escalation\n\nBy manipulating users into clicking seemingly innocuous page elements, attackers trigger privileged actions inside extensions—such as exporting credentials, approving OAuth authorizations, or delegating cloud IAM roles.\n\nHardening Extension UI Boundaries\n\nMitigating extension clickjacking requires browser vendors and developers to enforce CSP frame-ancestors directives, require explicit confirmation dialogues for high-privilege actions, and validate user intent.",
       "durationSeconds": 3010
     },
     {
@@ -196,7 +196,7 @@
         "culture"
       ],
       "teaser": "Mikko Hypponen explores the preservation of historic malware samples, early virus artistry, and four decades of digital threats in the Malware Museum.",
-      "summary": "The Cultural and Technical History of Computer Viruses\n\nEarly computer malware from the MS-DOS era was often crafted by hobbyists and pranksters, featuring elaborate visual effects, chiptune music, and creative screen animations rather than financial extortion payloads.\n\nCurating and Emulating Historic Malware\n\nMikko Hypponen details the creation of the Malware Museum, using browser-based DOSBox emulation to safely demonstrate historic viruses\u2014such as Brain, Cascade, and Ambulance\u2014without risking infectious spread.\n\nEvolution Toward Weaponization and Cybercrime\n\nTracking the timeline from 1980s floppy disk boot sector infectors to modern state-sponsored wipers and multi-million-dollar ransomware cartels illustrates the radical transformation of malware economics.\n\nPreserving Hacker Culture and Threat Artifacts\n\nDocumenting early malware artifacts ensures that digital security history, vintage reverse engineering techniques, and early hacker subcultures remain accessible for future generations of security researchers.",
+      "summary": "The Cultural and Technical History of Computer Viruses\n\nEarly computer malware from the MS-DOS era was often crafted by hobbyists and pranksters, featuring elaborate visual effects, chiptune music, and creative screen animations rather than financial extortion payloads.\n\nCurating and Emulating Historic Malware\n\nMikko Hypponen details the creation of the Malware Museum, using browser-based DOSBox emulation to safely demonstrate historic viruses—such as Brain, Cascade, and Ambulance—without risking infectious spread.\n\nEvolution Toward Weaponization and Cybercrime\n\nTracking the timeline from 1980s floppy disk boot sector infectors to modern state-sponsored wipers and multi-million-dollar ransomware cartels illustrates the radical transformation of malware economics.\n\nPreserving Hacker Culture and Threat Artifacts\n\nDocumenting early malware artifacts ensures that digital security history, vintage reverse engineering techniques, and early hacker subcultures remain accessible for future generations of security researchers.",
       "durationSeconds": 2412
     },
     {
@@ -260,7 +260,7 @@
     {
       "youtubeId": "touJ5uLlXjQ",
       "slug": "winners-of-darpas-ai-cyber-challenge",
-      "title": "Winners of DARPA\u2019s AI Cyber Challenge",
+      "title": "Winners of DARPA’s AI Cyber Challenge",
       "speakers": [
         "DARPA AIxCC Finalists"
       ],
@@ -317,10 +317,10 @@
     {
       "youtubeId": "_l9_lNUCjP4",
       "slug": "turning-your-active-directory-into-the-attackers-c2",
-      "title": "Turning Your Active Directory into the Attacker\u2019s C2",
+      "title": "Turning Your Active Directory into the Attacker’s C2",
       "speakers": [
         "Quentin Roland",
-        "Wilfried B\u00e9card"
+        "Wilfried Bécard"
       ],
       "track": "red-team",
       "topics": [
@@ -331,7 +331,7 @@
         "privilege-escalation"
       ],
       "teaser": "Demonstrates how red teams can weaponize Active Directory Group Policy Objects (GPOs) into a stealthy, native command-and-control infrastructure.",
-      "summary": "Active Directory as Centralized Infrastructure\n\nActive Directory (AD) is designed to coordinate and manage enterprise computers, users, and security settings across distributed corporate networks.\n\nWeaponizing Group Policy Objects for C2\n\nQuentin Roland and Wilfried B\u00e9card show how attackers who obtain GPO modification rights can repurpose Group Policy replication into a covert command-and-control mechanism that requires no external network connections.\n\nPersistence and Privilege Escalation Across Network Segments\n\nBy embedding scheduled tasks, script execution policies, and immediate task items within replicated GPO templates, operators distribute commands to thousands of domain-joined systems simultaneously.\n\nDetecting Malicious GPO Manipulation\n\nDefending Active Directory against GPO weaponization requires monitoring directory replication logs, enforcing tiered administration models, and auditing GPO permissions.",
+      "summary": "Active Directory as Centralized Infrastructure\n\nActive Directory (AD) is designed to coordinate and manage enterprise computers, users, and security settings across distributed corporate networks.\n\nWeaponizing Group Policy Objects for C2\n\nQuentin Roland and Wilfried Bécard show how attackers who obtain GPO modification rights can repurpose Group Policy replication into a covert command-and-control mechanism that requires no external network connections.\n\nPersistence and Privilege Escalation Across Network Segments\n\nBy embedding scheduled tasks, script execution policies, and immediate task items within replicated GPO templates, operators distribute commands to thousands of domain-joined systems simultaneously.\n\nDetecting Malicious GPO Manipulation\n\nDefending Active Directory against GPO weaponization requires monitoring directory replication logs, enforcing tiered administration models, and auditing GPO permissions.",
       "durationSeconds": 2585
     },
     {
@@ -340,8 +340,8 @@
       "title": "Exploiting Vulns in EV Charging Comms",
       "speakers": [
         "Jan Berens",
-        "Marcell Szak\u00e1ly",
-        "Sebastian K\u00f6hler"
+        "Marcell Szakály",
+        "Sebastian Köhler"
       ],
       "track": "hardware",
       "topics": [
@@ -352,7 +352,7 @@
         "vulnerability-research"
       ],
       "teaser": "Discloses vulnerabilities in QCA 7000 HomePlug modems used across CCS and NACS EV charging systems that enable communication hijacking and denial of service.",
-      "summary": "Power-Line Communication in EV Charging Infrastructure\n\nElectric Vehicle (EV) charging systems rely on Combined Charging System (CCS) and North American Charging Standard (NACS) protocols, which utilize HomePlug Green PHY power-line communication (PLC) for vehicle-to-grid data exchange.\n\nVulnerabilities in the QCA 7000 Modem Series\n\nJan Berens, Marcell Szak\u00e1ly, and Sebastian K\u00f6hler analyze the widely used Qualcomm QCA 7000 modem series, uncovering multiple critical vulnerabilities in PLC message processing and firmware execution.\n\nRemote Communication Hijacking and Denial of Service\n\nExploiting flaws in HomePlug link negotiation allows attackers to intercept charging session telemetry at a distance, inject spoofed control commands, or trigger persistent denial-of-service conditions that prevent vehicle charging.\n\nFirmware Reverse Engineering and Code Execution\n\nReverse engineering the QCA 7000 firmware revealed memory corruption vulnerabilities enabling arbitrary code execution on the modem hardware, highlighting urgent security needs across global EV charging infrastructure.",
+      "summary": "Power-Line Communication in EV Charging Infrastructure\n\nElectric Vehicle (EV) charging systems rely on Combined Charging System (CCS) and North American Charging Standard (NACS) protocols, which utilize HomePlug Green PHY power-line communication (PLC) for vehicle-to-grid data exchange.\n\nVulnerabilities in the QCA 7000 Modem Series\n\nJan Berens, Marcell Szakály, and Sebastian Köhler analyze the widely used Qualcomm QCA 7000 modem series, uncovering multiple critical vulnerabilities in PLC message processing and firmware execution.\n\nRemote Communication Hijacking and Denial of Service\n\nExploiting flaws in HomePlug link negotiation allows attackers to intercept charging session telemetry at a distance, inject spoofed control commands, or trigger persistent denial-of-service conditions that prevent vehicle charging.\n\nFirmware Reverse Engineering and Code Execution\n\nReverse engineering the QCA 7000 firmware revealed memory corruption vulnerabilities enabling arbitrary code execution on the modem hardware, highlighting urgent security needs across global EV charging infrastructure.",
       "durationSeconds": 3311
     },
     {
@@ -449,7 +449,7 @@
         "supply-chain"
       ],
       "teaser": "Details the security architecture and defensive engineering required to secure NVIDIA's transition of the Falcon microprocessor to RISC-V across billions of GPU cores.",
-      "summary": "Scaling Security Across Billion-Core Architectures\n\nNVIDIA's proprietary microprocessors control GPU hardware initialization, power management, and secure enclave isolation across billions of deployed chips worldwide.\n\nTransitioning Falcon to RISC-V Architecture\n\nAdam Zabrocki and Marko Mitic detail NVIDIA\u2019s multi-year engineering initiative transitioning internal Falcon microcontrollers to a hardened RISC-V architecture deployed at massive scale.\n\nHardware-Enforced Security and Cryptographic Boot\n\nSecuring custom silicon architectures requires hardware-enforced memory isolation, cryptographic boot verification, and real-time execution monitoring inside GPU firmware.\n\nLessons for Custom Silicon Security\n\nEngineering custom processor architectures at planetary scale requires integrating automated formal verification, hardware fuzzing, and resilient firmware update mechanisms.",
+      "summary": "Scaling Security Across Billion-Core Architectures\n\nNVIDIA's proprietary microprocessors control GPU hardware initialization, power management, and secure enclave isolation across billions of deployed chips worldwide.\n\nTransitioning Falcon to RISC-V Architecture\n\nAdam Zabrocki and Marko Mitic detail NVIDIA’s multi-year engineering initiative transitioning internal Falcon microcontrollers to a hardened RISC-V architecture deployed at massive scale.\n\nHardware-Enforced Security and Cryptographic Boot\n\nSecuring custom silicon architectures requires hardware-enforced memory isolation, cryptographic boot verification, and real-time execution monitoring inside GPU firmware.\n\nLessons for Custom Silicon Security\n\nEngineering custom processor architectures at planetary scale requires integrating automated formal verification, hardware fuzzing, and resilient firmware update mechanisms.",
       "durationSeconds": 2226
     },
     {
@@ -549,7 +549,7 @@
         "privilege-escalation"
       ],
       "teaser": "Demonstrates cross-tenant attacks and persistent firmware backdooring in major bare-metal cloud providers by exploiting legacy Baseboard Management Controllers.",
-      "summary": "Bare-Metal Cloud Architecture and Multi-Tenancy\n\nCloud providers offer bare-metal server instances granting customers dedicated access to physical server hardware. However, ensuring clean isolation between successive tenants requires complete hardware sanitization.\n\nBaseboard Management Controller (BMC) Vulnerabilities\n\nBill Demirkapi reveals critical firmware vulnerabilities in legacy BMC implementations (such as IPMI and proprietary management chips) that survive standard tenant de-provisioning workflows.\n\nCross-Tenant Persistence and Hypervisor Compromise\n\nAttackers who rent bare-metal instances can flash malicious BMC firmware implants that persist across customer re-provisioning, granting unauthorized access to the next tenant\u2019s memory, hypervisor, and data.\n\nSecuring Cloud Bare-Metal Provisioning\n\nHardening bare-metal clouds requires cloud operators to enforce cryptographic hardware root of trust, physically re-flash all microcontroller firmware between rentals, and isolate BMC networks.",
+      "summary": "Bare-Metal Cloud Architecture and Multi-Tenancy\n\nCloud providers offer bare-metal server instances granting customers dedicated access to physical server hardware. However, ensuring clean isolation between successive tenants requires complete hardware sanitization.\n\nBaseboard Management Controller (BMC) Vulnerabilities\n\nBill Demirkapi reveals critical firmware vulnerabilities in legacy BMC implementations (such as IPMI and proprietary management chips) that survive standard tenant de-provisioning workflows.\n\nCross-Tenant Persistence and Hypervisor Compromise\n\nAttackers who rent bare-metal instances can flash malicious BMC firmware implants that persist across customer re-provisioning, granting unauthorized access to the next tenant’s memory, hypervisor, and data.\n\nSecuring Cloud Bare-Metal Provisioning\n\nHardening bare-metal clouds requires cloud operators to enforce cryptographic hardware root of trust, physically re-flash all microcontroller firmware between rentals, and isolate BMC networks.",
       "durationSeconds": 2777
     },
     {
@@ -743,7 +743,7 @@
         "policy"
       ],
       "teaser": "Analyzes the technical architecture of Russia's TSPU deep packet inspection censorship firewall and presents novel evasion techniques for circumvention.",
-      "summary": "The Architecture of Sovereign Censorship Systems\n\nRussia's Technical Means of Countering Threats (TSPU) represents a centralized deep packet inspection (DPI) censorship system deployed across domestic Internet Service Providers to block independent media and secure protocols.\n\nReverse Engineering TSPU Filtering Mechanics\n\nBenjamin Mixon-Baca presents extensive empirical research analyzing how TSPU hardware parses SNI headers, inspects TLS handshakes, and executes active protocol throttling (such as Tor and WireGuard degradation).\n\nNovel Evasion and Circumvention Primitives\n\nResearchers demonstrate practical censorship circumvention techniques\u2014including TCP packet fragmentation, SNI padding, and transport layer obfuscation\u2014that bypass TSPU filtering.\n\nDigital Rights and Circumvention Resilience\n\nUnderstanding state censorship technology empowers digital rights organizations and software developers to engineer censorship-resistant communication tools for citizens living under digital repression.",
+      "summary": "The Architecture of Sovereign Censorship Systems\n\nRussia's Technical Means of Countering Threats (TSPU) represents a centralized deep packet inspection (DPI) censorship system deployed across domestic Internet Service Providers to block independent media and secure protocols.\n\nReverse Engineering TSPU Filtering Mechanics\n\nBenjamin Mixon-Baca presents extensive empirical research analyzing how TSPU hardware parses SNI headers, inspects TLS handshakes, and executes active protocol throttling (such as Tor and WireGuard degradation).\n\nNovel Evasion and Circumvention Primitives\n\nResearchers demonstrate practical censorship circumvention techniques—including TCP packet fragmentation, SNI padding, and transport layer obfuscation—that bypass TSPU filtering.\n\nDigital Rights and Circumvention Resilience\n\nUnderstanding state censorship technology empowers digital rights organizations and software developers to engineer censorship-resistant communication tools for citizens living under digital repression.",
       "durationSeconds": 2483
     },
     {
@@ -802,7 +802,7 @@
         "electronics"
       ],
       "teaser": "Introduces the first open-source, low-cost hackable quantum sensor using Nitrogen-Vacancy centers in diamond to explore quantum sensing applications.",
-      "summary": "Principles of Quantum Sensing and NV Centers\n\nQuantum sensing utilizes the quantum mechanical properties of matter\u2014such as Nitrogen-Vacancy (NV) centers in synthetic diamonds\u2014to measure magnetic fields, temperature, and RF radiation with extreme precision.\n\nDesigning an Open-Source Quantum Sensing Platform\n\nMark Carney and Victoria Kumaran present an open-source hardware design that combines green laser excitation, microwave RF manipulation, and optical photodiode readouts into an accessible, low-cost sensor.\n\nHacking and Calibrating Quantum Measurements\n\nResearchers demonstrate how to calibrate optically detected magnetic resonance (ODMR) spectra and interface the sensor with microcontrollers to measure minute electromagnetic variations.\n\nDemocratizing Quantum Hardware Research\n\nReleasing open hardware schematics and signal processing software enables makers, university researchers, and security practitioners to experiment with quantum sensing technology.",
+      "summary": "Principles of Quantum Sensing and NV Centers\n\nQuantum sensing utilizes the quantum mechanical properties of matter—such as Nitrogen-Vacancy (NV) centers in synthetic diamonds—to measure magnetic fields, temperature, and RF radiation with extreme precision.\n\nDesigning an Open-Source Quantum Sensing Platform\n\nMark Carney and Victoria Kumaran present an open-source hardware design that combines green laser excitation, microwave RF manipulation, and optical photodiode readouts into an accessible, low-cost sensor.\n\nHacking and Calibrating Quantum Measurements\n\nResearchers demonstrate how to calibrate optically detected magnetic resonance (ODMR) spectra and interface the sensor with microcontrollers to measure minute electromagnetic variations.\n\nDemocratizing Quantum Hardware Research\n\nReleasing open hardware schematics and signal processing software enables makers, university researchers, and security practitioners to experiment with quantum sensing technology.",
       "durationSeconds": 2623
     },
     {
@@ -844,7 +844,7 @@
         "hacker-history"
       ],
       "teaser": "DEF CON veterans and village organizers provide newcomers with essential survival tips, track navigation strategies, and advice for navigating the conference.",
-      "summary": null,
+      "summary": "In this essential orientation panel from the DEF CON 33 Main Stage, veteran organizers and Goons—including Alethe Denis, Nikita Kronenberg, Zziks, and Nicole Schwartz—present \"DC101,\" the definitive hacker survival guide for first-time attendees and returning veterans. Opening at 00:00, the panel introduces the sprawling scale of the convention and outlines strategies for navigating the event without burning out.\n\nAt 09:01, the speakers spotlight key conference accessibility and wellness spaces, highlighting the Chillout Room equipped with quiet seating, earplugs, and sensory toys designed to support neurodivergent attendees and offer respite from sensory overload. At 18:01, the panel reinforces the golden rules of convention health, famously reviewing the \"3-2-1 rule\"—requiring a minimum of three hours of sleep, two square meals, and one shower every day—while debunking the myth that liquid meal supplements are a substitute for proper nutrition and hydration.\n\nThe panel transitions to open Q&A at 27:00, advising attendees on using official scheduling apps, selecting village workshops, connecting with local DEF CON Groups, and building lifelong professional friendships across the global hacker community. (AI summary — Gemini Flash)",
       "durationSeconds": 2109
     },
     {
@@ -1515,7 +1515,7 @@
     {
       "youtubeId": "1uNneo9L_jU",
       "slug": "wheres-my-crypto-dude-the-ultimate-guide-to-crypto-money-launder",
-      "title": "Where\u2019s My Crypto, Dude? The Ultimate Guide to Crypto Money Laundering",
+      "title": "Where’s My Crypto, Dude? The Ultimate Guide to Crypto Money Laundering",
       "speakers": [
         "Thomas Roccia"
       ],
@@ -1778,7 +1778,7 @@
         "supply-chain"
       ],
       "teaser": "Demonstrates how adversaries exploit data voids in LLM training corpora and search indexes to manipulate Microsoft Copilot answers and inject untrusted content.",
-      "summary": "Data Voids in Large Language Model Retrieval\n\nGenerative AI assistants (such as Microsoft Copilot) rely on Retrieval-Augmented Generation (RAG) to supplement model knowledge with real-time web search results and corporate indexes.\n\nWeaponizing Data Voids and Knowledge Gaps\n\nTobias Diehl explains how attackers identify 'data voids'\u2014obscure search queries or emerging topics with minimal established web presence\u2014and populate them with malicious, SEO-optimized content.\n\nHijacking Copilot Responses and User Trust\n\nWhen users query Copilot about these niche topics, the RAG pipeline retrieves the attacker's malicious content, leading the AI assistant to deliver fraudulent instructions, hallucinated advice, or weaponized command-line snippets.\n\nDefending AI Retrieval Pipelines\n\nSecuring AI assistants requires search result source reputation scoring, domain verification, and strict contextual guardrails on retrieved RAG sources.",
+      "summary": "Data Voids in Large Language Model Retrieval\n\nGenerative AI assistants (such as Microsoft Copilot) rely on Retrieval-Augmented Generation (RAG) to supplement model knowledge with real-time web search results and corporate indexes.\n\nWeaponizing Data Voids and Knowledge Gaps\n\nTobias Diehl explains how attackers identify 'data voids'—obscure search queries or emerging topics with minimal established web presence—and populate them with malicious, SEO-optimized content.\n\nHijacking Copilot Responses and User Trust\n\nWhen users query Copilot about these niche topics, the RAG pipeline retrieves the attacker's malicious content, leading the AI assistant to deliver fraudulent instructions, hallucinated advice, or weaponized command-line snippets.\n\nDefending AI Retrieval Pipelines\n\nSecuring AI assistants requires search result source reputation scoring, domain verification, and strict contextual guardrails on retrieved RAG sources.",
       "durationSeconds": 1169
     },
     {

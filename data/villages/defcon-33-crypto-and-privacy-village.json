@@ -20,7 +20,7 @@
         "community"
       ],
       "teaser": "Psychoholics puzzle solvers share stories and insights from organizing and competing in DEF CON contests, CTFs, and escape rooms.",
-      "summary": null,
+      "summary": "In this engaging panel discussion from the DEF CON 33 Crypto & Privacy Village, the creators of the long-running Gold Bug cryptographic puzzle challenge gather to present \"Dissecting the Gold Bug.\" Opening at 00:00, the puzzle designers look back on years of crafting multi-stage cryptographic, steganographic, and lateral-thinking challenges for the DEF CON community.\n\nAt 13:00, the panelists break down rotating labyrinth ciphers and physical transpositions, detailing how participants had to trace complex rotational paths across diagrams to extract hidden cipher strings. At 26:00 and 39:00, the team explores the design of meta-puzzles, showing how disparate clue fragments from printed programs, badges, and visual artwork coalesce into unified decryption keys through character shifting and anagram manipulation.\n\nAt 52:01, the discussion details the scoring mechanics and acrostic validation techniques embedded in the contest scoreboard. The designers close by offering valuable advice to aspiring puzzle creators, emphasizing that the best security challenges balance mathematical rigor with storytelling and accessible entry points for newcomers. (AI summary — Gemini Flash)",
       "durationSeconds": 3227
     },
     {
@@ -64,7 +64,7 @@
     {
       "youtubeId": "C8F5kvm2B5s",
       "slug": "veilid-la-revolucion-your-data-is-yours-to-own",
-      "title": "Veilid la revoluci\u00f3n: Your Data Is Yours to Own",
+      "title": "Veilid la revolución: Your Data Is Yours to Own",
       "speakers": [
         "Katelyn Bowden",
         "Paul Miller"
@@ -155,7 +155,7 @@
         "compliance"
       ],
       "teaser": "Introduces the Quantum Readiness Assurance Maturity Model (QRAMM), an open-source framework assessing organizational agility for post-quantum migrations.",
-      "summary": "Navigating Post-Quantum Cryptographic Migration\n\nWith NIST finalizing post-quantum cryptography standards, enterprises face a massive operational challenge in transitioning legacy encryption, digital signatures, and key exchange protocols to quantum-resistant alternatives.\n\nThe Quantum Readiness Assurance Maturity Model (QRAMM)\n\nEmily Fane and Abdel Sy Fane introduce QRAMM, an open-source framework designed to help organizations assess their post-quantum readiness across four core dimensions: cryptographic visibility, data protection, technical implementation, and governance.\n\nAchieving Cryptographic Agility\n\nQRAMM emphasizes cryptographic agility\u2014the architectural ability to swap cryptographic algorithms and certificate structures seamlessly without re-engineering underlying software applications.\n\nPractical Roadmap for Enterprise Adoption\n\nImplementing QRAMM provides structured maturity roadmaps, risk assessment metrics, and compliance guidelines to help security leaders navigate post-quantum migration deadlines.",
+      "summary": "Navigating Post-Quantum Cryptographic Migration\n\nWith NIST finalizing post-quantum cryptography standards, enterprises face a massive operational challenge in transitioning legacy encryption, digital signatures, and key exchange protocols to quantum-resistant alternatives.\n\nThe Quantum Readiness Assurance Maturity Model (QRAMM)\n\nEmily Fane and Abdel Sy Fane introduce QRAMM, an open-source framework designed to help organizations assess their post-quantum readiness across four core dimensions: cryptographic visibility, data protection, technical implementation, and governance.\n\nAchieving Cryptographic Agility\n\nQRAMM emphasizes cryptographic agility—the architectural ability to swap cryptographic algorithms and certificate structures seamlessly without re-engineering underlying software applications.\n\nPractical Roadmap for Enterprise Adoption\n\nImplementing QRAMM provides structured maturity roadmaps, risk assessment metrics, and compliance guidelines to help security leaders navigate post-quantum migration deadlines.",
       "durationSeconds": 1350
     }
   ]

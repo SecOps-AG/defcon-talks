@@ -41,7 +41,7 @@
         "keynote"
       ],
       "teaser": "An extended conversation with conference founder The Dark Tangent, reflecting on the evolution of DEF CON, hacker ethos, and the wider security community.",
-      "summary": null,
+      "summary": "In this candid and nostalgic conversation from DEF CON 33, conference founder The Dark Tangent (Jeff Moss) reflects on more than three decades of guiding the evolution of the global hacker community. Opening at 00:00, Jeff shares lighthearted reflections on the convention's enduring spirit and the logistical challenges of managing an ever-growing international event.\n\nAt 06:00, Jeff explores the core philosophical mindset of hackers, explaining that the most capable researchers and innovators are those who openly embrace failure as an indispensable component of curiosity and hands-on learning. At 12:00, he reflects on the generational maturation of the community, noting the rise of family-friendly tracks and educational youth workshops designed to nurture future technologists.\n\nAddressing the balance between security conferences at 18:01 and 24:01, Jeff contrasts the commercial, enterprise focus of Black Hat with the independent, rebellious, and community-driven ethos of DEF CON. He concludes by emphasizing the imperative of protecting an uncensored, open platform where practitioners can freely challenge complex systems and share breakthrough technical knowledge. (AI summary — Gemini Flash)",
       "durationSeconds": 1546
     },
     {
@@ -112,7 +112,7 @@
         "rf"
       ],
       "teaser": "Lucas and Dan from Ham Radio Village discuss off-grid communications, LoRa packet meshes, and Meshtastic deployments across DEF CON 33.",
-      "summary": null,
+      "summary": "In this hardware spotlight from the DEF CON 33 Ham Radio Village, volunteer organizers Lucas and Dan demonstrate portable off-grid communications technology powered by Meshtastic. Opening at 00:00, Dan introduces the Station G2 node, a high-power transceiver capable of outputting up to four watts of RF power to establish robust ad-hoc LoRa mesh networks.\n\nAt 00:25, Lucas demonstrates custom 3D-printed modular backpack cases engineered specifically to house Meshtastic transceivers, high-gain antennas, and rechargeable battery packs. The presenters explain how these wearable mesh nodes enable attendees to relay encrypted peer-to-peer text messages and location telemetry across convention venues completely independent of cellular networks and commercial internet infrastructure. (AI summary — Gemini Flash)",
       "durationSeconds": 50
     },
     {
@@ -178,7 +178,7 @@
         "access-control"
       ],
       "teaser": "A walkthrough of the Physical Security Village, featuring lockpicking stations, safe manipulation, and physical access control evaluations.",
-      "summary": null,
+      "summary": "In this on-the-floor walkthrough from DEF CON 33, organizers welcome attendees to the Physical Security Village and introduce the wide array of hands-on non-destructive entry exercises available throughout the weekend. Opening at 00:00, the host clarifies that the village focuses specifically on physical bypass methodologies that circumvent access controls without manipulating internal lock cylinders.\n\nAt 00:20, the walkthrough highlights practical training stations demonstrating latch slipping, door shimming, J-tool manipulation, and under-door tool deployments against standard commercial crash bars and egress hardware. The organizers emphasize how real-world building security often fails due to improper installation tolerances and architectural misconfigurations, providing attendees with practical insights to audit and remediate physical entry vulnerabilities in their own facilities. (AI summary — Gemini Flash)",
       "durationSeconds": 47
     },
     {
@@ -252,7 +252,7 @@
         "ai-security"
       ],
       "teaser": "Silk sits down with Team Lacrosse to explore their autonomous software analysis architecture and strategies during the AIxCC competition.",
-      "summary": null,
+      "summary": "In this behind-the-scenes interview from DEF CON 33, members of Team Lacrosse discuss their journey competing in the DARPA AI Cyber Challenge (AIxCC). Opening at 00:00, the team describes the engineering complexity of building automated Cyber Reasoning Systems (CRS) capable of autonomously discovering, validating, and patching zero-day vulnerabilities in critical open-source software libraries.\n\nAt 04:01, the team members detail their architectural division of labor, explaining how their pipeline integrates fuzzing harnesses, static analysis engines, and large language models into a unified vulnerability triage pipeline. At 08:00, they analyze the role of open-source static analysis frameworks compared to commercial scanners, evaluating tool accuracy and false positive rates under tight competition time constraints.\n\nAt 12:00, the team offers candid insights into integrating generative AI into automated cyber defense. They compare modern LLMs to enthusiastic junior interns, observing that while models excel at generating plausible patch candidates, they require rigorous automated verification and regression testing harnesses to catch hallucinated code and avoid introducing new vulnerabilities into production systems. (AI summary — Gemini Flash)",
       "durationSeconds": 954
     },
     {
