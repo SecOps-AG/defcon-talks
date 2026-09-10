@@ -38,7 +38,7 @@
         "tooling"
       ],
       "teaser": "Introductory guide to car hacking techniques, tools, and methodology.",
-      "summary": "Vehicle security: So You Want To Hack A Car. Car hacking techniques and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Vehicle security: So You Want To Hack A Car. Car hacking techniques and vulnerabilities.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 723
     },
     {
@@ -76,7 +76,7 @@
         "wireless-exploitation"
       ],
       "teaser": "SMS-based remote control of vehicle infotainment systems and malware delivery.",
-      "summary": "Vehicle security: Meet Salinas: 1st SMS-commanded Car Infotainment RAT. Car hacking techniques and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Vehicle security: Meet Salinas: 1st SMS-commanded Car Infotainment RAT. Car hacking techniques and vulnerabilities.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3660
     },
     {
@@ -95,7 +95,7 @@
         "incident-response"
       ],
       "teaser": "Forensic evidence collection and liability assessment from automotive safety systems.",
-      "summary": null,
+      "summary": "### Forensic Analysis of Automotive Driving Aids\nAt 00:00, automotive and SCADA security researcher Vlad examines the forensic and liability challenges surrounding Advanced Driver Assistance Systems (ADAS) and semi-autonomous automotive platforms.\n\n### Sensor Malfunctions and Control Unit Segfaults\nAt 04:00, Vlad explores failure states in automotive computer systems. He details how malformed CAN bus frames or unhandled sensor edge cases can trigger segmentation faults or freeze driver-assist microcontrollers, preventing safety systems from executing timely steering or braking corrections.\n\n### Deconstructing Event Data Recorders (EDRs)\nAt 08:03, the presentation analyzes the vehicle \"black box,\" formally known as the Event Data Recorder (EDR). Vlad explains the trigger algorithms that initiate recording, data write cycles to non-volatile EEPROM, and the physical protections designed to survive high-impact collisions.\n\n### Overcoming Data Extraction and Integrity Hurdles\nAt 12:03, Vlad highlights forensic extraction pitfalls. Connecting standard diagnostic tools through the OBD-II port can inadvertently alter volatile memory registers or induce state changes. He demonstrates non-invasive chip-off extraction and direct EEPROM probing techniques that preserve chain-of-custody and evidence integrity.\n\n### Telemetry Reconstruction in Collision Inquiries\nConcluding between 16:00 and 20:08, the speaker demonstrates accident reconstruction methodologies. By synchronizing steering angle logs, throttle position sensors, and autonomous emergency braking (AEB) timestamps, forensic investigators can determine whether a collision resulted from driver negligence or autonomous system failure.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1370
     },
     {
@@ -169,7 +169,7 @@
         "connected-vehicles"
       ],
       "teaser": "Detection and prevention of malicious behavior in vehicle-to-everything networks.",
-      "summary": null,
+      "summary": "### Threat Modeling in Connected Vehicle Networks\nAt 00:00, automotive researcher Ben presents research on misbehavior detection across Vehicle-to-Everything (V2X) communication architectures, focusing on wireless security in cooperative intelligent transportation systems.\n\n### Attack Vectors Against Basic Safety Messages (BSMs)\nAt 10:03, Ben outlines adversarial attack vectors targeting V2X networks. Malicious actors or compromised vehicles can broadcast falsified Basic Safety Messages (BSMs)—injecting \"ghost vehicles,\" spoofing sudden deceleration alerts, or falsifying GPS coordinates to trigger phantom braking across traffic fleets.\n\n### Kinematic Verification and Sensor Fusion Cross-Checks\nAt 20:00, the speaker details kinematic plausibility checks. Rather than blindly trusting cryptographically signed V2X broadcasts, vehicles must cross-examine broadcast telemetry against physical laws of motion and onboard sensor fusion (radar, LiDAR, and cameras) to detect impossible trajectories.\n\n### The Paradox of Anonymity and Certificate Revocation\nAt 30:00, Ben examines the tension between driver privacy and accountability. To prevent pervasive location tracking, V2X standards mandate rotating anonymous pseudonyms; however, tracking and revoking malicious transmitters across hundreds of changing pseudonyms requires complex Pseudonym Certificate Authority (PCA) revocation structures.\n\n### Distributed Consensus and Misbehavior Reporting\nConcluding between 40:01 and 50:00, the presentation details distributed anomaly detection. By aggregating overlapping observations from neighboring vehicles, the network can reach consensus on misbehaving nodes, transmitting misbehavior reports (MBRs) to authorities to update Certificate Revocation Lists (CRLs).\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3140
     },
     {
