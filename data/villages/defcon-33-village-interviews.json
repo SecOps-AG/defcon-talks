@@ -328,7 +328,7 @@
         "career"
       ],
       "teaser": "Helvetigoth interviews first-time speaker Andra Lezza on CFP preparation, stage delivery, and presenting technical research at DEF CON.",
-      "summary": null,
+      "summary": "In this insightful interview from DEF CON 33, host Hal Vetagoth sits down with application security and AI researcher Andra Lezza to discuss her work securing modern artificial intelligence systems. Opening at 00:00, Andra introduces her talk on securing autonomous AI agents and multi-agent workflows (MTP security), outlining critical threat modeling principles, supply-chain protections, and architectural guardrails required when deploying autonomous agents in production environments.\n\nAt 01:02, Andra explores the steep learning curve in AI security, candidly reflecting on the balance between industry hype and genuine security concerns. She contrasts the enormous scale of DEF CON in Las Vegas—with massive crowds spanning casino convention centers—against European cybersecurity conferences.\n\nAt 02:00, she previews an encore presentation at the AppSec Village focusing on securing complex multi-agent architectures. Closing at 03:02, Andra reflects warmly on her first DEF CON experience connecting with the OWASP community, praising the friendly, supportive, and collaborative ethos that defines the convention. (AI summary — Gemini Flash)",
       "durationSeconds": 223
     },
     {
@@ -404,7 +404,7 @@
         "hacker-culture"
       ],
       "teaser": "Shepard and Panda join Silk to share the origins, history, and community camaraderie behind the unofficial DEF CON morning run.",
-      "summary": null,
+      "summary": "In this high-spirited community feature from DEF CON 33, host Hal Vetagoth chats with Shepard and Panda about the enduring hacker tradition of morning distance running down the Las Vegas Strip. Opening at 00:00, the guests describe running through the desert heat and detail the various organized running routes, including an ambitious run that visits every historic hotel venue that has hosted DEF CON since its inception.\n\nAt 01:02, Shepard and Panda explain how online connections in infosec Discord servers blossomed into annual real-life traditions, bringing together remote friends to share a house and experience DEF CON in person each year.\n\nClosing at 02:03, the runners share their conference highlights, celebrating how the welcoming convention atmosphere allows natural introverts to feel comfortable socializing. They highlight discovering unexpected domains like hardware hacking and competing late into the night in intense capture-the-flag competitions. (AI summary — Gemini Flash)",
       "durationSeconds": 176
     },
     {
@@ -476,7 +476,7 @@
         "badgelife"
       ],
       "teaser": "Artist and hardware designer Mar Williams discusses creating the official DEF CON 33 electronic badge and convention visual artwork.",
-      "summary": null,
+      "summary": "In this creative interview from DEF CON 33, host Dreadwear talks with multidisciplinary artist, illustrator, and electronic badge designer Mar Williams. Opening at 00:00, Mar reflects on their creative journey with the conference, having contributed murals, illustrations, and visual design to the DEF CON community since DEF CON 17.\n\nAt 02:00, Mar dives into the artistic process of designing official electronic badges, explaining how printed circuit boards can be treated as functional canvases for decorative art. They share how they drew inspiration from Victorian ornamental motifs and historic pattern books to create intricate PCB traces and silkscreen artwork.\n\nAt 04:01, Mar emphasizes the conscious decision to avoid conventional hacker imagery—such as skulls, masks, and terminal green—in favor of timeless, ornate aesthetics. Concluding at 06:00 and 08:00, Mar offers practical advice for artists seeking to collaborate with technical communities, encouraging creators to blend fine art traditions with embedded hardware engineering. (AI summary — Gemini Flash)",
       "durationSeconds": 585
     },
     {
@@ -544,7 +544,7 @@
         "plc-security"
       ],
       "teaser": "An introduction to the RedAlert ICS CTF, pitting competitors against simulated critical infrastructure networks and industrial controllers.",
-      "summary": null,
+      "summary": "In this competition dispatch from DEF CON 33, team organizer Winter introduces the RedAlert ICS CTF, an industrial cybersecurity challenge designed by an international team from South Korea and Singapore. Opening at 00:01, Winter highlights the team's distinguished pedigree as three-time Black Badge winners and previews their largest competition environment to date.\n\nWinter explains that the CTF features realistic operational technology (OT) testbeds and hardware-in-the-loop simulations, modeling real-world critical infrastructure environments including smart cities, nuclear facilities, electrical power grids, and maritime control networks.\n\nConcluding at 01:00, Winter emphasizes accessibility, noting that alongside advanced ICS protocol challenges, the tournament provides beginner-friendly entry tracks and interactive educational games to help newcomers learn industrial control system security. (AI summary — Gemini Flash)",
       "durationSeconds": 87
     },
     {
@@ -610,7 +610,7 @@
         "hacker-culture"
       ],
       "teaser": "Contest runner Tiberius provides an operational update on official DEF CON 33 contests, scoring protocols, and participant challenges.",
-      "summary": null,
+      "summary": "In this lively update from the DEF CON 33 floor, host Dreadwear catches up with contest organizer Tiberius to discuss the diverse array of competitive events and stage games scheduled across the weekend. Opening at 00:00, Tiberius introduces his software trivia show titled \"Man Pages,\" designed to test contestants' recall of obscure command-line flags and Unix documentation lore.\n\nAt 02:01, Tiberius details the walk-up competition format, explaining that attendees can assemble impromptu teams on the spot to compete for prizes.\n\nAt 04:03, he highlights community-sourced trivia challenges created from three months of pre-conference community surveys, offering an entertaining, inclusive contest experience that welcomes hackers of all backgrounds to test their knowledge. (AI summary — Gemini Flash)",
       "durationSeconds": 360
     },
     {
