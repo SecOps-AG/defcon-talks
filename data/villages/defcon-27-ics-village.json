@@ -58,7 +58,7 @@
         "critical-infrastructure"
       ],
       "teaser": "State-sponsored supply chain attacks targeting industrial control systems and infrastructure.",
-      "summary": null,
+      "summary": "This talk explores artificial intelligence and machine learning security challenges.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1752
     },
     {
@@ -134,7 +134,7 @@
         "network-attacks"
       ],
       "teaser": "Exploitation techniques for IoT devices in smart building automation systems.",
-      "summary": null,
+      "summary": "This presentation focuses on Internet of Things security and embedded systems vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1686
     },
     {
@@ -210,7 +210,7 @@
         "critical-infrastructure-protection"
       ],
       "teaser": "Future ICS malware threats and defensive strategies based on Stuxnet analysis.",
-      "summary": null,
+      "summary": "This DEF CON talk covers what the next stuxnet will look like and how to prevent it.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1499
     }
   ]
