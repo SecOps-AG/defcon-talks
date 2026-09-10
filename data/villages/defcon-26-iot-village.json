@@ -21,7 +21,7 @@
         "vulnerability-research"
       ],
       "teaser": "There are advancements made on a daily basis, with regards to medical implantable devices. These devices offer life extensions when organic systems fail. Are these systems secured? There are shocking amounts of vulner...",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2489
     },
     {
@@ -94,7 +94,7 @@
         "smart-home"
       ],
       "teaser": "In the home IoT service, the IoT hub is an important device that links users and various things in the house.",
-      "summary": null,
+      "summary": "IoT Security and Embedded Systems\n\nThis presentation covers security challenges in Internet of Things devices and embedded systems. Topics include firmware vulnerabilities, network protocol weaknesses, hardware hacking techniques, and exploitation methods for smart devices, sensors, and connected hardware.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2098
     },
     {
@@ -169,7 +169,7 @@
         "vulnerability-research"
       ],
       "teaser": "In 2017, I discovered that a popular IP-based door access control system (badge reader and door lock controller) used poorly-implemented cryptography. Through binary analysis and live testing against a functional devi...",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2292
     },
     {
