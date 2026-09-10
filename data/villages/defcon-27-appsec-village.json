@@ -78,7 +78,7 @@
         "vulnerability-research"
       ],
       "teaser": "Keynote The Unabridged History of Application Security",
-      "summary": null,
+      "summary": "### Three Decades of Application Security Evolution\nAt 00:00, veteran application security educator Jim Manico delivers the inaugural keynote for the DEF CON 27 AppSec Village, chronicling thirty years of web application vulnerabilities, defensive frameworks, and cryptographic standards.\n\n### The History of Web Encryption and Certificate Auditing\nAt 11:02, Manico traces the development of transport layer security from early Netscape SSL protocols to modern TLS 1.3. He highlights the 2009 launch of Qualys SSL Labs as a transformative milestone that automated cipher suite evaluation and forced enterprise web servers to eliminate legacy insecure configurations.\n\n### Open-Source Foundations: OWASP, ModSecurity, and ZAP\nAt 22:02, the speaker explores the rise of open-source defensive initiatives. He reviews the 2001 founding of OWASP, the impact of the OWASP Top 10 awareness standard, the integration of the ModSecurity Core Rule Set into web application firewalls, and the maturation of Zed Attack Proxy (ZAP) into a professional auditing platform.\n\n### Moving Beyond the \"Pen Test and Pray\" Paradigm\nAt 33:02 and 44:00, Manico critiques reactive security testing. Traditional models that rely solely on annual penetration tests fail to secure modern continuous deployment pipelines. He illustrates how modern application frameworks (such as React, Angular, and Spring) fundamentally hardened security by implementing context-aware output encoding and parameterized queries by default.\n\n### Empowering Developers as Primary Defenders\nConcluding at 55:02, Manico delivers an impassioned appeal for developer education. Organizations must move beyond blaming software developers for bugs; sustainable security requires investing in continuous secure coding training and embedding automated guardrails directly into developer IDEs and CI/CD pipelines.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3362
     },
     {
@@ -154,7 +154,7 @@
         "vulnerability-research"
       ],
       "teaser": "Welcome and Introductions",
-      "summary": null,
+      "summary": "### Launching the Inaugural AppSec Village\nAt 00:00, Erez Yalon takes the podium to open the first-ever AppSec Village at DEF CON 27, welcoming software engineers, penetration testers, and security researchers to a dedicated community space focused on application layer security.\n\n### Community Origins and Volunteer Recognition\nAt 01:00, Yalon acknowledges the core organizing committee and volunteer staff, commending their months of grassroots effort in designing village infrastructure, curating technical presentations, and constructing interactive security labs.\n\n### Bridging the Gap Between Builders and Breakers\nThe introductory remarks articulate the core mission of the AppSec Village: dismantling historical barriers between offensive hackers and software developers. The village emphasizes collaborative defense, secure architectural design, and practical software engineering.\n\n### Overview of Village Tracks and Practical Labs\nConcluding the opening address, Yalon previews the weekend's interactive programming, including threat modeling workshops, secure code review tournaments, and live secure development demonstrations, before introducing the opening keynote speaker.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 98
     }
   ]
