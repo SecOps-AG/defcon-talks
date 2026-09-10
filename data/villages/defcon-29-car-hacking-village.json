@@ -97,7 +97,7 @@
         "hardware"
       ],
       "teaser": "Samir Bhagwat delivers an overview of automated fuzzing techniques for CAN and CAN FD electronic control units and in-vehicle networks.",
-      "summary": null,
+      "summary": "This DEF CON talk covers fuzzing can & can fd ecus and networks.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2420
     },
     {

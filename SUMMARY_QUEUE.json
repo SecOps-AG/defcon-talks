@@ -1041,7 +1041,7 @@
       "youtubeId": "xo_iUfbCyN4",
       "title": "War Never Changes Attacks Against WPA3s Enhanced Open",
       "slug": "s0lst1c3-war-never-changes-attacks-against-wpa3s-enhanced-open",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-wireless-village.json",
@@ -1049,7 +1049,7 @@
       "youtubeId": "gj6DnxkjuIM",
       "title": "Introducing new Hak5 gear",
       "slug": "hak5crew-introducing-new-hak5-gear",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-wireless-village.json",
@@ -1057,7 +1057,7 @@
       "youtubeId": "tfF9sCr9Cec",
       "title": "edu driving",
       "slug": "besim-altinok-edu-driving",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-adversary-village.json",
@@ -1065,7 +1065,7 @@
       "youtubeId": "kdSFjjPZFpo",
       "title": "Adversary Village Kick-Off",
       "slug": "abhijith-b-r",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-blockchain-village.json",
@@ -1073,7 +1073,7 @@
       "youtubeId": "tyrGSQmJ-gk",
       "title": "Ethereum Hacks & How to Stop Them: OpenZeppelin Defender",
       "slug": "michael-lewellen-ethereum-hacks-and-how-to-stop-them",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-car-hacking-village.json",
@@ -1081,7 +1081,7 @@
       "youtubeId": "IMZ8DD4lTAY",
       "title": "Fuzzing CAN & CAN FD ECUs and Networks",
       "slug": "samir-bhagwat-fuzzing-can-can-fd-ecus-and-network",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-ham-radio-village.json",
@@ -1089,7 +1089,7 @@
       "youtubeId": "fH-yyTZffAk",
       "title": "Spectrum Coordination for Amateur Radio",
       "slug": "bryan-fields-spectrum-coordination-for-amateur-radio",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-ham-radio-village.json",
@@ -1097,7 +1097,7 @@
       "youtubeId": "9opTlr5TPsA",
       "title": "Amateur Radio Mesh Networking",
       "slug": "tyler-gardner",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-ics-village.json",
@@ -1105,7 +1105,7 @@
       "youtubeId": "QL_sZvwS7-w",
       "title": "ICS Village Opening and Introduction",
       "slug": "opening-and-introduction",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-live-presentations.json",
@@ -1113,7 +1113,7 @@
       "youtubeId": "BWXAmImiNZA",
       "title": "Community Panel: DEF CON 102 (Live)",
       "slug": "the-dark-tangent-panel-def-con-102",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-29-payment-village.json",

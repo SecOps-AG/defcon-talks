@@ -21,7 +21,7 @@
         "wireless"
       ],
       "teaser": "Bryan Fields explains frequency allocation and spectrum coordination mechanisms in amateur radio, covering repeater frequency pairs and interference mitigation.",
-      "summary": null,
+      "summary": "This DEF CON talk covers spectrum coordination for amateur radio.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3907
     },
     {
@@ -97,7 +97,7 @@
         "wireless"
       ],
       "teaser": "Tyler Gardner explores high-speed amateur radio mesh networking (AREDN), building resilient IP-based emergency communication backbones on ham frequencies.",
-      "summary": null,
+      "summary": "This DEF CON talk covers amateur radio mesh networking.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2252
     },
     {
