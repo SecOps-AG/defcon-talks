@@ -53,7 +53,7 @@
         "regulatory-framework"
       ],
       "teaser": "Keynote from Senator Ron Wyden on election security policy and national security implications.",
-      "summary": null,
+      "summary": "This DEF CON talk covers ron wyden - keynote remarks from senator ron wyden.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1900
     },
     {
@@ -121,7 +121,7 @@
         "governance"
       ],
       "teaser": "Coordinated vulnerability disclosure and software bill of materials for election technology governance.",
-      "summary": null,
+      "summary": "This presentation covers wireless security, network analysis, and radio frequency hacking techniques.\n\nKey topics discussed include: Kind: captions Language: en all<00:00:00. 420><c> right</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1726
     },
     {
@@ -189,7 +189,7 @@
         "best-practices"
       ],
       "teaser": "Key lessons from DEF CON Voting Village research and election security discoveries.",
-      "summary": null,
+      "summary": "This DEF CON talk covers jake braun - lessons learned def con voting village.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2170
     },
     {
@@ -257,7 +257,7 @@
         "threat-analysis"
       ],
       "teaser": "Jack Cable Bootstrapping Vulnerability Disclosure For Election Systems - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "This talk covers exploitation techniques and vulnerability analysis in computer systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1477
     },
     {
@@ -325,7 +325,7 @@
         "threat-analysis"
       ],
       "teaser": "Chris Krebs Chris Krebs - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "This DEF CON talk covers chris krebs - chris krebs.\n\nKey topics discussed include: Kind: captions Language: en and<00:00:00. 140><c> next</c><00:00:01.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 855
     },
     {
@@ -393,7 +393,7 @@
         "threat-analysis"
       ],
       "teaser": "Brian Varner Beyond the Voting Machine Other High Value Targets - election security and voting system protection strategies.",
-      "summary": null,
+      "summary": "This DEF CON talk covers brian varner - beyond the voting machine other high value targets.\n\nKey topics discussed include: Kind: captions Language: en hi<00:00:00. 210><c> everybody</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1388
     }
   ]

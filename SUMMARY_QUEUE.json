@@ -961,7 +961,7 @@
       "youtubeId": "4EkXYD76Quk",
       "title": "Infotainment Hacking - DEF CON 27 Car Hacking Village",
       "slug": "neiko-rivera-infotainment-hacking-def-con-27-car-hacking-village",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-transporthax.json",
@@ -969,7 +969,7 @@
       "youtubeId": "nb1v8MrV9tM",
       "title": "Reverse Engineering and Flashing ECU Firmware Updates - DEF CON 27 Car Hacking Village",
       "slug": "greg-hogan-reverse-engineering-and-flashing-ecu-firmware-updates",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-transporthax.json",
@@ -977,7 +977,7 @@
       "youtubeId": "WonKnDVpmQ8",
       "title": "Opening Remarks - DEF CON 27 Hack the Sea Village",
       "slug": "brian-satira-opening-remarks-def-con-27-hack-the-sea-village",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-transporthax.json",
@@ -985,7 +985,7 @@
       "youtubeId": "vt2t75RoCDY",
       "title": "Yacht Hacking from SatCOM to engine control - DEF CON 27 Hack the Sea Village",
       "slug": "stephan-gerling-yacht-hacking-from-satcom-to-engine-control-def",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-voting-village.json",
@@ -993,7 +993,7 @@
       "youtubeId": "ishV9waHqAg",
       "title": "Ron Wyden - Keynote Remarks from Senator Ron Wyden",
       "slug": "ron-wyden-keynote-remarks-from-senator-ron-wyden",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-voting-village.json",
@@ -1001,7 +1001,7 @@
       "youtubeId": "Hk2wZX3O9Oc",
       "title": "Kate Trimble - Ideas Whose Time Has Come CVD SBOM and SOTA",
       "slug": "kate-trimble-ideas-whose-time-has-come-cvd-sbom-and-sota",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-voting-village.json",
@@ -1009,7 +1009,7 @@
       "youtubeId": "QH8AmNM48bw",
       "title": "Jake Braun - Lessons Learned DEF CON Voting Village",
       "slug": "jake-braun-lessons-learned-def-con-voting-village",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-voting-village.json",
@@ -1017,7 +1017,7 @@
       "youtubeId": "zHJYwjyFfmU",
       "title": "Jack Cable - Bootstrapping Vulnerability Disclosure For Election Systems",
       "slug": "jack-cable-bootstrapping-vulnerability-disclosure-for-election-s",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-voting-village.json",
@@ -1025,7 +1025,7 @@
       "youtubeId": "pFLW2uFu5zk",
       "title": "Chris Krebs - Chris Krebs",
       "slug": "chris-krebs-chris-krebs",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-voting-village.json",
@@ -1033,7 +1033,7 @@
       "youtubeId": "6-gHzUenJ5Y",
       "title": "Brian Varner - Beyond the Voting Machine Other High Value Targets",
       "slug": "brian-varner-beyond-the-voting-machine-other-high-value-targets",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-wireless-village.json",
