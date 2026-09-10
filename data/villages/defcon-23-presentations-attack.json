@@ -172,7 +172,7 @@
         "red-team"
       ],
       "teaser": "RFIDiggity: Guide to Hacking HF NFC & UHF RFID",
-      "summary": null,
+      "summary": "RFID and NFC Security Analysis\n\nThis talk focuses on radio frequency identification and near-field communication technologies. The presentation covers vulnerabilities in RFID systems, NFC devices, and techniques for analyzing and hacking HF/UHF RFID systems.\n\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3246
     },
     {
