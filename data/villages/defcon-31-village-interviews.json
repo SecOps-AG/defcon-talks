@@ -50,7 +50,7 @@
         "community"
       ],
       "teaser": "A tour of the Car Hacking Village at DEF CON 31 featuring vehicle test benches, instrument cluster analysis, and automotive security research.",
-      "summary": null,
+      "summary": "Justin from the Car Hacking Village provides a fast-paced overview of the hands-on automotive research stations and activities featured at DEF CON 31.\n\nThe interview highlights the village's open hacking benches, where attendees can directly interface with real automotive ECUs, instrument clusters, and CAN bus networks. Justin invites participants to learn vehicle bus diagnostic protocols, test their skills against beginner and advanced CTF challenges, and collaborate with automotive security researchers.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 29
     },
     {
@@ -117,7 +117,7 @@
         "community"
       ],
       "teaser": "Silk interviews the HackerBoxes team at DEF CON 31 discussing DIY hardware kits, electronics education, and hands-on component tinkering.",
-      "summary": null,
+      "summary": "Silk interviews the creators of HackerBoxes in the bustling DEF CON 31 vendor hall, exploring how their hands-on subscription hardware kits foster practical electronics and cybersecurity skills.\n\n[00:48] The creators showcase popular hardware builds, including portable wardriving platforms designed for Wi-Fi geolocation mapping, custom radio frequency transceivers, and electronic polygraph circuits [01:32]. They discuss how hands-on assembly, soldering, and microcontroller programming help newcomers and security professionals build foundational hardware skills that set them apart in technical interviews and penetration testing careers.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 129
     },
     {
