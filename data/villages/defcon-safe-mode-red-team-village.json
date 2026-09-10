@@ -1441,7 +1441,7 @@
         "community"
       ],
       "teaser": "Have my keys been pwned? - API Edition.",
-      "summary": null,
+      "summary": "Jose Hernandez and Rod Soto explore the proliferation of compromised API keys and secrets across modern software delivery pipelines and public repositories. They investigate the root causes behind credential leakage, illustrating the gap between rapid software development cycles and centralized security governance.\n\nThe speakers walk through threat modeling for API-driven architectures at 03:05, examining how keys get inadvertently committed to source control or bundled inside compiled client binaries (05:54). At 09:05 and 11:58, they demonstrate automated secrets scanning tools, continuous detection methodologies, privilege scoping, and effective API key rotation workflows to neutralize exposed credentials before attackers can abuse them.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2588
     },
     {
@@ -1510,7 +1510,7 @@
         "community"
       ],
       "teaser": "Securing AND Pentesting the Great Spaghetti Monster (k8s).",
-      "summary": null,
+      "summary": "Kat Fitzgerald provides a comprehensive guide to auditing, pentesting, and hardening Kubernetes clusters. Demystifying the complex multi-layered architecture often termed the \"spaghetti monster,\" she highlights how standard default configurations frequently introduce critical security exposures.\n\nFitzgerald analyzes container misconfigurations and common cluster breach vectors at 06:38, explaining Kubernetes namespaces and isolation boundaries at 10:06. At 13:46 and 17:21, she explores node security, guest operating system escapes, insecure kubelet endpoints, and excessive ClusterRoleBindings. She outlines practical testing workflows to discover privilege escalation paths and recommends foundational defensive baselines, including pod security admission controllers and network segmentation policies.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3150
     },
     {
@@ -1578,7 +1578,7 @@
         "community"
       ],
       "teaser": "Total E(A)gression.",
-      "summary": null,
+      "summary": "Alvaro Rueda explores red team egress techniques and data exfiltration strategies designed to evade strict network egress filtering and modern defensive monitoring. He demonstrates how red team operators can establish resilient command-and-control (C2) communications and transfer data out of heavily locked-down enterprise networks.\n\nAt 02:43 and 04:07, Rueda analyzes common egress firewall rules and blue team intrusion detection signatures deployed at enterprise boundaries. He demonstrates deploying customized exfiltration payloads that mimic legitimate application traffic, leveraging HTTPS tunneling (06:51) and blending beaconing intervals with ordinary background network behavior to bypass proxy inspections and egress restrictions undetected.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1350
     },
     {
@@ -1646,7 +1646,7 @@
         "community"
       ],
       "teaser": "The Art of Balancing: A Burnout Talk.",
-      "summary": null,
+      "summary": "Chloe Messdaghi addresses the critical yet frequently overlooked crisis of mental health and burnout across the cybersecurity and hacking communities. She examines the structural pressures of the industry—including high-stakes incident response, chronic understaffing, round-the-clock on-call duties, and the pervasive culture of constant availability.\n\nMessdaghi identifies the psychological, emotional, and physical warning signs of acute burnout at 07:14 and 10:56. Drawing from personal experiences and community discussions (14:40), she offers actionable coping mechanisms, self-advocacy strategies, and techniques for establishing firm professional boundaries. She calls on organizations and community leaders to destigmatize mental health and build sustainable work environments that support practitioner well-being.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3118
     },
     {
@@ -1715,7 +1715,7 @@
         "cloud"
       ],
       "teaser": "Kubernetes Goat - Vulnerable.",
-      "summary": null,
+      "summary": "Madhu Akula introduces Kubernetes Goat, an open-source, intentionally vulnerable-by-design Kubernetes cluster environment created for learning, testing, and demonstrating cloud-native security concepts. The project provides hands-on scenarios mapped to real-world threats encountered in production container deployments.\n\nAkula walks through setting up the environment using Katacoda and local clusters, demonstrating common attack scenarios including container breakouts, sensitive secret exposures, SSRF within containerized microservices, and misconfigured RBAC permissions. He provides guided exploitation workflows and defensive remediation steps, showing practitioners how to identify architectural flaws and improve their organization's cloud-native infrastructure security posture.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3421
     },
     {
@@ -1785,7 +1785,7 @@
         "adversary-emulation"
       ],
       "teaser": "Attacking Layer 3 ( Lab ).",
-      "summary": null,
+      "summary": "Lee McWhorter delivers an extensive hands-on technical workshop demonstrating offensive techniques targeting Layer 3 network protocols. Setting up an interactive virtual testing environment, he guides attendees through protocol mechanics, vulnerability discovery, and packet manipulation at the network layer.\n\nMcWhorter details building virtual lab topologies using GNS3 and Docker containers at 16:08 and 23:25. At 30:37 and 37:49, he demonstrates attacking fundamental routing and network protocols, covering ARP spoofing, ICMP redirects, route poisoning, and IP spoofing. He explains both offensive execution mechanics and defensive countermeasures, showing network administrators how to implement protocol authentication and switch security to prevent Layer 3 manipulation.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 6737
     },
     {
