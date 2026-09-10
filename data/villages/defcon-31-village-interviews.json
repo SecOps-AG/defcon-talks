@@ -34,7 +34,7 @@
         "community"
       ],
       "teaser": "A walkthrough of Recon Village at DEF CON 31 exploring open-source intelligence methodologies, attack surface discovery, and recon CTF challenges.",
-      "summary": null,
+      "summary": "In this brief dispatch from DEF CON 31, Recon Village organizers welcome attendees to the village floor, highlighting their dedicated focus on reconnaissance methodologies and open-source intelligence (OSINT). At 00:00, the host previews the village's annual jeopardy-style OSINT CTF, where competitors leverage public internet archives, metadata analysis, and digital footprinting to solve complex intelligence challenges.\n\nThe organizer directs attendees to the adjacent presentation room at 00:15, highlighting a full weekend of community talks, tool demonstrations, and free badge giveaways designed to help researchers master information gathering tradecraft. (AI summary — Gemini Flash)",
       "durationSeconds": 25
     },
     {
@@ -98,7 +98,7 @@
         "community"
       ],
       "teaser": "An update from Red Team Village organizers detailing competition standings, badge challenges, and offensive tactics at DEF CON 31.",
-      "summary": null,
+      "summary": "In this tournament update from the DEF CON 31 Red Team Village, organizers team up with David (oxdf) from Hack The Box to report on the status of the annual Red Team Village CTF. At 00:00, they recap the intense qualification phase, noting that over 370 individual competitors across 135 teams battled for a spot in the finals.\n\nThe organizers announce the commencement of the elite 10-team final round at 00:15, revealing a custom enterprise \"Pro Lab\" designed by acclaimed security educator IppSec. The finals present competitors with a realistic corporate simulation, challenging squads to compromise Active Directory infrastructures, navigate segmented subnets, and execute stealthy lateral movement under competitive pressure. (AI summary — Gemini Flash)",
       "durationSeconds": 35
     },
     {

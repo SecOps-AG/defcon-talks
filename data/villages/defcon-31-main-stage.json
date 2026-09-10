@@ -43,7 +43,7 @@
         "policy"
       ],
       "teaser": "Cory Doctorow analyzes platform decay across Big Tech monopolies and outlines a policy and technical roadmap for interoperability, privacy, and user self-help.",
-      "summary": "The Mechanics of Platform Decay\n\nCory Doctorow dissects 'enshittification', the lifecycle where dominant platforms first lure users with subsidies, exploit those users to attract business customers, and ultimately claw back all surplus value for shareholders.\n\nMonopolistic Consolidation and Legal Barriers\n\nDecades of unchecked corporate mergers have consolidated the web into a handful of walled gardens, reinforced by anti-reverse-engineering laws and draconian digital rights management (DRM) statutes.\n\nAntitrust, Interoperability, and Regulatory Reform\n\nHalting platform degradation requires aggressive antitrust enforcement, robust privacy frameworks, and legal mandates for adversarial interoperability that prevent vendor lock-in.\n\nEmpowering User-Side Technical Self-Help\n\nDoctorow champions grassroots technical resistance\u2014including sideloading, alternative app stores, web scrapers, and ad-blocking\u2014to restore user autonomy across digital ecosystems.",
+      "summary": "The Mechanics of Platform Decay\n\nCory Doctorow dissects 'enshittification', the lifecycle where dominant platforms first lure users with subsidies, exploit those users to attract business customers, and ultimately claw back all surplus value for shareholders.\n\nMonopolistic Consolidation and Legal Barriers\n\nDecades of unchecked corporate mergers have consolidated the web into a handful of walled gardens, reinforced by anti-reverse-engineering laws and draconian digital rights management (DRM) statutes.\n\nAntitrust, Interoperability, and Regulatory Reform\n\nHalting platform degradation requires aggressive antitrust enforcement, robust privacy frameworks, and legal mandates for adversarial interoperability that prevent vendor lock-in.\n\nEmpowering User-Side Technical Self-Help\n\nDoctorow champions grassroots technical resistance—including sideloading, alternative app stores, web scrapers, and ad-blocking—to restore user autonomy across digital ecosystems.",
       "durationSeconds": 2743
     },
     {
@@ -101,7 +101,7 @@
         "javascript"
       ],
       "teaser": "Demonstrates browser-based internal network port scanning using precise JavaScript timing side-channels to map intranet devices without elevated privileges.",
-      "summary": null,
+      "summary": "In this presentation on the DEF CON 31 Main Stage, researcher Donny Kim presents \"Clocks Have Ears,\" revealing how high-resolution browser timing APIs can be weaponized to perform stealthy local network port scans directly through client-side JavaScript. He opens at 03:03 by explaining how measuring precise execution intervals with window.performance.now() during fetch() requests exposes internal network topology without triggering Same-Origin Policy (SOP) blocks.\n\nDonny analyzes network timing signatures at 06:03, demonstrating that closed ports on local hosts reject TCP packets within fractions of a millisecond, whereas open ports or filtered IP addresses experience measurable delays or timeouts. At 09:04, he presents empirical timing graphs establishing 50-millisecond detection thresholds across private subnets (10.0.0.1, 192.168.1.1). At 15:00, he demonstrates a working web-based port scanner that maps local services (AirPlay, Discord RPC) within minutes, concluding at 17:00 with browser security defenses including timer quantization and Private Network Access (PNA) specifications. (AI summary — Gemini Flash)",
       "durationSeconds": 1091
     },
     {
@@ -109,7 +109,7 @@
       "slug": "weaponizing-plain-text-ansi-escape-sequences-as-a-forensic-night",
       "title": "Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare",
       "speakers": [
-        "ST\u00d6K"
+        "STÖK"
       ],
       "track": "appsec",
       "topics": [
@@ -119,8 +119,8 @@
         "forensics",
         "evasion"
       ],
-      "teaser": "ST\u00d6K demonstrates how malicious ANSI escape codes can weaponize application logs to deceive incident responders and compromise modern DevOps terminal emulators.",
-      "summary": "The Hidden Risk of ANSI Escape Codes in Logs\n\nApplication log files are universally trusted by system administrators and SOC analysts, yet parsing untrusted inputs containing raw terminal control characters creates severe injection risks.\n\nFrom Legacy Terminal Tricks to Modern Cloud CLIs\n\nST\u00d6K revisits historical 1980s terminal injection vulnerabilities, showing how modern cloud CLIs, CI/CD pipelines, and feature-rich terminal emulators remain susceptible to screen-clearing and cursor-manipulation tricks.\n\nFabricating Forensic Evidence and Masking Intrusions\n\nAdversaries can embed carefully formatted escape sequences into web server requests to overwrite log lines, spoof forensic timestamps, and conceal unauthorized administrative actions.\n\nSanitization and Defensive Hardening\n\nImplementing strict output sanitization, stripping unprintable control bytes before logging, and configuring hardened terminal viewers protects security teams during incident response.",
+      "teaser": "STÖK demonstrates how malicious ANSI escape codes can weaponize application logs to deceive incident responders and compromise modern DevOps terminal emulators.",
+      "summary": "The Hidden Risk of ANSI Escape Codes in Logs\n\nApplication log files are universally trusted by system administrators and SOC analysts, yet parsing untrusted inputs containing raw terminal control characters creates severe injection risks.\n\nFrom Legacy Terminal Tricks to Modern Cloud CLIs\n\nSTÖK revisits historical 1980s terminal injection vulnerabilities, showing how modern cloud CLIs, CI/CD pipelines, and feature-rich terminal emulators remain susceptible to screen-clearing and cursor-manipulation tricks.\n\nFabricating Forensic Evidence and Masking Intrusions\n\nAdversaries can embed carefully formatted escape sequences into web server requests to overwrite log lines, spoof forensic timestamps, and conceal unauthorized administrative actions.\n\nSanitization and Defensive Hardening\n\nImplementing strict output sanitization, stripping unprintable control bytes before logging, and configuring hardened terminal viewers protects security teams during incident response.",
       "durationSeconds": 2431
     },
     {
@@ -502,7 +502,7 @@
       "slug": "spooky-authentication-at-a-distance",
       "title": "Spooky Authentication at a Distance",
       "speakers": [
-        "Tam\u00e1s Jos"
+        "Tamás Jos"
       ],
       "track": "red-team",
       "topics": [
@@ -512,8 +512,8 @@
         "impersonation",
         "red-teaming"
       ],
-      "teaser": "Tam\u00e1s Jos presents a post-exploitation technique to proxy Windows authentication protocols remotely without elevated privileges, enabling full domain takeover.",
-      "summary": "Remote Authentication Proxying in Windows\n\nTraditional credential harvesting requires dumping memory or executing high-privilege code on target machines, often triggering immediate EDR detections.\n\nUnprivileged Post-Exploitation Relay Techniques\n\nTam\u00e1s Jos introduces an unprivileged post-exploitation technique that proxies native Windows authentication protocols across remote network connections directly to an operator's workstation.\n\nComplete User Impersonation Without Local Elevated Access\n\nBy establishing an authentication bridge, red-team operators can execute actions with the target user's identity across Active Directory services without touching local system credentials.\n\nZero-Interaction Domain Takeover via Malicious Peripherals\n\nA live demonstration illustrates full domain takeover using a plug-and-play malicious hardware peripheral in a restricted environment without requiring user interaction.",
+      "teaser": "Tamás Jos presents a post-exploitation technique to proxy Windows authentication protocols remotely without elevated privileges, enabling full domain takeover.",
+      "summary": "Remote Authentication Proxying in Windows\n\nTraditional credential harvesting requires dumping memory or executing high-privilege code on target machines, often triggering immediate EDR detections.\n\nUnprivileged Post-Exploitation Relay Techniques\n\nTamás Jos introduces an unprivileged post-exploitation technique that proxies native Windows authentication protocols across remote network connections directly to an operator's workstation.\n\nComplete User Impersonation Without Local Elevated Access\n\nBy establishing an authentication bridge, red-team operators can execute actions with the target user's identity across Active Directory services without touching local system credentials.\n\nZero-Interaction Domain Takeover via Malicious Peripherals\n\nA live demonstration illustrates full domain takeover using a plug-and-play malicious hardware peripheral in a restricted environment without requiring user interaction.",
       "durationSeconds": 2702
     },
     {
@@ -727,7 +727,7 @@
         "education"
       ],
       "teaser": "Wesley McGrew uses Commodore Amiga 16/32-bit vintage computing environments to teach foundational reverse engineering and exploit development using Ghidra.",
-      "summary": "Lowering the Barrier to Exploit Development\n\nModern operating systems feature multi-layered exploit mitigations\u2014such as ASLR, DEP, and CFG\u2014that create an intimidating learning curve for aspiring vulnerability researchers.\n\nSetting Up a Commodore Amiga Research Environment\n\nWesley McGrew demonstrates how vintage 16/32-bit platforms like the Commodore Amiga provide an accessible, mitigation-free playground for mastering low-level systems concepts.\n\nReverse Engineering AmigaOS Binaries with Ghidra\n\nConfiguring modern Ghidra disassemblers and native Amiga debuggers enables researchers to analyze assembly code, memory layouts, and stack structures in legacy applications.\n\nCase Study: Exploiting a 1994 Amiga FTP Client\n\nA step-by-step case study details the discovery and exploitation of a buffer overflow in a 1994 Amiga FTP client, demonstrating classic stack exploitation principles.",
+      "summary": "Lowering the Barrier to Exploit Development\n\nModern operating systems feature multi-layered exploit mitigations—such as ASLR, DEP, and CFG—that create an intimidating learning curve for aspiring vulnerability researchers.\n\nSetting Up a Commodore Amiga Research Environment\n\nWesley McGrew demonstrates how vintage 16/32-bit platforms like the Commodore Amiga provide an accessible, mitigation-free playground for mastering low-level systems concepts.\n\nReverse Engineering AmigaOS Binaries with Ghidra\n\nConfiguring modern Ghidra disassemblers and native Amiga debuggers enables researchers to analyze assembly code, memory layouts, and stack structures in legacy applications.\n\nCase Study: Exploiting a 1994 Amiga FTP Client\n\nA step-by-step case study details the discovery and exploitation of a buffer overflow in a 1994 Amiga FTP client, demonstrating classic stack exploitation principles.",
       "durationSeconds": 2655
     },
     {
@@ -827,7 +827,7 @@
         "rce"
       ],
       "teaser": "Uncovers nine vulnerabilities across enterprise Power Distribution Units (PDUs) and Data Center Infrastructure Management (DCIM) appliances, enabling physical power disruption.",
-      "summary": "The Overlooked Physical Infrastructure of Data Centers\n\nWhile cloud security focuses on virtualized workloads and IAM permissions, data center physical power distribution and environmental controls represent critical single points of failure.\n\nAuditing Enterprise PDUs and DCIM Systems\n\nPatrick Quinn and Gary Chick conduct in-depth vulnerability research against leading commercial Power Distribution Units (PDUs) and Data Center Infrastructure Management (DCIM) appliances.\n\nDiscovering Nine Critical Vulnerabilities\n\nThe researchers disclose nine vulnerabilities\u2014spanning unauthenticated remote code execution, command injection, and insecure firmware updates\u2014that allow remote control over electrical circuits.\n\nSimulating Cascading Power Disruptions and Mitigations\n\nDemonstrating coordinated outlet cycling and transformer load surges illustrates how compromising power management can physically damage data center hardware and trigger cascading outages.",
+      "summary": "The Overlooked Physical Infrastructure of Data Centers\n\nWhile cloud security focuses on virtualized workloads and IAM permissions, data center physical power distribution and environmental controls represent critical single points of failure.\n\nAuditing Enterprise PDUs and DCIM Systems\n\nPatrick Quinn and Gary Chick conduct in-depth vulnerability research against leading commercial Power Distribution Units (PDUs) and Data Center Infrastructure Management (DCIM) appliances.\n\nDiscovering Nine Critical Vulnerabilities\n\nThe researchers disclose nine vulnerabilities—spanning unauthenticated remote code execution, command injection, and insecure firmware updates—that allow remote control over electrical circuits.\n\nSimulating Cascading Power Disruptions and Mitigations\n\nDemonstrating coordinated outlet cycling and transformer load surges illustrates how compromising power management can physically damage data center hardware and trigger cascading outages.",
       "durationSeconds": 2513
     },
     {
@@ -927,7 +927,7 @@
         "vulnerability-research"
       ],
       "teaser": "Demonstrates transforming publicly patched Chromium N-day vulnerabilities into remote code execution 0-days across popular Electron and CEF desktop applications.",
-      "summary": "The Pervasiveness of Chromium in Downstream Software\n\nFrameworks like Electron and Chromium Embedded Framework (CEF) embed Chromium into hundreds of popular desktop communication, gaming, and productivity applications.\n\nThe 14-Week Chromium Disclosure Window\n\nBohan Liu, Zheng Wang, and GuanCheng Li evaluate the 'RCE window period'\u2014the multi-week delay between Google publicly disclosing a Chromium fix and downstream apps updating dependencies.\n\nTransforming N-Day Flaws into 10+ Desktop RCE 0-Days\n\nDemonstrating over 10 distinct zero-day exploits shows how unpatched downstream applications allow attackers to achieve remote code execution using publicly documented V8 and WebKit bugs.\n\nBypassing Application Sandboxes and Best Practices\n\nThe researchers demonstrate bypassing custom application sandboxes and provide actionable patch management guidance for desktop software developers.",
+      "summary": "The Pervasiveness of Chromium in Downstream Software\n\nFrameworks like Electron and Chromium Embedded Framework (CEF) embed Chromium into hundreds of popular desktop communication, gaming, and productivity applications.\n\nThe 14-Week Chromium Disclosure Window\n\nBohan Liu, Zheng Wang, and GuanCheng Li evaluate the 'RCE window period'—the multi-week delay between Google publicly disclosing a Chromium fix and downstream apps updating dependencies.\n\nTransforming N-Day Flaws into 10+ Desktop RCE 0-Days\n\nDemonstrating over 10 distinct zero-day exploits shows how unpatched downstream applications allow attackers to achieve remote code execution using publicly documented V8 and WebKit bugs.\n\nBypassing Application Sandboxes and Best Practices\n\nThe researchers demonstrate bypassing custom application sandboxes and provide actionable patch management guidance for desktop software developers.",
       "durationSeconds": 2390
     },
     {
@@ -965,7 +965,7 @@
         "privacy"
       ],
       "teaser": "Meduza CTO Alex details the technical infrastructure and circumvention engineering used to bypass Russian internet censorship and deliver unbiased news to millions.",
-      "summary": "Operating an Independent Newsroom in Exile\n\nMeduza is an independent Russian- and English-language news organization operating from Latvia, reaching millions of readers despite being designated an 'undesirable organization' by Russia.\n\nThe Rapid Rise of the Russian Sovereign Internet\n\nMeduza's CTO Alex analyzes how Russia's state telecom regulator (Roskomnadzor) transformed one of the world's most open internet ecosystems into a centralized censorship apparatus.\n\nTechnical Warfare Against Deep Packet Inspection (DPI)\n\nMeduza\u2019s engineering team describes deploying custom mobile apps with built-in censorship circumvention, mirror networks, and onion routing to bypass nationwide domain blocks.\n\nRepelling Volumetric DDoS and Protecting Staff\n\nThe presentation details defensive operations against state-backed DDoS attacks and emphasizes the vital role of technology in preserving freedom of information during wartime.",
+      "summary": "Operating an Independent Newsroom in Exile\n\nMeduza is an independent Russian- and English-language news organization operating from Latvia, reaching millions of readers despite being designated an 'undesirable organization' by Russia.\n\nThe Rapid Rise of the Russian Sovereign Internet\n\nMeduza's CTO Alex analyzes how Russia's state telecom regulator (Roskomnadzor) transformed one of the world's most open internet ecosystems into a centralized censorship apparatus.\n\nTechnical Warfare Against Deep Packet Inspection (DPI)\n\nMeduza’s engineering team describes deploying custom mobile apps with built-in censorship circumvention, mirror networks, and onion routing to bypass nationwide domain blocks.\n\nRepelling Volumetric DDoS and Protecting Staff\n\nThe presentation details defensive operations against state-backed DDoS attacks and emphasizes the vital role of technology in preserving freedom of information during wartime.",
       "durationSeconds": 2015
     },
     {
@@ -1062,7 +1062,7 @@
         "supply-chain"
       ],
       "teaser": "CISA Director Jen Easterly and Yale Professor Scott Shapiro discuss the history of major cyber intrusions and the necessity of Secure-by-Design engineering.",
-      "summary": "Lessons from Five Decades of Cyber Intrusions\n\nCISA Director Jen Easterly and Yale Law Professor Scott Shapiro review pivotal historical hacks, tracing how systemic architectural vulnerabilities enabled widespread nation-state espionage.\n\nMoving Beyond Blaming the User\n\nThe speakers argue that the cybersecurity industry has historically placed an unfair burden on end-users through security awareness training rather than demanding secure software development from vendors.\n\nThe Secure-by-Design Imperative\n\nCISA\u2019s Secure-by-Design initiative urges software manufacturers to eliminate entire classes of vulnerabilities (such as memory-safety flaws and default credentials) before products ship.\n\nBuilding Public-Private Accountability\n\nFostering long-term systemic resilience requires policy frameworks that align market incentives with rigorous software transparency, corporate accountability, and open vulnerability disclosure.",
+      "summary": "Lessons from Five Decades of Cyber Intrusions\n\nCISA Director Jen Easterly and Yale Law Professor Scott Shapiro review pivotal historical hacks, tracing how systemic architectural vulnerabilities enabled widespread nation-state espionage.\n\nMoving Beyond Blaming the User\n\nThe speakers argue that the cybersecurity industry has historically placed an unfair burden on end-users through security awareness training rather than demanding secure software development from vendors.\n\nThe Secure-by-Design Imperative\n\nCISA’s Secure-by-Design initiative urges software manufacturers to eliminate entire classes of vulnerabilities (such as memory-safety flaws and default credentials) before products ship.\n\nBuilding Public-Private Accountability\n\nFostering long-term systemic resilience requires policy frameworks that align market incentives with rigorous software transparency, corporate accountability, and open vulnerability disclosure.",
       "durationSeconds": 2093
     },
     {
@@ -1118,7 +1118,7 @@
         "pyrdp"
       ],
       "teaser": "Gozint and ESET researchers use PyRDP to record and classify over 100 hours of attacker sessions on exposed RDP honeypots into behavioral archetypes.",
-      "summary": "The Primacy of RDP in Ransomware Intrusions\n\nExposed Remote Desktop Protocol (RDP) services represent one of the most frequent initial access vectors exploited by cybercriminals and opportunistic ransomware operators.\n\nDeploying PyRDP for In-Depth Session Interception\n\nMaxime Bergeron and Olivier Bilodeau deploy PyRDP, an open-source man-in-the-middle RDP proxy that records keystrokes, clipboard transfers, mapped drives, and video playback of live intrusions.\n\nCategorizing Attacker Archetypes via D&D Taxonomy\n\nAnalyzing over 100 hours of video recordings reveals distinct behavioral archetypes\u2014ranging from noisy brute-force 'Barbarians' to stealthy reconnaissance 'Rangers' and proxying 'Wizards'.\n\nTranslating Honeypot Telemetry into Blue-Team Defenses\n\nDocumenting common command sequences, tooling artifacts, and monetization strategies enables defensive teams to build robust detection rules against real-world lateral movement.",
+      "summary": "The Primacy of RDP in Ransomware Intrusions\n\nExposed Remote Desktop Protocol (RDP) services represent one of the most frequent initial access vectors exploited by cybercriminals and opportunistic ransomware operators.\n\nDeploying PyRDP for In-Depth Session Interception\n\nMaxime Bergeron and Olivier Bilodeau deploy PyRDP, an open-source man-in-the-middle RDP proxy that records keystrokes, clipboard transfers, mapped drives, and video playback of live intrusions.\n\nCategorizing Attacker Archetypes via D&D Taxonomy\n\nAnalyzing over 100 hours of video recordings reveals distinct behavioral archetypes—ranging from noisy brute-force 'Barbarians' to stealthy reconnaissance 'Rangers' and proxying 'Wizards'.\n\nTranslating Honeypot Telemetry into Blue-Team Defenses\n\nDocumenting common command sequences, tooling artifacts, and monetization strategies enables defensive teams to build robust detection rules against real-world lateral movement.",
       "durationSeconds": 2660
     },
     {
@@ -1258,7 +1258,7 @@
         "disassembly"
       ],
       "teaser": "Dr. Bramwell Brizendine introduces SHAREM, an advanced shellcode emulation framework providing complete code coverage and flawless Ghidra disassembly.",
-      "summary": "The Difficulties of Analyzing Obfuscated Shellcode\n\nMalicious shellcode frequently employs custom encoding, environment hashing, and dynamic API resolving, causing static disassemblers like IDA Pro and Ghidra to produce incomplete or corrupted output.\n\nIntroducing the SHAREM Emulation Engine\n\nDr. Bramwell Brizendine, Austin Kersten, and Max Hince present SHAREM, a specialized emulation framework capable of emulating over 20,000 Windows API functions and 99% of system calls.\n\nAchieving Complete Code Coverage via Snapshot Restores\n\nSHAREM records CPU register contexts and memory state at every control flow fork; when execution terminates, it restores previous states to explore all divergent code branches.\n\nFlawless Disassembly and Ghidra Plugin Integration\n\nIntegrating SHAREM\u2019s runtime emulation data with a custom Ghidra plugin automatically resolves decoded shellcode, reconstructs obfuscated strings, and labels identified API calls.",
+      "summary": "The Difficulties of Analyzing Obfuscated Shellcode\n\nMalicious shellcode frequently employs custom encoding, environment hashing, and dynamic API resolving, causing static disassemblers like IDA Pro and Ghidra to produce incomplete or corrupted output.\n\nIntroducing the SHAREM Emulation Engine\n\nDr. Bramwell Brizendine, Austin Kersten, and Max Hince present SHAREM, a specialized emulation framework capable of emulating over 20,000 Windows API functions and 99% of system calls.\n\nAchieving Complete Code Coverage via Snapshot Restores\n\nSHAREM records CPU register contexts and memory state at every control flow fork; when execution terminates, it restores previous states to explore all divergent code branches.\n\nFlawless Disassembly and Ghidra Plugin Integration\n\nIntegrating SHAREM’s runtime emulation data with a custom Ghidra plugin automatically resolves decoded shellcode, reconstructs obfuscated strings, and labels identified API calls.",
       "durationSeconds": 2608
     },
     {
@@ -1355,7 +1355,7 @@
         "rce"
       ],
       "teaser": "Claroty Team82 reveals critical vulnerabilities across OPC UA protocol stack implementations, demonstrating remote code execution across industrial SCADA networks.",
-      "summary": "OPC UA as the Backbone of Industrial Automation\n\nOpen Platform Communications Unified Architecture (OPC UA) is the industry standard protocol connecting physical OT sensors, SCADA servers, and corporate IT management networks.\n\nAuditing OPC UA Protocol Stack Implementations\n\nNoam Moshe and Sharon Brizinov conduct an extensive two-year evaluation of major commercial and open-source OPC UA stacks powering millions of industrial devices.\n\nUncovering Critical Protocol Specification Pitfalls\n\nFuzzing complex protocol features\u2014including method invocations, message chunking, certificate validation, and complex data variants\u2014revealed multiple RCE and DoS zero-days.\n\nReleasing Open-Source Exploitation Tooling\n\nThe researchers release an open-source auditing framework, providing OT asset owners and equipment vendors with tools to verify and patch OPC UA deployments.",
+      "summary": "OPC UA as the Backbone of Industrial Automation\n\nOpen Platform Communications Unified Architecture (OPC UA) is the industry standard protocol connecting physical OT sensors, SCADA servers, and corporate IT management networks.\n\nAuditing OPC UA Protocol Stack Implementations\n\nNoam Moshe and Sharon Brizinov conduct an extensive two-year evaluation of major commercial and open-source OPC UA stacks powering millions of industrial devices.\n\nUncovering Critical Protocol Specification Pitfalls\n\nFuzzing complex protocol features—including method invocations, message chunking, certificate validation, and complex data variants—revealed multiple RCE and DoS zero-days.\n\nReleasing Open-Source Exploitation Tooling\n\nThe researchers release an open-source auditing framework, providing OT asset owners and equipment vendors with tools to verify and patch OPC UA deployments.",
       "durationSeconds": 2361
     },
     {
@@ -1363,7 +1363,7 @@
       "slug": "electronizing-macos-privacy-a-new-weapon-in-your-red-teaming-arm",
       "title": "ELECTRONizing macOS Privacy: A New Weapon in Your Red Teaming Armory",
       "speakers": [
-        "Wojciech Regu\u0142a"
+        "Wojciech Reguła"
       ],
       "track": "red-team",
       "topics": [
@@ -1373,8 +1373,8 @@
         "red-teaming",
         "privilege-escalation"
       ],
-      "teaser": "Wojciech Regu\u0142a demonstrates hijacking Electron application configurations on macOS to inherit high-privilege TCC permissions without zero-days.",
-      "summary": "The Privacy Architecture of macOS TCC\n\nApple's Transparency, Consent, and Control (TCC) subsystem enforces strict sandboxing on macOS, requiring explicit user authorization to access files, webcams, microphones, and screens.\n\nThe Inherent Vulnerabilities of Ubiquitous Electron Apps\n\nWojciech Regu\u0142a identifies that widely used Electron desktop applications (such as Slack, Teams, and Discord) hold extensive TCC entitlements granted by users.\n\nAbusing Default Electron Configurations to Inherit Permissions\n\nManipulating insecure runtime flags, dynamic node integration parameters, and environment variables allows executing arbitrary code inside existing Electron processes to inherit their TCC rights.\n\nReleasing Open-Source Tooling for Red and Blue Teams\n\nRegu\u0142a releases an open-source exploitation tool for red teams while providing SOC defenders with endpoint detection telemetry rules to flag Electron process tampering.",
+      "teaser": "Wojciech Reguła demonstrates hijacking Electron application configurations on macOS to inherit high-privilege TCC permissions without zero-days.",
+      "summary": "The Privacy Architecture of macOS TCC\n\nApple's Transparency, Consent, and Control (TCC) subsystem enforces strict sandboxing on macOS, requiring explicit user authorization to access files, webcams, microphones, and screens.\n\nThe Inherent Vulnerabilities of Ubiquitous Electron Apps\n\nWojciech Reguła identifies that widely used Electron desktop applications (such as Slack, Teams, and Discord) hold extensive TCC entitlements granted by users.\n\nAbusing Default Electron Configurations to Inherit Permissions\n\nManipulating insecure runtime flags, dynamic node integration parameters, and environment variables allows executing arbitrary code inside existing Electron processes to inherit their TCC rights.\n\nReleasing Open-Source Tooling for Red and Blue Teams\n\nReguła releases an open-source exploitation tool for red teams while providing SOC defenders with endpoint detection telemetry rules to flag Electron process tampering.",
       "durationSeconds": 1195
     },
     {
@@ -1450,7 +1450,7 @@
         "education"
       ],
       "teaser": "Long-time organizers and community members welcome newcomers to DEF CON, sharing tips, cultural norms, and strategies to navigate the world's largest hacker convention.",
-      "summary": null,
+      "summary": "In this orientation keynote from the DEF CON 31 Main Stage, organizers and Goons welcome newcomers and returning veterans to DEF CON 101. The session opens at 00:01 with an introduction to the ethos and culture of the world's premier hacker gathering, highlighting at 10:00 the creative synergy shared between hackers, artists, and engineers.\n\nAt 20:00, the speakers explain the role of Goons, providing guidance on seeking assistance, reporting safety concerns, and navigating crowd dynamics. Practical survival strategies take center stage at 30:00, where presenters emphasize the legendary \"3-2-1 rule\"—three hours of sleep, two meals, and one shower every day. At 40:00, they discuss how to navigate the sprawling village ecosystem, explaining that Main Stage sessions are captioned and archived online. They wrap up at 01:00:00 with tips on solving badge puzzles and maximizing conference learning. (AI summary — Gemini Flash)",
       "durationSeconds": 3783
     },
     {
@@ -1566,7 +1566,7 @@
         "cyberwarfare"
       ],
       "teaser": "Joe Slowik analyzes leaked Russian NTC Vulkan documentation, contextualizing state-sponsored offensive cyber programs, automated scanning, and attack infrastructure.",
-      "summary": "Deconstructing the NTC Vulkan Documentation Leaks\n\nIn early 2023, leaked internal files from Russian defense contractor NTC Vulkan exposed architectural blueprints for state-sponsored cyber offensive programs including 'Scan-V' and 'Amezit'.\n\nAutomating Attack Surface Mapping and Exploitation\n\nJoe Slowik evaluates Scan-V's automated scanning capabilities, which continuously correlate global internet infrastructure vulnerabilities to feed targeted offensive targeting pipelines.\n\nHistorical Precedents in State Signals Intelligence\n\nComparing Vulkan capabilities with historic disclosures\u2014including Russia's SORM, China's Great Cannon, and US intelligence tools\u2014reveals a decade-long trajectory toward industrial-scale cyber operations.\n\nThe Proliferation and Industrialization of Offensive Tooling\n\nSlowik warns that state-backed cyber programs have shifted from bespoke intrusion toolkits to standardized, modular enterprise software platforms designed for persistent warfare.",
+      "summary": "Deconstructing the NTC Vulkan Documentation Leaks\n\nIn early 2023, leaked internal files from Russian defense contractor NTC Vulkan exposed architectural blueprints for state-sponsored cyber offensive programs including 'Scan-V' and 'Amezit'.\n\nAutomating Attack Surface Mapping and Exploitation\n\nJoe Slowik evaluates Scan-V's automated scanning capabilities, which continuously correlate global internet infrastructure vulnerabilities to feed targeted offensive targeting pipelines.\n\nHistorical Precedents in State Signals Intelligence\n\nComparing Vulkan capabilities with historic disclosures—including Russia's SORM, China's Great Cannon, and US intelligence tools—reveals a decade-long trajectory toward industrial-scale cyber operations.\n\nThe Proliferation and Industrialization of Offensive Tooling\n\nSlowik warns that state-backed cyber programs have shifted from bespoke intrusion toolkits to standardized, modular enterprise software platforms designed for persistent warfare.",
       "durationSeconds": 2677
     },
     {
@@ -1704,7 +1704,7 @@
         "policy"
       ],
       "teaser": "Cory Doctorow delivers an encore analysis on the decay of monopoly web platforms, advocating for aggressive antitrust action and adversarial interoperability.",
-      "summary": "Deconstructing Platform Degradation and Lock-In\n\nCory Doctorow explores the structural causes behind the decline of dominant digital platforms, detailing how monopoly consolidation harms users and business customers alike.\n\nThe Threat of Anti-Circumvention Laws\n\nCorporate platforms leverage Section 1201 of the DMCA and Computer Fraud and Abuse Act (CFAA) litigation to criminalize reverse engineering, scrapers, and interoperability tools.\n\nRestoring Digital Sovereignty via Interoperability\n\nMandating open APIs and legal safe harbors for adversarial interoperability allows third-party developers to build privacy-respecting wrappers around incumbent services.\n\nA Call to Action for Hacker Self-Help\n\nDoctorow calls upon the technical community to develop aggressive self-help tools\u2014including tracker blockers, sideloading tools, and decentralized networks\u2014to reclaim the open web.",
+      "summary": "Deconstructing Platform Degradation and Lock-In\n\nCory Doctorow explores the structural causes behind the decline of dominant digital platforms, detailing how monopoly consolidation harms users and business customers alike.\n\nThe Threat of Anti-Circumvention Laws\n\nCorporate platforms leverage Section 1201 of the DMCA and Computer Fraud and Abuse Act (CFAA) litigation to criminalize reverse engineering, scrapers, and interoperability tools.\n\nRestoring Digital Sovereignty via Interoperability\n\nMandating open APIs and legal safe harbors for adversarial interoperability allows third-party developers to build privacy-respecting wrappers around incumbent services.\n\nA Call to Action for Hacker Self-Help\n\nDoctorow calls upon the technical community to develop aggressive self-help tools—including tracker blockers, sideloading tools, and decentralized networks—to reclaim the open web.",
       "durationSeconds": 2743
     },
     {
@@ -1898,7 +1898,7 @@
         "community"
       ],
       "teaser": "The Dark Tangent and DEF CON senior staff close out DEF CON 31 with official event recaps, community statistics, and Black Badge awards.",
-      "summary": null,
+      "summary": "In the official Closing Ceremonies of DEF CON 31 on the Main Stage, conference founder The Dark Tangent (Jeff Moss) and event organizers bring the conference to a close with competition awards and community retrospectives. At 09:01, the badge design team presents an engineering post-mortem on the DEF CON 31 badge, detailing the mathematics of Penrose tiling and the cryptographic synchronization between physical badges and virtual realms.\n\nThe organizers review convention security operations at 18:00, discussing close coordination between Goons and facility teams to ensure attendee safety. At 27:00, the ceremony honors contest winners across premier competitions, presenting the prestigious Black Badge awards that grant lifetime entry to DEF CON. The Network Operations Center (NOC) delivers its annual infrastructure debrief at 36:00, before Jeff Moss concludes at 45:12 by expressing heartfelt gratitude to the thousands of volunteers who power the community. (AI summary — Gemini Flash)",
       "durationSeconds": 6813
     },
     {
