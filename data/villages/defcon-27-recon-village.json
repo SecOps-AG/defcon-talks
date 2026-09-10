@@ -58,7 +58,7 @@
         "security-research"
       ],
       "teaser": "Generating Personalized Wordlists by Analyzing Targets Tweets",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 27 Recon Village, security researcher Utku Sen introduces Rhodiola, an open-source OSINT reconnaissance tool that uses Natural Language Processing (NLP) to generate highly personalized password wordlists by analyzing a target's public Twitter timeline. He begins by addressing the inefficiency of massive generic password dictionaries, explaining that while standard lists contain hundreds of millions of candidates, users routinely choose passwords derived from their personal interests, hobbies, family, and pets.\n\nUtku outlines the architecture of Rhodiola, which collects a target's recent tweets via the Twitter API and runs them through a text-cleaning pipeline built on Python's Natural Language Toolkit (NLTK). The tool systematically removes common stop words, verbs, and conversational filler, isolating nouns and proper nouns that represent meaningful entities. He then shows how Rhodiola integrates with WordNet to identify semantic associations, expanding the target's explicit interests into related contextual keywords and themes.\n\nFinally, Utku explains how Rhodiola applies rule-based transformations to combine extracted terms with common password suffixes, birth years, and leetspeak substitutions. By benchmarking the resulting custom wordlists against conventional brute-force dictionaries, he demonstrates a dramatic reduction in guess attempts required to compromise personal accounts. He concludes by discussing defensive operational security practices to minimize personal data exposure on public social media feeds. (AI summary — Gemini Flash)",
       "durationSeconds": 1176
     },
     {
@@ -85,7 +85,7 @@
       "slug": "seyfullah-kilic-osint-approach-in-big-data",
       "title": "OSINT Approach in Big Data",
       "speakers": [
-        "Seyfullah KILI\u00c7"
+        "Seyfullah KILIÇ"
       ],
       "track": "osint",
       "topics": [
@@ -131,7 +131,7 @@
         "security-research"
       ],
       "teaser": "Joe Gray- DECEPTICON OPSEC to Slow the OSINT video",
-      "summary": null,
+      "summary": "In this talk at the DEF CON 27 Recon Village, Joe Gray delivers \"DECEPTICON: OPSEC to Slow the OSINT,\" presenting defensive operational security strategies designed to poison, confuse, and deter adversarial open-source intelligence investigations. He begins at 06:00 by examining how OSINT investigators and social engineers are susceptible to cognitive biases, confirmation bias, and the \"echo chamber\" effect, which defensive operators can deliberately exploit by feeding plausible but misleading breadcrumbs.\n\nJoe examines the anatomy of digital footprinting at 12:00, showing how a single exposed username or email address allows an investigator to pivot across dozens of online platforms. At 18:00, he reviews open-source profiling utilities including WhatsMyName, Profiler, and Namechk, urging practitioners to use these tools to audit their own digital perimeter before attackers do. He introduces structured deception methodologies at 24:00, outlining how to systematically publish falsified personas, conflicting metadata, and decoy profiles.\n\nTurning to personal and organizational OPSEC hygiene at 30:00, Joe outlines guidelines for educating family members on recognizing social engineering indicators without causing alarm. He concludes at 36:00 by showcasing proactive deception defenses, including honeytokens, canary email addresses, synthetic profile accounts, and disposable payment instruments that detect when an adversary begins reconnaissance against a target. (AI summary — Gemini Flash)",
       "durationSeconds": 2444
     },
     {
@@ -205,7 +205,7 @@
         "security-research"
       ],
       "teaser": "Building OSINT and Recon Program to address Healthcare",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 27 Recon Village, Mitchell Parker, Executive Director of Information Security and CISO, details the architecture and operational deployment of proactive OSINT and external reconnaissance programs within large healthcare systems. He begins at 06:00 by describing the complex organizational landscape of the healthcare industry, where hospital networks must securely coordinate with fiercely independent clinical practices, academic research centers, and third-party medical partners under strict HIPAA regulations.\n\nMitchell explains at 12:00 why passive defensive controls are insufficient, presenting a blueprint for building continuous external attack surface reconnaissance programs. This framework systematically monitors exposed medical IoT devices, telehealth infrastructure, cloud-hosted electronic health records (EHR), and public DNS records for shadow IT assets. At 18:00, he emphasizes the critical importance of building positive relationships between clinical staff and cybersecurity teams, warning that executive disconnect leads employees to conceal breaches.\n\nAddressing cultural barriers at 24:00, Mitchell discusses how removing blame and eliminating punitive responses encourages medical professionals to report phishing attempts and suspicious incidents promptly. He shares strategies at 30:00 for translating technical conference research and threat intelligence into risk-quantified presentations that hospital boards and clinical directors understand. He concludes with an interactive audience discussion at 36:00 on navigating clinical workflows during security incident response. (AI summary — Gemini Flash)",
       "durationSeconds": 2423
     },
     {
