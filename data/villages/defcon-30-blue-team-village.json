@@ -192,7 +192,7 @@
         "blue-team"
       ],
       "teaser": "Project Obsidian details the critical initial phase of incident response: defining the blast radius, scoping compromised systems, and setting containment boundaries.",
-      "summary": null,
+      "summary": "In this instructional session from Project Obsidian at the DEF CON 30 Blue Team Village, instructors break down the foundational principles of incident scoping during digital forensics and incident response (DFIR) operations. The presentation opens at 06:00 by defining an incident scope—distinguishing confirmed forensic facts from assumptions and evaluating initial organizational impact across critical business systems.\n\nAt 12:00, the speaker emphasizes the necessity of centralizing investigative findings into a shared evidence repository, ensuring all analysts work from a consistent timeline. Guidance on conducting non-adversarial witness and employee interviews follows at 18:00, showing how open-ended questioning uncovers initial infection vectors without inducing defensiveness. At 24:00, the session explores calculating adversary dwell time, contrasting historical industry averages with modern fast-moving ransomware threats.\n\nThe talk concludes at 30:00 by illustrating how to structure formal, executive-ready incident reports that clearly communicate containment boundaries and remediation priorities. At 36:00, the speaker addresses the emotional and mental strain of prolonged incident handling, providing practical advice on maintaining investigative rigor and managing team fatigue during high-stress corporate intrusions. (AI summary — Gemini Flash)",
       "durationSeconds": 2301
     },
     {
@@ -269,7 +269,7 @@
         "code-analysis"
       ],
       "teaser": "Gilmar Esteves and Filipi Pires present Horusec, an open-source multi-language static analysis (SAST) tool designed to democratize code security scanning.",
-      "summary": null,
+      "summary": "In this technical briefing at the DEF CON 30 Blue Team Village, Gilmar Esteves and Filipi Pires introduce Horusec, an open-source multi-language Static Application Security Testing (SAST) platform designed to democratize automated code security analysis. At 03:00, they demonstrate how Horusec parses source code repositories, displaying flagged vulnerabilities with precise file names, line numbers, and severity ratings.\n\nThe speakers walk through a practical demonstration environment at 06:00, scanning sample codebases to showcase detection capabilities for SQL injection, cross-site scripting, and hardcoded secrets across multiple languages at 09:00. At 12:00, they showcase the Horusec IDE plugin for Visual Studio Code, highlighting how developers receive real-time security alerts directly in their editor as they write code.\n\nDiving into vulnerability triage at 15:00, they show how Horusec provides contextual remediation advice, CWE links, and false-positive filtering. At 18:00, they illustrate integrating Horusec into automated CI/CD deployment pipelines using lightweight CLI commands and quality gates to block insecure builds before production. They wrap up at 21:00 with project roadmap milestones and an invitation to join the open-source developer community. (AI summary — Gemini Flash)",
       "durationSeconds": 1272
     },
     {
@@ -345,7 +345,7 @@
         "threat-hunting"
       ],
       "teaser": "Project Obsidian demonstrates writing custom Velociraptor Query Language (VQL) artifacts to hunt for IOCs and collect forensic evidence across thousands of endpoints.",
-      "summary": null,
+      "summary": "In this practical forensics lab from Project Obsidian at the DEF CON 30 Blue Team Village, investigators present a step-by-step guide to building custom artifact collectors using the Velociraptor endpoint visibility and response framework. The session begins at 03:00 by demonstrating how to select target forensic artifacts specifically tailored for compromised Linux server environments within the Velociraptor console.\n\nAt 06:00, the instructor configures a standalone offline collector binary, walking through artifact definition scripts written in Velociraptor Query Language (VQL) to harvest process tables, persistence hooks, and system logs. The guide demonstrates executing the compiled collector directly on target Linux endpoints at 09:00, highlighting operational privilege requirements and output packaging.\n\nThe lab details the process of bundling extracted evidence into compressed triage archives at 12:00. At 15:00, the instructor shows how to import the offline collection back into the central Velociraptor server, demonstrating how security analysts can rapidly run VQL queries across centralized triage data to reconstruct adversary actions without maintaining continuous network connectivity to the target host. (AI summary — Gemini Flash)",
       "durationSeconds": 1077
     },
     {
@@ -421,7 +421,7 @@
         "detection-engineering"
       ],
       "teaser": "Project Obsidian demonstrates detecting SharpHound and BloodHound reconnaissance by hunting anomalous LDAP queries and Active Directory enumeration patterns.",
-      "summary": null,
+      "summary": "In this threat hunting workshop from Project Obsidian at the DEF CON 30 Blue Team Village, instructors demonstrate how defensive analysts can detect BloodHound and SharpHound reconnaissance activity inside enterprise Active Directory environments. Entering the Splunk hunting lab at 07:00, the session examines event log sources necessary to spot internal domain enumeration.\n\nAt 14:00, the instructor investigates host-level telemetry, specifically querying Sysmon Event ID 11 (File Create) to identify telltale SharpHound output files and JSON archive creation artifacts. The workshop shifts to building high-fidelity detection logic at 21:00, writing Splunk search queries that trigger automated SOC alerts whenever suspicious Active Directory data dumping occurs.\n\nTurning to network-based anomalies at 28:00, the presenter identifies unusual spikes in SMB traffic (port 445) and rapid LDAP session queries originating from administrative jump boxes and RDP hosts. The session concludes at 35:00 by showing how to compile forensic findings into a comprehensive threat hunting report, establishing actionable indicators of compromise (IOCs) to thwart adversary privilege escalation paths. (AI summary — Gemini Flash)",
       "durationSeconds": 2468
     },
     {
