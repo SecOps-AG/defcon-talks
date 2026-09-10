@@ -909,7 +909,7 @@
         "malware"
       ],
       "teaser": "Bill Demirkapi answers community questions regarding modern Windows kernel development, PatchGuard interactions, and network driver hooks.",
-      "summary": null,
+      "summary": "Security researcher Bill Demirkapi participates in a live DEF CON Safe Mode Q&A session exploring the mechanics of modern Windows kernel rootkits, driver vulnerabilities, and OS-level mitigations [00:09]. Expanding on his main-stage presentation, Demirkapi breaks down how threat actors and game cheat developers exploit the Bring Your Own Vulnerable Driver (BYOVD) attack vector to circumvent Windows Driver Signature Enforcement (DSE) [05:23]. He explains that by dropping and loading legitimately signed but vulnerable third-party drivers—often from motherboard utilities, anti-cheat solutions, or diagnostic software—attackers obtain arbitrary kernel read and write primitives.\n\nDemirkapi discusses the defensive impact of modern Windows security mechanisms, specifically Hypervisor-Protected Code Integrity (HVCI) and Kernel Patch Protection (PatchGuard/KPP) [15:22]. He outlines how HVCI enforces Second Level Address Translation (SLAT) and virtualization-based security (VBS) to prevent unsigned kernel code execution even when kernel memory read/write is achieved, limiting attackers to data-only attacks or Token Stealing primitives [10:19]. He also critiques driver vetting and revocation mechanisms, noting that revoked driver blocklists historically struggled with slow deployment and incomplete hardware telemetry.\n\nThe session delves into practical methodology for vulnerability research in Windows drivers, including static analysis of IOCTL dispatch routines and dynamic fuzzing of driver control interfaces [20:34]. Demirkapi emphasizes that everyday consumer hardware utilities and OEM update software remain fertile hunting grounds for local privilege escalation (LPE) vulnerabilities [25:27], offering guidance for researchers transitioning from userland reverse engineering to kernel exploitation.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1831
     },
     {
@@ -984,7 +984,7 @@
         "cloud"
       ],
       "teaser": "Sean Metcalf answers audience questions regarding Active Directory Federation Services, Azure AD Connect security, and hybrid identity hardening.",
-      "summary": null,
+      "summary": "Active Directory and cloud identity security expert Sean Metcalf (founder of Trimarc Security) joins DEF CON moderators Jurus and Patrick to answer audience questions on hybrid cloud security and Azure Active Directory (now Entra ID) attack paths [00:11]. Metcalf addresses the security frictions that arise when enterprises synchronize legacy on-premises Active Directory environments with Microsoft 365 and Azure cloud workloads [11:39]. He explains that the rapid pace of cloud feature deployment often outpaces organizational governance, leaving critical gaps between legacy infrastructure teams and cloud architects [17:20].\n\nThe discussion focuses heavily on identity federation, credential synchronization, and single sign-on (SSO) architectures [22:44]. Metcalf analyzes the security trade-offs of password hash synchronization (PHS) versus Active Directory Federation Services (AD FS) and pass-through authentication (PTA). He warns that attackers who compromise on-premises domain controllers or identity federation servers can forge SAML tokens (the Golden SAML technique) or abuse Azure AD Connect synchronization accounts (`MSOL_`) to escalate into global administrative privileges across the entire cloud tenant [28:18].\n\nMetcalf shares practical guidance for red teams and defenders on auditing hybrid identity trust boundaries. He outlines essential defensive hardening strategies, including restricting Global Administrator accounts to pure cloud-only identities, enforcing phishing-resistant multifactor authentication (MFA), monitoring privileged role activations via Privileged Identity Management (PIM), and isolating tier-0 identity assets from hybrid sync pipelines [33:50].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2040
     },
     {
@@ -1061,7 +1061,7 @@
         "hardware"
       ],
       "teaser": "Patrick Kiley discusses Tesla battery pack hardware teardowns, CAN bus command spoofing, and electric vehicle modding in a live Q&A.",
-      "summary": null,
+      "summary": "Automotive security researcher Patrick Kiley answers questions regarding his project reverse engineering Tesla's high-voltage Battery Management System (BMS) to unlock additional power output and integrate pack components into custom electric vehicle conversions [00:11]. Kiley emphasizes the importance of hardware bench-testing and testbed prototyping when auditing hazardous high-voltage systems, noting that building a simulated bench environment using salvaged subcomponents was essential to safely exploring the vehicle architecture without risking catastrophic pack damage or vehicle bricking [05:34].\n\nThe Q&A details the internal communication protocols and electronic control unit (ECU) relationships within Tesla Model S and Model 3 battery architectures [15:34]. Kiley explains how the central vehicle gateway mediates updates, diagnostic commands, and CAN bus messaging between the powertrain, inverter, and the BMS slave boards (BMBs). He discusses the software locks and configuration gating Tesla employs to tier battery capacities and performance upgrades (such as Ludicrous Mode), detailing how altering vehicle configuration bits in gateway memory can alter performance limits [10:19].\n\nKiley also addresses the broader implications of working with salvage and aftermarket Tesla vehicles, including Tesla's server-side disabling of Supercharging access on salvage titles [25:24]. He discusses Tesla's formal vehicle security research program, bug bounty engagements, and the legal and warranty landscape surrounding automotive ECU reverse engineering and right-to-repair initiatives [20:36].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1839
     },
     {
@@ -1140,7 +1140,7 @@
         "appsec"
       ],
       "teaser": "Joshua Maddux answers questions on weaponizing TLS protocol features for SSRF, session resumption exploitation, and mitigation.",
-      "summary": null,
+      "summary": "Joshua Maddux, security researcher at Quirky and Cora, joins DEF CON Safe Mode for a live Q&A session discussing his research into abusing Transport Layer Security (TLS) connections to facilitate Server-Side Request Forgery (SSRF) and trigger protocol-level deserialization attacks [00:38]. Maddux explores the novel exploitation vector demonstrated in his tool `tls-poison`, which leverages TLS Session Resumption and TLS session IDs/tickets to inject arbitrary text payloads into plaintext internal network services [23:27].\n\nThe discussion explains how traditional defenses against SSRF—such as protocol filtering and URL validation—often inspect the initial HTTP/HTTPS scheme but fail when an attacker induces an outbound TLS handshake to a malicious server [05:20]. Maddux describes how a rogue TLS server can return a crafted TLS session ID containing malicious protocol commands (for example, raw memcached commands or SMTP payloads). When the victim client resumes the session or re-connects via internal DNS rebinding, the unencrypted handshake tokens are transmitted to internal services, injecting commands into local daemons that expect plaintext lines [09:52, 14:27].\n\nMaddux addresses the technical mechanics of combining DNS rebinding with TLS, noting how short TTL values and multi-record IP responses force client applications to bounce between external attack infrastructure and private RFC 1918 loopback addresses [18:50]. He reviews remediation strategies, emphasizing that developers must disable TLS session resumption where unnecessary, validate client certificates, and enforce strict network egress filtering on servers handling outbound webhooks.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1681
     },
     {
@@ -1217,7 +1217,7 @@
         "appsec"
       ],
       "teaser": "Jack Baker answers audience questions on auditing multiplayer game protocols in Unreal and Unity, reverse engineering netcode, and fuzzing.",
-      "summary": null,
+      "summary": "Security researcher Jack Baker fields technical questions in this DEF CON Safe Mode Q&A session about bug hunting, reverse engineering, and exploit development in commercial multiplayer game engines, focusing on Epic Games' Unreal Engine and Unity [00:05]. Baker explains that modern commercial game engines are massive monolithic software suites that present a uniquely challenging attack surface because client-server game synchronization protocols prioritize low latency over security checks [04:56].\n\nBaker contrasts the security architectures of Unreal Engine and Unity, highlighting how Unreal's authoritative server architecture provides native structures to validate player movement, inventory, and physics state [10:01]. However, when developers fail to enforce strict server-side validation on Remote Procedure Calls (RPCs), vulnerabilities like memory corruption, deserialization bugs, and client-side trust assumptions emerge [25:09]. He describes his methodology for analyzing Unreal's source code on Linux, creating custom debug instrumentation, and tracing network serialization code to spot logic flaws and buffer overflows [15:09].\n\nThe session also addresses ethical disclosure and bug bounties within the gaming industry. Baker shares his experiences working with game publishers, discussing how bounty reward structures and non-disclosure agreements affect vulnerability research [20:10]. He provides recommendations for developers looking to harden networked multiplayer games, stressing rigid RPC argument validation, state sanitization, and deterministic server-side physics simulation.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1798
     },
     {
@@ -1283,7 +1283,9 @@
       "youtubeId": "vqDvv1sS2os",
       "slug": "safe-mode-channel",
       "title": "Safe Mode",
-      "speakers": [],
+      "speakers": [
+        "The Dark Tangent"
+      ],
       "track": "community",
       "topics": [
         "community",
@@ -1292,7 +1294,7 @@
         "youtube"
       ],
       "teaser": "Announcement that DEF CON 28 entered Safe Mode during COVID-19.",
-      "summary": null,
+      "summary": "In this official DEF CON 28 announcement video, founder The Dark Tangent (Jeff Moss) informs the hacker community that DEF CON 28 has officially entered \"Safe Mode,\" transitioning the conference into an online virtual event in response to the COVID-19 pandemic [00:01]. The video acknowledges the long-running community meme that \"DEF CON is canceled,\" explaining that health safety realities made hosting an in-person gathering in Las Vegas impossible [00:04].\n\nThe announcement invites attendees, village organizers, and researchers worldwide to participate in DEF CON Safe Mode through virtual platforms, including the official DEF CON Discord server, Twitch streams, and community forums. The Dark Tangent highlights the resilience of the hacker community and sets the tone for an experimental virtual conference featuring online talks, village contests, and remote badge hacking, while looking forward to reuniting in person at DEF CON 29 [00:20].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 48
     }
   ]

@@ -38,7 +38,7 @@
         "culture"
       ],
       "teaser": "Skittish and Bus perform a live DJ and music video set to ring in 2021 during the inaugural DEF CON New Year's Eve virtual celebration.",
-      "summary": null,
+      "summary": "Electronic musical duo Skittish & Bus deliver an energetic live musical performance for DEF CON's inaugural New Year's Eve virtual celebration, broadcast to ring in 2021 [00:00]. The performance features a dynamic blend of electronic dance music, hip-hop, glitch-hop, and club beats accompanied by live vocals, synth sequencing, and energetic crowd interaction across the virtual chat stream [07:03].\n\nThe duo cycles through an eclectic setlist of original tracks and remixed electronic anthems, featuring pulsating basslines, vocoded refrains, and rhythmic vocal performances [13:43, 21:14]. Throughout the performance, Skittish & Bus engage with the global online hacker community, celebrating fellowship, resilience, and the creative intersection between underground electronic music and hacker culture [26:31, 36:38].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2759
     },
     {
@@ -95,7 +95,9 @@
       "youtubeId": "dUsm26MlA7M",
       "slug": "save-the-date-def-con-s-first-new-year-s-eve-party",
       "title": "Save the Date - DEF CON's first New Year's Eve party!",
-      "speakers": [],
+      "speakers": [
+        "The Dark Tangent"
+      ],
       "track": "community",
       "topics": [
         "community",
@@ -104,7 +106,7 @@
         "youtube"
       ],
       "teaser": "Save-the-date promo for DEF CON’s first New Year’s Eve party.",
-      "summary": null,
+      "summary": "This official promotional teaser announces DEF CON's inaugural global New Year's Eve virtual celebration, held from December 31, 2020 through January 1, 2021 [00:01]. Hosted on the official DEF CON Discord server, the event invites the worldwide hacker community to celebrate the end of a tumultuous year together in a relaxed, social online environment [00:10].\n\nThe announcement highlights the party's lineup of community entertainment, including Hacker Jeopardy, Drunk Hacker History, live musical and DJ sets, movie screenings, and celebrity bartender appearances [00:18]. Emphasizing community connection and informal fellowship without the formalities of standard conference tracks, the teaser encourages hackers everywhere to tune in and ring in the new year together [00:25].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 30
     }
   ]
