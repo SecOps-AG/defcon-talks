@@ -113,7 +113,7 @@
         "device-hacking"
       ],
       "teaser": "In this talk, reverse engineer and security expert John Dunlap will present security hazards concerning the ever expanding use of Field Programmable Gate Array systems. FPGA’s are reconfigurable computers that allow p...",
-      "summary": null,
+      "summary": "This presentation focuses on Internet of Things security and embedded systems vulnerabilities.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:00. 299><c> good</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1754
     },
     {
@@ -188,7 +188,7 @@
         "vulnerability-research"
       ],
       "teaser": "Smart irrigation systems, a new IoT device which is aimed at saving water and money, have already been adopted by smart cities (e.g., Barcelona), agriculture, and the private sector around the world and will replace e...",
-      "summary": null,
+      "summary": "This DEF CON talk covers attacking commercial smart irrigation systems.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:00. 210><c> Ben</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2365
     },
     {

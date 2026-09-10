@@ -321,7 +321,7 @@
       "youtubeId": "Rjd3DP5W8Z0",
       "title": "FPGAs a new attack surface for embedded adversaries",
       "slug": "john-dunlap-fpgas-a-new-attack-surface-for-embedded-adversaries",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-iot-village.json",
@@ -329,7 +329,7 @@
       "youtubeId": "M5S2-PdvGc4",
       "title": "Attacking Commercial Smart Irrigation Systems",
       "slug": "ben-nassi",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-main-stage.json",
@@ -337,7 +337,7 @@
       "youtubeId": "b7ekygjC3so",
       "title": "Lora Smart Water Meter Security Analysis",
       "slug": "lora-smart-water-meter-security-analysis",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-main-stage.json",
@@ -345,7 +345,7 @@
       "youtubeId": "N5_dNdp8SNc",
       "title": "Closing Ceremonies",
       "slug": "closing-ceremonies-4",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-main-stage.json",
@@ -353,7 +353,7 @@
       "youtubeId": "Dz0C55Azn1Y",
       "title": "Looking for the Perfect Signature: Automatic YARA Rules",
       "slug": "andrea-marcelli-looking-for-the-perfect-signature-automatic-yara-rules",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-monero-village.json",
@@ -361,7 +361,7 @@
       "youtubeId": "lIGbNTbMd-A",
       "title": "BCOS Keynote",
       "slug": "bcos-monero-village-philip-martin",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-monero-village.json",
@@ -369,7 +369,7 @@
       "youtubeId": "ljSA51FZKdE",
       "title": "A Rundown of Security Issues in Crypto  Wallets",
       "slug": "bcos-monero-village-marko-bencun-a-rundown-of-security-issues-in",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-monero-village.json",
@@ -377,7 +377,7 @@
       "youtubeId": "LjM3GTBaUvo",
       "title": "Moneros Emerging Applications",
       "slug": "bcos-monero-village-fluffy-pony",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-packet-hacking-village.json",
@@ -385,7 +385,7 @@
       "youtubeId": "9CoZUulhiwo",
       "title": "TryCatchHCF - PacketWhisper Stealthily Exfiltrating Data",
       "slug": "trycatchhcf",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-packet-hacking-village.json",
@@ -393,7 +393,7 @@
       "youtubeId": "7kGFqYu07jg",
       "title": "Rogan Dawes - Mallet A Proxy for Arbitrary Traffic",
       "slug": "rogan-dawes-mallet-a-proxy-for-arbitrary-traffic",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-packet-hacking-village.json",
