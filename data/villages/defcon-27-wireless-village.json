@@ -39,7 +39,7 @@
         "wireless-vehicles"
       ],
       "teaser": "Ford keyfob security flaws—exploitation techniques for denial of service and vehicle control.",
-      "summary": null,
+      "summary": "Woody presents \"The Ford Hack Raptor Captor,\" a comprehensive technical breakdown of radio frequency reverse engineering and protocol vulnerabilities uncovered in modern Ford automotive key fobs.\n\n[10:56] Woody analyzes the wireless communication architecture utilized by Ford remote keyless entry (RKE) systems, which transmit on 315 MHz and 902 MHz using frequency-shift keying (FSK) and amplitude-shift keying (ASK) modulation schemes. He examines the proprietary rolling code protocols designed to prevent replay attacks, demonstrating how weaknesses in synchronization and signal validation permit unauthorized interception and exploitation.\n\n[21:31] The presentation walks through capturing and demodulating key fob signals using Software Defined Radios (such as HackRF and RTL-SDR) alongside GNU Radio flowgraphs [47:09]. Woody demonstrates an attack that induces a denial-of-service against the legitimate key fob without requiring active broad-spectrum radio jamming. He introduces the \"Raptor Captor\" hardware tool and demonstrates capturing unlock sequences [34:01], manipulating rolling counter windows, and replaying unauthorized vehicle access commands.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3516
     },
     {
@@ -115,7 +115,7 @@
         "physical-security"
       ],
       "teaser": "We performed a case study with the most basic attack profile: the bad BSSID is known and the blue team is searching for the physical device, which is on the move. The theater was the DEFCON 26 wireless CTF. Since we d...",
-      "summary": null,
+      "summary": "Security researcher m1n1 presents a fascinating case study in defensive wireless engineering, detailing how a distributed sensor mesh network was constructed to hunt down rogue mobile access points (such as Wi-Fi Pineapples) moving throughout the DEF CON 26 venue.\n\n[08:54] The speaker explains the hardware design and cost-performance trade-offs of using low-power microcontroller platforms, comparing ESP8266 and ESP32 chips for physical sensor deployment. The team built compact, battery-powered sensor nodes (\"implants\") running customized firmware designed to sniff 802.11 beacon frames and probe responses while communicating telemetry over a peer-to-peer wireless mesh network.\n\n[18:05] The presentation explores the mathematical and algorithmic techniques used to track mobile rogue access points in real time. m1n1 discusses managing power consumption, handling sensor loss, and implementing received signal strength indicator (RSSI) triangulation [27:22] to estimate the physical coordinates of rogue emitters. He details strategies for overcoming offensive countermeasures [36:15], such as rogue devices employing beacon delays, randomized MAC addresses, and SSID spoofing, demonstrating how distributed mesh sensors can successfully pinpoint mobile threat actors in dense, hostile RF environments.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2762
     },
     {
@@ -189,7 +189,7 @@
         "wireless-tools"
       ],
       "teaser": "Today Wi-Fi is everywhere and is one of the most widely used wireless networking protocols. Wi-Fi devices extend the network boundaries exposing also the network to anyone who is nearby. Reconnaissance is the first an...",
-      "summary": null,
+      "summary": "Andres Blanco presents \"Love is in the Air,\" an insightful demonstration of the passive reconnaissance and intelligence leakage embedded within unencrypted 802.11 Wi-Fi management frames.\n\n[04:43] Blanco explains that while modern Wi-Fi encryption (such as WPA2 and WPA3) protects data payload traffic, standard 802.11 management frames—including beacon frames, probe requests, and probe responses—are transmitted in plaintext over the air. He explores how devices constantly broadcast wireless frames containing detailed vendor-specific Information Elements (IEs) and capability tags.\n\n[09:20] The presentation examines specific information leakage vectors, including Apple AirPlay/AirDrop beacons, Wi-Fi Alliance extensions, and Wi-Fi Protected Setup (WPS) attributes [19:17]. Blanco demonstrates how analyzing these public attributes allows an observer to determine the manufacturer, hardware model, exact operating system version, configured network histories, and unique device fingerprints of nearby smartphones, laptops, and IoT appliances [14:31] without sending a single packet or connecting to the target network.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1475
     },
     {
