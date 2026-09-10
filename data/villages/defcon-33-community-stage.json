@@ -101,7 +101,7 @@
         "community"
       ],
       "teaser": "Security engineer Jeff Geisperger introduces the fundamentals of electronic conference badge design, PCB fabrication, and badgelife hardware hacking.",
-      "summary": null,
+      "summary": "Hardware hacker and maker Jeff Gisberger (\"Big Taro\") delivers a comprehensive beginner's guide to custom conference badge design and electronics manufacturing on the Community Stage [00:02]. Gisberger covers the foundational workflow of badge creation, explaining how to transition from circuit concepts to printed circuit board (PCB) layouts using Electronic Design Automation (EDA) suites like KiCad [05:47].\n\nThe talk details the popular Shitty Add-On (SAO) standard for modular badge peripherals, exploring creative design choices involving component selection, multilayer FR4 routing, soldermask colors, and decorative silkscreen graphics [05:49, 11:16]. Gisberger shares practical advice on breadboarding prototypes, choosing suitable microcontrollers (such as the ESP32 or RP2040), and integrating display screens [16:46, 22:17]. He highlights interactive features from prior community badges—including playable Frogger games and custom BLE scanners configured to alert wearers to nearby Bluetooth MAC addresses [27:48]—encouraging attendees to participate in the Badge Life hardware community.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2033
     },
     {
@@ -217,7 +217,7 @@
         "reverse-engineering"
       ],
       "teaser": "Joe Aurelio draws parallels between video game cheat loaders and enterprise malware, exploring how anti-cheat countermeasures mirror modern EDR evasion tradecraft.",
-      "summary": null,
+      "summary": "An offensive security researcher explores the technical synergies between commercial game cheating and enterprise red teaming on the Community Stage, demonstrating how game hackers consistently pioneer evasive techniques later adopted by advanced malware authors [00:01, 04:10]. The speaker illustrates that while fundamental exploitation concepts remain consistent, the rapid cat-and-mouse dynamic between cheat developers and anti-cheat systems drives cutting-edge evasion research.\n\nThe presentation analyzes low-level evasion techniques, including in-memory code execution, Direct Memory Access (DMA) hardware attacks, and stealthy memory manipulation designed to leave zero forensic artifacts upon termination [08:21]. The speaker details behavioral evasion strategies, such as developing aimbots that bypass algorithmic detection by emulating physical hardware mouse movements through simulated controller curves rather than direct memory writes [12:54]. The session concludes with a deep dive into kernel-level warfare, examining how game hackers bypass UEFI Secure Boot, exploit vulnerable signed third-party drivers (BYOVD), and operate custom hypervisors beneath Ring 0 anti-cheat engines [20:45, 25:21].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1808
     },
     {
