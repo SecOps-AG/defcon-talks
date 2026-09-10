@@ -1173,7 +1173,7 @@
         "skill-building"
       ],
       "teaser": "Panelists share stories and strategies for advancing cybersecurity education, youth mentorship, and STEM outreach initiatives.",
-      "summary": null,
+      "summary": "A multidisciplinary panel of pediatricians, biomedical engineers, and cybersecurity researchers discuss medical device security and healthcare cybersecurity education at the DEF CON 32 Creator Stage.\n\n[10:41] The panelists share real-world experiences responding to cybersecurity incidents in hospitals, illustrating how ransomware attacks and clinical system outages directly jeopardize patient care by knocking out electronic health records, diagnostic lab telemetry, and infusion pump monitoring.\n\n[21:25] The discussion focuses on building collaborative bridges between clinical medical staff, biomedical technicians, and independent security researchers. Panelists explore responsible vulnerability disclosure frameworks in healthcare, ethical constraints, and educational STEM initiatives [43:16] designed to inspire the next generation of technologists to safeguard life-critical medical devices under the ethical mandate of \"Do No Harm\" (D0N0H4RM).\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3262
     },
     {
@@ -1842,7 +1842,7 @@
         "recon"
       ],
       "teaser": "Covers fundamental techniques for evaluating physical security controls including doors, cameras, and mantraps during client assessments.",
-      "summary": null,
+      "summary": "Security consultant \"The Magician\" provides an entry-level masterclass on the practical aspects of physical security assessments and client communication at the DEF CON 32 Creator Stage.\n\n[03:38] The speaker breaks down the common physical vulnerabilities encountered during facility assessments, detailing bypasses for improperly installed commercial doors, latch slipping, under-door tools, and manipulating insecure window latches.\n\n[07:12] The talk explores RFID badge cloning using portable devices like the Flipper Zero, discussing why card cloning is only one component of a comprehensive physical assessment. The Magician emphasizes the human and consultative side of physical penetration testing [10:38], explaining how to deliver constructive, empathetic client reports that focus on positive risk remediation rather than embarrassing security guards or facilities managers [14:07].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1060
     },
     {

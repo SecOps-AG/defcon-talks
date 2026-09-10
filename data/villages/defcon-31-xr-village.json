@@ -21,7 +21,7 @@
         "virtual-reality"
       ],
       "teaser": "Human rights attorney Brittan Heller discusses biometric privacy, spatial computing ethics, and civil liberties in immersive environments.",
-      "summary": null,
+      "summary": "Technology human rights attorney Brittan Heller delivers an insightful fireside chat at the DEF CON 31 XR Village on privacy, civil liberties, and biometric surveillance in virtual and augmented reality (XR).\n\n[09:39] Heller explores the psychological impact of immersive virtual environments, pointing out that virtual reality triggers visceral neurological and physiological responses equivalent to physical experiences. She warns that this sensory immersion makes virtual spaces potent environments for manipulation, harassment, and emotional exploitation.\n\n[19:14] The talk examines \"biometric psychography\"—the novel privacy threat where XR sensor arrays (tracking eye gaze, pupil dilation, facial micro-expressions, gait, and head movement) allow tech platforms to infer subconscious emotional states, sexual orientation, political leanings, and psychological vulnerabilities without explicit user consent. Heller analyzes regulatory gaps [39:28], biometric data laws, and the urgent necessity for privacy-by-design standards before spatial computing architectures become pervasive.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2955
     },
     {
@@ -98,7 +98,7 @@
         "simulation"
       ],
       "teaser": "Suzanne Borders, Keenan Skelly, and Bryson Bort discuss how extended reality and immersive spatial data tools are applied to protect critical infrastructure systems.",
-      "summary": null,
+      "summary": "Suzanne Borders (CEO of BadVR), Keenan Skelly (XR Village founder), and Bryson Bort discuss the operational integration of virtual and augmented reality technologies into critical infrastructure defense at the DEF CON 31 XR Village.\n\n[08:38] The speakers explain how extended reality transforms complex industrial datasets into intuitive spatial visualizations for critical infrastructure operators. Borders shares practical case studies using XR headsets for emergency management [17:21], such as wildland firefighting where spatial models display live ground temperatures, active fire perimeters, and water resources in real time.\n\n[26:46] The panel addresses the critical cybersecurity risks of immersive technology in high-consequence environments, exploring sensory manipulation attacks, spoofed spatial data, training simulation tampering [35:48], and the imperative to authenticate digital reality models used in flight training, power grid operations, and national defense.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2739
     }
   ]
