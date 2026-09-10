@@ -20,7 +20,7 @@
         "wireless"
       ],
       "teaser": "Introduces the OSTRWERK open-source hardware initiative providing accessible RF tooling and equipment for amateur radio operators.",
-      "summary": null,
+      "summary": "In this practical hardware presentation from the DEF CON Safe Mode Ham Radio Village, a radio amateur introduces the OSTRWERK Initiative, designing rugged, field-deployable radio communication kits for disaster response. Opening at 00:04, the speaker reviews the technical requirements for portable communication stations capable of operating during extended power grid failures.\n\nAt 11:01, the presenter examines field station architectures, demonstrating custom Pelican-style waterproof cases integrating VHF/UHF transceivers, lithium iron phosphate battery management systems, and antenna tuners.\n\nAt 22:04 and 33:02, the speaker conducts a hardware demonstration, evaluating audio interface wiring between transceivers and Raspberry Pi single-board computers while discussing enclosure thermal management and magnetic keyboard mounting for portable digital emergency operations. (AI summary — Gemini Flash)",
       "durationSeconds": 2768
     },
     {
@@ -90,7 +90,7 @@
         "digital-modes"
       ],
       "teaser": "Demonstrates deploying Raspberry Pi and single-board computers for digital amateur radio modes, APRS gateways, and remote control.",
-      "summary": null,
+      "summary": "In this hardware tutorial from the DEF CON Safe Mode Ham Radio Village, an amateur radio operator demonstrates integrating Single Board Computers (SBCs) into modern ham radio stations. Opening at 00:02, the presenter compares popular SBC platforms, detailing the hardware specifications and power requirements of the Raspberry Pi 3B+ and Raspberry Pi 4.\n\nAt 11:00 and 22:00, the speaker walks through flashing headless Raspberry Pi OS images, configuring wpa_supplicant.conf for automated Wi-Fi provisioning, and configuring remote VNC access.\n\nAt 33:01 and 44:00, the demonstration illustrates interfacing the Raspberry Pi with an Icom transceiver via USB sound cards and CI-V rig control cables, configuring amateur radio software packages such as WSJT-X and FLDIGI to operate FT8 and digital packet modes in portable field environments. (AI summary — Gemini Flash)",
       "durationSeconds": 2707
     },
     {

@@ -38,7 +38,7 @@
         "challenge"
       ],
       "teaser": "Presents a maritime tracking challenge on analyzing vessel paths and predicting single-point coordinates from RF telemetry.",
-      "summary": null,
+      "summary": "In this data science session from the DEF CON Safe Mode Hack the Seas Village, the presenter introduces the \"Single Point Prediction\" challenge, exploring trajectory forecasting algorithms for maritime vessels. Opening at 00:00, the speaker details the challenge objective: predicting future vessel coordinates based on sparse, intermittent telemetry data.\n\nAt 04:02 and 08:01, the presentation breaks down Automatic Identification System (AIS) message formats, focusing on Class A position reports (Types 1, 2, and 3). The speaker shows how vessel speed, rate of turn, and navigation status can be modeled to predict vessel transit paths even through GPS dead zones.\n\nConcluding at 12:00, the presenter reviews model scoring criteria and invites data scientists and maritime security researchers to develop predictive algorithms capable of identifying anomalous vessel behaviors and spoofed AIS tracks. (AI summary — Gemini Flash)",
       "durationSeconds": 922
     },
     {
@@ -111,7 +111,7 @@
         "satellite"
       ],
       "teaser": "Uncovers vulnerabilities in luxury yacht automation systems, NMEA 2000 marine networks, and satellite telematics.",
-      "summary": null,
+      "summary": "In this technical penetration testing briefing from the DEF CON Safe Mode Hack the Seas Village, researcher OB166 presents \"Yacht Pwned,\" exploring the expansive digital and industrial attack surface aboard luxury superyachts. Opening at 00:02, the speaker outlines the dense networking architectures deployed on modern mega-yachts.\n\nAt 12:00, he reveals that high-end vessels typically house multiple 42U equipment racks containing satellite communication modems, guest Wi-Fi infrastructure, entertainment servers, and marine automation controllers. At 24:01, the presenter demonstrates pivoting from unsegmented guest networks through NMEA gateways that bridge vessel IT with critical maritime operational networks.\n\nAt 36:02, he shows how sniffing unencrypted serial and Ethernet communications enables testers to manipulate environmental automation and navigation systems, concluding at 48:02 with defensive segmentation guidelines published on his maritime research repository. (AI summary — Gemini Flash)",
       "durationSeconds": 2935
     },
     {
