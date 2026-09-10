@@ -561,7 +561,7 @@
       "youtubeId": "8TnV0-zGsKU",
       "title": "Purple Team Strategies for Application Security",
       "slug": "joe-schottman-purple-team-strategies-for-application-security",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-appsec-village.json",
@@ -569,7 +569,7 @@
       "youtubeId": "0IAyPq81JFg",
       "title": "How bad could it be Inside Law Enforcement",
       "slug": "anthony-kava-how-bad-could-it-be-inside-law-enforcement",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-biohacking-village.json",
@@ -577,7 +577,7 @@
       "youtubeId": "lb2p212rc6o",
       "title": "A Previvors Story of Uncovering Massive Zero Day",
       "slug": "andrea-downing-a-previvors-story-of-uncovering-massive-zero-day",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-biohacking-village.json",
@@ -585,7 +585,7 @@
       "youtubeId": "fsU27wVYQ_I",
       "title": "Building a New Decentralized Internet With the Nodes",
       "slug": "nick-titus-building-a-new-decentralized-internet-with-the-nodes",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-biohacking-village.json",
@@ -593,7 +593,7 @@
       "youtubeId": "5pIp2Bs3oe0",
       "title": "Liven Up Augmenting Materials  Bio Hybrid Function",
       "slug": "rachel-smith-liven-up-augmenting-materials-bio-hybrid-function-d",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-biohacking-village.json",
@@ -601,7 +601,7 @@
       "youtubeId": "9mEqKsJDzXk",
       "title": "Cyberbiosecurity and the Full Stack Biotechnologist",
       "slug": "steve-lewis-cyberbiosecurity-and-the-full-stack-biotechnologist",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-blockchain-village.json",
@@ -609,7 +609,7 @@
       "youtubeId": "K60VNlFpzR4",
       "title": "Responding to Firefox 0 days",
       "slug": "philip-martin-responding-to-firefox-0-days-def-con-27-block-chai",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-blockchain-village.json",
@@ -617,7 +617,7 @@
       "youtubeId": "RyOJ1kriKv0",
       "title": "Hacking Cryptocurrencies",
       "slug": "mark-nesbitt-hacking-cryptocurrencies-def-con-27-block-chain-vil",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-blue-team-village.json",
@@ -625,7 +625,7 @@
       "youtubeId": "JGsrRROEhkk",
       "title": "BloodHound From Red to Blue 1 point 5",
       "slug": "scoubi-bloodhound-from-red-to-blue-1-point-5-def-con-27-blue-tea",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-blue-team-village.json",
@@ -633,7 +633,7 @@
       "youtubeId": "hM6pa_aW0f4",
       "title": "Extending Zeek For ICS Defense",
       "slug": "norman-lundt-extending-zeek-for-ics-defense-def-con-27-blue-team",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-blue-team-village.json",

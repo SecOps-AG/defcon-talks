@@ -39,7 +39,7 @@
         "defense"
       ],
       "teaser": "BloodHound was originally built for Pentesters to easily identify highly complex attack paths but it can also be used to improve the overall security posture of your Active Directory. We will start with a short introd...",
-      "summary": null,
+      "summary": "This DEF CON talk covers bloodhound from red to blue 1 point 5.\n\nKey topics discussed include: Kind: captions Language: en all<00:00:00. 269><c> right</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2444
     },
     {
@@ -114,7 +114,7 @@
         "threat-intelligence"
       ],
       "teaser": "Industrial Control System(ICS) protocols are often neglected in the realm of network security monitoring. Detecting, parsing, and finding malicious activity can be frustrating and time consuming. In this session we wi...",
-      "summary": null,
+      "summary": "This talk covers industrial control systems security and critical infrastructure protection.\n\nKey topics discussed include: Kind: captions Language: en all<00:00:00. 240><c> right</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1146
     },
     {
