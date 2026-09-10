@@ -139,7 +139,7 @@
         "def-con"
       ],
       "teaser": "Opening Remarks.",
-      "summary": null,
+      "summary": "DEF CON Conference Presentation\n\nThis segment features remarks and presentations from DEF CON organizers, security industry leaders, and keynote speakers. Discussion includes the current state of cybersecurity, hacker culture, community initiatives, and the conference's impact on the information security landscape.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 58
     },
     {
@@ -207,7 +207,7 @@
         "education"
       ],
       "teaser": "Exploratory Data Analysis: Why and How in Python.",
-      "summary": null,
+      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information about targets without direct interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2010
     },
     {
