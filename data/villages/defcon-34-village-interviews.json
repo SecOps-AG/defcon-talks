@@ -71,7 +71,7 @@
         "embedded-systems"
       ],
       "teaser": "The DEF CON Video Team tours the Car Hacking Village to highlight hands-on test rigs, vehicle telemetry research, and community workshops.",
-      "summary": null,
+      "summary": "Security researchers Reverse Everything and Bitbang provide an on-site walkthrough inside an electric 2025 Volkswagen ID.Buzz in the Car Hacking Village, detailing automotive attack surfaces and vehicle network protocols [00:06, 00:15].\n\nThe researchers analyze the data frames and high-voltage power negotiation protocols exchanged between electric vehicles and charging stations, warning of potential man-in-the-middle vulnerabilities during charge initiation [01:38, 01:47]. They reveal severe implementation flaws in aftermarket telematics and anti-theft tracking modules installed by car dealerships [03:05]. Because these modules connect directly to vehicle CAN bus systems with active cellular uplinks, reverse-engineering demonstrated that up to 90% of inspected vehicles were vulnerable to remote compromise, transforming dealer-installed security hardware into an initial access vector for remote vehicle control [04:45, 04:55].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 439
     },
     {
@@ -142,7 +142,7 @@
         "contest"
       ],
       "teaser": "Soldier of FORTRAN joins the DEF CON Video Team to introduce PhreakMe, a hands-on contest bringing vintage phreaking techniques and tones to the modern era.",
-      "summary": null,
+      "summary": "Mainframe and telephony researcher Soldier of FORTRAN and Little Fella introduce \"PhreakMe\" at DEF CON 34, an interactive contest and learning lab celebrating historical phone phreaking and telecommunications culture [00:12, 03:42].\n\nThe organizers discuss reviving the tactile heritage of early phone hacking, demonstrating vintage electromechanical step-by-step switching systems, rotary dialing mechanics, and the in-band signaling frequencies—such as 2600 Hz tone signaling and blue boxing—that defined early network exploration [01:55, 06:52]. They share the logistical hurdles of sourcing rare vintage telecommunications components amid modern supply chain shortages [05:15], emphasizing the educational importance of understanding the foundational analog and digital telephony routing architectures that paved the way for modern networking [06:50].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 511
     },
     {
@@ -211,7 +211,7 @@
         "embedded-systems"
       ],
       "teaser": "MajorMalfunction breaks down electric vehicle charger architectures, hardware interfaces, and security vulnerabilities with the DEF CON Video Team.",
-      "summary": null,
+      "summary": "Hardware security veteran Adam Laurie (\"MajorMalfunction\") of Alpitronic delivers a technical breakdown of commercial electric vehicle fast-charging architecture and vulnerability research in the Car Hacking Village [00:06].\n\nLaurie examines the interconnected attack surface of DC fast chargers, detailing the protocols and communication layers linking vehicles, charging stations, and grid management systems—including Power Line Communication (PLC), ISO 15118 standards, and backend cellular telemetry [01:42]. He discusses the systemic risks that vulnerable charging networks pose to municipal energy grids, warning that coordinated load-switching attacks across hundreds of high-amperage chargers could destabilize power distribution [03:20, 03:27]. Laurie advocates for transparent adversarial testing and collaboration between hardware manufacturers and independent researchers to harden charging infrastructure prior to deployment [05:05].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 502
     },
     {
@@ -281,7 +281,7 @@
         "hacker-culture"
       ],
       "teaser": "The DEF CON Video Team and Guzi Media ask the red-shirted Goon staff what it takes to organize, protect, and run DEF CON.",
-      "summary": null,
+      "summary": "DEF CON Goons—the iconic red-shirted operational staff and volunteer corps—share their personal experiences, responsibilities, and motivations across multiple decades of conference operations [00:00].\n\nFeaturing interviews with staff members ranging from first-year volunteers to 22-year conference veterans [00:00, 00:11], the Goons discuss what keeps them returning each year, highlighting the satisfaction of assisting attendees in the hallways, maintaining safety, and creating a supportive, high-energy environment [00:18, 00:27]. They reflect on the inclusive nature of the conference, emphasizing that DEF CON brings together individuals across every technical discipline and skill level into a unified, collaborative hacker community [00:43, 00:49].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 57
     },
     {
@@ -351,7 +351,7 @@
         "microcontrollers"
       ],
       "teaser": "Bunnie Huang breaks down the hardware engineering, cryptographic features, and silicon design choices behind the DEF COIN 34 conference badge.",
-      "summary": null,
+      "summary": "Open-source hardware pioneer Andrew \"bunnie\" Huang delivers a technical teardown and architecture walkthrough of the official electronic badge designed for DEF CON 34 [00:19].\n\nBunnie explains the badge's foundational open-source philosophy, highlighting how complete design transparency down to the silicon and circuit schematics enables wearers to independently audit and verify hardware trust rather than relying on manufacturer assurances [01:53, 03:32]. He describes the badge as a high-performance \"go-kart for hackers,\" powered by a 700 MHz PicoRV32 RISC-V soft core capable of running custom binaries, manipulating GPIO pins, and driving hardware peripherals [05:07, 05:15], celebrating the creative modifications and unexpected firmware hacks devised by conference attendees throughout the con [06:51].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 515
     },
     {

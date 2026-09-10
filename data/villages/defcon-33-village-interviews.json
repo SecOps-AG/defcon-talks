@@ -560,7 +560,7 @@
         "community"
       ],
       "teaser": "Organizers highlight remote and in-person participation options, live target scopes, and bounty opportunities at Bug Bounty Village.",
-      "summary": null,
+      "summary": "Organizers welcome attendees to the second year of Bug Bounty Village at DEF CON 33, highlighting expanded seating capacity to accommodate high community demand for technical briefings and defensive workshops [00:10, 00:13].\n\nThe village introduces its first official Capture the Flag (CTF) tournament—open to both on-site attendees and remote global competitors via bbv.ctf.ae [00:01, 00:18]—featuring hardware prizes including PlayStation 5 and Meta Quest headsets [00:03]. The organizers also showcase exclusive pre-order and Hacker Warehouse merchandise, inviting researchers to participate in community discussions and collaborative bug hunting [00:25, 00:30].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 34
     },
     {
@@ -629,7 +629,7 @@
         "embedded-systems"
       ],
       "teaser": "d3dbot catches up with the Mobile Hacking Community at DEF CON 33, exploring baseband analysis, Android internals, and iOS jailbreaking research.",
-      "summary": null,
+      "summary": "Interviewer d3dbot meets with organizers of the Mobile Hacking Community at DEF CON 33 to explore the evolution of mobile device, operating system, and baseband security research [00:02]. The organizers discuss founding the community after identifying an unmet need for dedicated mobile reverse engineering and exploitation spaces at DEF CON over past years [02:01].\n\nThe organizers detail their year-round collaborative framework, connecting mobile researchers, firmware analysts, and exploit developers globally through active online forums and digital competitions [03:57]. For DEF CON 33, their programming emphasizes interactive workshops and technical sessions examining iOS and Android internals, application assessment workflows, and emerging mobile threat landscapes heading into 2026 [04:02, 07:38], encouraging security practitioners of all backgrounds to get involved.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 558
     }
   ]
