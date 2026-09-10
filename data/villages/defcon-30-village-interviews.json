@@ -450,7 +450,7 @@
         "community"
       ],
       "teaser": "A technical talk detailing circuit board design, custom firmware, and puzzle challenges embedded in the MKFactor badge.",
-      "summary": null,
+      "summary": "Silk interviews the hardware creator behind MKFactor, the team responsible for designing the official electronic badges for DEF CON 30. The designer discusses creating ten distinct badge variants—including Goon, Human, Speaker, CFP, Village, Contest, and Press, alongside the elusive Uber badge—each programmed with custom audio samples, distinctive silkscreen art, and an integrated cassette mixtape theme.\n\nThe interview covers the badge's sampling keyboard architecture, detailing how the built-in microphone and line-in jack allow attendees to sample ambient sounds and pitch-shift them across capacitive touch pads (01:30). At 02:30, they explore the SAO (Simple Add-On) connector and describe custom hardware choices, including a specially manufactured top-mounted display cable (05:00) and an RP2040 microcontroller dedicating an entire core to 125 MHz capacitive touch polling (13:10). The creator explains circuit design compromises forced by supply chain shortages, humorously demonstrating why connecting the line-out directly into the line-in causes the differential audio amplifier to short circuit (02:00, 10:00).\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 860
     },
     {
@@ -511,7 +511,7 @@
         "community"
       ],
       "teaser": "Demonstrates emerging open-source security tools, vulnerability scanners, and testing frameworks at DEF CON Demo Labs.",
-      "summary": null,
+      "summary": "Silk meets with Heisenberg, organizer of DEF CON Demo Labs, to explore the hands-on open-source exhibition space designed for security tool developers and researchers. Heisenberg explains how Demo Labs provides an intimate, interactive alternative to large stage presentations, giving authors a direct venue to showcase emerging utilities, receive real-time peer feedback, and collaborate with attendees to drive project development.\n\nHeisenberg highlights the broad spectrum of tools featured across the labs at 02:25, ranging from hardware hacking and RF tooling to Wi-Fi security suites and exploitation frameworks like PowerShell Empire. At 03:10, he outlines the five-year history of the initiative and details the Call for Demos (CFD) submission process (04:15), encouraging open-source developers and researchers to submit their projects to present at future conferences.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 294
     },
     {
@@ -572,7 +572,7 @@
         "community"
       ],
       "teaser": "A guided walkthrough of defensive workshops, SOC simulation games, and threat hunting setups at Blue Team Village.",
-      "summary": null,
+      "summary": "Silk tours the bustling Blue Team Village floor at DEF CON 30 with the village director, discussing defensive security operations, practical educational tracks, and community initiatives. The director explains the village's pivot toward conversational, highly interactive panels covering critical defensive domains, including large-scale threat hunting, career skill leveling, and cloud DFIR engineering.\n\nThe walkthrough details the village's interactive attack-chain learning stations at 00:45, featuring self-paced audio guides and live main-stage walkthroughs designed to make defensive concepts approachable for beginners (02:50). At 01:00, the director highlights year-round community engagement through blueteamvillage.org and Project Obsidian, playfully addresses the friendly rivalry between red and blue teams (02:15), and shares their personal journey from first-time volunteer to village director (03:45).\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 278
     },
     {
