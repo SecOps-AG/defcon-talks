@@ -68,7 +68,7 @@
         "community"
       ],
       "teaser": "Hacking a Crypto Payment Gateway",
-      "summary": null,
+      "summary": "### Security Auditing of Cryptocurrency Payment Processors\nAt 00:00, Devin Pearson and Honigwachs deliver a vulnerability analysis of cryptocurrency payment gateways, examining integration risks at physical point-of-sale (PoS) terminals.\n\n### Integrating Digital Currencies into Retail Infrastructure\nAt 02:00, Pearson discusses the mission of GloBee, an open payment platform designed to bridge Bitcoin and Monero transactions into brick-and-mortar retail systems and automated vending machines.\n\n### Hardware Interfacing and Multi-Drop Bus (MDB) Protocols\nAt 04:03 and 06:00, the presenters examine physical hardware constraints. Integrating crypto payments into legacy vending machines requires interfacing with the internal Multi-Drop Bus (MDB) protocol, translating low-level hardware controller commands into modern payment requests.\n\n### Single-Use Settlement Addresses and Price Locks\nAt 08:03, the session explores payment gateway architectures. The system generates unique, single-use public addresses for each transaction, tracking mempool broadcasts while enforcing time-limited exchange rate locks to protect merchants from market volatility.\n\n### Double-Spend Risks and Payment Verification Security\nConcluding between 10:00 and 12:04, the speakers evaluate offensive attack vectors against retail gateways. They discuss zero-confirmation double-spend attacks, payment notification spoofing, and the critical necessity of cryptographically authenticating server webhooks before vending merchandise.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 811
     },
     {
@@ -136,7 +136,7 @@
         "community"
       ],
       "teaser": "Examining Moneros Ring Signatures",
-      "summary": null,
+      "summary": "### Cryptographic Mechanics of Monero Ring Signatures\nAt 00:00, Justin Ehrenhofer (Monero Community Workgroup) delivers a technical analysis of ring signatures, the foundational cryptographic privacy primitive used in the Monero protocol to conceal transaction origins.\n\n### Ring Formation and Decoy Output Selection\nAt 06:02, Ehrenhofer explains how ring signatures function. When a user spends funds, the protocol combines the signer's true one-time public key with arbitrary past outputs (\"decoys\" or \"mixins\") selected from the blockchain, creating a mathematical ring where all members appear equally likely to be the true spender.\n\n### Historical Weaknesses and Traceability Heuristics\nAt 12:00, the speaker examines historical privacy vulnerabilities in early cryptocurrency implementations. He highlights how legacy zero-mixin transactions and skewed decoy selection algorithms allowed blockchain analysts to identify real spenders using temporal analysis.\n\n### RingCT Integration and Pedersen Commitments\nAt 18:02, Ehrenhofer explores Ring Confidential Transactions (RingCT). RingCT prevents amount-based transaction correlation by concealing transferred sums using Pedersen commitments and zero-knowledge range proofs, ensuring that neither output values nor participant keys are visible on the ledger.\n\n### Mitigating Chain Splits and Evolving Ring Sizes\nConcluding between 24:00 and 30:01, Ehrenhofer evaluates threat models involving hard forks and chain splits, explaining how spending outputs on multiple chains can mathematically reveal true keys. He details Monero's ongoing protocol upgrades that enforce mandatory, uniform ring sizes to defend against statistical tracking.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1946
     },
     {
@@ -161,7 +161,7 @@
       "slug": "bcos-monero-village-francisco-articmine-cabanas-scaling-and-econ",
       "title": "Scaling and Economic Implications",
       "speakers": [
-        "Francisco ArticMine Caban\u0303as"
+        "Francisco ArticMine Cabañas"
       ],
       "track": "privacy",
       "topics": [
@@ -204,7 +204,7 @@
         "def-con"
       ],
       "teaser": "Village Summary",
-      "summary": null,
+      "summary": "### Reflections on the Inaugural Monero Village\nAt 00:00, Diego \"Rehrar\" Salazar convenes attendees for the closing session of the DEF CON 26 Monero Village, summarizing the conference track's presentations and community workshops.\n\n### Community Trivia and Technical Literacy\nAt 09:01, Salazar conducts an interactive trivia competition covering the Cryptonote protocol, decentralized consensus, and private digital cash mechanisms, fostering technical dialogue among convention participants.\n\n### The Imperative of Decentralization and Accountability\nAt 18:01, the speaker emphasizes the fundamental ethos of trustless systems. Open-source privacy initiatives must operate without centralized leaders or trusted third parties, urging attendees to scrutinize developer proposals and maintain protocol autonomy.\n\n### Welcoming Constructive Disagreement in Open Source\nAt 27:00, Salazar speaks candidly on open-source community dynamics. He argues that healthy cryptographic development relies on critical debate, peer review, and technical skepticism rather than consensus echo chambers.\n\n### Privacy as an Essential Human Right\nConcluding at 36:01, Salazar delivers an impassioned reflection on the societal importance of financial privacy. He argues that financial anonymity is not merely a technical novelty, but a foundational civil liberty essential for preserving individual freedom and speech in an increasingly cashless world.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2685
     },
     {
