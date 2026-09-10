@@ -38,7 +38,7 @@
         "tooling"
       ],
       "teaser": "Introductory guide to car hacking techniques, tools, and methodology.",
-      "summary": "Vehicle security: So You Want To Hack A Car. Car hacking techniques and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Vehicle security: So You Want To Hack A Car. Car hacking techniques and vulnerabilities.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 723
     },
     {
@@ -76,7 +76,7 @@
         "wireless-exploitation"
       ],
       "teaser": "SMS-based remote control of vehicle infotainment systems and malware delivery.",
-      "summary": "Vehicle security: Meet Salinas: 1st SMS-commanded Car Infotainment RAT. Car hacking techniques and vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Vehicle security: Meet Salinas: 1st SMS-commanded Car Infotainment RAT. Car hacking techniques and vulnerabilities.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3660
     },
     {
@@ -112,7 +112,7 @@
         "community"
       ],
       "teaser": "ECU firmware extraction and bootloader vulnerabilities in automotive systems.",
-      "summary": null,
+      "summary": "### Automotive Firmware Bootloader Architecture\nAt 00:00, Phil Lapczynski presents on reverse-engineering automotive Flash Bootloaders (FBLs) and intercepting electronic control unit (ECU) firmware update routines at the Car Hacking Village. Lapczynski explains that modern vehicles contain dozens of networked ECUs that rely on bootloaders for factory programming and dealership software updates.\n\n### Flashing Protocols: UDS and Diagnostic Sessions\nAt 08:29, the presentation explores automotive diagnostic standards, focusing on Unified Diagnostic Services (UDS, ISO 14229) and KWP2000. Lapczynski details how dealership scan tools initiate diagnostic sessions, authenticate via seed-key exchanges, and stream binary payloads into ECU volatile memory before committing them to non-volatile flash.\n\n### Snooping Unencrypted Firmware Over In-Vehicle Networks\nAt 17:06, Lapczynski demonstrates how researchers can intercept proprietary firmware updates directly from the CAN bus or automotive Ethernet without requiring physical chip desoldering or JTAG debugging. Because manufacturers frequently transmit update binaries in cleartext, passive bus sniffing exposes intellectual property and proprietary calibrations.\n\n### Reverse-Engineering Security Access Algorithms\nAt 25:39, the speaker analyzes weak security access implementations across multiple Tier-1 automotive controllers. He demonstrates vulnerabilities including static cryptographic seeds, truncated keys, and vendor backdoor routines that allow unauthorized parties to bypass flashing authentication and flash modified engine logic.\n\n### Mitigations: Hardware Security Modules and Secure Boot\nConcluding between 30:00 and 34:03, Lapczynski highlights the necessity of implementing Hardware Security Modules (HSM) and asymmetric code signing (such as RSA or ECDSA). By enforcing cryptographic signature validation prior to executing bootloader routines, automotive manufacturers can prevent rogue firmware installation.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2059
     },
     {
@@ -188,7 +188,7 @@
         "exploit-development"
       ],
       "teaser": "CAN bus analysis and exploitation tools for automotive network attacks.",
-      "summary": null,
+      "summary": "### Active Fault Injection on CAN Networks\nAt 00:00, Tim (Bit-Man) introduces CANT (Controller Area Network Testing tool), an open-source hardware and software platform designed for active CAN bus manipulation and fault injection at the Car Hacking Village. Tim discusses the limitations of passive sniffing and the need for precision packet manipulation.\n\n### Physical Layer Dynamics: Dominant vs. Recessive Bits\nAt 11:00, the speaker breaks down CAN data link layer mechanics, explaining how dominant (0) and recessive (1) states dictate bus arbitration. He details how CAN controllers monitor their own transmissions and trigger hardware error frames whenever the read bus state contradicts transmitted bits.\n\n### Targeted Denial of Service and Bus-Off Attacks\nAt 21:23, Tim details the attack capabilities built into CANT. By continuously injecting dominant bits into specific arbitration identifiers, CANT forces target ECUs to increment their internal Transmit Error Counters (TEC) until they enter the bus-off state, severing the module's communication with the rest of the vehicle.\n\n### Live Hardware Demonstration on Vehicle Modules\nAt 35:24, Tim demonstrates CANT against real-world automotive instrument clusters. He showcases how synchronous bit manipulation corrupts diagnostic communication and causes vehicle telemetry gauges and display screens to malfunction without crashing the entire CAN network.\n\n### Defensive Engineering and CAN-FD Migration\nConcluding between 40:00 and 48:33, the presentation explores defensive countermeasures against physical-layer attacks. Tim emphasizes network segmentation, automated anomaly detection for bus error frequency, and the automotive industry's ongoing transition toward CAN-FD with cryptographic payload authentication.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2920
     }
   ]
