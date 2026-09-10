@@ -69,7 +69,7 @@
         "medical-devices"
       ],
       "teaser": "DC11562 Santiago presents real-world experiences and lessons learned from security assessments in the healthcare industry.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 4707
     },
     {
@@ -136,7 +136,7 @@
         "community"
       ],
       "teaser": "DC603 Vermont explores Domain Name System (DNS) protocols, reconnaissance, and network security considerations.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2985
     },
     {

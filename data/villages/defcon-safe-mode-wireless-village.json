@@ -59,7 +59,7 @@
         "monitoring"
       ],
       "teaser": "Explores defensive techniques and sensor architectures for detecting rogue access points, evil twins, and wireless intrusions.",
-      "summary": null,
+      "summary": "Wireless Network Security\n\nThis presentation covers wireless security vulnerabilities and exploitation techniques. Topics include WiFi cracking, WEP/WPA weaknesses, Bluetooth vulnerabilities, and tools for assessing wireless network security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1406
     },
     {

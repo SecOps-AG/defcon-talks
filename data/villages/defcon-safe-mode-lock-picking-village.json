@@ -20,7 +20,7 @@
         "hardware"
       ],
       "teaser": "Demonstrates practical key duplication techniques, casting, optical decoding, and physical replication tools.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2936
     },
     {
@@ -94,7 +94,7 @@
         "legal"
       ],
       "teaser": "An attorney and locksport enthusiast breaks down state and federal laws governing lockpick possession and covert entry tools.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1708
     },
     {
@@ -167,7 +167,7 @@
         "lockpicking"
       ],
       "teaser": "Explores master key system architecture, key bitting matrices, and progression attacks to decode entire facility master keys.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1607
     },
     {
@@ -239,7 +239,7 @@
         "access-control-bypass"
       ],
       "teaser": "Demonstrates the mechanics of standard ratcheting handcuffs, double-locking systems, and bypass techniques using shims and picks.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 478
     }
   ]

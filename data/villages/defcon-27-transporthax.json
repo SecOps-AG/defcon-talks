@@ -53,7 +53,7 @@
         "ics-ot"
       ],
       "teaser": "CAN Bus in Aviation Investigating CAN Bus in Avionics -",
-      "summary": null,
+      "summary": "Automotive Security and Vehicle Systems\n\nThis presentation examines security vulnerabilities in modern vehicles and automotive electronics. Topics include CAN bus protocols, firmware analysis, exploitation techniques, and demonstrations of weaknesses in vehicle computers and safety-critical controls.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 698
     },
     {
@@ -119,7 +119,7 @@
         "ics-ot"
       ],
       "teaser": "An Introduction to the ARINC standards -",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1384
     },
     {
@@ -187,7 +187,7 @@
         "ics-ot"
       ],
       "teaser": "Hacking into Automotive Clouds - DEF CON 27 Car Hacking Village",
-      "summary": null,
+      "summary": "Automotive Security and Vehicle Systems\n\nThis presentation examines security vulnerabilities in modern vehicles and automotive electronics. Topics include CAN bus protocols, firmware analysis, exploitation techniques, and demonstrations of weaknesses in vehicle computers and safety-critical controls.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2183
     },
     {
@@ -255,7 +255,7 @@
         "ics-ot"
       ],
       "teaser": "Tell Me Lies Automotive LIDAR and Low Tech - DEF CON 27 Car Hacking Village",
-      "summary": null,
+      "summary": "Automotive Security and Vehicle Systems\n\nThis presentation examines security vulnerabilities in modern vehicles and automotive electronics. Topics include CAN bus protocols, firmware analysis, exploitation techniques, and demonstrations of weaknesses in vehicle computers and safety-critical controls.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1583
     },
     {
@@ -323,7 +323,7 @@
         "ics-ot"
       ],
       "teaser": "Pwning a mobile drilling rig Hacking an oil rig - DEF CON 27 Hack the Sea Village",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1664
     },
     {
@@ -391,7 +391,7 @@
         "ics-ot"
       ],
       "teaser": "C2 over Maritime AIS and commercial aggregation - DEF CON 27 Hack the Sea Village",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1001
     },
     {

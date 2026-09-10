@@ -56,7 +56,7 @@
         "firmware"
       ],
       "teaser": "Provides an introductory primer on hardware reverse engineering, circuit analysis, and common physical attack vectors.",
-      "summary": null,
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3043
     },
     {

@@ -53,7 +53,7 @@
         "competition"
       ],
       "teaser": "Head-to-head live exploit development and bracket matches from Day 2 of the DEF CON 30 LiveCTF tournament.",
-      "summary": null,
+      "summary": "Penetration Testing and Attack Techniques\n\nThis talk covers penetration testing methodologies and attack techniques. Topics include reconnaissance, vulnerability discovery, exploitation, and post-exploitation activities in security assessments.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 35786
     },
     {

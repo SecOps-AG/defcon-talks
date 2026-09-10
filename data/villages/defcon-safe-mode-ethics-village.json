@@ -20,7 +20,7 @@
         "governance"
       ],
       "teaser": "FCC Commissioner Geoffrey Starks discusses telecommunications supply chain security, network resilience, and public interest ethics.",
-      "summary": null,
+      "summary": "DEF CON Conference Presentation\n\nThis segment features remarks and presentations from DEF CON organizers and security leaders. Topics include the state of cybersecurity, hacker culture, community initiatives, and the conference's impact on the security landscape.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1682
     },
     {
@@ -94,7 +94,7 @@
         "governance"
       ],
       "teaser": "FTC Commissioner Rohit Chopra explores regulatory enforcement against surveillance capitalism, corporate data abuse, and algorithmic bias.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2099
     }
   ]

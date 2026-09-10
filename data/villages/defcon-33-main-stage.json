@@ -1702,7 +1702,7 @@
         "protocols"
       ],
       "teaser": "Explores the evolution of vehicular emissions inspections from physical tailpipe sniffers to OBD-II queries and demonstrates how testing logic can be bypassed.",
-      "summary": null,
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 819
     },
     {

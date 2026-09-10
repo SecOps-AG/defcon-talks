@@ -70,7 +70,7 @@
         "community"
       ],
       "teaser": "Lessons Learned Running a  Pentesting Competition",
-      "summary": null,
+      "summary": "Penetration Testing and Attack Techniques\n\nThis talk covers penetration testing methodologies and attack techniques. Topics include reconnaissance, vulnerability discovery, exploitation, and post-exploitation activities in security assessments.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3403
     },
     {
@@ -138,7 +138,7 @@
         "community"
       ],
       "teaser": "Head in the Clouds",
-      "summary": null,
+      "summary": "Cloud Infrastructure and Container Security\n\nThis presentation covers security in cloud computing environments and containerized applications. Topics include cloud misconfiguration, container vulnerabilities, identity management, and infrastructure security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2262
     },
     {
@@ -206,7 +206,7 @@
         "community"
       ],
       "teaser": "Attacking and Defending Kubernetes",
-      "summary": null,
+      "summary": "Cloud Infrastructure and Container Security\n\nThis presentation covers security in cloud computing environments and containerized applications. Topics include cloud misconfiguration, container vulnerabilities, identity management, and infrastructure security.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3291
     },
     {
@@ -274,7 +274,7 @@
         "community"
       ],
       "teaser": "Patching It is Complicated",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2215
     },
     {

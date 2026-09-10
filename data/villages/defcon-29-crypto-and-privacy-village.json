@@ -36,7 +36,7 @@
         "defcon"
       ],
       "teaser": "The complete recorded proceedings and presentations from Day 1 of the DEF CON 29 Crypto and Privacy Village in Las Vegas.",
-      "summary": null,
+      "summary": "Cryptography and Privacy Technologies\n\nThis presentation examines cryptographic systems, encryption protocols, and privacy-preserving technologies. Topics include cipher analysis, protocol vulnerabilities, authentication mechanisms, and key management in real-world applications.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 31012
     }
   ]
