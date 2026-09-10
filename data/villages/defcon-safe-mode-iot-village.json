@@ -21,7 +21,7 @@
         "firmware"
       ],
       "teaser": "Shares real-world case studies and practical lessons learned from testing and hacking consumer IoT devices.",
-      "summary": null,
+      "summary": "In this practical briefing from the DEF CON Safe Mode IoT Village, an embedded security penetration tester shares real-world case studies assessing consumer and enterprise smart devices. Opening at 00:00, the presenter explores the pervasive design shortcuts and security anti-patterns that plague modern IoT products.\n\nAt 06:00, the speaker details physical attack surfaces, illustrating how unencrypted UART and JTAG interfaces left enabled on production hardware allow attackers to obtain root interactive shells.\n\nAt 12:02 and 16:04, the presentation exposes severe cloud backend vulnerabilities, demonstrating how hardcoded API keys, insecure device pairing routines, and broken object level authorization (BOLA) in cloud management APIs permit unauthorized attackers to remotely hijack smart home devices and access sensitive user profile data. (AI summary — Gemini Flash)",
       "durationSeconds": 990
     },
     {
@@ -95,7 +95,7 @@
         "iot"
       ],
       "teaser": "Details techniques for dumping raw NAND flash chips, reconstructing wear-leveled blocks, and recovering embedded filesystems.",
-      "summary": null,
+      "summary": "In this advanced hardware hacking tutorial from the DEF CON Safe Mode IoT Village, an embedded researcher demonstrates a complete methodology for extracting and reconstructing file systems from raw NAND flash memory. Opening at 00:00, the presenter explains how NAND flash architecture differs fundamentally from SPI NOR flash due to out-of-band data areas, wear leveling, and bad block tables.\n\nAt 16:01 and 32:02, the speaker demonstrates chip-off hardware techniques, desoldering TSOP and BGA surface-mount packages using hot air stations, cleaning solder pads, and reading raw bitstreams with dedicated chip programmers.\n\nAt 48:00, the walkthrough demonstrates software reconstruction, showing how to strip error-correcting code (ECC) parity blocks, handle data scrambling, and assemble raw dumps into mountable SquashFS and UBIFS partition images to extract proprietary firmware binaries and configuration secrets. (AI summary — Gemini Flash)",
       "durationSeconds": 3801
     },
     {
@@ -140,7 +140,7 @@
       "slug": "how-to-get-rights-for-hackers",
       "title": "How to Get Rights for Hackers",
       "speakers": [
-        "Chlo\u00e9 Messdaghi"
+        "Chloé Messdaghi"
       ],
       "track": "policy",
       "topics": [
@@ -167,7 +167,7 @@
         "iot"
       ],
       "teaser": "Presents an embedded hardware research case study dissecting device security architecture and unexpected failure modes.",
-      "summary": null,
+      "summary": "In this consumer device security presentation from the DEF CON Safe Mode IoT Village, researcher Matt presents \"Stepped on a Nail,\" an investigative case study uncovering systemic vulnerabilities in consumer smart products and mobile companion apps. Opening at 00:00, Matt discusses the widespread adoption of inexpensive internet-connected hardware in consumer households.\n\nAt 15:00, the talk examines the acute lack of consumer security awareness and the absence of vendor accountability for ongoing firmware maintenance. At 30:03 and 45:01, Matt demonstrates reverse engineering companion mobile applications and network communication protocols, uncovering exposed cloud endpoints, unencrypted diagnostic telemetry, and hardcoded authentication tokens.\n\nConcluding at 01:00:00, the presenter examines the broader privacy implications of consumer IoT proliferation, warning that unvetted smart devices facilitate mass data collection and erode digital civil liberties. (AI summary — Gemini Flash)",
       "durationSeconds": 3638
     },
     {
@@ -240,7 +240,7 @@
         "embedded"
       ],
       "teaser": "Walks through interacting with the U-Boot bootloader via serial console to extract firmware and alter boot parameters.",
-      "summary": null,
+      "summary": "In this comprehensive hardware hacking workshop from the DEF CON Safe Mode IoT Village, an embedded systems researcher delivers an in-depth guide to interacting with and compromising the Universal Boot Loader (U-Boot) on embedded Linux hardware. Opening at 00:00, the presenter outlines the boot sequence of typical embedded systems.\n\nAt 19:00 and 38:00, the speaker demonstrates hardware interception techniques, showing how monitoring serial UART consoles and applying targeted pin glitches on flash memory data lines during startup disrupts the boot counter, dropping the terminal into an interactive U-Boot prompt.\n\nAt 57:01, the presenter illustrates manipulating bootloader environment variables, demonstrating how to modify the bootargs string to inject init=/bin/sh and boot modified kernel images from RAM or network TFTP servers. Concluding at 01:16:01 with a travel router case study, the session provides a dependable playbook for gaining unauthenticated root access to embedded Linux appliances. (AI summary — Gemini Flash)",
       "durationSeconds": 4681
     },
     {
@@ -310,7 +310,7 @@
         "malware"
       ],
       "teaser": "Analyzes the persistent economics, attack vectors, and lifecycle of IoT botnets driving modern DDoS-for-hire services.",
-      "summary": null,
+      "summary": "In this unfiltered presentation from the DEF CON Safe Mode IoT Village, the speaker analyzes the illicit underground ecosystem powering IoT botnets and commercial DDoS-for-hire platforms (\"booters\"). Opening at 00:00, the presenter explores the criminal economy surrounding large-scale distributed denial-of-service operations.\n\nAt 11:01 and 22:00, the talk examines threat actor communities operating across Discord and Telegram, tracing how amateur operators fork and customize Mirai source variants to recruit thousands of compromised IoT nodes into persistent bot networks.\n\nAt 33:01, the speaker investigates the technical root causes of widespread device exploitation, spotlighting outdated vendor toolchains, unauthenticated remote services, and hardcoded administrative credentials. Concluding at 44:00, the presenter emphasizes that until manufacturers face economic accountability for vulnerable hardware, IoT botnets will remain an enduring threat to internet infrastructure. (AI summary — Gemini Flash)",
       "durationSeconds": 2666
     },
     {

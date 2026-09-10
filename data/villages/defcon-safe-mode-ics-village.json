@@ -168,7 +168,7 @@
         "vulnerability-research"
       ],
       "teaser": "Reflects on years of offensive ICS research, physical process manipulation attacks, and defensive lessons learned.",
-      "summary": null,
+      "summary": "In this introspective presentation from the DEF CON Safe Mode ICS Village, a seasoned industrial penetration tester presents \"Confessions of an Offensive ICS Researcher,\" detailing the transition from offensive vulnerability discovery to managing an enterprise cybersecurity program. Opening at 00:19, the speaker reflects on how offensive security mindsets often diverge from operational realities.\n\nAt 05:01, the presenter explains that while offensive researchers naturally focus on high-severity zero-day exploits, industrial defenders face complex operational constraints including regulatory compliance, patch validation, and 24/7 continuous uptime requirements.\n\nPast 20:00 and 40:00, the talk explores real-world case studies of finding vulnerabilities in programmable logic controllers (PLCs) and supervisory systems. The speaker details the friction of coordinating disclosures with industrial hardware vendors and offers practical advice on translating red team findings into actionable, risk-prioritized engineering remediations. (AI summary — Gemini Flash)",
       "durationSeconds": 3490
     },
     {
@@ -238,7 +238,7 @@
         "international-law"
       ],
       "teaser": "Discusses operationalizing international cyber norms and rules of engagement to protect civilian critical infrastructure.",
-      "summary": null,
+      "summary": "In this international policy and security briefing from the DEF CON Safe Mode ICS Village, a reformed hacker and critical infrastructure specialist presents \"Operationalizing Cyber Norms\" live from Amsterdam. Opening at 00:00, the speaker explores how geopolitical tensions and state-sponsored cyber operations threaten civilian critical infrastructure.\n\nAt 02:01 and 03:00, the talk examines landmark international governance efforts, focusing on the 2015 United Nations Group of Governmental Experts (UN GGE) consensus report that established voluntary non-binding norms prohibiting cyberattacks against critical infrastructure.\n\nAt 04:00, the presenter references major historical incidents—including the 2012 Shamoon attacks against Saudi Aramco and attacks on power grids—to underscore the stakes. Concluding past 15:00, the speaker details how to operationalize diplomatic norms through regional CERT cooperation, mandatory incident transparency, and cross-border technical defense pacts. (AI summary — Gemini Flash)",
       "durationSeconds": 1643
     },
     {

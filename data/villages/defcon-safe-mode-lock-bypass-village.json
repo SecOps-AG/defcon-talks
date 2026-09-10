@@ -38,7 +38,7 @@
         "hardware"
       ],
       "teaser": "An introduction to mechanical lock bypass principles, latch slipping, shimming, and non-destructive physical entry methods.",
-      "summary": null,
+      "summary": "In this instructional demonstration from the DEF CON Safe Mode Lock Bypass Village, Karen presents \"Bypass 101,\" a beginner-friendly introduction to non-destructive physical bypass techniques that circumvent door access controls without manipulating internal lock cylinders. Opening at 00:01, Karen introduces the fundamental principles of physical security auditing.\n\nAt 07:00, she demonstrates the deployment of under-the-door bypass tools, illustrating how a specialized wire armature can be slipped beneath commercial exterior doors to hook and pull internal lever handles from the outside. At 14:00, she analyzes exterior hinge vulnerabilities, demonstrating how exposed hinge pins and loose door gaps can be exploited using simple shims.\n\nAt 21:00 and 28:01, Karen reviews stairwell and elevator access controls, explaining how elevator hacking techniques bypass floor lockouts and demonstrating how attendees can fabricate their own custom bypass tools for physical penetration testing engagements. (AI summary — Gemini Flash)",
       "durationSeconds": 1727
     },
     {
