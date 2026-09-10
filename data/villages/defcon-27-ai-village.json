@@ -275,7 +275,7 @@
         "deep-learning"
       ],
       "teaser": "How to Get over your Malicious Extensions using Deep Learning.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1437
     },
     {
@@ -343,7 +343,7 @@
         "community"
       ],
       "teaser": "From Noisy Distorted Datasets to Excellent Prediction Model.",
-      "summary": null,
+      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information about targets without direct interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2820
     },
     {
