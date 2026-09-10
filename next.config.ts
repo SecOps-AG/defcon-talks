@@ -36,7 +36,7 @@ const securityHeaders = [
   // (autoplay, fullscreen, encrypted-media, picture-in-picture) is left alone.
   {
     key: "Permissions-Policy",
-    value: "camera=(), microphone=(), geolocation=(), payment=(), usb=(), bluetooth=(), serial=()",
+    value: "camera=(), microphone=(), geolocation=(), payment=(), usb=(), serial=()",
   },
 ];
 
