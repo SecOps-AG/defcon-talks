@@ -161,7 +161,7 @@
       "youtubeId": "Nm4n-XhqERY",
       "title": "Biohacking Village Microfluidics Badge",
       "slug": "bio-hacking-village-joel-murphy",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-biohacking-village.json",
@@ -169,7 +169,7 @@
       "youtubeId": "sw_D-12S1G0",
       "title": "DNA Encryption: Bioencryption to Store Secrets",
       "slug": "john-dunlap-dna-encryption-bioencryption-to-store-secrets",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-blue-team-village.json",
@@ -177,7 +177,7 @@
       "youtubeId": "SMKVkpzGhOs",
       "title": "Stop Drop and Assess your SOC",
       "slug": "andy-applebaum-stop-drop-and-assess-your-soc",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-cannabis-village.json",
@@ -185,7 +185,7 @@
       "youtubeId": "CsRYAUlb6_E",
       "title": "Diagnosing Sick Plants with Computer Vision",
       "slug": "harry-moreno-diagnosing-sick-plants-with-computer-vision",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-car-hacking-village.json",
@@ -193,7 +193,7 @@
       "youtubeId": "PlOj0Mt-2NM",
       "title": "Go Hack Cars",
       "slug": "eric-evenchick",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-car-hacking-village.json",
@@ -201,7 +201,7 @@
       "youtubeId": "bK3SFDKvkHQ",
       "title": "Automotive Exploitation Sandbox",
       "slug": "nathaniel-boggs",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
@@ -209,7 +209,7 @@
       "youtubeId": "nfQG7GOCL-g",
       "title": "Green Locks for You and Me",
       "slug": "wendy-knox-everette-green-locks-for-you-and-me",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
@@ -217,7 +217,7 @@
       "youtubeId": "RijGNytjbOI",
       "title": "No Way JOSE! Designing Cryptography",
       "slug": "scott-arciszewski-no-way-jose-designing-cryptography",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
@@ -225,7 +225,7 @@
       "youtubeId": "ySl2ywGiFkw",
       "title": "Geolocation and Homomorphic Encryption",
       "slug": "nicholas-doiron-geolocation-and-homomorphic-encryption",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
@@ -233,7 +233,7 @@
       "youtubeId": "tEQgkSuxNk4",
       "title": "Opportunistic Onion",
       "slug": "mahrud-sayrafi",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-26-crypto-and-privacy-village.json",
