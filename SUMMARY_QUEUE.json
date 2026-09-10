@@ -2561,7 +2561,7 @@
       "youtubeId": "jZpL6tH-1sk",
       "title": "Presentation Intros",
       "slug": "presentation-intros",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-voting-village.json",
@@ -2569,7 +2569,7 @@
       "youtubeId": "w-BD1fmaRco",
       "title": "Day 1 Opening Remarks",
       "slug": "day-1-opening-remarks",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-voting-village.json",
@@ -2577,7 +2577,7 @@
       "youtubeId": "L7wU1ZatGaQ",
       "title": "Policy Approach to Resolving Cybersecurity Problems",
       "slug": "jody-westby-policy-approach-to-resolving-cybersecurity-problems",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-safe-mode-wireless-village.json",
@@ -2585,7 +2585,7 @@
       "youtubeId": "X2ARyfjzxhY",
       "title": "The Basics of Breaking BLE v3",
       "slug": "the-basics-of-breaking-ble-v3",
-      "status": "todo"
+      "status": "done"
     }
   ]
 }
