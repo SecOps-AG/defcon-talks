@@ -18,7 +18,7 @@
         "interviews"
       ],
       "teaser": "An interview with Aerospace Village organizers discussing aviation cybersecurity challenges, satellite research, and flight system defense.",
-      "summary": null,
+      "summary": "In this interview from DEF CON 30, Steve \"Spanky\" Lezinski and Aerospace Village Director Matt Martin-Lux share the mission, hands-on activities, and speaker lineup featured in the Aerospace Village. At 00:30, they outline the core village goals: building cross-sector relationships, inspiring new researchers, and promoting technical awareness around aviation and space cybersecurity.\n\nThe organizers highlight interactive village exercises, inviting attendees to test their skills hacking simulated airport networks, taking control of satellite systems, or navigating flight simulators equipped with malfunctioning Electronic Flight Bags (EFBs). At 01:00, they spotlight keynote sessions delivered by industry leaders, including United Airlines VP and CISO Deneen DeFiore and NASA Jet Propulsion Laboratory (JPL) CISO Wes Gavins, exploring satellite communications security and space mission defense. (AI summary — Gemini Flash)",
       "durationSeconds": 108
     },
     {
@@ -80,7 +80,7 @@
         "interviews"
       ],
       "teaser": "An interview on voting machine security audits, election integrity research, and hands-on voting equipment testing.",
-      "summary": null,
+      "summary": "In this briefing from DEF CON 30, Harri Hursti, co-founder and organizer of the Voting Village, highlights the expanding scope of election cybersecurity research beyond standalone voting machines to encompass ballot marking devices (BMDs), electronic poll books, and backend voter registration systems. At 00:35, he announces the arrival of two previously unreleased voting machines permitted for hands-on public security evaluation for the first time.\n\nHarri emphasizes the village's educational mission at 01:00, noting that technical evaluations help demystify election infrastructure and debunk ungrounded conspiracy theories by clearly differentiating theoretical vulnerabilities from exploited risks. He discusses outreach to commercial election vendors, encouraging manufacturers to participate in transparent, collaborative testing to harden democratic systems ahead of national elections. (AI summary — Gemini Flash)",
       "durationSeconds": 113
     },
     {
@@ -142,7 +142,7 @@
         "community"
       ],
       "teaser": "An exploration of gaming hardware mods, gaming culture, and interactive entertainment at DEF CON.",
-      "summary": null,
+      "summary": "In this hardware showcase from DEF CON 30, a maker provides a walkthrough of the \"Gamer Hat,\" an interactive wearable gaming platform designed for the conference floor. Opening at 00:00, he explains that the rig is powered by a Raspberry Pi 3B+ with all wireless interfaces disabled for local security, running a lightweight RetroPie installation loaded with classic arcade games.\n\nThe creator details the hardware components at 00:30, featuring an official Raspberry Pi touchscreen, low-cost audio speakers, and an Anker battery pack mounted on the front brim providing roughly four hours of runtime. With an extra game controller packed for spontaneous two-player multiplayer matchups, he explains how mounting brackets, acrylic plates, and hot glue brought the head-mounted arcade to life in classic hacker fashion. (AI summary — Gemini Flash)",
       "durationSeconds": 57
     },
     {
@@ -206,7 +206,7 @@
         "interviews"
       ],
       "teaser": "Organizers highlight research into disinformation campaigns, deepfakes, and public influence operations.",
-      "summary": null,
+      "summary": "In this interview from DEF CON 30, SJ Terp, Pawel, and Pablo introduce the newly established Misinformation Village, exploring the emerging domain of \"cognitive security\"—analyzing disinformation, computational propaganda, and online manipulation through the disciplined lens of information security. At 00:00, SJ Terp introduces the DISARM framework, an open-source taxonomy that maps disinformation tactics, techniques, and procedures (TTPs) analogous to the MITRE ATT&CK matrix.\n\nCo-organizer Pawel outlines hands-on workshops at 00:45, teaching attendees how to deploy open-source intelligence (OSINT) methodologies and Structured Analytic Techniques (SATs) to track influence operations. At 01:30, Pablo thanks the volunteer teams and encourages attendees to join the community under the #MisinformationVillage hashtag, bridging the gap between social science and technical cybersecurity defense. (AI summary — Gemini Flash)",
       "durationSeconds": 135
     },
     {
@@ -269,7 +269,7 @@
         "hacker-culture"
       ],
       "teaser": "A roaming visual walkthrough exploring the bustling convention floor, attendee interactions, and atmosphere of DEF CON 30.",
-      "summary": null,
+      "summary": "In this brief showcase from the DEF CON 30 contest floor, Mayhem Industries and PTFS present an interactive kinetic hacking challenge featuring an operational scale model of an offshore oil drilling rig. At 00:00, presenters demonstrate how physical components interface with industrial control logic, inviting attendees to uncover vulnerabilities in maritime telemetry and sensor networks.\n\nThe demonstration highlights the intersection of operational technology (OT) security and hands-on hardware testing, demonstrating how digital exploits produce immediate physical consequences on industrial machinery. The presenters tease additional kinetic challenges hidden on the contest floor at 01:00, challenging hackers to think outside traditional IT boundaries. (AI summary — Gemini Flash)",
       "durationSeconds": 129
     },
     {
@@ -335,7 +335,7 @@
         "interviews"
       ],
       "teaser": "Coordinators outline detection engineering workshops, defense operations, and Project WARPATH at Blue Team Village.",
-      "summary": null,
+      "summary": "In this interview from DEF CON 30, host Shannon Morse sits down with Blue Team Village organizers to celebrate the village's fifth anniversary and discuss the vital importance of defensive security careers. At 01:30, the organizers introduce Project Obsidian, a free, open-source educational platform modeling a compromised corporate enterprise in AWS to train practitioners across digital forensics, incident response (DFIR), threat hunting, threat intelligence, and reverse engineering.\n\nThe speakers highlight community programs at 04:30, detailing their \"Meet a Mentor\" career initiative, resume workshops, and lightning talks aimed at helping newcomers land cybersecurity roles. At 05:30, they explain the unified architecture of the Project Obsidian CTF, where competitors investigate five distinct defensive angles using the same realistic dataset. They conclude at 07:30 by unveiling their fifth-anniversary electronic badge featuring an e-ink display and SAO expansion headers. (AI summary — Gemini Flash)",
       "durationSeconds": 551
     },
     {
@@ -403,7 +403,7 @@
         "interviews"
       ],
       "teaser": "Silk tours the DEF CON Network Operations Center (NOC) to inspect network architecture, traffic volume, and WiFi defense.",
-      "summary": null,
+      "summary": "In this humorous DEF CON 30 Scavenger Hunt segment, participant \"Silk\" embarks on a quest to locate and physically infiltrate the convention's legendary and secretive Network Operations Center (NOC). Beginning at 00:00, Silk explains that the NOC's physical location is deliberately omitted from conference maps to safeguard network infrastructure.\n\nTracing historical contest lore at 01:30, Silk discovers that breaching the NOC was a classic scavenger hunt item dating back to DEF CON 10. The pursuit leads through veteran organizers and judges at 02:45, culminating in finding long-time judge Dual_D, who produces a vintage physical key preserved from past conventions. Silk executes the breach at 03:45, confronting startled NOC operators in an entertaining demonstration of persistence and social engineering tradecraft. (AI summary — Gemini Flash)",
       "durationSeconds": 280
     },
     {
@@ -465,7 +465,7 @@
         "community"
       ],
       "teaser": "A tour of interactive cloud defense labs, serverless hacking stations, and CTF competitions in the Cloud Village.",
-      "summary": null,
+      "summary": "In this walkthrough from DEF CON 30, organizers and volunteers provide an inside look at the bustling Cloud Village floor, home to continuous technical tracks, hands-on demonstrations, and multi-cloud competitions. At 00:00, the hosts review the variety of sessions covering identity management, container security, and misconfiguration auditing across AWS, Azure, and Google Cloud Platform.\n\nThe interview directs attendees to cloudvillage.org at 01:00 to access challenge writeups, open-source auditing tools, and slide archives. At 01:45, the hosts express gratitude to village founders including Jayesh Singh Chauhan (JS), CTF architect Craig, and the volunteer operations staff who coordinate the high-volume village tracks. (AI summary — Gemini Flash)",
       "durationSeconds": 176
     },
     {
@@ -526,7 +526,7 @@
         "community"
       ],
       "teaser": "Follows participants tackling eccentric, creative, and notoriously challenging tasks in the legendary DEF CON Scavenger Hunt.",
-      "summary": null,
+      "summary": "In this spontaneous dispatch from the DEF CON 30 floor, attendees and Scavenger Hunt organizers capture the chaotic creativity and participatory spirit of the convention's longest-running contest. At 00:00, organizers describe being summoned across hallways to judge cross-village stunts linking the Blue Team Village and Red Team Village.\n\nThe segment showcases participants staging lively public performances, shouting the iconic \"Lightning bolt!\" LARP chant at 00:30, and clearing hallway paths to complete offbeat challenge objectives. This lighthearted video captures the unique community culture that defines the DEF CON experience. (AI summary — Gemini Flash)",
       "durationSeconds": 86
     },
     {
@@ -588,7 +588,7 @@
         "community"
       ],
       "teaser": "Coverage of the RedAlert industrial control systems CTF, simulating real-world operational technology cyber attacks.",
-      "summary": null,
+      "summary": "In this guided tour from DEF CON 30, contest organizers walk through the RedAlert ICS/SCADA Capture The Flag arena, featuring an elaborate physical scale model city wired to industrial control systems. At 01:00, the organizers inspect scale simulations of critical nuclear facility components, including spent fuel pool cooling loops and uranium enrichment centrifuges.\n\nThe organizers detail the multi-vendor protocols featured in the competition at 02:00, including Siemens S7, Modbus, and DNP3 architectures. They display the hardware kits provided to competitors at 02:45—comprising HackRFs, RTL-SDRs, Raspberry Pis, and Teensy microcontroller boards to execute RF attacks against industrial cranes. At 03:45, they break down a successful exploit where a team remotely breached human-machine interfaces (HMIs) and programmable logic controllers (PLCs) to trigger a full municipal blackout. (AI summary — Gemini Flash)",
       "durationSeconds": 384
     },
     {
