@@ -38,7 +38,7 @@
         "ai-security"
       ],
       "teaser": "Examines privacy-preserving machine learning techniques, homomorphic encryption, and differential privacy safeguards.",
-      "summary": null,
+      "summary": "In this technical exploration from the DEF CON Safe Mode AI Village, researchers Daniel and Farhad deliver \"Secrets Are Lies, Sharing Is Caring, Privacy Is Theft,\" examining privacy vulnerabilities in machine learning architectures. Opening at 00:13, the speakers address how trained models frequently leak sensitive training data through output statistics and prediction probabilities.\n\nAt 01:00 and 02:00, the presentation examines the delicate balance between machine learning utility and data privacy, evaluating how much model accuracy must be traded off to achieve robust data confidentiality. At 03:00 and 04:00, the authors review classic linkage attacks, citing Latanya Sweeney's landmark re-identification of medical records and the de-anonymization of the Netflix Prize dataset.\n\nThe speakers explore modern privacy-preserving frameworks past 10:00, detailing the mathematical mechanics of Differential Privacy, homomorphic encryption, and secure multi-party computation to protect models against membership inference attacks. (AI summary — Gemini Flash)",
       "durationSeconds": 1237
     },
     {
@@ -111,7 +111,7 @@
         "privacy"
       ],
       "teaser": "Examines Fawkes, an image cloaking tool that adds pixel-level perturbations to photos to deceive facial recognition models.",
-      "summary": null,
+      "summary": "In this community discussion from the DEF CON Safe Mode AI Village, researchers and participants explore Fawkes, an adversarial machine learning privacy framework developed by the University of Chicago to counter unauthorized facial recognition surveillance. Opening at 00:01, the panel introduces the software's mission to protect individuals against mass scraping by commercial facial recognition vendors.\n\nAt 02:00, the speakers explain the concept of \"adversarial examples for good,\" showing how Fawkes introduces imperceptible pixel-level perturbations (\"cloaks\") into portrait photos. These perturbations shift internal feature representations in deep neural networks, causing facial recognition models to incorrectly classify the subject without distorting the image for human viewers.\n\nAt 15:00 and 39:00, the panel evaluates the system's real-world resilience, analyzing how cloaked images poison training pipelines when scraped from public social media profiles. The session concludes by discussing model transferability, perturbation boundaries, and defensive countermeasures against image pre-filtering. (AI summary — Gemini Flash)",
       "durationSeconds": 3216
     },
     {
@@ -184,7 +184,7 @@
         "ai-security"
       ],
       "teaser": "Hands-on workshop demonstrating adversarial evasion techniques targeting ML-based Antimalware Scan Interface providers.",
-      "summary": null,
+      "summary": "In this deep technical dive from the DEF CON Safe Mode AI Village, researcher Rob examines adversarial evasion techniques targeting machine-learning-based Antimalware Scan Interface (AMSI) providers. Opening at 00:01, Rob explores the fundamental mathematics behind AI-driven endpoint detection engines and how they classify suspicious execution payloads.\n\nAt 22:02, the talk contrasts rigid signature-based scanning with modern ML classifiers, demonstrating how slight structural modifications to file headers and magic bytes can break parser interpretation. At 44:02, Rob explores token-level adversarial perturbations, identifying specific byte sequences and keywords that Windows Defender tags as high-risk indicators and showing how to mask malicious scripts while preserving runtime functionality.\n\nMoving past 01:06:00, the speaker demonstrates gradient-based evasion attacks against production ML models. Concluding at 01:28:01, Rob offers practical advice for malware defense engineers to harden ML classifiers against evasion by integrating adversarial examples into training pipelines. (AI summary — Gemini Flash)",
       "durationSeconds": 5392
     },
     {
