@@ -80,7 +80,7 @@
         "cloud"
       ],
       "teaser": "Sheila A. Berta exposes critical security oversights across enterprise Big Data stacks (Hadoop, Spark, Flink), executing remote code execution on distributed analytics clusters.",
-      "summary": "The Growing Attack Surface of Distributed Analytics\n\nEnterprise Big Data stacks combine complex distributed components\u2014including Hadoop, Apache Spark, Flink, and Kafka\u2014to ingest and process massive telemetry streams.\n\nArchitectural Complexity and Default Insecurity\n\nSheila A. Berta demonstrates that speed-first architectures and loose default access controls leave internal RPC endpoints and worker daemons exposed without authentication.\n\nChaining Flaws to Achieve Distributed Cluster RCE\n\nBy exploiting deserialization flaws, unauthenticated job submission APIs, and command injection gadgets, an attacker can compromise cluster nodes and exfiltrate raw enterprise data lakes.\n\nHardening Big Data Pipelines\n\nBerta provides comprehensive security baselines, network segmentation rules, and authentication enforcement guides to protect distributed analytics infrastructure.",
+      "summary": "The Growing Attack Surface of Distributed Analytics\n\nEnterprise Big Data stacks combine complex distributed components—including Hadoop, Apache Spark, Flink, and Kafka—to ingest and process massive telemetry streams.\n\nArchitectural Complexity and Default Insecurity\n\nSheila A. Berta demonstrates that speed-first architectures and loose default access controls leave internal RPC endpoints and worker daemons exposed without authentication.\n\nChaining Flaws to Achieve Distributed Cluster RCE\n\nBy exploiting deserialization flaws, unauthenticated job submission APIs, and command injection gadgets, an attacker can compromise cluster nodes and exfiltrate raw enterprise data lakes.\n\nHardening Big Data Pipelines\n\nBerta provides comprehensive security baselines, network segmentation rules, and authentication enforcement guides to protect distributed analytics infrastructure.",
       "durationSeconds": 2493
     },
     {
@@ -196,7 +196,7 @@
         "tracing"
       ],
       "teaser": "Rex Guo and Junyuan Zeng present the Phantom Attack, exploiting implementation flaws in Linux system call tracing frameworks to completely blind endpoint monitoring agents.",
-      "summary": "System Call Monitoring in Modern Linux EDRs\n\nHost-based security agents and EDR solutions on Linux monitor system calls (via `ptrace`, auditd, or eBPF) to detect unauthorized reconnaissance, privilege escalation, and lateral movement.\n\nDiscovering Inconsistencies in Kernel Tracing Subsystems\n\nRex Guo and Junyuan Zeng uncover architectural race conditions and state desynchronizations in how the Linux kernel handles traced system calls from unprivileged userland processes.\n\nExecuting the Phantom Attack to Blind Sensors\n\nThe Phantom Attack allows an attacker without root privileges to execute arbitrary system calls\u2014such as file modification, socket creation, and process execution\u2014while presenting completely benign telemetry to monitoring agents.\n\nHardening Linux Kernel Tracing Frameworks\n\nThe authors propose kernel-level synchronization patches and EDR detection enhancements to mitigate system call spoofing.",
+      "summary": "System Call Monitoring in Modern Linux EDRs\n\nHost-based security agents and EDR solutions on Linux monitor system calls (via `ptrace`, auditd, or eBPF) to detect unauthorized reconnaissance, privilege escalation, and lateral movement.\n\nDiscovering Inconsistencies in Kernel Tracing Subsystems\n\nRex Guo and Junyuan Zeng uncover architectural race conditions and state desynchronizations in how the Linux kernel handles traced system calls from unprivileged userland processes.\n\nExecuting the Phantom Attack to Blind Sensors\n\nThe Phantom Attack allows an attacker without root privileges to execute arbitrary system calls—such as file modification, socket creation, and process execution—while presenting completely benign telemetry to monitoring agents.\n\nHardening Linux Kernel Tracing Frameworks\n\nThe authors propose kernel-level synchronization patches and EDR detection enhancements to mitigate system call spoofing.",
       "durationSeconds": 2369
     },
     {
@@ -253,7 +253,7 @@
         "defense"
       ],
       "teaser": "PatH demonstrates utilizing extended Berkeley Packet Filters (eBPF) to create kernel rootkits without writing kernel modules, presenting defensive detection mechanisms.",
-      "summary": "The Risks and Evolution of Kernel-Level Rootkits\n\nTraditional Loadable Kernel Module (LKM) rootkits provide complete system control but risk crashing the operating system when kernel versions or memory offsets change.\n\nRepurposing eBPF for Stealthy In-Kernel Persistence\n\nPatH explores how extended Berkeley Packet Filters (eBPF)\u2014designed for high-performance tracing and observability\u2014can be subverted to manipulate kernel memory and hook system calls safely.\n\nManipulating Process State and Concealing Activity\n\nWeaponized eBPF programs can dynamically alter file read operations, conceal processes from `ps` and `top`, and redirect network socket traffic without modifying kernel code sections.\n\nDetecting and Countering Offensive eBPF Deployments\n\nThe author provides incident responders with auditing tools and kernel integrity verification frameworks to detect unauthorized eBPF program attachments.",
+      "summary": "The Risks and Evolution of Kernel-Level Rootkits\n\nTraditional Loadable Kernel Module (LKM) rootkits provide complete system control but risk crashing the operating system when kernel versions or memory offsets change.\n\nRepurposing eBPF for Stealthy In-Kernel Persistence\n\nPatH explores how extended Berkeley Packet Filters (eBPF)—designed for high-performance tracing and observability—can be subverted to manipulate kernel memory and hook system calls safely.\n\nManipulating Process State and Concealing Activity\n\nWeaponized eBPF programs can dynamically alter file read operations, conceal processes from `ps` and `top`, and redirect network socket traffic without modifying kernel code sections.\n\nDetecting and Countering Offensive eBPF Deployments\n\nThe author provides incident responders with auditing tools and kernel integrity verification frameworks to detect unauthorized eBPF program attachments.",
       "durationSeconds": 2585
     },
     {
@@ -311,7 +311,7 @@
         "critical-infrastructure"
       ],
       "teaser": "TXOne researchers audit the Mitsubishi Electric factory automation ecosystem, discovering critical vulnerabilities in engineering software, protocols, and PLCs.",
-      "summary": "The Role of Mitsubishi Electric in Global Critical Infrastructure\n\nMitsubishi Electric Industrial Control Systems (ICS) power critical manufacturing, oil and gas, municipal water, and transportation networks across the globe.\n\nDeconstructing Proprietary Factory Automation Protocols\n\nMars Cheng and Selmon Yang reverse engineer proprietary communication protocols and engineering software suites (MELSEC, GX Works) used to program programmable logic controllers (PLCs).\n\nDiscovering Critical Zero-Days Across the Ecosystem\n\nThe researchers reveal a chain of vulnerabilities\u2014including unauthenticated PLC memory overwrites, protocol injection bugs, and engineering workstation DLL hijacks.\n\nMitigating Operational Technology Risks\n\nThe authors discuss coordinated disclosure with Mitsubishi and provide industrial defenders with network segmentation blueprints and OT intrusion signatures.",
+      "summary": "The Role of Mitsubishi Electric in Global Critical Infrastructure\n\nMitsubishi Electric Industrial Control Systems (ICS) power critical manufacturing, oil and gas, municipal water, and transportation networks across the globe.\n\nDeconstructing Proprietary Factory Automation Protocols\n\nMars Cheng and Selmon Yang reverse engineer proprietary communication protocols and engineering software suites (MELSEC, GX Works) used to program programmable logic controllers (PLCs).\n\nDiscovering Critical Zero-Days Across the Ecosystem\n\nThe researchers reveal a chain of vulnerabilities—including unauthenticated PLC memory overwrites, protocol injection bugs, and engineering workstation DLL hijacks.\n\nMitigating Operational Technology Risks\n\nThe authors discuss coordinated disclosure with Mitsubishi and provide industrial defenders with network segmentation blueprints and OT intrusion signatures.",
       "durationSeconds": 2539
     },
     {
@@ -505,7 +505,7 @@
         "developer-security"
       ],
       "teaser": "David Dworken challenges the developer trust model by discovering critical vulnerabilities in modern IDEs (VS Code, IntelliJ) that execute code simply upon opening a repo.",
-      "summary": "The Flawed Threat Model of Developer IDEs\n\nDevelopers frequently clone untrusted open-source code under the assumption that merely opening and reviewing a repository in an IDE without clicking 'Run' is safe.\n\nAuditing Extension Ecosystems and Workspace Trust\n\nDavid Dworken evaluates popular IDEs (such as Visual Studio Code, IntelliJ IDEA, and Eclipse), analyzing automatic build triggers, language servers, and linter integrations.\n\nExecuting Arbitrary Code on Repository Checkout\n\nBy embedding malicious workspace configuration files and task definitions in a project, an attacker triggers silent remote code execution the moment the repository is loaded in the IDE.\n\nIntroducing Workspace Trust Boundaries\n\nDworken reviews industry responses\u2014such as VS Code's Workspace Trust feature\u2014and provides developers with guidelines for safely inspecting untrusted repositories.",
+      "summary": "The Flawed Threat Model of Developer IDEs\n\nDevelopers frequently clone untrusted open-source code under the assumption that merely opening and reviewing a repository in an IDE without clicking 'Run' is safe.\n\nAuditing Extension Ecosystems and Workspace Trust\n\nDavid Dworken evaluates popular IDEs (such as Visual Studio Code, IntelliJ IDEA, and Eclipse), analyzing automatic build triggers, language servers, and linter integrations.\n\nExecuting Arbitrary Code on Repository Checkout\n\nBy embedding malicious workspace configuration files and task definitions in a project, an attacker triggers silent remote code execution the moment the repository is loaded in the IDE.\n\nIntroducing Workspace Trust Boundaries\n\nDworken reviews industry responses—such as VS Code's Workspace Trust feature—and provides developers with guidelines for safely inspecting untrusted repositories.",
       "durationSeconds": 1369
     },
     {
@@ -581,7 +581,7 @@
         "reverse-engineering"
       ],
       "teaser": "Brian Hong reverse engineers Intel Houdini, the proprietary ARM-to-x86 binary translator for Android, auditing its translation engine and memory safety.",
-      "summary": "The Role of Intel Houdini in Cross-Architecture Translation\n\nTo enable x86 Android tablets and emulators to run ARM-native mobile applications, Intel engineered Houdini, a proprietary dynamic binary translation engine.\n\nReverse Engineering the Houdini Translation Engine\n\nBrian Hong conducts a comprehensive reverse engineering audit of Houdini\u2019s internal just-in-time (JIT) compiler, instruction caches, and system call translation layers.\n\nDiscovering Vulnerabilities Across Instruction Set Boundaries\n\nHong investigates how Houdini maps memory permissions and translates ARM signal handlers, revealing subtle memory corruption bugs that break execution sandboxes.\n\nSecurity Implications of Binary Translation Layers\n\nThe author evaluates the attack surface of cross-architecture emulators and translation runtimes in modern computing platforms.",
+      "summary": "The Role of Intel Houdini in Cross-Architecture Translation\n\nTo enable x86 Android tablets and emulators to run ARM-native mobile applications, Intel engineered Houdini, a proprietary dynamic binary translation engine.\n\nReverse Engineering the Houdini Translation Engine\n\nBrian Hong conducts a comprehensive reverse engineering audit of Houdini’s internal just-in-time (JIT) compiler, instruction caches, and system call translation layers.\n\nDiscovering Vulnerabilities Across Instruction Set Boundaries\n\nHong investigates how Houdini maps memory permissions and translates ARM signal handlers, revealing subtle memory corruption bugs that break execution sandboxes.\n\nSecurity Implications of Binary Translation Layers\n\nThe author evaluates the attack surface of cross-architecture emulators and translation runtimes in modern computing platforms.",
       "durationSeconds": 2642
     },
     {
@@ -657,7 +657,7 @@
         "cryptography"
       ],
       "teaser": "Austin Allshouse explores mathematical factorization attacks against low-entropy and defective RSA keys in embedded firmware and IoT devices.",
-      "summary": "The Fragility of Imperfect RSA Key Generation\n\nWhile RSA encryption with sufficiently random primes is mathematically secure, flawed random number generators in embedded hardware yield low-entropy, factorable keys.\n\nMathematical Factorization Methodologies\n\nAustin Allshouse reviews classical and modern cryptanalytic algorithms\u2014including Pollard\u2019s p-1, Fermat\u2019s factorization, and the General Number Field Sieve (GNFS).\n\nScanning Global Internet Datasets for Weak Primes\n\nBy analyzing millions of public TLS certificates and SSH host keys, the author identifies thousands of shared factors and predictable prime distributions across live infrastructure.\n\nRemediation and Secure Key Generation Practices\n\nAllshouse provides guidelines for developers to audit hardware RNG sources and regenerate cryptographically sound RSA keypairs.",
+      "summary": "The Fragility of Imperfect RSA Key Generation\n\nWhile RSA encryption with sufficiently random primes is mathematically secure, flawed random number generators in embedded hardware yield low-entropy, factorable keys.\n\nMathematical Factorization Methodologies\n\nAustin Allshouse reviews classical and modern cryptanalytic algorithms—including Pollard’s p-1, Fermat’s factorization, and the General Number Field Sieve (GNFS).\n\nScanning Global Internet Datasets for Weak Primes\n\nBy analyzing millions of public TLS certificates and SSH host keys, the author identifies thousands of shared factors and predictable prime distributions across live infrastructure.\n\nRemediation and Secure Key Generation Practices\n\nAllshouse provides guidelines for developers to audit hardware RNG sources and regenerate cryptographically sound RSA keypairs.",
       "durationSeconds": 1202
     },
     {
@@ -775,7 +775,7 @@
         "nrf52832"
       ],
       "teaser": "Thomas Roth (stacksmashing) glitches the Apple AirTag within days of release, dumping microcontroller firmware and re-flashing the device with custom Find My payloads.",
-      "summary": "The Architecture of Apple AirTags and the Find My Network\n\nApple AirTags integrate Ultra-Wideband (UWB) and Bluetooth Low Energy (BLE) microcontrollers to enable precision tracking through hundreds of millions of Apple devices.\n\nExecuting Power Fault Injection (Voltage Glitching)\n\nThomas Roth performs precision power glitching against the Nordic nRF52832 microcontroller during early boot, successfully bypassing Readback Protection (APPROTECT).\n\nDumping and Reverse Engineering AirTag Firmware\n\nDumping the internal flash memory allowed Roth to analyze Apple\u2019s proprietary Find My protocol implementation and BLE advertisement beacon formats.\n\nFlashing Custom Firmware onto AirTag Hardware\n\nRoth demonstrates reprogramming the AirTag to modify broadcast beacon URLs, transforming the commercial tracker into a custom hardware beacon.",
+      "summary": "The Architecture of Apple AirTags and the Find My Network\n\nApple AirTags integrate Ultra-Wideband (UWB) and Bluetooth Low Energy (BLE) microcontrollers to enable precision tracking through hundreds of millions of Apple devices.\n\nExecuting Power Fault Injection (Voltage Glitching)\n\nThomas Roth performs precision power glitching against the Nordic nRF52832 microcontroller during early boot, successfully bypassing Readback Protection (APPROTECT).\n\nDumping and Reverse Engineering AirTag Firmware\n\nDumping the internal flash memory allowed Roth to analyze Apple’s proprietary Find My protocol implementation and BLE advertisement beacon formats.\n\nFlashing Custom Firmware onto AirTag Hardware\n\nRoth demonstrates reprogramming the AirTag to modify broadcast beacon URLs, transforming the commercial tracker into a custom hardware beacon.",
       "durationSeconds": 2311
     },
     {
@@ -968,7 +968,7 @@
         "hardware"
       ],
       "teaser": "Dan Petro evaluates hardware Random Number Generators (RNGs) across popular IoT microcontrollers, exposing broken entropy sources that compromise crypto keys.",
-      "summary": "The Critical Dependence of Cryptography on Randomness\n\nCryptographic protocols\u2014including AES key generation, RSA primes, and TLS nonces\u2014rely entirely on unpredictable random number generators (RNGs) for security.\n\nAuditing IoT Microcontroller Hardware RNGs\n\nDan Petro conducts rigorous statistical entropy tests across popular IoT silicon platforms (such as ESP32, STM32, and Nordic chips).\n\nDiscovering Zero-Entropy and Predictable Seeds\n\nPetro reveals common software integration errors where developers read uninitialized RNG registers, resulting in fixed zero-value encryption keys and predictable nonce generation.\n\nBest Practices for Embedded Cryptographic Randomness\n\nThe author provides developers with verified entropy harvesting routines, advising how to combine hardware noise with cryptographic PRNGs safely.",
+      "summary": "The Critical Dependence of Cryptography on Randomness\n\nCryptographic protocols—including AES key generation, RSA primes, and TLS nonces—rely entirely on unpredictable random number generators (RNGs) for security.\n\nAuditing IoT Microcontroller Hardware RNGs\n\nDan Petro conducts rigorous statistical entropy tests across popular IoT silicon platforms (such as ESP32, STM32, and Nordic chips).\n\nDiscovering Zero-Entropy and Predictable Seeds\n\nPetro reveals common software integration errors where developers read uninitialized RNG registers, resulting in fixed zero-value encryption keys and predictable nonce generation.\n\nBest Practices for Embedded Cryptographic Randomness\n\nThe author provides developers with verified entropy harvesting routines, advising how to combine hardware noise with cryptographic PRNGs safely.",
       "durationSeconds": 2404
     },
     {
@@ -1067,7 +1067,7 @@
         "hardware"
       ],
       "teaser": "Physical security experts expose critical vulnerabilities in modern Physical Access Control Systems (PACS), breaking OSDP readers and smart controllers.",
-      "summary": "The False Promise of Modernized Physical Access Control\n\nWhile facilities have begun replacing legacy unencrypted Wiegand badges with smart card Physical Access Control Systems (PACS), modern software-defined readers introduce new attack vectors.\n\nAuditing the Open Supervised Device Protocol (OSDP)\n\nBabak Javadi, Nick Draffen, Eric Bettse, and Anze Jensterle analyze the implementation of OSDP and Secure Channel encryption across major commercial access controllers.\n\nExploiting Installation Shortcuts and Firmware Flaws\n\nThe team demonstrates practical bypasses\u2014from sniffing unencrypted master install keys over RS-485 to triggering relay drops via reader tampering.\n\nHardening Physical Access Control Networks\n\nThe speakers provide facilities managers with physical security checklists, including enabling end-to-end OSDP encryption and tamper-proofing controller enclosures.",
+      "summary": "The False Promise of Modernized Physical Access Control\n\nWhile facilities have begun replacing legacy unencrypted Wiegand badges with smart card Physical Access Control Systems (PACS), modern software-defined readers introduce new attack vectors.\n\nAuditing the Open Supervised Device Protocol (OSDP)\n\nBabak Javadi, Nick Draffen, Eric Bettse, and Anze Jensterle analyze the implementation of OSDP and Secure Channel encryption across major commercial access controllers.\n\nExploiting Installation Shortcuts and Firmware Flaws\n\nThe team demonstrates practical bypasses—from sniffing unencrypted master install keys over RS-485 to triggering relay drops via reader tampering.\n\nHardening Physical Access Control Networks\n\nThe speakers provide facilities managers with physical security checklists, including enabling end-to-end OSDP encryption and tamper-proofing controller enclosures.",
       "durationSeconds": 2409
     },
     {
@@ -1086,7 +1086,7 @@
         "privacy"
       ],
       "teaser": "Dennis Giese reverse engineers smart robot vacuums, hacking LiDAR, cameras, and firmware to liberate devices from proprietary cloud tracking via Valetudo.",
-      "summary": "Smart Vacuums as Pervasive Indoor Surveillance Platforms\n\nModern robotic vacuums feature HD cameras, LiDAR spatial mapping, and Wi-Fi connectivity, continuously uploading domestic floorplans and video feeds to commercial cloud platforms.\n\nHardware Teardown and Rooting Techniques\n\nDennis Giese demonstrates hardware rooting methods\u2014including UART probing, NAND glitching, and USB OTG firmware flashing\u2014across leading robot vacuum brands.\n\nAuditing In-Vehicle Telemetry and Camera Feeds\n\nExtracting local firmware reveals unencrypted video storage and undocumented cloud telemetry beacons transmitting private household data.\n\nLiberating Robots with Open-Source Firmware (Valetudo)\n\nGiese presents Valetudo, an open-source cloud replacement that allows vacuum robots to operate fully locally on private home networks without external cloud dependencies.",
+      "summary": "Smart Vacuums as Pervasive Indoor Surveillance Platforms\n\nModern robotic vacuums feature HD cameras, LiDAR spatial mapping, and Wi-Fi connectivity, continuously uploading domestic floorplans and video feeds to commercial cloud platforms.\n\nHardware Teardown and Rooting Techniques\n\nDennis Giese demonstrates hardware rooting methods—including UART probing, NAND glitching, and USB OTG firmware flashing—across leading robot vacuum brands.\n\nAuditing In-Vehicle Telemetry and Camera Feeds\n\nExtracting local firmware reveals unencrypted video storage and undocumented cloud telemetry beacons transmitting private household data.\n\nLiberating Robots with Open-Source Firmware (Valetudo)\n\nGiese presents Valetudo, an open-source cloud replacement that allows vacuum robots to operate fully locally on private home networks without external cloud dependencies.",
       "durationSeconds": 2014
     },
     {
@@ -1107,7 +1107,7 @@
         "appsec"
       ],
       "teaser": "Star-V Lab researchers take a deep dive into Microsoft SharePoint Server, chaining multiple zero-day vulnerabilities to achieve unauthenticated remote code execution.",
-      "summary": "Microsoft SharePoint in Enterprise Collaboration\n\nMicrosoft SharePoint Server is a foundational intranet CMS and collaboration platform deeply integrated into Active Directory and enterprise data repositories.\n\nAuditing SharePoint Architecture and Web Controls\n\nYuhao Weng, Steven Seeley, and Zhiniang Peng investigate internal SharePoint web controls, SOAP endpoints, and binary serialization formatters.\n\nChaining Authentication Bypasses and Deserialization Gadgets\n\nThe authors detail discovering multiple critical zero-days, illustrating how to bypass authentication filters and execute arbitrary code as SYSTEM via crafted serialization streams.\n\nHardening Enterprise SharePoint Environments\n\nThe presentation provides enterprise administrators with defensive auditing scripts and reviews Microsoft\u2019s patch mitigations for SharePoint servers.",
+      "summary": "Microsoft SharePoint in Enterprise Collaboration\n\nMicrosoft SharePoint Server is a foundational intranet CMS and collaboration platform deeply integrated into Active Directory and enterprise data repositories.\n\nAuditing SharePoint Architecture and Web Controls\n\nYuhao Weng, Steven Seeley, and Zhiniang Peng investigate internal SharePoint web controls, SOAP endpoints, and binary serialization formatters.\n\nChaining Authentication Bypasses and Deserialization Gadgets\n\nThe authors detail discovering multiple critical zero-days, illustrating how to bypass authentication filters and execute arbitrary code as SYSTEM via crafted serialization streams.\n\nHardening Enterprise SharePoint Environments\n\nThe presentation provides enterprise administrators with defensive auditing scripts and reviews Microsoft’s patch mitigations for SharePoint servers.",
       "durationSeconds": 2597
     },
     {
@@ -1149,7 +1149,7 @@
         "social-engineering"
       ],
       "teaser": "Singapore government researchers construct an automated spear-phishing pipeline powered by OpenAI's GPT-3 API, comparing AI-generated phishing to human campaigns.",
-      "summary": "The Weaponization of Large Language Models\n\nThe emergence of AI-as-a-Service (AIaaS) APIs\u2014such as OpenAI's GPT-3\u2014enables generating convincing, context-aware synthetic text at massive scale and minimal cost.\n\nConstructing an Automated AI Spear-Phishing Pipeline\n\nEugene Lim, Glenice Tan, and Tan Kee Hock build an end-to-end automated phishing pipeline that scrapes target OSINT data and generates hyper-personalized phishing emails.\n\nEmpirical Comparative Testing Against Human Phishers\n\nIn controlled authorized testing across hundreds of subjects, the AI-generated phishing emails achieved click-through rates rivaling and occasionally exceeding expert human social engineers.\n\nDefensive Verification in the Age of Synthetic Content\n\nThe authors discuss defensive countermeasures, automated linguistic anomaly detection, and training programs to prepare organizations for AI-driven deception.",
+      "summary": "The Weaponization of Large Language Models\n\nThe emergence of AI-as-a-Service (AIaaS) APIs—such as OpenAI's GPT-3—enables generating convincing, context-aware synthetic text at massive scale and minimal cost.\n\nConstructing an Automated AI Spear-Phishing Pipeline\n\nEugene Lim, Glenice Tan, and Tan Kee Hock build an end-to-end automated phishing pipeline that scrapes target OSINT data and generates hyper-personalized phishing emails.\n\nEmpirical Comparative Testing Against Human Phishers\n\nIn controlled authorized testing across hundreds of subjects, the AI-generated phishing emails achieved click-through rates rivaling and occasionally exceeding expert human social engineers.\n\nDefensive Verification in the Age of Synthetic Content\n\nThe authors discuss defensive countermeasures, automated linguistic anomaly detection, and training programs to prepare organizations for AI-driven deception.",
       "durationSeconds": 1589
     },
     {
@@ -1293,6 +1293,44 @@
       "teaser": "Researchers reveal machine-in-the-middle attacks targeting Active Directory authentication protocols, extending relay attacks beyond NTLM to Kerberos and hybrid environments.",
       "summary": "Machine-in-the-Middle on Active Directory Protocols\n\nAdversaries have long leveraged Machine-in-the-Middle (MitM) attacks against Windows authentication, exploiting the lack of mutual authentication and cryptographic signing across legacy network protocols.\n\nRelay Attacks Beyond NTLM\n\nSagi Sheinfeld, Eyal Karni, and Yaron Zinar demonstrate that credential relay attacks are not restricted to NTLM, revealing novel injection techniques targeting Kerberos authentication workflows.\n\nCompromising Critical and Hybrid Infrastructure\n\nThe speakers detail attack vectors that compromise client systems, domain-joined Unix machines, virtualization clusters, and hybrid cloud Active Directory deployments to achieve remote code execution.\n\nMitigation and Defensive Guidance\n\nThe authors present defensive recommendations, auditing procedures, and protocol hardening configurations to neutralize machine-in-the-middle relay threats across enterprise networks.",
       "durationSeconds": 2803
+    },
+    {
+      "youtubeId": "LmSyb0kBvGE",
+      "slug": "dos-denial-of-shopping-analyzing-shopping-cart-systems-channel",
+      "title": "DoS  Denial of Shopping: Analyzing and Exploiting  Shopping Cart Systems",
+      "speakers": [
+        "Joseph Gabay"
+      ],
+      "track": "appsec",
+      "topics": [
+        "appsec",
+        "retail",
+        "denial-of-service",
+        "shopping-carts",
+        "physical-security"
+      ],
+      "teaser": "How supermarket cart locks can be analyzed and abused as a shopping-system denial path.",
+      "summary": null,
+      "durationSeconds": 1343
+    },
+    {
+      "youtubeId": "iWu_xHI4aDI",
+      "slug": "bring-your-own-print-driver-vulnerability-channel",
+      "title": "Bring Your Own Print Driver Vulnerability",
+      "speakers": [
+        "Jacob Baines"
+      ],
+      "track": "red-team",
+      "topics": [
+        "windows",
+        "privilege-escalation",
+        "print-spooler",
+        "vulnerabilities",
+        "red-team"
+      ],
+      "teaser": "Abusing Windows print driver installation as a path from low privilege toward SYSTEM.",
+      "summary": null,
+      "durationSeconds": 2555
     }
   ]
 }

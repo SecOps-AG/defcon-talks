@@ -1,0 +1,27 @@
+{
+  "villageSlug": "main-stage",
+  "villageName": "Main Stage",
+  "eventSlug": "defcon-6",
+  "playlistUrl": "https://www.youtube.com/@DEFCONConference/videos",
+  "description": "Main stage presentations and audio archives from DEF CON 6.",
+  "talks": [
+    {
+      "youtubeId": "fWuZJgSikzQ",
+      "slug": "tradecraft-on-public-networks-audio",
+      "title": "Tradecraft on Public Networks - Audio",
+      "speakers": [
+        "Bruce Schneier"
+      ],
+      "track": "privacy",
+      "topics": [
+        "privacy",
+        "cryptography",
+        "tradecraft",
+        "audio"
+      ],
+      "teaser": "Brief audio fragment labeled as Schneier Tradecraft on Public Networks from DEF CON 6.",
+      "summary": null,
+      "durationSeconds": 1
+    }
+  ]
+}

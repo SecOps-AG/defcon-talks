@@ -1654,6 +1654,38 @@
       "teaser": "Qihoo 360 researchers Yuwei Zheng and Haoqi Shan demonstrate hacking a VxWorks-based femtocell base station to construct a low-cost cellular traffic capture and monitoring appliance.",
       "summary": "Cellular Connectivity in Modern Connected Devices\n\nWith automobiles, smart meters, and IoT consumer devices increasingly relying on cellular modems for telemetry and updates, intercepting mobile network traffic is vital for security evaluations.\n\nReverse Engineering VxWorks Femtocells\n\nYuwei Zheng and Haoqi Shan explore the firmware architecture of commercially available femtocell small cells running the VxWorks real-time operating system (RTOS).\n\nDeveloping an Open Traffic Interception Tool\n\nThe researchers demonstrate exploiting the base station's operating system to tap radio protocol stacks, enabling passive capture and analysis of 2G/3G/4G cellular traffic without costly hardware.\n\nSecurity Analysis of IoT Cellular Protocols\n\nThe authors showcase real-world captures of connected vehicle telemetry, highlighting unencrypted communications and firmware update flaws exposed via cellular network monitoring.",
       "durationSeconds": 2551
+    },
+    {
+      "youtubeId": "2b8AWLTq67w",
+      "slug": "youtube-housekeeping-alert",
+      "title": "YouTube Housekeeping Alert",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Channel housekeeping note about copyright strikes and the DEF CON YouTube collection.",
+      "summary": null,
+      "durationSeconds": 40
+    },
+    {
+      "youtubeId": "rNdLm1O5uoY",
+      "slug": "trailer-declassified",
+      "title": "Trailer - Declassified!",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "DEF CON 23 conference trailer.",
+      "summary": null,
+      "durationSeconds": 73
     }
   ]
 }

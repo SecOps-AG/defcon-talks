@@ -74,6 +74,38 @@
       "teaser": "Miss Jackalope hits the decks for a high-energy live electronic music set during the 2020 DEF CON New Year's Eve virtual party.",
       "summary": null,
       "durationSeconds": 2991
+    },
+    {
+      "youtubeId": "GXdnAvDDPJ8",
+      "slug": "nye-hacker-jeopardy",
+      "title": "NYE - Hacker Jeopardy",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Teaser for Hacker Jeopardy at the 2020 DEF CON New Year’s Eve virtual party.",
+      "summary": null,
+      "durationSeconds": 19
+    },
+    {
+      "youtubeId": "dUsm26MlA7M",
+      "slug": "save-the-date-def-con-s-first-new-year-s-eve-party",
+      "title": "Save the Date - DEF CON's first New Year's Eve party!",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Save-the-date promo for DEF CON’s first New Year’s Eve party.",
+      "summary": null,
+      "durationSeconds": 30
     }
   ]
 }

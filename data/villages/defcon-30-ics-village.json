@@ -38,6 +38,22 @@
       "teaser": "The ICS Village closing reflections and fast-forward overview on emerging threats and security challenges across industrial control systems.",
       "summary": null,
       "durationSeconds": 92
+    },
+    {
+      "youtubeId": "douawM9UqHc",
+      "slug": "ics-village-seatf-setup",
+      "title": "ICS Village - SEAtf Setup",
+      "speakers": [],
+      "track": "ics-ot",
+      "topics": [
+        "ics-ot",
+        "ctf",
+        "village",
+        "setup"
+      ],
+      "teaser": "DEF CON 30 ICS Village SEAtf setup clip.",
+      "summary": null,
+      "durationSeconds": 75
     }
   ]
 }

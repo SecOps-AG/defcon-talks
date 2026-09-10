@@ -5,7 +5,7 @@
       "name": "DEF CON 34",
       "shortName": "DC34",
       "year": 2026,
-      "dates": "6\u20139 August 2026",
+      "dates": "6–9 August 2026",
       "location": "Las Vegas Convention Center"
     },
     {
@@ -21,7 +21,7 @@
       "name": "DEF CON 33",
       "shortName": "DC33",
       "year": 2025,
-      "dates": "8\u201310 August 2025",
+      "dates": "8–10 August 2025",
       "location": "Las Vegas Convention Center"
     },
     {
@@ -117,7 +117,7 @@
       "name": "DEF CON 24",
       "shortName": "DC24",
       "year": 2016,
-      "dates": "4\u20137 August 2016",
+      "dates": "4–7 August 2016",
       "location": "Paris and Bally's Hotels, Las Vegas"
     },
     {
@@ -257,20 +257,20 @@
       "location": "Alexis Park Resort, Las Vegas"
     },
     {
+      "slug": "defcon-6",
+      "name": "DEF CON 6",
+      "shortName": "DC6",
+      "year": 1998,
+      "dates": "31 July-2 August 1998",
+      "location": "Plaza Hotel, Las Vegas"
+    },
+    {
       "slug": "defcon-5",
       "name": "DEF CON 5",
       "shortName": "DC5",
       "year": 1997,
       "dates": "18-20 July 1997",
       "location": "Aladdin Hotel, Las Vegas"
-    },
-    {
-      "slug": "defcon-channel",
-      "name": "DEF CON Conference channel",
-      "shortName": "Channel",
-      "year": 2026,
-      "dates": "Ongoing",
-      "location": "YouTube"
     }
   ]
 }

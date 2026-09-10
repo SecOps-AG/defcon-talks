@@ -232,7 +232,7 @@
         "firmware"
       ],
       "teaser": "Gal Zror discloses six new vulnerabilities in Ruckus Wireless ZoneDirector and Unleashed access points, achieving unauthenticated root RCE over the air.",
-      "summary": "Revisiting Enterprise Wi-Fi Controller Security\n\nFollowing earlier disclosures in enterprise wireless infrastructure, Gal Zror conducts a comprehensive follow-up audit of Ruckus Wireless ZoneDirector and Unleashed firmware.\n\nDiscovering Six New Critical Vulnerabilities\n\nZror reveals a chain of six distinct flaws\u2014spanning command injection, information leakage, credential overwrites, stack buffer overflows, and stored XSS.\n\nUnauthenticated Root Code Execution\n\nChaining pre-authentication web handler bugs allows an unauthenticated network attacker to overwrite administrative credentials and execute arbitrary root shellcode on access points.\n\nVendor Patch Analysis and Fleet Hardening\n\nThe author reviews vendor security patches, providing wireless network engineers with detection signatures to audit enterprise Wi-Fi deployments.",
+      "summary": "Revisiting Enterprise Wi-Fi Controller Security\n\nFollowing earlier disclosures in enterprise wireless infrastructure, Gal Zror conducts a comprehensive follow-up audit of Ruckus Wireless ZoneDirector and Unleashed firmware.\n\nDiscovering Six New Critical Vulnerabilities\n\nZror reveals a chain of six distinct flaws—spanning command injection, information leakage, credential overwrites, stack buffer overflows, and stored XSS.\n\nUnauthenticated Root Code Execution\n\nChaining pre-authentication web handler bugs allows an unauthenticated network attacker to overwrite administrative credentials and execute arbitrary root shellcode on access points.\n\nVendor Patch Analysis and Fleet Hardening\n\nThe author reviews vendor security patches, providing wireless network engineers with detection signatures to audit enterprise Wi-Fi deployments.",
       "durationSeconds": 2370
     },
     {
@@ -241,7 +241,7 @@
       "title": "Room for Escape: Scribbling Outside the Lines of Template Security",
       "speakers": [
         "Oleksandr Mirosh",
-        "Alvaro Mu\u00f1oz"
+        "Alvaro Muñoz"
       ],
       "track": "appsec",
       "topics": [
@@ -251,8 +251,8 @@
         "template-injection",
         "appsec"
       ],
-      "teaser": "Alvaro Mu\u00f1oz and Oleksandr Mirosh uncover server-side template injection (SSTI) RCE vulnerabilities across leading enterprise Content Management Systems.",
-      "summary": "Server-Side Template Engines in Enterprise CMS\n\nModern Content Management Systems (CMS) rely heavily on template engines (such as Freemarker, Velocity, and Twig) to dynamically render user-customized web content.\n\nThe Evolution of Server-Side Template Injection (SSTI)\n\nAlvaro Mu\u00f1oz and Oleksandr Mirosh explore the mechanics of SSTI, analyzing how template engines expose internal programming language reflection and class loaders.\n\nBypassing Template Sandboxes to Achieve RCE\n\nDissecting popular enterprise CMS platforms reveals novel sandbox bypass techniques, allowing attackers to invoke native operating system commands through template directives.\n\nHardening Template Engines and Defenses\n\nThe researchers release open-source security guidelines and secure configuration baselines for developers to sandbox template execution safely.",
+      "teaser": "Alvaro Muñoz and Oleksandr Mirosh uncover server-side template injection (SSTI) RCE vulnerabilities across leading enterprise Content Management Systems.",
+      "summary": "Server-Side Template Engines in Enterprise CMS\n\nModern Content Management Systems (CMS) rely heavily on template engines (such as Freemarker, Velocity, and Twig) to dynamically render user-customized web content.\n\nThe Evolution of Server-Side Template Injection (SSTI)\n\nAlvaro Muñoz and Oleksandr Mirosh explore the mechanics of SSTI, analyzing how template engines expose internal programming language reflection and class loaders.\n\nBypassing Template Sandboxes to Achieve RCE\n\nDissecting popular enterprise CMS platforms reveals novel sandbox bypass techniques, allowing attackers to invoke native operating system commands through template directives.\n\nHardening Template Engines and Defenses\n\nThe researchers release open-source security guidelines and secure configuration baselines for developers to sandbox template execution safely.",
       "durationSeconds": 2700
     },
     {
@@ -386,7 +386,7 @@
         "key-recovery"
       ],
       "teaser": "Cryptanalyst Michael Stay recovers $300,000 in locked Bitcoin keys by executing a sophisticated partial-known-plaintext cryptanalysis attack against legacy Zip encryption.",
-      "summary": "The High-Stakes Recovery of Locked Crypto Assets\n\nWhen a cryptocurrency investor forgot the password to an encrypted Zip archive containing hundreds of thousands of dollars in Bitcoin keys, they turned to legacy cryptanalysis.\n\nRevisiting 20-Year-Old PKZIP Cryptanalysis\n\nMichael Stay revisits Biham and Kocher\u2019s classic known-plaintext attack against PKZIP stream encryption, adapting historical techniques to handle limited known plaintext.\n\nEngineering GPU-Accelerated Key Reduction Engines\n\nStay outlines the mathematical breakthroughs and custom CUDA GPU kernels developed to reduce the internal CRC32 and linear feedback shift register state spaces.\n\nSuccessfully Reconstructing the Private Key\n\nExecuting the cryptanalytic reduction recovered the internal encryption keys within days, unlocking the archive and securing the Bitcoin funds.",
+      "summary": "The High-Stakes Recovery of Locked Crypto Assets\n\nWhen a cryptocurrency investor forgot the password to an encrypted Zip archive containing hundreds of thousands of dollars in Bitcoin keys, they turned to legacy cryptanalysis.\n\nRevisiting 20-Year-Old PKZIP Cryptanalysis\n\nMichael Stay revisits Biham and Kocher’s classic known-plaintext attack against PKZIP stream encryption, adapting historical techniques to handle limited known plaintext.\n\nEngineering GPU-Accelerated Key Reduction Engines\n\nStay outlines the mathematical breakthroughs and custom CUDA GPU kernels developed to reduce the internal CRC32 and linear feedback shift register state spaces.\n\nSuccessfully Reconstructing the Private Key\n\nExecuting the cryptanalytic reduction recovered the internal encryption keys within days, unlocking the archive and securing the Bitcoin funds.",
       "durationSeconds": 2504
     },
     {
@@ -443,7 +443,7 @@
         "appsec",
         "vulnerability-research"
       ],
-      "teaser": "Joshua Maddux weaponizes TLS protocol features\u2014including session resumption and SNI parsing\u2014to execute advanced Server-Side Request Forgery (SSRF) attacks.",
+      "teaser": "Joshua Maddux weaponizes TLS protocol features—including session resumption and SNI parsing—to execute advanced Server-Side Request Forgery (SSRF) attacks.",
       "summary": "Repurposing TLS Features as Attack Vectors\n\nWhile TLS is designed to secure network communications, complex performance optimization features within the protocol can be weaponized by adversaries.\n\nWeaponizing TLS for Server-Side Request Forgery (SSRF)\n\nJoshua Maddux demonstrates how manipulating TLS session tickets, SNI extensions, and client certificates enables bypassing SSRF URL filters and firewall protections.\n\nCross-Protocol Exploitation and Protocol Smuggling\n\nBy encapsulating plaintext protocol payloads inside encrypted TLS session resumptions, an attacker can coerce internal servers to interact with internal Redis or Memcached instances.\n\nSecuring Application TLS Implementations\n\nThe author provides guidance for application security engineers to enforce strict TLS client configurations and validate outgoing connection destinations.",
       "durationSeconds": 1190
     },
@@ -539,7 +539,7 @@
         "policy"
       ],
       "teaser": "Emergency physician Christian Dameff and a panel of experts examine escalating cyber threats to hospitals, patient safety, and medical devices during the COVID-19 pandemic.",
-      "summary": "Healthcare Cyber Resiliency Under Pandemic Strain\n\nAs the COVID-19 pandemic overwhelmed emergency departments and intensive care units, ransomware operators intensified attacks against hospital clinical infrastructure.\n\nThe Direct Intersection of Cybersecurity and Patient Safety\n\nDr. Christian Dameff and clinical cybersecurity experts emphasize that medical device outages, EHR lockouts, and network downtime directly jeopardize human lives.\n\nVulnerabilities in Connected Clinical Equipment\n\nPanelists review critical vulnerabilities in hospital networks\u2014including bedside infusion pumps, ventilators, and laboratory telemetry systems.\n\nA Call to Action for Hacker Defense\n\nThe session calls upon the global cybersecurity community to volunteer technical assistance, defend healthcare facilities, and prioritize medical device security research.",
+      "summary": "Healthcare Cyber Resiliency Under Pandemic Strain\n\nAs the COVID-19 pandemic overwhelmed emergency departments and intensive care units, ransomware operators intensified attacks against hospital clinical infrastructure.\n\nThe Direct Intersection of Cybersecurity and Patient Safety\n\nDr. Christian Dameff and clinical cybersecurity experts emphasize that medical device outages, EHR lockouts, and network downtime directly jeopardize human lives.\n\nVulnerabilities in Connected Clinical Equipment\n\nPanelists review critical vulnerabilities in hospital networks—including bedside infusion pumps, ventilators, and laboratory telemetry systems.\n\nA Call to Action for Hacker Defense\n\nThe session calls upon the global cybersecurity community to volunteer technical assistance, defend healthcare facilities, and prioritize medical device security research.",
       "durationSeconds": 3872
     },
     {
@@ -548,7 +548,7 @@
       "title": "DNSSECTION: A Practical Attack on DNS",
       "speakers": [
         "Hadrien Barral",
-        "R\u00e9mi G\u00e9raud-Stewart"
+        "Rémi Géraud-Stewart"
       ],
       "track": "appsec",
       "topics": [
@@ -558,8 +558,8 @@
         "network-security",
         "cryptography"
       ],
-      "teaser": "Hadrien Barral and R\u00e9mi G\u00e9raud-Stewart disclose DNSSECTION, demonstrating subtle structural attacks on DNS and DNSSEC record validation.",
-      "summary": "The Expanding Complexity of the Domain Name System\n\nOriginally designed for simple hostname-to-IP resolution, DNS has evolved into a complex distributed database supporting DNSSEC, TXT metadata, and service discovery records.\n\nIntroducing the DNSSECTION Attack Framework\n\nHadrien Barral and R\u00e9mi G\u00e9raud-Stewart explore structural parsing ambiguities in how recursive resolvers process additional and authoritative record sections.\n\nExploiting Cache Inconsistencies and Resource Mappings\n\nManipulating record boundaries and DNSSEC cryptographic validation chains allows injecting unauthorized resource records into resolver caches.\n\nHardening Global DNS Infrastructure\n\nThe authors discuss protocol remediation strategies and release test suites for DNS server maintainers to prevent structural record pollution.",
+      "teaser": "Hadrien Barral and Rémi Géraud-Stewart disclose DNSSECTION, demonstrating subtle structural attacks on DNS and DNSSEC record validation.",
+      "summary": "The Expanding Complexity of the Domain Name System\n\nOriginally designed for simple hostname-to-IP resolution, DNS has evolved into a complex distributed database supporting DNSSEC, TXT metadata, and service discovery records.\n\nIntroducing the DNSSECTION Attack Framework\n\nHadrien Barral and Rémi Géraud-Stewart explore structural parsing ambiguities in how recursive resolvers process additional and authoritative record sections.\n\nExploiting Cache Inconsistencies and Resource Mappings\n\nManipulating record boundaries and DNSSEC cryptographic validation chains allows injecting unauthorized resource records into resolver caches.\n\nHardening Global DNS Infrastructure\n\nThe authors discuss protocol remediation strategies and release test suites for DNS server maintainers to prevent structural record pollution.",
       "durationSeconds": 2261
     },
     {
@@ -629,7 +629,7 @@
       "speakers": [
         "Shlomi Oberman",
         "Moshe Kol",
-        "Ariel Sch\u00f6n"
+        "Ariel Schön"
       ],
       "track": "supply-chain",
       "topics": [
@@ -640,7 +640,7 @@
         "embedded"
       ],
       "teaser": "JSOF researchers chronicle the discovery and coordinated disclosure of Ripple20, a series of critical vulnerabilities in a widely embedded TCP/IP stack affecting millions of IoT devices.",
-      "summary": "Uncovering Systemic Flaws in Embedded TCP/IP Stacks\n\nIn 2020, JSOF researchers uncovered Ripple20, a set of 19 critical zero-day vulnerabilities in a proprietary TCP/IP software stack developed by Treck in the late 1990s.\n\nThe Hidden Proliferation of Supply Chain Code\n\nShlomi Oberman, Moshe Kol, and Ariel Sch\u00f6n trace how the vulnerable code was licensed, re-branded, and integrated into hundreds of millions of enterprise, medical, and industrial IoT devices.\n\nExploiting Remote Code Execution Across Diverse Hardware\n\nDissecting DNS, DHCP, and IPv6 packet parsing flaws illustrates achieving unauthenticated remote code execution on power grid controllers, smart printers, and patient monitors.\n\nCoordinating a Multi-Vendor Global Disclosure\n\nThe speakers share the unprecedented 8-month global disclosure campaign involving CERT/CC, CISA, and hundreds of device manufacturers to coordinate patches.",
+      "summary": "Uncovering Systemic Flaws in Embedded TCP/IP Stacks\n\nIn 2020, JSOF researchers uncovered Ripple20, a set of 19 critical zero-day vulnerabilities in a proprietary TCP/IP software stack developed by Treck in the late 1990s.\n\nThe Hidden Proliferation of Supply Chain Code\n\nShlomi Oberman, Moshe Kol, and Ariel Schön trace how the vulnerable code was licensed, re-branded, and integrated into hundreds of millions of enterprise, medical, and industrial IoT devices.\n\nExploiting Remote Code Execution Across Diverse Hardware\n\nDissecting DNS, DHCP, and IPv6 packet parsing flaws illustrates achieving unauthenticated remote code execution on power grid controllers, smart printers, and patient monitors.\n\nCoordinating a Multi-Vendor Global Disclosure\n\nThe speakers share the unprecedented 8-month global disclosure campaign involving CERT/CC, CISA, and hundreds of device manufacturers to coordinate patches.",
       "durationSeconds": 2650
     },
     {
@@ -953,7 +953,7 @@
       "slug": "safe-mode-alvaro-munoz-and-oleksandr-mirosh-room-for-escape-scri",
       "title": "Room for Escape: Scribbling Outside the Lines of Template Security (Q&A)",
       "speakers": [
-        "Alvaro Mu\u00f1oz",
+        "Alvaro Muñoz",
         "Oleksandr Mirosh"
       ],
       "track": "appsec",
@@ -964,7 +964,7 @@
         "q-and-a",
         "appsec"
       ],
-      "teaser": "Alvaro Mu\u00f1oz and Oleksandr Mirosh answer questions on Server-Side Template Injection, CMS template engine sandboxes, and secure coding.",
+      "teaser": "Alvaro Muñoz and Oleksandr Mirosh answer questions on Server-Side Template Injection, CMS template engine sandboxes, and secure coding.",
       "summary": null,
       "durationSeconds": 1906
     },
@@ -1110,7 +1110,7 @@
       "speakers": [
         "Shlomi Oberman",
         "Moshe Kol",
-        "Ariel Sch\u00f6n"
+        "Ariel Schön"
       ],
       "track": "supply-chain",
       "topics": [
@@ -1246,7 +1246,7 @@
       "title": "DNSSECTION: A Practical Attack on DNS (Q&A)",
       "speakers": [
         "Hadrien Barral",
-        "R\u00e9mi G\u00e9raud-Stewart"
+        "Rémi Géraud-Stewart"
       ],
       "track": "appsec",
       "topics": [
@@ -1256,7 +1256,7 @@
         "q-and-a",
         "network-security"
       ],
-      "teaser": "Hadrien Barral and R\u00e9mi G\u00e9raud-Stewart answer questions on DNSSECTION attacks, DNS record parsing semantics, and DNSSEC resolver validation.",
+      "teaser": "Hadrien Barral and Rémi Géraud-Stewart answer questions on DNSSECTION attacks, DNS record parsing semantics, and DNSSEC resolver validation.",
       "summary": null,
       "durationSeconds": 1927
     },
@@ -1278,6 +1278,22 @@
       "teaser": "Badass Bowden hosts a lively DEF CON Safe Mode Fireside Lounge Q&A discussing community culture, handling toxic trolls, and answering audience questions.",
       "summary": null,
       "durationSeconds": 3802
+    },
+    {
+      "youtubeId": "vqDvv1sS2os",
+      "slug": "safe-mode-channel",
+      "title": "Safe Mode",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Announcement that DEF CON 28 entered Safe Mode during COVID-19.",
+      "summary": null,
+      "durationSeconds": 48
     }
   ]
 }

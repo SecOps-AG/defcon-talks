@@ -23,7 +23,7 @@
     {
       "youtubeId": "xwlwM79iqLA",
       "slug": "let-s-just-say-i-m-pumped-for-defcon-34",
-      "title": "Let\u2019s just say I\u2019m pumped for DEFCON 34",
+      "title": "Let’s just say I’m pumped for DEFCON 34",
       "speakers": [],
       "track": "community",
       "topics": [
@@ -79,6 +79,22 @@
       "teaser": "DEF CON 34 community presentation.",
       "summary": null,
       "durationSeconds": 18
+    },
+    {
+      "youtubeId": "XR3a4B4W-hQ",
+      "slug": "good-morning",
+      "title": "Good Morning",
+      "speakers": [],
+      "track": "community",
+      "topics": [
+        "community",
+        "announcement",
+        "def-con",
+        "youtube"
+      ],
+      "teaser": "Short DEF CON 34 good-morning bump.",
+      "summary": null,
+      "durationSeconds": 14
     }
   ]
 }
