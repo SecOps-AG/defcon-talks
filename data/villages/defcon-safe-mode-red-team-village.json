@@ -844,7 +844,7 @@
         "appsec"
       ],
       "teaser": "Ray Doyle demonstrates weaponizing Cross-Site Scripting (XSS) beyond simple alert boxes, achieving full client-side exploitation, session theft, and DOM persistence.",
-      "summary": null,
+      "summary": "Penetration tester Ray Doyle demonstrates how offensive security professionals can move beyond generic `alert(1)` demonstrations to fully weaponize Cross-Site Scripting (XSS) vulnerabilities during red team assessments [00:00]. Doyle argues that benign alert boxes often lead clients to underestimate the severity of XSS, whereas weaponized payloads clearly illustrate catastrophic business and infrastructure risk [06:08].\n\nThe presentation explores advanced exploitation techniques, beginning with payload staging using externally hosted JavaScript to overcome payload length limitations and web application firewall (WAF) filters [06:08]. Doyle demonstrates credential harvesting techniques, including crafting dynamic, in-DOM phishing login modals that seamlessly prompt authenticated users for passwords [12:20]. He illustrates how to defeat Cross-Site Request Forgery (CSRF) defenses by using client-side scripts to read anti-CSRF tokens and make unauthorized state-changing requests—such as reconfiguring corporate network settings or changing Wi-Fi credentials on router management consoles [18:45, 25:15, 32:15].\n\nDoyle also demonstrates browser hooking using frameworks like BeEF to establish persistent client-side command-and-control, access connected internal subnet resources, and harvest browser session tokens [32:15]. He concludes with defensive engineering principles, detailing the critical role of Content Security Policy (CSP), HttpOnly cookie flags, and context-aware output encoding in mitigating weaponized XSS attacks.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2322
     },
     {
@@ -1121,7 +1121,7 @@
         "community"
       ],
       "teaser": "The Bug Hunter’s Methodology Jason Haddix.",
-      "summary": null,
+      "summary": "Bug bounty veteran and cybersecurity educator Jason Haddix presents version 4 of The Bug Hunter's Methodology, focusing on wide-scope reconnaissance and modern web application asset discovery [00:00]. Haddix provides an exhaustive, structured guide to discovering an organization's true digital attack surface before probing individual applications for vulnerabilities.\n\nThe presentation breaks down external reconnaissance into sequential stages. Haddix begins with organization identification and Autonomous System Number (ASN) mapping, using tools like Amass to discover associated IP ranges and seed domains [37:39]. He details advanced subdomain enumeration pipelines, chaining passive Certificate Transparency logs with active DNS brute-forcing tools like subfinder, massdns, and alteration generators like dnsgen and altdns [50:54]. Moving to web discovery, he covers port scanning with masscan and nmap, rapid HTTP probing using httpx, and technology fingerprinting to locate forgotten staging servers and legacy admin panels.\n\nHaddix demonstrates automation workflows, showing how to pipe command-line inputs between tools, parallelize scans using custom scripts, and discover hidden API endpoints and parameters with tools like Arjun [01:03:41]. The session provides bug hunters and red teamers with a repeatable, battle-tested blueprint for discovering critical assets overlooked by other researchers [01:16:06].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 4576
     },
     {
@@ -1180,7 +1180,8 @@
       "slug": "sounds-legit-why-you-shouldn-t-trust-that-speaker-mauro-eldritch",
       "title": "Sounds Legit: Why you shouldn't trust that speaker - Mauro Eldritch & Luis Ramírez",
       "speakers": [
-        "Mauro Eldritch"
+        "Mauro Eldritch",
+        "Luis Ramírez"
       ],
       "track": "red-team",
       "topics": [
@@ -1189,7 +1190,7 @@
         "community"
       ],
       "teaser": "Sounds Legit: Why you shouldn't trust that speaker.",
-      "summary": null,
+      "summary": "Red team security researchers Mauro Eldritch and Luis Ramírez present a covert physical hardware implant project disguised within a pair of standard, fully functional commercial USB computer speakers [00:00]. The speakers address the limitations of conventional BadUSB thumb drives, which are widely recognized by corporate staff and frequently blocked by modern endpoint detection and response (EDR) agents or group policies [00:00].\n\nThe researchers detail the internal hardware modification, embedding an Arduino-compatible microcontroller capable of Human Interface Device (HID) keyboard emulation along with an independent GSM cellular module and SIM card inside the speaker enclosure [00:00]. The device functions normally as an audio speaker when connected to a target workstation, remaining completely dormant and undetectable by standard USB port monitoring tools. However, when the attacker dials the internal SIM card from a designated phone number, the module answers silently, triggers the HID microcontroller, and injects scripted keystrokes to launch a shell and execute malicious payloads [00:00].\n\nEldritch and Ramírez explore tactical red team applications, such as leaving the boxed speakers in target office conference rooms or reception desks during physical penetration tests. They discuss countermeasures for defenders, including strict USB device whitelisting, physical port locks, and RF monitoring to detect rogue cellular transmissions within secure corporate facilities.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1345
     },
     {
@@ -1257,7 +1258,7 @@
         "community"
       ],
       "teaser": "Yippee-Ki-Yay MFA'er.",
-      "summary": null,
+      "summary": "Justin Hutchens (\"Hutch\"), founder of SocioSploit, presents research on bypassing multi-factor authentication (MFA) through real-time session instantiation and credential replay attacks [00:00]. Hutchens explains that while MFA has significantly raised the barrier against static password reuse, many implementations remain vulnerable to sophisticated reverse proxy and automated session hijacking techniques [06:26].\n\nThe presentation demonstrates a red team attack workflow simulating an engagement against a fictitious enterprise (Dunder Mifflin) [06:26]. Hutchens shows how to clone target login portals and host dynamic credential harvester services on deceptive lookalike domains [14:03, 21:45]. Using Python automation libraries including Selenium and PyAutoGUI, he demonstrates intercepting usernames, passwords, and secondary authentication codes (SMS OTPs or push approvals) and immediately replaying them into the legitimate target enterprise service in real time [28:55, 36:09].\n\nBy instantiating an authenticated session on the backend infrastructure (such as VMware Horizon or Microsoft 365) before the session token expires, the attacker successfully hijacks the victim's session cookies and establishes persistent administrative access [36:09]. Hutchens reviews mitigation strategies, stressing the critical necessity of FIDO2 WebAuthn hardware security keys, which enforce cryptographic origin binding and inherently resist proxy-based phishing attacks [42:39].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2572
     },
     {
@@ -1323,7 +1324,7 @@
         "community"
       ],
       "teaser": "ERPwnage - A Red Team Approach to Targeting SAP.",
-      "summary": null,
+      "summary": "Security researcher Austin Marck (@icryo) presents ERPwnage, a red team guide to targeting and compromising SAP enterprise resource planning (ERP) environments [00:01]. Marck explains that because SAP systems host critical business logic, financial ledgers, and sensitive HR data, they are among the highest-value targets for enterprise adversaries, yet are rarely audited with modern offensive techniques [03:40].\n\nThe talk covers external reconnaissance and discovery of SAP systems. Marck explains how SAP Web Dispatcher and Internet Communication Manager (ICM) components often leak internal hostnames, patch levels, and backend services through standard HTTP headers and diagnostics [11:28]. He examines internal authentication weaknesses, highlighting environments with legacy backward compatibility enabled where BCODE hashes truncate passwords to eight characters and force uppercase, drastically reducing the search space for offline cracking [15:50].\n\nMarck also discusses binary analysis of SAP proprietary protocols and services, demonstrating how Binary Ninja plugins like VulnFanatic can locate source-and-sink patterns in native binaries to identify potential memory corruption vulnerabilities [19:58]. He outlines post-exploitation strategies for pivoting from compromised SAP application servers to underlying database tiers and offers remediation recommendations for SAP Basis administrators [23:50].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1436
     },
     {
@@ -1389,7 +1390,7 @@
         "community"
       ],
       "teaser": "Hacking Zoom: a Hacker's Journey into Zoom Security.",
-      "summary": null,
+      "summary": "Security researcher and FullHunt founder Mazin Ahmed details his vulnerability research into the Zoom desktop application and cloud infrastructure during the early months of the remote work surge [00:01]. Ahmed describes using FullHunt asset discovery APIs to map Zoom's external attack surface, enumerating over 3,000 subdomains, legacy staging servers, and exposed API gateways [08:42].\n\nThe presentation explores multiple vulnerability classes uncovered across Zoom's client and server ecosystem. Ahmed explains a remote memory leak vulnerability in Zoom's production web servers during image conversion, where uninitialized memory buffers in image palettes leaked fragments of server heap memory to unauthenticated users [17:47]. Moving to client-side analysis, he demonstrates how the Zoom desktop client stored meeting chat logs, direct messages, and credentials in unencrypted local SQLite databases and logs at rest, allowing any local process to harvest confidential communications [37:36].\n\nAhmed also reviews network communication security, analyzing local loopback daemons and TLS interception mechanisms [27:51]. He reflects on the responsible disclosure process with Zoom's engineering team and discusses how the platform subsequently modernized its security architecture, improved client encryption, and established a formalized bug bounty program [46:38].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3295
     },
     {
@@ -1448,6 +1449,7 @@
       "slug": "your-adversary-within-adam-mashinchi-and-bryson-bort",
       "title": "Your Adversary Within Adam Mashinchi and Bryson Bort",
       "speakers": [
+        "Adam Mashinchi",
         "Bryson Bort"
       ],
       "track": "red-team",
@@ -1457,7 +1459,7 @@
         "adversary-emulation"
       ],
       "teaser": "Your Adversary Within Adam Mashinchi and Bryson Bort.",
-      "summary": null,
+      "summary": "Bryson Bort (founder of SCYTHE) and Adam Mashinchi present a strategic analysis of insider threat modeling and modern endpoint adversary emulation in the Red Team Village [00:00]. The speakers address how the sudden shift to widespread remote work accelerated endpoint sprawl and rendered traditional corporate network perimeters obsolete, creating a \"golden age\" for insider risks [06:11, 12:30].\n\nThe presentation examines the operational differences between external penetration testing and internal adversary simulation. Bort and Mashinchi explain that modeling an insider threat requires assuming existing user privileges, authorized endpoint access, and knowledge of internal documentation [18:50]. They walk through breach and attack simulation (BAS) methodologies, demonstrating how red teams can programmatically simulate insider behaviors—including anomalous data exfiltration, stealthy lateral movement, and randomized command-and-control heartbeat jitter—to validate whether corporate Endpoint Detection and Response (EDR) and Security Information and Event Management (SIEM) systems generate timely alerts [24:48, 30:58].\n\nThe speakers advocate for collaborative purple teaming, urging organizations to continuously measure defensive visibility, identify blind spots in telework monitoring, and test specific adversarial behaviors rather than relying on check-box compliance [30:58, 37:13].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2241
     },
     {

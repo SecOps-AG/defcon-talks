@@ -57,7 +57,7 @@
         "recon"
       ],
       "teaser": "Introduces Ambly, an open-source dark web crawler and spider for mapping hidden Tor services and onion sites.",
-      "summary": null,
+      "summary": "In this Recon Village presentation, security researcher Levi introduces Ambly, an open-source web crawler and spider purpose-built for indexing and scraping hidden services on the Tor darknet network [00:00]. Levi outlines the unique architectural hurdles inherent to darknet reconnaissance, including high latency, unindexed hidden service directories, and the extreme volatility of onion sites that frequently appear and vanish without notice [07:23, 30:19].\n\nLevi breaks down Ambly's modular software architecture, which interfaces with Tor through local SOCKS5 proxies to execute automated circuit rotation and distributed scraping [14:37, 22:13]. The crawler parses raw HTML, extracts referenced `.onion` URLs, strips metadata, and indexes text content into an isolated database while storing binary artifacts securely to protect analysts from malicious browser exploits [37:35]. He demonstrates how Ambly traverses community forums like Torum and Dread, following hyperlinks to uncover nested underground discussion boards and service listings [30:19].\n\nThe talk demonstrates how threat intelligence teams and red teams utilize Ambly to automate darknet surveillance. Levi showcases practical workflows for brand monitoring, tracking corporate credential leaks, identifying compromised employee access tokens, and mapping illicit marketplace supply chains across the dark web [37:35].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2721
     },
     {
@@ -130,7 +130,7 @@
         "social-media"
       ],
       "teaser": "Demonstrates techniques and Python tooling for analyzing word frequencies, keyword trends, and linguistic patterns across Twitter data.",
-      "summary": null,
+      "summary": "Master Chen presents Twitter Word Phrequency, an open-source Python research project designed to perform natural language processing (NLP) and behavioral sentiment analysis on high-profile social media accounts [00:04]. Chen explains how open-source intelligence (OSINT) gathered from public social media feeds can reveal psychological profiles, communication habits, and ideological shifts [10:25].\n\nThe presentation covers the technical data collection and analysis pipeline built using Python, Twitter API scrapers, and Jupyter Notebooks [15:28]. Chen details the data normalization techniques required to process social media text, including tokenization, stop-word removal, and calculating n-gram word frequencies [20:54]. Using Donald Trump's public Twitter history as a primary case study, Chen demonstrates how tracking changes in lexical diversity, repetitive keyword spikes, and emotional terminology correlates with political market movements on platforms like PredictIt [05:13, 20:54].\n\nChen discusses data visualization techniques, showing how to transform raw frequency tables into intuitive word clouds, time-series frequency plots, and sentiment heatmaps [26:17]. He concludes with methodologies for adapting these scripts into active OSINT monitoring tools for social engineering assessments and threat intelligence profiling [31:23].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1900
     }
   ]
