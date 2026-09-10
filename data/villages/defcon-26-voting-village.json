@@ -122,7 +122,7 @@
         "future-directions"
       ],
       "teaser": "Summary of voting security research from 2017 and key lessons for future election security.",
-      "summary": null,
+      "summary": "Election Security and Voting Systems\n\nThis talk addresses security challenges in voting systems and election infrastructure. The presentation discusses vulnerabilities in voting machines, ballot-handling systems, election administration software, and policy implications for maintaining electoral integrity and voter privacy.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2525
     },
     {
