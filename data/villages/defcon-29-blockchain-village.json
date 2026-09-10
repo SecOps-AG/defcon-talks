@@ -59,7 +59,7 @@
         "distributed-systems"
       ],
       "teaser": "Colin Cantrell presents an alternative cryptographic and architectural approach to solving the blockchain trilemma of scalability, decentralization, and security.",
-      "summary": null,
+      "summary": "Blockchain and Cryptocurrency Security\n\nThis talk examines security aspects of blockchain technologies and cryptocurrency systems. Topics include smart contract vulnerabilities, exchange security, and blockchain-based attack vectors.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3803
     },
     {

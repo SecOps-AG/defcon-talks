@@ -18,7 +18,7 @@
         "electronics"
       ],
       "teaser": "The DEF CON Video Team showcases a restored 1988 Japanese slot machine featured as an interactive puzzle in the DEF CON Scavenger Hunt.",
-      "summary": null,
+      "summary": "DEF CON Scavenger Hunt Challenge Walkthrough\n\nGuide or walkthrough for the DEF CON scavenger hunt challenge, including information about a slot machine hacking component of the hunt, hints, and strategies for completing challenges.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 198
     },
     {
@@ -89,7 +89,7 @@
         "ham-radio"
       ],
       "teaser": "The DEF CON Video Team visits the Ham Radio Village as young Marvin explores amateur radio gear, frequencies, and antenna setups.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 268
     },
     {
@@ -158,7 +158,7 @@
         "access-control"
       ],
       "teaser": "The DEF CON Video Team tours the Physical Security Village to check out lock bypass stations, door access mechanisms, and safe manipulation challenges.",
-      "summary": null,
+      "summary": "Hardware Hacking Village Interview\n\nInterview with organizers and participants from the DEF CON Hardware Hacking Village. Discussion covers hardware modification techniques, firmware analysis, soldering skills, and community projects in physical security and electronics hacking.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 322
     },
     {
@@ -229,7 +229,7 @@
         "usb"
       ],
       "teaser": "Darren Kitchen catches up with the DEF CON Video Team to discuss the latest hardware penetration testing gear and community developments from Hak5.",
-      "summary": null,
+      "summary": "Hak5 New Products and Updates\n\nPresentation by Darren Kitchen discussing new products and updates from Hak5, a company known for security hardware and software tools used in penetration testing and social engineering.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 65
     },
     {
@@ -297,7 +297,7 @@
         "community"
       ],
       "teaser": "A quick spotlight on the Bug Bounty Village highlighting collaborative hunting events, live hacking, and educational sessions at DEF CON 34.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 15
     },
     {
@@ -370,7 +370,7 @@
         "scams"
       ],
       "teaser": "Filmmaker Vito introduces Lights in Dark Rooms, a documentary detailing the human cost of the cybercrime and online scam economies screened at DEF CON 34.",
-      "summary": null,
+      "summary": "Documentary on Online Scam Economy\n\nThis documentary examines the ecosystem of online scams, fraud operations, and the criminal infrastructure supporting internet fraud. Topics include victim targeting, money laundering, and law enforcement response.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 34
     },
     {

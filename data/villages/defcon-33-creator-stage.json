@@ -437,7 +437,7 @@
         "culture"
       ],
       "teaser": "Highlights community-driven emergency web archiving efforts by Saving Ukrainian Cultural Heritage Online (SUCHO) to preserve cultural data during crisis.",
-      "summary": null,
+      "summary": "Web Application and API Security\n\nThis talk addresses web application vulnerabilities and exploitation techniques. Topics include injection attacks, cross-site scripting, authentication bypasses, API security, and modern web framework vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2150
     },
     {
@@ -1333,7 +1333,7 @@
         "ai"
       ],
       "teaser": "Presents empirical results from a university research study evaluating user vulnerability and defensive safeguards against AI voice-cloned vishing attacks.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1134
     },
     {

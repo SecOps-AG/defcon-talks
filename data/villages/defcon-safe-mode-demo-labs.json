@@ -38,7 +38,7 @@
         "open-source"
       ],
       "teaser": "A demonstration of PyRDP, a Python tool for Remote Desktop Protocol interception, credential capture, and honeypot deployment.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2401
     },
     {
@@ -109,7 +109,7 @@
         "open-source"
       ],
       "teaser": "A demonstration of redlure, an on-premises collaborative phishing framework for managing and executing red team campaigns.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1743
     },
     {

@@ -756,7 +756,7 @@
         "privacy"
       ],
       "teaser": "Erik Hunstad answers questions on TLS 1.3 Encrypted Client Hello, CDN domain fronting circumvention, and DPI evasion.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1776
     },
     {
@@ -833,7 +833,7 @@
         "hardware"
       ],
       "teaser": "Christopher Wade discusses reverse engineering proprietary NFC microcontrollers, patching mobile baseband coprocessors, and custom firmware.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1881
     },
     {
@@ -928,7 +928,7 @@
         "cluster"
       ],
       "teaser": "ayoul3 answers audience questions regarding Apache Spark cluster penetration testing, REST API security, and big data isolation.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1656
     },
     {
@@ -1004,7 +1004,7 @@
         "malware"
       ],
       "teaser": "Peleg Hadar and Tomer Bar discuss Windows Print Spooler architecture, local privilege escalation techniques, and spooler patch testing.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1411
     },
     {
@@ -1081,7 +1081,7 @@
         "persistence"
       ],
       "teaser": "Mickey Shkatov and Jesse Michael answer community questions regarding non-volatile memory chips, peripheral firmware modification, and detection.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1792
     },
     {
@@ -1160,7 +1160,7 @@
         "q-and-a"
       ],
       "teaser": "Jiska Classen and Francesco Gringoli discuss wireless combo chip architecture, coexistence cross-core attacks, and firmware mitigations.",
-      "summary": null,
+      "summary": "Wireless Network Security\n\nThis presentation covers wireless security vulnerabilities and exploitation techniques. Topics include WiFi cracking, WEP/WPA analysis, Bluetooth vulnerabilities, and wireless network assessment tools.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1788
     },
     {
@@ -1237,7 +1237,7 @@
         "telecom"
       ],
       "teaser": "Ismail Melih Tas and Kubilay Ahmet Kucuk answer questions regarding Mr. SIP tool capabilities, VoIP network penetration testing, and SIP hardening.",
-      "summary": null,
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1660
     },
     {

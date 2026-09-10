@@ -21,7 +21,7 @@
         "reverse-engineering"
       ],
       "teaser": "Marc Rogers and Kevin Mahaffey reveal multiple vulnerabilities in the Tesla Model S, demonstrating physical and software chain exploits to control vehicle systems.",
-      "summary": null,
+      "summary": "Automotive Security and Vehicle Hacking\n\nThis talk examines security vulnerabilities in modern vehicles and automotive systems. The presentation covers techniques for identifying and exploiting weaknesses in vehicle electronics, control systems, and communication protocols.\n\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2989
     },
     {

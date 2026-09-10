@@ -48,7 +48,7 @@
         "interviews"
       ],
       "teaser": "Organizers discuss initiatives to foster gender diversity, youth education, and mentorship within the cybersecurity community.",
-      "summary": null,
+      "summary": "DEF CON Documentary and Community Content\n\nBehind-the-scenes footage and supplementary material from the DEF CON documentary. This includes interviews, discussions, and moments capturing hacker culture and convention atmosphere.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 177
     },
     {
@@ -112,7 +112,7 @@
         "interviews"
       ],
       "teaser": "Highlights cryptographic workshops, surveillance self-defense tools, and privacy research at DEF CON 30.",
-      "summary": null,
+      "summary": "Cryptography and Privacy Technologies\n\nThis presentation examines cryptographic systems, encryption protocols, and privacy-preserving technologies. Topics include cipher analysis, protocol vulnerabilities, authentication mechanisms, and key management in real-world applications.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 195
     },
     {
@@ -174,7 +174,7 @@
         "interviews"
       ],
       "teaser": "A behind-the-scenes look at the infrastructure engineering and challenge design powering DEF CON Capture the Flag.",
-      "summary": null,
+      "summary": "DEF CON Documentary and Community Content\n\nBehind-the-scenes footage and supplementary material from the DEF CON documentary. This includes interviews, discussions, and moments capturing hacker culture and convention atmosphere.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 210
     },
     {
@@ -238,7 +238,7 @@
         "interviews"
       ],
       "teaser": "Car Hacking Village contributors discuss heavy vehicle security, telematics hacking, and automotive cybersecurity careers.",
-      "summary": null,
+      "summary": "Automotive Security and Vehicle Systems\n\nThis presentation examines security vulnerabilities in modern vehicles and automotive electronics. Topics include CAN bus protocols, firmware analysis, exploitation techniques, and demonstrations of weaknesses in vehicle computers and safety-critical controls.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 279
     },
     {
@@ -303,7 +303,7 @@
         "interviews"
       ],
       "teaser": "Highlights soldering workshops, JTAG reverse engineering benches, and open hardware design at Hardware Hacking Village.",
-      "summary": null,
+      "summary": "Hardware Hacking Village Interview\n\nInterview with organizers and participants from the DEF CON Hardware Hacking Village. Discussion covers hardware modification techniques, firmware analysis, soldering skills, and community projects in physical security and electronics hacking.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 535
     },
     {
@@ -370,7 +370,7 @@
         "interviews"
       ],
       "teaser": "Further discussions on electronic voting machine hardware, ballot-marking devices, and poll book security research.",
-      "summary": null,
+      "summary": "Election Security and Voting Systems\n\nThis talk addresses security challenges in voting systems and election infrastructure. The presentation discusses vulnerabilities in voting machines, ballot systems, and implications for maintaining electoral integrity.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 595
     },
     {
@@ -435,7 +435,7 @@
         "interviews"
       ],
       "teaser": "Discusses mentorship initiatives, technical workshops, and career advancement programs hosted by Blacks in CyberSecurity.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 247
     },
     {
@@ -496,7 +496,7 @@
         "community"
       ],
       "teaser": "An overview of the intense multi-day Capture the Flag competition featuring elite international hacking teams.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1477
     },
     {
@@ -557,7 +557,7 @@
         "community"
       ],
       "teaser": "Showcases one of the most outlandish team submissions in the DEF CON 30 Scavenger Hunt competition.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 87
     },
     {
@@ -623,7 +623,7 @@
         "interviews"
       ],
       "teaser": "Silk meets with community leaders at the Blacks in Cyber Village to discuss representation, outreach, and technical events.",
-      "summary": null,
+      "summary": "DEF CON Documentary and Community Content\n\nBehind-the-scenes footage and supplementary material from the DEF CON documentary. This includes interviews, discussions, and moments capturing hacker culture and convention atmosphere.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 136
     },
     {
@@ -694,7 +694,7 @@
         "community"
       ],
       "teaser": "Silk takes a beginner lockpicking lesson at the Lockpick Village, learning shear line alignment and tension control.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1294
     },
     {
@@ -764,7 +764,7 @@
         "community"
       ],
       "teaser": "Silk explores full-scale flight simulators, cockpit avionics test rigs, and aircraft vulnerability research.",
-      "summary": null,
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1000
     },
     {

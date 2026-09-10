@@ -18,7 +18,7 @@
         "ai-security"
       ],
       "teaser": "An interview exploring WhiteRabbitNeo, an open-source offensive security and red-teaming large language model demonstrated at DEF CON 32.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 723
     },
     {
@@ -85,7 +85,7 @@
         "culture"
       ],
       "teaser": "An interview with electronic music producer and performer deadmau5 discussing music production technology, tech culture, and DEF CON.",
-      "summary": null,
+      "summary": "DEF CON Documentary and Community Content\n\nBehind-the-scenes footage and supplementary material from the DEF CON documentary. This includes interviews, discussions, and moments capturing hacker culture and convention atmosphere.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 348
     },
     {
@@ -155,7 +155,7 @@
         "scanning"
       ],
       "teaser": "Erik provides a detailed walkthrough of the airport security screening simulator and hardware initiatives at DEF CON 32.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 215
     },
     {
@@ -219,7 +219,7 @@
         "community"
       ],
       "teaser": "A retrospective on the legendary DEF CON Tin Foil Hat Contest, celebrating absurd RF shielding designs and conference tradition.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 26
     },
     {
@@ -289,7 +289,7 @@
         "social"
       ],
       "teaser": "An introduction to the annual DEF CON Bike Ride tradition, bringing cyclists together across the Las Vegas desert before the conference.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 351
     },
     {
@@ -353,7 +353,7 @@
         "community"
       ],
       "teaser": "European crowdsourced security platform Intigriti highlights bug bounty initiatives, researcher engagement, and community events at DEF CON 32.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 36
     },
     {
@@ -417,7 +417,7 @@
         "community"
       ],
       "teaser": "An overview of live hacking demos, ethical disclosure talks, and hands-on target scopes in the Bug Bounty Village at DEF CON 32.",
-      "summary": null,
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 32
     },
     {
@@ -483,7 +483,7 @@
         "hacker-culture"
       ],
       "teaser": "Organizer Silk outlines bizarre challenges, scavenger hunt item lists, and rules for the longest-running contest at DEF CON.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 93
     },
     {

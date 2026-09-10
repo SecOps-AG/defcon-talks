@@ -21,7 +21,7 @@
         "red-team"
       ],
       "teaser": "Vandana Verma Sehgal explores Zero Trust architectures, examining identity verification, micro-segmentation, and offensive testing in modern cloud environments.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2308
     },
     {
@@ -1070,7 +1070,7 @@
         "cloud"
       ],
       "teaser": "Combining notebooks, datasets, and cloud for the ultimate automation factory.",
-      "summary": null,
+      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information without direct system interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3146
     },
     {
@@ -1138,7 +1138,7 @@
         "community"
       ],
       "teaser": "Protecting Wi-Fi Beacons from Outsider Forgeries (and how to abuse them).",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1210
     },
     {
@@ -1207,7 +1207,7 @@
         "community"
       ],
       "teaser": "Catch Me if You Can.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3616
     },
     {
@@ -1275,7 +1275,7 @@
         "adversary-emulation"
       ],
       "teaser": "Guerrilla Red Team: Decentralize the Adversary.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3278
     },
     {
@@ -1339,7 +1339,7 @@
         "community"
       ],
       "teaser": "How to hack SWIFT, SPID, and SPEI with basic hacking techniques (from a Red Team Perspective).",
-      "summary": null,
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1651
     },
     {
@@ -1407,7 +1407,7 @@
         "community"
       ],
       "teaser": "RedTeamOps.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1497
     },
     {
@@ -1476,7 +1476,7 @@
         "password-cracking"
       ],
       "teaser": "Hashes; Smothered, Covered, and Scattered: Modern Password Cracking as a Methodology- Lee Wangenheim.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2966
     },
     {
@@ -1544,7 +1544,7 @@
         "adversary-emulation"
       ],
       "teaser": "What college kids always get wrong, the art of attacking newbies to blueteam.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2965
     },
     {
@@ -1612,7 +1612,7 @@
         "community"
       ],
       "teaser": "Y'all Tryna Bypass Python 3.8 Audit Hooks or Nah?.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2413
     },
     {
@@ -1681,7 +1681,7 @@
         "adversary-emulation"
       ],
       "teaser": "Emulating an Adversary with Imperfect Intelligence.",
-      "summary": null,
+      "summary": "Red Team Operations and Adversary Emulation\n\nThis talk covers techniques for emulating adversary tactics and operations with incomplete information. Discussion includes red team methodologies, hypothesis-driven security testing, and adapting to evolving threat scenarios.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3445
     },
     {
@@ -1750,7 +1750,7 @@
         "cloud"
       ],
       "teaser": "Knock knock, Who's There? Identifying Assets in the Cloud by  and StaticFlow.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, phishing techniques, and how attackers exploit human nature to bypass technical defenses in organizations.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3545
     },
     {
@@ -1818,7 +1818,7 @@
         "community"
       ],
       "teaser": "The Joy of Coordinating Vulnerability Disclosure.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3417
     },
     {

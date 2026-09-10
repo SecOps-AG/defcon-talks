@@ -73,7 +73,7 @@
         "deepfakes"
       ],
       "teaser": "Keynote on misinformation and the role of AI in spreading false information.",
-      "summary": null,
+      "summary": "DEF CON Conference Presentation\n\nThis segment features remarks and presentations from DEF CON organizers, security industry leaders, and keynote speakers. Discussion includes the current state of cybersecurity, hacker culture, community initiatives, and the conference's impact on the information security landscape.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1617
     },
     {
@@ -139,7 +139,7 @@
         "def-con"
       ],
       "teaser": "Opening Remarks.",
-      "summary": null,
+      "summary": "DEF CON Conference Presentation\n\nThis segment features remarks and presentations from DEF CON organizers, security industry leaders, and keynote speakers. Discussion includes the current state of cybersecurity, hacker culture, community initiatives, and the conference's impact on the information security landscape.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 58
     },
     {
@@ -207,7 +207,7 @@
         "education"
       ],
       "teaser": "Exploratory Data Analysis: Why and How in Python.",
-      "summary": null,
+      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information about targets without direct interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2010
     },
     {
@@ -275,7 +275,7 @@
         "deep-learning"
       ],
       "teaser": "How to Get over your Malicious Extensions using Deep Learning.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1437
     },
     {
@@ -343,7 +343,7 @@
         "community"
       ],
       "teaser": "From Noisy Distorted Datasets to Excellent Prediction Model.",
-      "summary": null,
+      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information about targets without direct interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2820
     },
     {

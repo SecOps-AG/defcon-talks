@@ -40,7 +40,7 @@
         "policy"
       ],
       "teaser": "Examines the systemic security, cryptographic, and client-side malware risks of internet voting in commercial and public election deployments.",
-      "summary": null,
+      "summary": "Election Security and Voting Systems\n\nThis talk addresses security challenges in voting systems and election infrastructure. The presentation discusses vulnerabilities in voting machines, ballot systems, and implications for maintaining electoral integrity.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2164
     },
     {

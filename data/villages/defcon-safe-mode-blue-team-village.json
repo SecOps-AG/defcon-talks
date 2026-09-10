@@ -397,7 +397,7 @@
         "endpoint-forensics"
       ],
       "teaser": "Demonstrates using Osquery SQL syntax to query endpoint state and investigate security incidents during the OpenSOC defense CTF.",
-      "summary": null,
+      "summary": "Penetration Testing and Attack Techniques\n\nThis talk covers penetration testing methodologies and attack techniques. Topics include reconnaissance, vulnerability discovery, exploitation, and post-exploitation activities in security assessments.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 511
     }
   ]

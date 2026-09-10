@@ -57,7 +57,7 @@
         "privacy"
       ],
       "teaser": "\"Over the last 2 years we've analyzed and reverse-engineered a plethora of IoT-enabled surveillance cameras and spy cameras analyzing their app behaviors, cloud storage, network communications, data-at-rest, and hardw...",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1691
     },
     {
@@ -131,7 +131,7 @@
         "industrial-iot"
       ],
       "teaser": "\" HDMI is used by many display devices as an interface for transmitting high-definition video and audio data. The HDMI usage rate is expected to increase further as many global IT companies such as Samsung, Google, an...",
-      "summary": null,
+      "summary": "IoT Security and Embedded Systems\n\nThis presentation covers security challenges in Internet of Things devices and embedded systems. Topics include firmware vulnerabilities, network protocol weaknesses, hardware hacking techniques, and exploitation methods for smart devices, sensors, and connected hardware.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2040
     },
     {
@@ -205,7 +205,7 @@
         "botnet"
       ],
       "teaser": "Traditional IoT botnets operate pretty much like shooting fish in a barrel. With an elephant gun. A service running on a port. A weak password or a lame vulnerability and you've got yourself a few hundred thousand zom...",
-      "summary": null,
+      "summary": "IoT Security and Embedded Systems\n\nThis presentation covers security challenges in Internet of Things devices and embedded systems. Topics include firmware vulnerabilities, network protocol weaknesses, hardware hacking techniques, and exploitation methods for smart devices, sensors, and connected hardware.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2456
     },
     {

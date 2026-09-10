@@ -42,7 +42,7 @@
         "implementation"
       ],
       "teaser": "State and local perspectives on securing election systems and managing election security risks.",
-      "summary": null,
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3333
     },
     {
@@ -122,7 +122,7 @@
         "future-directions"
       ],
       "teaser": "Summary of voting security research from 2017 and key lessons for future election security.",
-      "summary": null,
+      "summary": "Election Security and Voting Systems\n\nThis talk addresses security challenges in voting systems and election infrastructure. The presentation discusses vulnerabilities in voting machines, ballot-handling systems, election administration software, and policy implications for maintaining electoral integrity and voter privacy.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2525
     },
     {

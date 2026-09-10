@@ -19,7 +19,7 @@
         "event-keynote"
       ],
       "teaser": "Opening keynote from renowned social engineer and security researcher R Paul Wilson at DEF CON 27.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1925
     },
     {
@@ -91,7 +91,7 @@
         "defensive-tactics"
       ],
       "teaser": "Discussion on the limitations and dangers of vigilantism in child protection—why systemic approaches beat individual action.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1815
     },
     {
@@ -166,7 +166,7 @@
         "professional-advancement"
       ],
       "teaser": "Using social engineering principles for career growth—blending technical skills with human behavior understanding for professional success.",
-      "summary": null,
+      "summary": "Automotive Security and Vehicle Systems\n\nThis presentation examines security vulnerabilities in modern vehicles and automotive electronics. Topics include CAN bus protocols, firmware analysis, exploitation techniques, and demonstrations of weaknesses in vehicle computers, communication systems, and safety-critical controls.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1674
     },
     {
@@ -241,7 +241,7 @@
         "manipulation"
       ],
       "teaser": "Cold reading techniques for extracting information and building false credibility—how to make targets believe you possess knowledge about them.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1929
     },
     {
@@ -317,7 +317,7 @@
         "threat-modeling"
       ],
       "teaser": "Control failure analysis—why most defensive implementations fail and how attackers exploit misunderstood security risks.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3013
     },
     {

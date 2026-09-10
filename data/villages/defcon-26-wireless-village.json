@@ -22,7 +22,7 @@
         "password-recovery"
       ],
       "teaser": "Fundamentals of WiFi encryption cracking—WEP and WPA methodologies and attack techniques.",
-      "summary": null,
+      "summary": "Wireless Network Security\n\nThis presentation covers wireless security vulnerabilities and exploitation techniques. Topics include WiFi cracking, WEP/WPA weaknesses, Bluetooth vulnerabilities, and tools for assessing wireless network security.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3440
     },
     {
@@ -96,7 +96,7 @@
         "creative-analysis"
       ],
       "teaser": "WiFi signal detection using audio frequency analysis—building practical tools with commodity hardware.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1008
     },
     {
@@ -169,7 +169,7 @@
         "wireless-security"
       ],
       "teaser": "What happens when a Pineapple, a Turtle and a Squirrel get high...up in the clouds? It's been a solid year for Hak5 and we're excited to debut some epic new features! Like a centralized web consoles for all your netwo...",
-      "summary": null,
+      "summary": "Cloud Infrastructure and Container Security\n\nThis presentation covers security in cloud computing environments and containerized applications. Topics include cloud service misconfiguration, container escape vulnerabilities, identity and access management, and infrastructure-as-code security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3265
     },
     {
@@ -244,7 +244,7 @@
         "critical-infrastructure"
       ],
       "teaser": "North American railroads use several wireless systems for remote control, monitoring, and tracking of locomotives, railcars, signals, and other equipment. This talk will provide an overview of the systems in use, an i...",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3342
     },
     {
@@ -317,7 +317,7 @@
         "rf-communications"
       ],
       "teaser": "A panel discussion exploring the community, culture, history, and technical tradecraft of wardriving.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 5295
     }
   ]

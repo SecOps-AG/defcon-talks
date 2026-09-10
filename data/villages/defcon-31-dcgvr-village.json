@@ -78,7 +78,7 @@
         "community"
       ],
       "teaser": "Squiddy explores privacy and architectural considerations for designing gender-inclusive health information systems and electronic medical records.",
-      "summary": null,
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1561
     },
     {
@@ -154,7 +154,7 @@
         "authorization"
       ],
       "teaser": "Abhijeet Singh examines business logic flaws and authorization bypasses in web applications that defeat traditional security scanners.",
-      "summary": null,
+      "summary": "Web Application and API Security\n\nThis talk addresses web application vulnerabilities and exploitation techniques. Topics include injection attacks, cross-site scripting, authentication bypasses, API security, and modern web framework vulnerabilities.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2392
     },
     {
