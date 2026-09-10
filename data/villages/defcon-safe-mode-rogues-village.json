@@ -21,7 +21,7 @@
         "social-engineering"
       ],
       "teaser": "Artist Simon Weckert explains how wheeling 99 smartphones in a handcart generated virtual traffic jams in Google Maps.",
-      "summary": null,
+      "summary": "Artist and technologist Simon Weckert presents his world-renowned hack on Google Maps navigation systems. By transporting 99 secondhand smartphones running navigation apps in a handcart through central Berlin, he demonstrated how digital geospatial algorithms can be manipulated to produce physical impacts in the real world.\n\nWeckert reviews the methodology behind generating virtual traffic congestion, explaining how Google Maps aggregated location telemetry from his concentrated cluster of slow-moving phones to falsely conclude a severe traffic jam was underway. He shows how the algorithm turned green streets bright red on map interfaces and automatically rerouted real vehicular traffic onto other streets, prompting a wider discussion on society's dependency on opaque algorithmic systems.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1940
     },
     {

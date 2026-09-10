@@ -78,7 +78,7 @@
         "policy"
       ],
       "teaser": "Examines cybersecurity challenges, SQL injection risks, and systemic vulnerabilities across state-level election management systems.",
-      "summary": null,
+      "summary": "John Odom examines the architectural vulnerabilities and cybersecurity risks inherent in state-level Election Management Systems (EMS) and voter registration databases. He highlights how the centralization of voter records into online portals creates high-value targets for both state-sponsored actors and cybercriminals.\n\nOdom reviews known security vulnerabilities affecting state election websites and vendor infrastructure at 04:02 and 05:55. He analyzes attack vectors including SQL injection, cross-site scripting, and unauthorized database access at 08:02 and 10:11, illustrating how flawed validation logic could allow attackers to manipulate voter records, alter registration statuses, or disrupt poll operations on election day. He concludes with recommendations for independent security audits and mandatory defense-in-depth measures.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1753
     },
     {
@@ -247,7 +247,7 @@
         "paper-ballots"
       ],
       "teaser": "U.S. Senator Ron Wyden discusses federal legislative efforts to mandate hand-marked paper ballots and post-election risk-limiting audits.",
-      "summary": null,
+      "summary": "United States Senator Ron Wyden of Oregon addresses the DEF CON Voting Village, emphasizing the paramount importance of securing American election infrastructure against foreign and domestic cyber threats. He commends the independent hacker community and Voting Village researchers for their patriotic work in exposing severe vulnerabilities in commercial voting machines and election management software.\n\nSenator Wyden calls for urgent federal legislative action to mandate voter-verified hand-marked paper ballots across all jurisdictions, ban paperless direct-recording electronic (DRE) voting systems, and institute mandatory post-election risk-limiting audits. He stresses the necessity of holding commercial voting machine vendors accountable to rigorous, enforceable federal cybersecurity standards rather than voluntary guidelines.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 792
     },
     {
@@ -359,7 +359,7 @@
         "community"
       ],
       "teaser": "Provides introductory remarks and background context on statistician Philip Stark's voting security research.",
-      "summary": null,
+      "summary": "Organizers of the DEF CON Safe Mode Voting Village deliver opening introductory remarks for Professor Philip Stark's presentation on election verification methodologies. The organizers welcome attendees participating remotely in the virtual conference and outline the day's schedule.\n\nThe introduction invites attendees to participate in live discussions and submit audience feedback on the speaker track via Discord and official communication channels (00:15). They introduce Professor Stark's pioneering work developing Risk-Limiting Audits (RLAs), setting the stage for his deep dive into statistical audit protocols for verifying election outcomes using hand-marked paper ballots.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 71
     },
     {
@@ -461,7 +461,7 @@
         "defcon"
       ],
       "teaser": "Wraps up the first day of sessions at the DEF CON Safe Mode Voting Village.",
-      "summary": null,
+      "summary": "Dan Webber, CEO of the Election Integrity Foundation, delivers the Day 1 closing remarks for the DEF CON Safe Mode Voting Village. He synthesizes the major takeaways from the day's sessions, acknowledging the critical research shared by cybersecurity analysts, election officials, and academics regarding election infrastructure vulnerabilities.\n\nWebber announces special community events, including the DEF CON Movie Night screening of \"Kill Chain: The Cyber War on America's Elections.\" He invites attendees to join the exclusive Discord Q&A session following the film with director Sarah Teale, cybersecurity researcher Harri Hursti, and DEF CON founder Dark Tangent (Jeff Moss), before previewing the upcoming Day 2 speaker lineup.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1812
     },
     {
