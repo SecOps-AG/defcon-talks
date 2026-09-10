@@ -204,7 +204,7 @@
         "oauth"
       ],
       "teaser": "Dangling issuer vulnerabilities in federated cloud credentials and how to exploit them.",
-      "summary": "This DEF CON talk covers uncovering hidden threats: the risks of dangling issuers in federated credentials.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers uncovering hidden threats: the risks of dangling issuers in federated credentials.\n\nKey topics discussed include: Kind: captions Language: en All<00:00:01. 160><c> Uh</c> All right.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1895
     },
     {
@@ -277,7 +277,7 @@
         "microsoft-365"
       ],
       "teaser": "Designing effective honey tokens in Microsoft 365 to detect and attribute cloud intrusions.",
-      "summary": "This DEF CON talk covers sweet deception: designing effective m365 honey tokens.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers sweet deception: designing effective m365 honey tokens.\n\nKey topics discussed include: Kind: captions Language: en Awesome. 639><c> you</c><00:00:02.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1207
     },
     {
