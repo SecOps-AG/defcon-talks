@@ -881,7 +881,7 @@
       "youtubeId": "zj50_lMV-pI",
       "title": "Lets get technical and hunt harder video",
       "slug": "bug-crowd-lets-get-technical-and-hunt-harder-video",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-recon-village.json",
@@ -889,7 +889,7 @@
       "youtubeId": "ES6OKjgW36w",
       "title": "Advanced Recon with OWASP Amass",
       "slug": "jeff-foley-advanced-recon-with-owasp-amass",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-red-team-village.json",
@@ -897,7 +897,7 @@
       "youtubeId": "G-heFh4t-Pk",
       "title": "Through the Looking Glass Own the Data Center",
       "slug": "chris-mccoy-through-the-looking-glass-own-the-data-center-def-co",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-social-engineering-village.json",
@@ -905,7 +905,7 @@
       "youtubeId": "IJ0MuyzaaaY",
       "title": "RED TEAMING FROM DOWN UNDER",
       "slug": "wayne-ronaldson-red-teaming-from-down-under-def-con-27-social-en",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-social-engineering-village.json",
@@ -913,7 +913,7 @@
       "youtubeId": "fLmgP2h5O8s",
       "title": "Leveraging the Insider Threat",
       "slug": "marcus-liotta-leveraging-the-insider-threat-def-con-27-social-en",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-social-engineering-village.json",
@@ -921,7 +921,7 @@
       "youtubeId": "H3XR4QrJyxA",
       "title": "Sizing People Up",
       "slug": "robin-dreeke-sizing-people-up-def-con-27-social-engineering-vill",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-social-engineering-village.json",
@@ -929,7 +929,7 @@
       "youtubeId": "tCRT3QFzwm8",
       "title": "The Basics of Social Engineering",
       "slug": "chris-pritchard-the-basics-of-social-engineering-def-con-27-soci",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-social-engineering-village.json",
@@ -937,7 +937,7 @@
       "youtubeId": "4LdwU71Gpi4",
       "title": "Hacking Hollywood",
       "slug": "andrew-nicholson-hacking-hollywood-def-con-27-social-engineering",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-transporthax.json",
@@ -945,7 +945,7 @@
       "youtubeId": "EjLcbHlKSGw",
       "title": "The Long Haul The State of Aviation Policy -",
       "slug": "panel-the-long-haul-the-state-of-aviation-policy",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-transporthax.json",
@@ -953,7 +953,7 @@
       "youtubeId": "n9MnloQhw9Q",
       "title": "A Hackers First Solo Airplane Avionics Security 101 -",
       "slug": "ken-and-alex-a-hackers-first-solo-airplane-avionics-security-101",
-      "status": "todo"
+      "status": "done"
     },
     {
       "file": "data/villages/defcon-27-transporthax.json",
