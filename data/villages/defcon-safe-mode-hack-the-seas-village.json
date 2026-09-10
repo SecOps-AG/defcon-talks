@@ -56,7 +56,7 @@
         "wireless"
       ],
       "teaser": "Explores vulnerability vectors in unauthenticated maritime AIS protocols and demonstrates tools for detecting and simulating RF spoofing.",
-      "summary": null,
+      "summary": "Maritime cybersecurity researcher Dr. Gary Kessler demonstrates the mechanics of Automatic Identification System (AIS) spoofing attacks and introduces analytical tools to identify maritime positioning anomalies in the Hack the Seas Village [00:00].\n\nKessler breaks down the AIS radio frequency protocol and its integration with satellite constellations and vessel transponders [12:11, 36:45]. He analyzes real-world case studies of replay and geographic spoofing attacks—such as ghost vessels appearing at coordinates they occupied months prior [49:27]—explaining the absence of cryptographic authentication in global AIS broadcasts and showing how software-defined radios (SDRs) can manipulate commercial shipping tracking to evade sanctions or confuse collision-avoidance systems [01:03:13].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3798
     },
     {
@@ -130,7 +130,7 @@
         "defense"
       ],
       "teaser": "Analyzes the operational cybersecurity challenges, communication constraints, and vulnerability landscapes of unmanned underwater vehicles.",
-      "summary": null,
+      "summary": "Naval War College researcher Dr. Nina Kollars introduces the \"40,000 Leagues UUV Death Match\" challenge in the Hack the Seas Village, outlining the engineering hurdles and tactical realities of autonomous Unmanned Underwater Vehicles (UUVs) [00:00, 00:09].\n\nThe presentation details the physics of undersea operations, contrasting aerial drone communications with underwater signal propagation where RF and GPS fail entirely, leaving acoustic and optical signaling as the primary communication channels [11:18, 22:42]. Kollars examines naval operational doctrines, evasion tactics, and kinetic collision avoidance [33:35], detailing competition rules for building resilient, modular undersea drones capable of navigating adversarial aquatic environments [45:02].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3415
     },
     {

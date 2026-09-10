@@ -20,7 +20,7 @@
         "open-source"
       ],
       "teaser": "A live demonstration of Cotopaxi, an open-source testing framework for evaluating Internet of Things device protocol security.",
-      "summary": null,
+      "summary": "Security researcher and Samsung R&D penetration tester Jakub Botwicz demonstrates Cotopaxi, an open-source security assessment toolkit designed to evaluate the protocol security of Internet of Things (IoT) devices in the Demo Labs [00:01, 00:08].\n\nBotwicz explores how the toolkit automates vulnerability discovery, protocol fuzzing, and security testing across specialized IoT protocols including CoAP, DTLS, and mDNS [00:43, 14:38]. He demonstrates testing amplification vulnerabilities in network services—identifying an amplification factor of up to 2048x on vulnerable endpoints [22:05]—and shows how developers can integrate Cotopaxi into CI/CD pipelines to harden IoT network stacks [28:45].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1731
     },
     {
@@ -81,7 +81,10 @@
       "youtubeId": "I95HCADP6As",
       "slug": "safe-mode-demo-labs-tamoaki-tani-malconfscan-with-cuckoo",
       "title": "Safe Mode Demo Labs - Tamoaki Tani - malconfscan with cuckoo",
-      "speakers": [],
+      "speakers": [
+        "Tomoaki Tani",
+        "Shusei Tomonaga"
+      ],
       "track": "malware",
       "topics": [
         "malware-analysis",
@@ -90,7 +93,7 @@
         "blue-team"
       ],
       "teaser": "A demonstration of using MalConfScan with Cuckoo Sandbox to extract configuration data from malware families in memory.",
-      "summary": null,
+      "summary": "Researchers Tomoaki Tani and Shusei Tomonaga from JPCERT/CC demonstrate \"MalConfScan with Cuckoo,\" an automated memory forensic plugin for Cuckoo Sandbox that automatically extracts configuration data and command-and-control (C2) infrastructure from infected Windows and Linux hosts [00:04, 03:42].\n\nThe presenters demonstrate live extraction workflows on real-world malware families, such as the TSCookie backdoor used by BlackTech and Ursnif banking malware [07:49, 11:55]. They explain how the tool leverages Volatility memory analysis to bypass sophisticated anti-analysis techniques—such as VM detection checks searching for \"VBox\" or \"VMware\" device names [15:05]—allowing incident responders to extract decrypted C2 IP addresses, domains, and operational configurations in seconds [19:15].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1172
     },
     {

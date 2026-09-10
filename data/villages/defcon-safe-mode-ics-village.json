@@ -39,7 +39,7 @@
         "ics-ot"
       ],
       "teaser": "Introduces two open tools for auditing and testing power-line communications and PLCs in heavy-duty vehicles.",
-      "summary": null,
+      "summary": "Automotive security researcher Ben Gardiner delivers a technical deep dive into heavy vehicle power line communications (PLC) in the ICS Village, introducing open-source hardware and software tools to assess commercial trailer network security [00:01, 00:06].\n\nGardiner explores SAE J2497 (PLC4TRUCKS), the standard that modulates multiplexed digital signals directly over existing 12V tractor-trailer power wiring to control pneumatic anti-lock braking systems (ABS) [08:35]. He details the development of modified \"Truck Duck\" hardware interfaces utilizing RF up-converters and software-defined radios to overcome bandwidth limitations [17:51, 26:56], analyzing regulatory considerations under FCC unintentional radiator exemptions [36:51] and demonstrating how unauthenticated PLC traffic can be injected to manipulate commercial trailer telemetry [45:41].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2748
     },
     {
@@ -113,7 +113,7 @@
         "disclosure"
       ],
       "teaser": "Shares practical survival tips and methodologies for researching and disclosing vulnerabilities in industrial systems.",
-      "summary": null,
+      "summary": "Claroty security researchers Doli Yardeni and Lemley present defensive lessons learned from discovering and remediating critical vulnerabilities in industrial control systems and operational technology networks in the ICS Village [00:01, 00:03].\n\nThe researchers examine industrial data historian architectures, showing how proprietary industrial network protocols interface with corporate business networks through web-based supervisory applications [04:51]. Using a case study of vulnerabilities in OSIsoft PI Web API systems [10:43], they demonstrate cross-site scripting (XSS) and server-side request injection risks, emphasizing rigorous Content Security Policy (CSP) implementation [19:35] and coordinated vulnerability disclosure with industrial automation vendors [23:54].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1441
     },
     {
@@ -186,7 +186,7 @@
         "framework"
       ],
       "teaser": "Introduces the MITRE ATT&CK for Industrial Control Systems knowledge base and its application to threat modeling.",
-      "summary": null,
+      "summary": "MITRE cyber security engineer Marie Otis introduces the MITRE ATT&CK for Industrial Control Systems (ICS) framework in the ICS Village, explaining how it models adversary behaviors targeting operational technology and physical engineering processes [00:00, 00:03].\n\nOtis contrasts enterprise IT threat modeling with the physics-driven operational reality of industrial control networks, demonstrating how adversary objectives center on manipulating physical variables, disrupting safety systems, and altering device logic [04:52, 05:01]. She provides practical use cases for the framework, illustrating how asset owners use ATT&CK for ICS to conduct risk assessments, design realistic adversary emulation scenarios, map telemetry from proprietary PLC protocols, and structure tabletop incident response exercises [09:21, 14:00, 18:32].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1401
     },
     {

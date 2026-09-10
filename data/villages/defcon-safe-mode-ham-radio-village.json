@@ -27,7 +27,12 @@
       "youtubeId": "tMT28NXbKW0",
       "slug": "what-makes-a-good-operator",
       "title": "What Makes a Good Operator",
-      "speakers": [],
+      "speakers": [
+        "Eric AI0J",
+        "Justin KE8MYF",
+        "Grant W4K",
+        "Richard VA7OG"
+      ],
       "track": "community",
       "topics": [
         "ham-radio",
@@ -36,7 +41,7 @@
         "ethics"
       ],
       "teaser": "Experienced amateur radio operators discuss essential operational discipline, on-air etiquette, and community mentoring.",
-      "summary": null,
+      "summary": "Amateur radio operators Eric (AI0J), Justin (KE8MYF), Grant (W4K), and Richard (VA7OG) host a panel discussion in the Ham Radio Village on on-air operating ethics, radio etiquette, and community culture [01:54, 02:19].\n\nThe panelists demystify amateur radio jargon, Q-codes, and historical operating habits, discussing the balance between preserving telecommunications heritage and making on-air nets welcoming to newcomers [02:08, 19:05]. They share practical advice on concise emergency traffic handling during disaster spotter nets [19:07], resolving neighborhood antenna placement restrictions [25:04], and adopting modern digital voice modes such as Digital Mobile Radio (DMR) alongside traditional analog repeaters [30:37].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1840
     },
     {
@@ -127,7 +132,7 @@
         "antennas"
       ],
       "teaser": "Walks through the mobile RF installation, power distribution, and antenna arrays in a converted news broadcast van.",
-      "summary": null,
+      "summary": "Amateur radio operator Pete (K0BAK) hosts an interactive technical Q&A in the Ham Radio Village, detailing his ambitious ongoing project to convert a decommissioned broadcast television news truck into a self-contained mobile emergency communications center [00:07, 00:17].\n\nPete answers community questions regarding vehicle logistics, chassis weight distribution, power generation, and RF antenna mast deployment [02:42, 04:55]. He walks through interior equipment rack layout, explaining cable management, equipment airflow, rear maintenance access [07:04], and physical security considerations when transporting high-frequency transceivers and repeater gear to remote operational sites [09:12].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 764
     },
     {
