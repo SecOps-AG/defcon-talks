@@ -21,7 +21,7 @@
         "appsec"
       ],
       "teaser": "Explores risks, security challenges, and visibility issues in deeply nested open-source software dependencies.",
-      "summary": null,
+      "summary": "This DEF CON talk covers 10,000 dependencies under the sea.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 1157
     },
     {
@@ -94,7 +94,7 @@
         "appsec"
       ],
       "teaser": "Demonstrates techniques and workflows for foraging vulnerabilities and hunting bugs across Android applications.",
-      "summary": null,
+      "summary": "This DEF CON talk covers android bug foraging.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2501
     },
     {
@@ -167,7 +167,7 @@
         "risk-assessment"
       ],
       "teaser": "Uses an iconic sci-fi battle station case study to teach structured threat modeling and architectural risk analysis.",
-      "summary": null,
+      "summary": "This DEF CON talk covers threat modelling the death star.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2705
     },
     {
@@ -239,7 +239,7 @@
         "leadership"
       ],
       "teaser": "Applies martial arts philosophy and adaptability concepts to modern application security operations and team culture.",
-      "summary": null,
+      "summary": "This DEF CON talk covers what bruce lee can teach us about appsec.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2440
     },
     {
@@ -313,7 +313,7 @@
         "culture"
       ],
       "teaser": "Addresses systemic burnout in the cybersecurity industry and shares strategies for fostering healthier workplace cultures.",
-      "summary": null,
+      "summary": "This DEF CON talk covers the elephant in the room: burnout.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 3028
     }
   ]
