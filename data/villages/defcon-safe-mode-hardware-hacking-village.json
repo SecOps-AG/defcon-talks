@@ -38,7 +38,7 @@
         "diy-electronics"
       ],
       "teaser": "Walks through unboxing, assembling, and programming the HackerBox 0057 hardware electronics project.",
-      "summary": null,
+      "summary": "Maker and hardware designer Joseph Long presents a hands-on assembly workshop for HackerBox 0057 in the Hardware Hacking Village, providing a build walkthrough for an interactive handheld cybersecurity multitool [00:00, 00:06].\n\nLong guides builders through through-hole and surface-mount soldering techniques, detailing component placement for LiPo battery charging modules, tactile switches, an edge-firing infrared transceiver, and an integrated five-way navigation joystick [07:08, 15:43, 26:01]. He demonstrates firmware programming on the onboard microcontroller, walking through hardware diagnostic routines and showcasing multi-protocol capabilities including Wi-Fi scanning, Bluetooth LE control, and IR signal replication [35:08].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2526
     },
     {
