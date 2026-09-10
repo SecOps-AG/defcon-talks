@@ -36,7 +36,7 @@
         "iot"
       ],
       "teaser": "Hacking your HackRF",
-      "summary": null,
+      "summary": "### Architecture of the HackRF One Platform\nAt 00:00, Mike Davis presents an in-depth hardware and firmware hacking guide for the HackRF One software-defined radio (SDR) at the Hardware Hacking Village. Davis reviews the core components of the HackRF, including the LPC43xx ARM Cortex-M4/M0 dual-core microcontroller, MAX2837 transceiver, and CPLD logic.\n\n### Direct Memory Access and Microcontroller Offloading\nAt 03:50 and 07:35, Davis explains how the HackRF processes high-speed RF samples. By offloading baseband sample streaming entirely to Direct Memory Access (DMA) channels and the CPLD, the main ARM processor core remains largely idle during standard transmission and reception.\n\n### Writing Custom On-Device Signal Processing Routines\nAt 12:00, the speaker details how developers can customize the HackRF firmware. By taking advantage of idle MCU cycles in the main firmware loop, developers can implement on-device packet decoding, frequency hopping, and trigger logic directly in firmware, eliminating the latency of streaming raw I/Q samples over USB to a host PC.\n\n### External Clock Synchronization and Multi-Device Arrays\nConcluding between 15:59 and 18:00, Davis demonstrates the use of the external clock input and output ports on the HackRF. By sharing a common clock source across multiple HackRF boards, researchers can synchronize sampling clocks to build coherent multi-antenna SDR arrays for radio direction finding and beamforming.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1192
     },
     {
