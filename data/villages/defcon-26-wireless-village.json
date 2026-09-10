@@ -21,7 +21,7 @@
         "penetration-testing",
         "password-recovery"
       ],
-      "teaser": "Fundamentals of WiFi encryption cracking\u2014WEP and WPA methodologies and attack techniques.",
+      "teaser": "Fundamentals of WiFi encryption cracking—WEP and WPA methodologies and attack techniques.",
       "summary": null,
       "durationSeconds": 3440
     },
@@ -59,7 +59,7 @@
         "commodity-hardware"
       ],
       "teaser": "RF communications using commodity SDR hardware for secure backchannel communications in security research.",
-      "summary": null,
+      "summary": "### Practical Sub-Gigahertz and Proprietary RF Operations\nAt 00:00, wireless security researcher Wasabi opens a practical field guide at the Wireless Village, exploring reconnaissance and offensive operations across sub-gigahertz and proprietary non-Wi-Fi radio spectrums.\n\n### SDR Hardware Selection for Field Engagements\nAt 07:01, Wasabi evaluates software-defined radio (SDR) platforms for field portability. He compares devices like the RTL-SDR, HackRF One, and Yard Stick One, examining antenna selection, frequency ranges, and power management constraints during mobile operations.\n\n### RF Range Benchmarking Across Urban Environments\nAt 14:02, the speaker presents empirical signal propagation testing. Evaluating 315 MHz, 433 MHz, and 915 MHz transceivers, he illustrates how lower frequencies penetrate reinforced concrete walls and urban structures far more effectively than standard 2.4 GHz Wi-Fi.\n\n### Low-Power IoT and Telemetry Protocol Analysis\nAt 21:00, the presentation examines industrial wireless protocols, including LoRa, Sigfox, and proprietary smart metering standards. Wasabi details how these architectures achieve multi-kilometer range with minimal power consumption (10-20mA receive), making them ideal for covert telemetry.\n\n### Mesh Relaying and Covert Field Deployments\nConcluding between 28:01 and 35:01, Wasabi demonstrates mesh relay tactics. Compromising an intermediate ZigBee or sub-GHz node allows red teams to hop communications across physical perimeters, and he provides guidelines for weatherproofing autonomous, solar-recharged RF listening posts.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2173
     },
     {
@@ -95,7 +95,7 @@
         "raspberry-pi",
         "creative-analysis"
       ],
-      "teaser": "WiFi signal detection using audio frequency analysis\u2014building practical tools with commodity hardware.",
+      "teaser": "WiFi signal detection using audio frequency analysis—building practical tools with commodity hardware.",
       "summary": null,
       "durationSeconds": 1008
     },
@@ -132,7 +132,7 @@
         "wireless-protocols"
       ],
       "teaser": "Talk will focus on privacy (or lack thereof) of gotenna networks. We will cover traditional attacks which have only been available to state sponsored prior to popularization and wide availability of software defined r...",
-      "summary": null,
+      "summary": "### Security Architecture of Off-Grid Mesh Devices\nAt 00:00, Vlad (Recompiler) presents vulnerability research targeting goTenna mesh radio devices, which enable off-grid text messaging and GPS sharing over VHF/UHF frequencies when cellular networks are unavailable.\n\n### Decentralized Mesh Routing and APRS Tracking\nAt 04:02, the speaker explains the operational workflow of mobile mesh communications. Pairing with smartphones via Bluetooth Low Energy, goTenna units form ad-hoc multi-hop mesh networks, utilizing Automatic Packet Reporting System (APRS) protocols for emergency location beacons.\n\n### Mobile App Cryptographic Key Storage Weaknesses\nAt 08:00, Vlad exposes implementation flaws in the goTenna mobile companion software. Reverse-engineering the application revealed that private encryption keys and device identity tokens were stored in unencrypted local application storage, allowing extraction and device impersonation.\n\n### Protocol Fuzzing and Denial-of-Service\nAt 12:03 and 16:00, the presentation details protocol fuzzing methodologies. By broadcasting malformed packets over radio frequencies, researchers identified memory corruption bugs that caused unhandled exceptions in neighboring nodes, effectively disabling localized emergency communications.\n\n### Identity Spoofing in Offline Environments\nConcluding at 20:05, Vlad highlights the challenge of trust in offline environments. Without a central certificate authority to validate identities, adversaries can broadcast spoofed GID identifiers, impersonating trusted contacts or injecting deceptive location coordinates across decentralized mesh networks.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1240
     },
     {
@@ -150,7 +150,7 @@
         "high-performance-sdr",
         "radio-infrastructure"
       ],
-      "teaser": "RFNoC\u2014FPGA-accelerated software-defined radio for high-performance spectrum analysis and wireless attacks.",
+      "teaser": "RFNoC—FPGA-accelerated software-defined radio for high-performance spectrum analysis and wireless attacks.",
       "summary": null,
       "durationSeconds": 1706
     },
@@ -187,7 +187,7 @@
         "wireless-monitoring",
         "adaptive-detection"
       ],
-      "teaser": "Machine learning for adaptive wireless security\u2014detecting rogue access points through statistical signal analysis.",
+      "teaser": "Machine learning for adaptive wireless security—detecting rogue access points through statistical signal analysis.",
       "summary": null,
       "durationSeconds": 1739
     },
@@ -206,8 +206,8 @@
         "protocol-discovery",
         "security-research"
       ],
-      "teaser": "Wireless reverse engineering of non-WiFi protocols\u2014SDR-based reconnaissance and security analysis.",
-      "summary": null,
+      "teaser": "Wireless reverse engineering of non-WiFi protocols—SDR-based reconnaissance and security analysis.",
+      "summary": "### Reverse Engineering Proprietary Wireless Protocols\nAt 00:00, hardware researchers Russ Handorf and Dominic Spill present war stories and systematic reverse engineering methodologies for analyzing unknown, non-Wi-Fi radio frequency transmissions.\n\n### Signal Identification and Spectrum Analysis\nAt 11:00, the speakers walk through initial signal reconnaissance using SDR hardware (such as HackRF and USRP). They demonstrate capturing raw I/Q samples and analyzing visual waterfalls in tools like Baudline and Inspectrum to identify transmission characteristics without vendor documentation.\n\n### Determining Modulation Schemes and Symbol Rates\nAt 22:00, Handorf and Spill explain how to extract digital data from analog waveforms. They detail identifying carrier frequencies, bandwidth limits, and modulation schemes—including Frequency Shift Keying (FSK), Amplitude Shift Keying (ASK), and Phase Shift Keying (PSK).\n\n### Packet Framing, Demodulation, and Clock Recovery\nAt 33:01, the discussion turns to digital signal reconstruction. Using clock recovery and slicing algorithms, the presenters convert raw waveforms into binary streams, locating preamble synchronization words and reverse-engineering proprietary packet framing structures.\n\n### Field Investigations and Automated Analysis Pipelines\nConcluding between 44:01 and 55:02, the authors share field case studies, including decoding unknown neighborhood telemetry devices and reverse-engineering smart meter transmissions. They conclude by demonstrating automated signal analysis pipelines integrating GNU Radio flowgraphs with Wireshark protocol dissectors.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3518
     },
     {
@@ -225,7 +225,7 @@
         "wireless-protocols",
         "threat-landscape"
       ],
-      "teaser": "Exploring 802.15.4 attack surface\u2014Zigbee and low-power wireless protocol vulnerabilities.",
+      "teaser": "Exploring 802.15.4 attack surface—Zigbee and low-power wireless protocol vulnerabilities.",
       "summary": null,
       "durationSeconds": 1207
     },
@@ -262,7 +262,7 @@
         "wireless-security",
         "public-safety"
       ],
-      "teaser": "SirenJack\u2014Breaking security in emergency siren systems through wireless exploitation.",
+      "teaser": "SirenJack—Breaking security in emergency siren systems through wireless exploitation.",
       "summary": null,
       "durationSeconds": 3325
     },
@@ -281,7 +281,7 @@
         "penetration-testing"
       ],
       "teaser": "SDR Basics Class",
-      "summary": null,
+      "summary": "### Foundations of Software-Defined Radio and DSP\nAt 00:00, SDR pioneer Balint Seeber delivers an intensive technical masterclass exploring digital signal processing (DSP) principles and practical Software-Defined Radio workflows.\n\n### Sampling Rates, Nyquist Limits, and I/Q Data Streams\nAt 11:00, Seeber breaks down the mathematical foundations of RF capture. He explains complex baseband I/Q sampling, the Nyquist-Shannon sampling theorem, and strategies for managing high-bandwidth data streams (50+ MSPS) using RAM disks to prevent packet loss.\n\n### Building GNU Radio Flowgraphs\nAt 22:00, the instructor demonstrates building modular flowgraphs in GNU Radio Companion. He walks through integrating SDR source blocks, configuring finite impulse response (FIR) low-pass filters, and implementing frequency translators to extract individual channel audio from wideband RF recordings.\n\n### Doppler Correction and Dynamic Calibration\nAt 33:01, Seeber examines advanced signal correction scripts. He illustrates using custom tools to correct phase offsets, compensate for oscillator frequency drift in inexpensive SDR dongles, and automate Doppler shift tracking for orbiting satellite passes.\n\n### Real-Time Flowgraph Control via XML-RPC\nConcluding between 44:00 and 55:02, Seeber showcases dynamic control architectures. By embedding XML-RPC server interfaces into GNU Radio flowgraphs, external Python scripts and web applications can dynamically retune frequencies, adjust filter bandwidths, and capture frames over network sockets in real time.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3379
     },
     {
