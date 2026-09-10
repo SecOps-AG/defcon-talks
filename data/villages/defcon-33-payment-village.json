@@ -80,7 +80,7 @@
         "cryptography"
       ],
       "teaser": "Examines how extra features and protocol extensions in contactless payment systems introduce security vulnerabilities, proposing fixes for payment terminals.",
-      "summary": null,
+      "summary": "This DEF CON talk covers how extra features in contactless payments break security, what we can do.\n\n(AI summary \u2014 Claude Haiku)",
       "durationSeconds": 2103
     },
     {
