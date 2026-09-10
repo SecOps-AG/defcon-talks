@@ -1329,7 +1329,7 @@
         "red-team"
       ],
       "teaser": "Abusing Windows print driver installation as a path from low privilege toward SYSTEM.",
-      "summary": null,
+      "summary": "Security researcher Jake from SafeBreach presents \"Bring Your Own Print Driver Vulnerability\" on the DEF CON 29 Main Stage, introducing a novel local privilege escalation (LPE) technique that weaponizes legitimately signed, third-party printer drivers to elevate privileges to NT AUTHORITY\\SYSTEM on modern Windows installations.\n\n[09:59] Jake explores the security model of the Windows Print Spooler service (spoolsv.exe), which operates under the high-privilege SYSTEM context. He explains that while recent zero-days like PrintNightmare highlighted native spooler vulnerabilities, administrative policies and Microsoft patches often restrict remote point-and-print features. However, low-privileged local users frequently retain the right to add printers and load driver packages.\n\n[21:07] The presentation details the \"Bring Your Own Driver\" attack concept. Rather than attacking the Windows OS itself, an attacker supplies an older, legitimate printer driver from vendors like Canon, HP, or Lexmark that contains known vulnerabilities. Jake walks through analyzing vendor driver packages [32:07], demonstrating how flawed driver installer routines, arbitrary directory writes in ProgramData/AppData, and unquoted registry keys allow an unprivileged attacker to trigger DLL hijacking inside the Print Spooler service, executing arbitrary code with full SYSTEM privileges. He concludes with detection metrics and mitigation strategies for enterprise administrators.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2555
     }
   ]

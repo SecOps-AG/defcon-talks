@@ -214,7 +214,7 @@
         "blockchain"
       ],
       "teaser": "Yaz Khoury examines 51% hashpower attacks on Proof-of-Work blockchains, analyzing chain reorganization defenses and checkpointing mechanisms.",
-      "summary": null,
+      "summary": "Yaz Khoury presents an in-depth technical post-mortem on 51% consensus attacks in proof-of-work blockchains, examining the multi-million-dollar double-spend attacks launched against Ethereum Classic (ETC) in August 2020 and the consensus innovations developed to prevent future reorganizations.\n\n[11:33] Khoury reviews the mechanics of 51% attacks, explaining how an adversary possessing a majority of mining hash power can secretly mine an alternate chain history (\"shadow mining\") while submitting deposits to cryptocurrency exchanges on the public chain. Once the exchange credits the funds, the attacker releases their longer private chain, triggering the Nakamoto consensus longest-chain rule to reorganize the blockchain, invalidate the original deposit transactions, and execute double-spends.\n\n[23:33] The presentation analyzes the August 2020 attacks against ETC, where attackers rented hash power from platforms like NiceHash to execute massive reorganizations exceeding 4,200 blocks. Khoury details the emergency defensive response, including node client patches, cooperation with mining pools, and the implementation of Modified Exponential Subjective Scoring (MESS) [35:00]. He explains how MESS introduces a subjective penalty that artificially scales the required mining difficulty for long-depth reorganizations, rendering rented hash attacks economically irrational and restoring consensus resiliency to smaller proof-of-work networks.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2787
     }
   ]
