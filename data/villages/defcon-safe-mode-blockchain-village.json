@@ -20,7 +20,7 @@
         "appsec"
       ],
       "teaser": "Demonstrates vulnerability discovery and exploitation techniques targeting insecure cryptocurrency software wallets.",
-      "summary": null,
+      "summary": "Security researcher Peiyu Wang delivers an analysis of client-side vulnerability classes in cryptocurrency wallet applications in the Blockchain Village [00:04, 00:12]. Wang focuses on implementation and architectural flaws in desktop, web, and mobile wallet software rather than underlying blockchain consensus mechanisms [05:42].\n\nThe presentation explores session management flaws, demonstrating how missing cookie security attributes (such as HttpOnly and Secure flags) leave session tokens and credentials vulnerable to cross-site scripting (XSS) attacks [11:51]. Wang examines insecure Electron framework configurations in desktop wallets, illustrating how enabling nodeIntegration or utilizing deprecated Chromium runtimes allows malicious RPC payloads or web content to achieve full remote code execution on the host system [23:47].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1856
     },
     {
@@ -92,7 +92,7 @@
         "consensus"
       ],
       "teaser": "Covers architectural security patterns, Tendermint consensus auditing, and threat vectors across the Cosmos blockchain ecosystem.",
-      "summary": null,
+      "summary": "Security engineer Ron Stoner presents an operational and defensive blueprint for architecting, deploying, and securing proof-of-stake validator nodes within the Cosmos blockchain ecosystem in the Blockchain Village [00:00, 10:16].\n\nStoner examines high-availability infrastructure design, analyzing single points of failure and recalling real-world lessons from power outages, ISP drops, and DDoS floods on unhedged consumer connections [20:36, 30:39]. He evaluates the security and performance trade-offs of bare-metal servers versus virtualized cloud instances [40:41], outlining sentry node network topologies, hardware security module (HSM) key isolation, and automated failover configurations designed to prevent catastrophic double-signing slashing events [30:46].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3133
     },
     {
