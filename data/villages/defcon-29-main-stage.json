@@ -1310,7 +1310,7 @@
         "physical-security"
       ],
       "teaser": "How supermarket cart locks can be analyzed and abused as a shopping-system denial path.",
-      "summary": null,
+      "summary": "In this talk on the DEF CON 29 Main Stage, Joseph Gabay delivers \"DoS Denial of Shopping: Analyzing and Exploiting Physical Shopping Cart Immobilization Systems,\" exploring the reverse engineering and radio exploitation of supermarket cart theft-prevention mechanisms. He opens at 03:00 by explaining the electromagnetic architecture of perimeter boundary wire loops buried beneath parking lot asphalt, which broadcast continuous low-frequency magnetic signals.\n\nJoseph details the mechanical and electrical teardown of a cart caster wheel assembly at 06:00, exposing the internal inductive sensing coil, microcode controller, and spring-loaded locking solenoid. At 09:00, he describes the challenge of capturing very-low-frequency (VLF) 8 kHz signals with conventional Software-Defined Radios (SDR), illustrating how impedance mismatches and antenna dimensions complicate monitoring.\n\nAt 12:00, Joseph analyzes demodulated command waveforms, revealing how specific pulse durations trigger wheel locking. He demonstrates a novel attack vector at 15:00, utilizing an ordinary smartphone audio jack and speaker coil as a low-frequency inductive antenna to broadcast crafted signals. After decoding the three-pulse frequency-shift keying (FSK) command structure at 18:00, he concludes at 21:00 by addressing ethical implications and responsible disclosure to retail security vendors. (AI summary — Gemini Flash)",
       "durationSeconds": 1343
     },
     {
