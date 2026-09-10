@@ -38,7 +38,7 @@
         "propaganda"
       ],
       "teaser": "Uncovers global propaganda campaigns, state surveillance initiatives, and disinformation networks deployed during the pandemic.",
-      "summary": null,
+      "summary": "Mauro Eldritch examines state surveillance, data harvesting, and propaganda campaigns deployed during the pandemic, focusing on an investigation into the Argentine government's mandatory contact tracing application, CUIDAR. He outlines how emergency public health measures were leveraged to normalize continuous location tracking, facial recognition, and personal data collection without adequate oversight.\n\nEldritch details the technical architecture and permissions required by the government tracking app at 01:52. He then investigates coordinated information operations on social media platforms at 03:50 and 05:54, exposing automated botnets and astroturfing campaigns designed to amplify pro-government messaging and suppress dissent. Using OSINT techniques and network graphing at 10:06 and 14:05, he maps how troll networks coordinate artificial trending topics and harass independent security researchers who disclose privacy vulnerabilities.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1872
     },
     {
@@ -65,7 +65,7 @@
       "slug": "burnout-is-real",
       "title": "Burnout Is Real",
       "speakers": [
-        "Chlo\u00e9 Messdaghi"
+        "Chloé Messdaghi"
       ],
       "track": "community",
       "topics": [
@@ -111,7 +111,7 @@
         "propaganda"
       ],
       "teaser": "Deep dive into OSINT tracking of pandemic-era digital surveillance mechanisms, contact tracing apps, and propaganda.",
-      "summary": null,
+      "summary": "Mauro Eldritch presents an in-depth OSINT investigation into state-sponsored surveillance and digital propaganda deployed under the guise of emergency healthcare responses. Examining the Argentine national tracing ecosystem and its mandatory mobile application CUIDAR, he analyzes the risks of centralized location tracking, identity card binding, and unchecked data aggregation.\n\nAt 01:53, Eldritch breaks down application permissions, network telemetry, and background tracking mechanisms. He analyzes coordinated social media manipulation networks at 03:55 and 05:54, illustrating how automated bot farms and paid trolls execute swarm behavior to artificially influence public discourse. At 10:01 and 14:02, he showcases network topology analysis, sentiment manipulation metrics, and digital footprint tracking used to uncover the infrastructure supporting state-aligned information campaigns.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1872
     },
     {
