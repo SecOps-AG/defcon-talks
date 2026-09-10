@@ -103,14 +103,14 @@ export type Talk = StoredTalk & {
 /**
  * The slim record shipped to the client for search and faceting.
  *
- * Excludes `summary` (4-6 KB per talk) and `teaser` (similar size), and carries no
- * derived search string. The home page ships the whole index, so both would be
- * dead weight on the wire; the search text is derived once on the client instead.
+ * Excludes `summary` (kept in per-year shards). Teaser stays on the index so
+ * cards can show it under the thumbnail. Search text is still derived client-side.
  */
 export type TalkIndexEntry = {
   id: string;
   slug: string;
   title: string;
+  teaser?: string;
   speakers: string[];
   youtubeId: string;
   year: number;
