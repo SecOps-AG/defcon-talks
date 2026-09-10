@@ -39,7 +39,7 @@
         "surveillance"
       ],
       "teaser": "Examines the weaponization of fear, uncertainty, and doubt in technology policy, cybersecurity debates, and public perception.",
-      "summary": null,
+      "summary": "Researcher Zhanna Malekos Smith investigates the legal, societal, and ethical debates surrounding human microchip implants in the Crypto and Privacy Village [00:24]. The talk examines the growing population of individuals adopting subdermal RFID and NFC implants for access control, biometric verification, and contactless payments [05:18].\n\nSmith explores the intersection of biohacking and constitutional privacy law, analyzing whether subdermal transponders trigger the Third-Party Doctrine and how physical property protections under the Fourth Amendment apply to embedded cybernetic devices [09:56]. She reviews legislative efforts by lawmakers proposing preemptive bans on mandatory human chipping, evaluates theological and cultural resistance [20:56], and calls on hardware developers to uphold privacy-by-design principles to prevent personal, financial, and physiological data exposure [14:36, 25:25].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1529
     },
     {
@@ -113,7 +113,7 @@
         "osint"
       ],
       "teaser": "Demonstrates how to use Freedom of Information Act requests to uncover government surveillance programs and public agency technology practices.",
-      "summary": null,
+      "summary": "Cybersecurity researcher and former intelligence analyst Emily Crose presents a guide to utilizing the Freedom of Information Act (FOIA) for technical and investigative research in the Crypto and Privacy Village [00:00]. Crose demystifies the administrative process of submitting public records requests to federal agencies, including the FBI and Department of Homeland Security.\n\nThe talk provides practical strategies for crafting precise, legally viable requests that avoid common agency exemptions, excessive processing fees, and bureaucratic delays [07:20]. Crose shares case studies of unearthing historical computer crime investigation dossiers, detailing how FBI record-keeping practices (such as FD-302 interview memos) function and demonstrating how researchers can request declassified case materials while preserving personal privacy [14:42, 22:05, 29:38].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2221
     },
     {

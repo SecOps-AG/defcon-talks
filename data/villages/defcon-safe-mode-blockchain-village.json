@@ -164,7 +164,7 @@
         "ethereum"
       ],
       "teaser": "Presents a structured seven-phase methodology for auditing and attacking smart contracts, from reconnaissance to post-exploitation.",
-      "summary": null,
+      "summary": "A smart contract security auditor presents a structured seven-phase methodology for evaluating, auditing, and exploiting decentralized applications on the Ethereum blockchain in the Blockchain Village [05:57]. The speaker emphasizes that smart contracts must be approached as autonomous, immutable software systems where standard post-deployment patch paradigms do not apply.\n\nThe presentation details each audit phase, contrasting automated static analysis tools with rigorous manual business logic verification to detect subtle algorithmic vulnerabilities [12:07, 12:15]. The speaker explores prominent attack classes—including reentrancy flaws, integer overflows, authorization bypasses, and front-running risks exacerbated by network congestion and mempool manipulation [18:23, 24:22]—providing actionable guidelines for developers to write defensive Solidity code and conduct thorough pre-deployment audits [30:32].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 1848
     },
     {

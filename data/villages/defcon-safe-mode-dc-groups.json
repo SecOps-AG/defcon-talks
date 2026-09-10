@@ -53,7 +53,7 @@
         "community"
       ],
       "teaser": "DC0471 Trivandrum presents methodologies and tactical approaches for community-driven red teaming operations.",
-      "summary": null,
+      "summary": "Members of DEF CON Group DC0471 (Trivandrum, India) present an end-to-end adversarial simulation framework in the DC Groups Village, detailing a structured five-phase methodology for enterprise red teaming operations [00:01, 09:56].\n\nThe speakers distinguish focused penetration tests from full-scope adversary emulations, emphasizing that red teaming aims to evaluate people, detection processes, and defense technologies under realistic attack conditions [09:57]. The presentation walks through the five operational phases—from preliminary threat profiling and defensive posture assessments [18:30] to covert initial access, internal lateral traversal [27:22], and post-exploitation reporting [35:26]—providing practical guidance for organizations to build meaningful defensive maturity.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2690
     },
     {
@@ -118,7 +118,7 @@
         "social-engineering"
       ],
       "teaser": "DC644 Tijuana discusses espionage tradecraft, threat actor operations, and intelligence gathering techniques.",
-      "summary": null,
+      "summary": "Members of DEF CON Group DC644 (Tijuana, Mexico) share investigative case studies and counter-surveillance insights from northern Mexico in the DC Groups Village [00:00, 00:04].\n\nThe speakers recount technical operations tracking malicious insider threats within criminal cartels, detailing how rogue actors operated within telecommunications networks [02:44]. They demonstrate tactical offensive methods utilized during investigations, such as deploying captive portal clones spoofing regional Mexican telecom carriers (Telnor, Telmex, and Telcel) [08:17] and packaging cross-platform payloads using tools like Platypus to establish macOS backdoors [11:00]. The talk concludes with reflections on digital civil liberties, highlighting the proliferation of government spyware operations targeting journalists, political candidates, and human rights defenders across the region [13:22].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 818
     },
     {
