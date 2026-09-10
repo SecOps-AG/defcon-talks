@@ -36,7 +36,7 @@
         "community"
       ],
       "teaser": "Bestsellers in the Underground Economy",
-      "summary": null,
+      "summary": "In this talk at the DEF CON 27 Packet Hacking Village, threat intelligence researcher Winnona DeSombre provides a data-driven look into the commercial dynamics and bestseller trends shaping illicit dark web markets. She begins at 04:00 by categorizing commodity malware families, contrasting commodity downloaders, info-stealers, banking trojans, and Remote Access Trojans (RATs) with bespoke nation-state cyber espionage implants, and mapping out the myriad forum aliases used by malware authors.\n\nAt 08:00, Winnona presents an empirical methodology for ranking underground software popularity by comparing forum sales threads and customer reviews against telemetry from security operations centers. At 12:00, she illustrates how commodity demand fluctuates seasonally and mirrors geopolitical developments, showing clear spikes in exploit kit acquisitions corresponding to high-profile zero-day disclosures. She explores how commodity malware codebases are continually repurposed and rebranded at 16:00, making them virtually indistinguishable from targeted espionage tools.\n\nAnalyzing regional marketplaces at 20:00, Winnona highlights notable cultural and operational divergences between closed Russian-language crime syndicates and English-speaking hacker boards. She wraps up with an audience Q&A session at 24:00, examining buyer reputation systems, escrow mechanisms, and how cyber defenders can utilize illicit market intelligence to proactively hunt threat actor infrastructure. (AI summary — Gemini Flash)",
       "durationSeconds": 1504
     },
     {
@@ -104,7 +104,7 @@
         "community"
       ],
       "teaser": "Phishing Freakonomics",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 27 Packet Hacking Village, Russell Butturini applies principles of behavioral economics and cognitive psychology to dissect modern corporate phishing awareness simulations. He challenges standard industry metrics at 09:00, asserting that raw click rates are deeply misleading indicators of organizational vulnerability because employee performance varies drastically depending on operational context, workload, and personal stress levels.\n\nRussell tracks phishing simulation outcomes across calendar quarters at 18:00, showing statistically significant spikes in click-through rates during high-stress corporate events such as year-end financial reporting and holiday seasons. At 27:00, he delivers a sharp critique of punitive security policies, demonstrating how disciplinary action and public shaming create an adversarial culture where workers actively conceal security mistakes rather than reporting them.\n\nAdvocating for constructive behavioral reinforcement at 36:00, Russell outlines strategies for lightweight, continuous security coaching that rewards vigilance instead of penalizing errors. At 45:00, he details how shifting the focus toward frictionless incident reporting resulted in higher employee engagement and faster threat detection across enterprise endpoints. He concludes at 54:00 by discussing simulation design, template customization, and building empathy between security teams and general staff. (AI summary — Gemini Flash)",
       "durationSeconds": 3263
     },
     {
@@ -172,7 +172,7 @@
         "community"
       ],
       "teaser": "Old Tech vs New Adversaries Round 1",
-      "summary": null,
+      "summary": "In this talk at the DEF CON 27 Packet Hacking Village, Joseph Muniz presents an entertaining and technical exploration into whether vintage operating systems and software can withstand modern cyber threats. He opens at 05:00 by introducing a test environment configured with vintage operating platforms, including MS-DOS, early classic Macintosh System software, OS/2 Warp, and legacy Windows versions, testing them against current automated penetration testing suites and vulnerability scanners.\n\nJoseph demonstrates at 10:00 that modern automated exploit frameworks and post-exploitation modules frequently crash or fail completely when encountering obsolete network stacks, since modern malware relies heavily on modern Windows APIs, PowerShell, and contemporary networking primitives. However, he cautions against the assumption of \"security through antiquity\" at 15:00, emphasizing that unpatched architectural flaws remain inherently brittle.\n\nAt 20:00, Joseph tests cloud-hosted virtual machines running legacy ported applications, analyzing how legacy services handle internet-wide scanning traffic. He discusses recompiled DOS utilities in enterprise environments at 25:00, before executing classic command overruns and buffer overflows at 30:00 to demonstrate how input-handling flaws from decades past remain dangerous when exposed on modern networks. (AI summary — Gemini Flash)",
       "durationSeconds": 1919
     },
     {
@@ -240,7 +240,7 @@
         "community"
       ],
       "teaser": "CIRCO Cisco Implant Raspberry Controlled Ops",
-      "summary": null,
+      "summary": "In this technical hardware security session at the DEF CON 27 Packet Hacking Village, Emilio Couto details the design and deployment of CIRCO (Cisco Implant Raspberry Controlled Ops), a stealthy hardware implant built into enterprise network appliances for covert physical red teaming. He introduces the physical design at 08:00, explaining how a miniaturized Raspberry Pi is retrofitted directly inside the housing of a Cisco IP phone or switch chassis, drawing parasitic power from the internal bus and sharing internal Ethernet connections.\n\nEmilio showcases his enterprise testing environment at 16:00, featuring Managed Cisco switches, firewalls, and 802.1X Network Access Control (NAC) infrastructure. After navigating live hardware demonstration challenges at 24:00, he demonstrates how the internal implant intercepts network traffic and seamlessly emulates legitimate Cisco Discovery Protocol (CDP) packets at 32:00, allowing the implant to mimic an authorized network device to upstream monitoring tools.\n\nAt 40:00, Emilio examines subtle network fingerprinting evasion techniques, analyzing TCP window sizes and NAT properties to prevent intrusion detection systems from identifying rogue Linux kernel packets. He demonstrates full network access at 48:00, showing how the implant circumvents port security controls by piggybacking on authenticated VoIP phone sessions to provide red teamers with persistent out-of-band network access. (AI summary — Gemini Flash)",
       "durationSeconds": 3010
     },
     {
@@ -308,7 +308,7 @@
         "community"
       ],
       "teaser": "Wi Fi Threat Modeling and Monitoring",
-      "summary": null,
+      "summary": "In this talk at the DEF CON 27 Packet Hacking Village, Besim Altinok presents practical strategies for wireless threat modeling, continuous RF monitoring, and detecting rogue access points across enterprise wireless infrastructures. He begins at 07:00 by discussing the inherent limitations and high false-positive rates of commercial Wireless Intrusion Detection Systems (WIDS), which often flood analysts with benign alerts when encountering transient neighboring signals.\n\nBesim advocates for an attacker-centric defense mindset at 14:00, breaking down how malicious rogue access points and evil twin attacks manipulate 802.11 management frames to lure client devices. At 21:00, he demonstrates writing custom Wireshark capture filters designed to isolate anomalous beacon frames, probe responses, and deauthentication packets in real time. At 28:00, he explains passive fingerprinting techniques to detect popular attack platforms like the WiFi Pineapple based on default MAC address ranges and frame formatting.\n\nTo proactively detect wireless rogue devices, Besim introduces an open-source tool called \"P-Trap\" at 35:00, which emits synthetic probe requests for non-existent SSIDs to catch predatory KARMA-style rogue access points that automatically answer every broadcast request. He concludes at 42:00 by illustrating methods to monitor client probes and defend against attacks aimed at discovering hidden network SSIDs. (AI summary — Gemini Flash)",
       "durationSeconds": 2631
     },
     {
