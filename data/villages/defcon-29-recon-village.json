@@ -21,7 +21,7 @@
         "social-media"
       ],
       "teaser": "Mauro Eldritch presents Venator, an automated OSINT tool designed to identify, map, and dismantle troll networks and bot farms on Twitter.",
-      "summary": null,
+      "summary": "In this investigative session at the DEF CON 29 Recon Village, Mauro Eldritch and Santiago Perez Montaño from DEF CON Group DC5411 present \"Venator,\" an open-source OSINT framework designed to detect, track, and disrupt coordinated political troll farms and automated bot armies on Twitter. They begin at 08:00 by examining the structural organization of digital influence operations, explaining how troll managers coordinate automated bot clusters and human operators to manufacture viral astroturfing campaigns.\n\nThe speakers describe deploying decoy persona accounts at 16:00, explaining how deliberately tailored profile photos and bio configurations were used to attract troll engagement. At 24:00, they reveal how they infiltrated closed, numbered coordination channels on instant messaging platforms used by operators to orchestrate mass posting waves. At 32:00, they demonstrate algorithmic trend analysis, showing that authentic public engagement develops organically, whereas manufactured troll campaigns display unnatural, razor-sharp volume spikes that immediately collapse once campaign targets are met.\n\nTurning to defensive response at 40:00, the authors illustrate how Venator flags coordinated hashtag poisoning and extracts participating bot clusters for bulk reporting and blocking. They finish at 47:00 by releasing the Venator tooling to the public, offering security researchers practical methodologies to monitor and analyze digital disinformation networks. (AI summary — Gemini Flash)",
       "durationSeconds": 2824
     },
     {
@@ -97,7 +97,7 @@
         "osint"
       ],
       "teaser": "OSINT investigator Ritu Gill outlines essential operational security principles, sock puppet management, and digital footprint hygiene for researchers.",
-      "summary": null,
+      "summary": "In this practical presentation at the DEF CON 29 Recon Village, intelligence analyst Ritu Gill delivers a comprehensive guide to personal operational security (OPSEC) and digital privacy protection for researchers and everyday users. She opens at 04:00 by introducing threat modeling frameworks, urging attendees to identify their specific adversaries, determine what personal data is exposed online, and understand where that data is aggregated by third parties.\n\nRitu highlights digital sharing hygiene at 08:00, proposing simple behavioral checks before posting—such as asking whether one would want the shared information displayed on a public billboard—regardless of whether social media accounts are set to private. At 12:00, she explores the severe privacy risks posed by lifestyle and fitness applications, showing how beer-tracking platforms like Untappd leak precise geolocations, daily routines, and frequent travel itineraries.\n\nAddressing browser tracking at 16:00, Ritu reviews extensions and configuration tweaks to spoof user agents and mitigate browser fingerprinting techniques that track users across disparate sessions. She wraps up at 20:00 by recommending curated resources such as PrivacyTools.io and Terms of Service analysis sites, providing actionable steps for individuals to minimize their digital footprint. (AI summary — Gemini Flash)",
       "durationSeconds": 1390
     },
     {
@@ -173,7 +173,7 @@
         "malware"
       ],
       "teaser": "Ladislav Baco demonstrates how independent threat researchers can discover nation-state APT campaigns through proactive telemetry hunting and pivoting.",
-      "summary": null,
+      "summary": "In this presentation at the DEF CON 29 Recon Village, senior security consultant and malware analyst Ladislav Baco explores how independent researchers can proactively hunt and uncover Advanced Persistent Threat (APT) campaigns without enterprise-scale resources. He begins at 05:00 by advocating for a proactive hunting mindset that prioritizes behavioral anomaly tracking over reliance on static, signature-based intrusion detection systems.\n\nLadislav examines host-level behavioral indicators at 10:00, illustrating how nation-state actors frequently deploy Living-off-the-Land Binaries (LOLBins) such as PowerShell and WMI to blend in with normal administrative traffic. He explores techniques for detecting low-and-slow lateral movement and off-hours credential misuse at 15:00, explaining how adversaries establish footholds while avoiding endpoint detection thresholds.\n\nAt 20:00, Ladislav details network telemetry analysis, explaining how to identify subtle periodic beaconing patterns and anomalous data exfiltration channels communicating with external servers. He concludes at 25:00 by demonstrating how to correlate disparate technical artifacts using the Diamond Model and map adversary techniques against the MITRE ATT&CK framework to publish actionable threat intelligence. (AI summary — Gemini Flash)",
       "durationSeconds": 1756
     },
     {
@@ -249,7 +249,7 @@
         "osint"
       ],
       "teaser": "MasterChen reverse engineers commercial consumer threat and credit scoring algorithms, building an open OSINT pipeline to evaluate personal digital exposure.",
-      "summary": null,
+      "summary": "In this session at the DEF CON 29 Recon Village, researcher MasterChen (Nick Rosario) explores the development of personal threat modeling metrics to defend against targeted harassment and coordinated online mobs. He opens at 05:00 by examining the mechanics of digital dogpiling, explaining how hostile groups weaponize public social media platforms to overwhelm targets through coordinated brigade attacks and cyberstalking.\n\nMasterChen presents the mathematical architecture of his open-source \"SocialThreatScore\" engine at 10:00, breaking down how the algorithm assigns risk weights to interacting accounts based on account creation date, follower-to-following ratios, interaction velocity, and aggressive sentiment indicators. At 15:00, he demonstrates scraping Twitter interaction feeds to identify suspicious bot clusters participating in coordinated harassment waves.\n\nAt 20:00, MasterChen explains how the scoring framework differentiates between organic, passionate disagreements and artificial, coordinated harassment campaigns. He concludes at 25:00 by showing how individuals can automate defensive countermeasures, using calculated threat scores to dynamically mute, block, or archive hostile accounts to protect their mental well-being and digital safety. (AI summary — Gemini Flash)",
       "durationSeconds": 1742
     },
     {
@@ -274,7 +274,7 @@
     {
       "youtubeId": "_Mo6U7_B7gs",
       "slug": "anthony-kava-gov-doppelganger-your-hax-dollars-at-work",
-      "title": "GOV Doppelg\u00e4nger: Your H\u00e4x Dollars at Work",
+      "title": "GOV Doppelgänger: Your Häx Dollars at Work",
       "speakers": [
         "Anthony Kava"
       ],
@@ -286,7 +286,7 @@
         "threat-intelligence",
         "investigations"
       ],
-      "teaser": "Law enforcement investigator Anthony Kava uncovers widespread typosquatting and doppelg\u00e4nger domains mimicking government agencies to defraud citizens.",
+      "teaser": "Law enforcement investigator Anthony Kava uncovers widespread typosquatting and doppelgänger domains mimicking government agencies to defraud citizens.",
       "summary": null,
       "durationSeconds": 1791
     }

@@ -44,7 +44,7 @@
         "community"
       ],
       "teaser": "Silicon Valley character Russ Hanneman delivers a humorous hype message for the DEF CON 29 Red Team Village CTF competition.",
-      "summary": null,
+      "summary": "In this brief and humorous video from the DEF CON 29 Red Team Village, actor Chris Diamantopoulos appears in character as tech investor Russ Hanneman from the HBO comedy series Silicon Valley to deliver a hype message for the village's Capture The Flag (CTF) competition. Channeling his iconic persona, Russ greets competitors at 00:00 with his trademark boastful energy, teasing red teamers about their hacking skills.\n\nRuss talks up his fictional billionaire status at 00:20, referencing his \"Tres Comas\" tequila and cars with \"doors that open like this,\" before challenging contestants to prove whether they have the capability to hack into a fictional corporate target (\"Lunar Fire\"). This lighthearted promo energized the community ahead of the intense multi-day red teaming competition. (AI summary — Gemini Flash)",
       "durationSeconds": 40
     },
     {
@@ -112,7 +112,7 @@
         "community"
       ],
       "teaser": "Daily leaderboard update and ongoing challenge progress for Day 2 of the Red Team Village CTF competition.",
-      "summary": null,
+      "summary": "In this comprehensive live broadcast from the DEF CON 29 Red Team Village, organizers and contest administrators provide continuous commentary and coverage during Day 2 of the annual Red Team Village Capture The Flag (CTF) competition. At 48:00, the hosts analyze team dynamics, discussing how clear communication and morale management are essential for squads navigating complex, multi-day adversary emulation challenges.\n\nThe discussion turns to holistic red teaming concepts at 01:33:00, with speakers emphasizing that effective security assessments must evaluate human behaviors, physical security policies, and administrative processes alongside traditional technical exploits. At 02:16:00, the stream checks in on the heated scoreboard race, highlighting rapid point shifts among the top contenders during the closing hours of the contest.\n\nAt 03:04:00, technical mentors review core challenge design elements, detailing how competitors exploited subtle business logic vulnerabilities and multi-stage lateral movement paths. The broadcast wraps up at 04:40:00 with concluding remarks from village organizers, acknowledging the volunteers, challenge authors, and top-ranking teams who competed in the event. (AI summary — Gemini Flash)",
       "durationSeconds": 16857
     },
     {

@@ -58,7 +58,7 @@
         "community"
       ],
       "teaser": "Voting Village co-founder Harri Hursti welcomes in-person and virtual attendees to DEF CON 29, framing key research themes and voting machine testing labs.",
-      "summary": null,
+      "summary": "In this opening address at the DEF CON 29 Voting Village, co-founder and renowned election cybersecurity specialist Harri Hursti welcomes researchers, election administrators, and attendees to the village live in Las Vegas. He begins at 05:00 by recounting the historical evolution of the Voting Village and its critical role in demonstrating the security vulnerabilities present in electronic voting machines, electronic poll books, and election reporting systems.\n\nHarri emphasizes the foundational mission of the village at 10:00, stating frankly that every machine present in the lab has exploitable weaknesses, and that future voting systems will inevitably contain flaws that require independent verification. At 15:00, he previews the hands-on lab environment, inviting participants to analyze physical ballot tabulators, voter registration equipment, and backend software platforms.\n\nHe concludes at 20:00 by highlighting the vital bridge the Voting Village builds between independent ethical hackers and local election officials. He stresses that transparent vulnerability disclosure and non-partisan technical research are indispensable to hardening election systems and safeguarding public trust in democratic institutions. (AI summary — Gemini Flash)",
       "durationSeconds": 1524
     },
     {
@@ -153,7 +153,7 @@
         "blue-team"
       ],
       "teaser": "Sang Oun Lee outlines how local election jurisdictions can update Information Security Policies (ISP) to protect critical municipal infrastructure.",
-      "summary": "The Dual Challenge of Local Government Cybersecurity\n\nLocal municipal governments provide essential civic services across sprawling administrative networks while operating under severe budget and staffing constraints.\n\nThe Foundation of Information Security Policies (ISPs)\n\nSang Oun Lee explains how an up-to-date Information Security Policy establishes mandatory administrative, operational, and technical controls across government agencies.\n\nAdapting Policies to Modern Threat Environments\n\nLee reviews key policy domains requiring modernization\u2014including remote work endpoints, third-party vendor management, cloud migrations, and incident response playbooks.\n\nA Pragmatic Implementation Framework for Municipalities\n\nThe author provides local IT and security leads with a modular framework to assess current policy posture and achieve compliance with NIST and CIS standards.",
+      "summary": "The Dual Challenge of Local Government Cybersecurity\n\nLocal municipal governments provide essential civic services across sprawling administrative networks while operating under severe budget and staffing constraints.\n\nThe Foundation of Information Security Policies (ISPs)\n\nSang Oun Lee explains how an up-to-date Information Security Policy establishes mandatory administrative, operational, and technical controls across government agencies.\n\nAdapting Policies to Modern Threat Environments\n\nLee reviews key policy domains requiring modernization—including remote work endpoints, third-party vendor management, cloud migrations, and incident response playbooks.\n\nA Pragmatic Implementation Framework for Municipalities\n\nThe author provides local IT and security leads with a modular framework to assess current policy posture and achieve compliance with NIST and CIS standards.",
       "durationSeconds": 1468
     },
     {
@@ -161,7 +161,7 @@
       "slug": "carsten-schurmann-how-to-weaponize-rlas-to-discredit-an-election",
       "title": "How to Weaponize Risk-Limiting Audits to Discredit an Election",
       "speakers": [
-        "Carsten Sch\u00fcrmann"
+        "Carsten Schürmann"
       ],
       "track": "policy",
       "topics": [
@@ -171,8 +171,8 @@
         "disinformation",
         "policy"
       ],
-      "teaser": "Carsten Sch\u00fcrmann analyzes how bad-faith actors weaponize Risk-Limiting Audits (RLAs) and audit misunderstandings in election disinformation campaigns.",
-      "summary": "The Promise and Assumptions of Risk-Limiting Audits\n\nRisk-Limiting Audits (RLAs) are widely considered the gold standard of statistical election verification, designed to provide mathematical evidence that reported outcomes match paper ballots.\n\nThe Vulnerability of Audits to Weaponization\n\nCarsten Sch\u00fcrmann demonstrates how nuanced statistical parameters\u2014such as sample selection anomalies and ballot discrepancies\u2014can be twisted by bad-faith actors to manufacture distrust.\n\nCase Studies in Audit Exploitation\n\nSch\u00fcrmann analyzes how minor clerical discrepancies discovered during audit sampling are amplified on social media to falsely claim systemic fraud.\n\nDesigning Resilient and Transparent Audit Communications\n\nThe author provides election officials with communication strategies and public-facing audit protocols to ensure statistical transparency without fueling conspiracy theories.",
+      "teaser": "Carsten Schürmann analyzes how bad-faith actors weaponize Risk-Limiting Audits (RLAs) and audit misunderstandings in election disinformation campaigns.",
+      "summary": "The Promise and Assumptions of Risk-Limiting Audits\n\nRisk-Limiting Audits (RLAs) are widely considered the gold standard of statistical election verification, designed to provide mathematical evidence that reported outcomes match paper ballots.\n\nThe Vulnerability of Audits to Weaponization\n\nCarsten Schürmann demonstrates how nuanced statistical parameters—such as sample selection anomalies and ballot discrepancies—can be twisted by bad-faith actors to manufacture distrust.\n\nCase Studies in Audit Exploitation\n\nSchürmann analyzes how minor clerical discrepancies discovered during audit sampling are amplified on social media to falsely claim systemic fraud.\n\nDesigning Resilient and Transparent Audit Communications\n\nThe author provides election officials with communication strategies and public-facing audit protocols to ensure statistical transparency without fueling conspiracy theories.",
       "durationSeconds": 1869
     },
     {
@@ -191,7 +191,7 @@
         "community"
       ],
       "teaser": "Missouri election directors Brianna Lennon and Eric Fey share candid insights from the frontlines of administering the historic 2020 general election.",
-      "summary": "The Frontline Realities of Election Administration\n\nLocal election officials in the United States operate under hyper-decentralized county structures, bearing primary responsibility for voting logistics, poll worker staffing, and tallying.\n\nAdministering Elections in a Global Pandemic\n\nBrianna Lennon and Eric Fey discuss the massive operational pivots required in 2020\u2014including procuring PPE, managing surges in absentee voting, and training temporary workers.\n\nCombatting Misinformation and Sustaining Public Trust\n\nThe speakers explore the psychological toll of widespread disinformation and harassment, detailing how proactive transparency builds local voter trust.\n\nCreating Peer Support Networks for Election Directors\n\nLennon and Fey highlight their podcast 'High Turnout, Wide Margins' as a collaborative forum for election administrators nationwide to exchange best practices.",
+      "summary": "The Frontline Realities of Election Administration\n\nLocal election officials in the United States operate under hyper-decentralized county structures, bearing primary responsibility for voting logistics, poll worker staffing, and tallying.\n\nAdministering Elections in a Global Pandemic\n\nBrianna Lennon and Eric Fey discuss the massive operational pivots required in 2020—including procuring PPE, managing surges in absentee voting, and training temporary workers.\n\nCombatting Misinformation and Sustaining Public Trust\n\nThe speakers explore the psychological toll of widespread disinformation and harassment, detailing how proactive transparency builds local voter trust.\n\nCreating Peer Support Networks for Election Directors\n\nLennon and Fey highlight their podcast 'High Turnout, Wide Margins' as a collaborative forum for election administrators nationwide to exchange best practices.",
       "durationSeconds": 1555
     },
     {
