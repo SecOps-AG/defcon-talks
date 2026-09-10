@@ -36,7 +36,7 @@
         "community"
       ],
       "teaser": "Managing diabetes revolves around stagnated tech from the 80s and 90s. Hackers took their lives into their hands by augmenting inadequate products after market. Building iterations of a DIY artificial pancreas and rea...",
-      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2664
     },
     {
@@ -102,7 +102,7 @@
         "community"
       ],
       "teaser": "Biomedical Imaging has previously been expensive and near impossible to hack and experiment with. If more people experimented and understood how imaging works we could move it forward much faster and make these transf...",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2441
     },
     {
@@ -170,7 +170,7 @@
         "def-con"
       ],
       "teaser": "Evaluating the clinical impact of a vulnerability has significant implication on how the vulnerabilities is handled both pre and post disclosure including how it is communicated to physicians and patients. Open and tr...",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 4160
     },
     {
@@ -239,7 +239,7 @@
         "community"
       ],
       "teaser": "Drawing the connections between how human biology is affecting the evolution of malware. This talk will discuss how malware can affect biological virus research and be used for future medical research. Basically, a co...",
-      "summary": "Malware Analysis and Reverse Engineering\n\nThis talk covers techniques for analyzing malicious software and firmware code. The presentation discusses tools, methodologies, and approaches for understanding executable behavior, identifying vulnerabilities, extracting indicators of compromise, and analyzing obfuscated code.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Malware Analysis and Reverse Engineering\n\nThis talk covers techniques for analyzing malicious software and firmware code. The presentation discusses tools, methodologies, and approaches for understanding executable behavior, identifying vulnerabilities, extracting indicators of compromise, and analyzing obfuscated code.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1318
     },
     {

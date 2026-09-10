@@ -21,7 +21,7 @@
         "red-team"
       ],
       "teaser": "Vandana Verma Sehgal explores Zero Trust architectures, examining identity verification, micro-segmentation, and offensive testing in modern cloud environments.",
-      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2308
     },
     {
@@ -1070,7 +1070,7 @@
         "cloud"
       ],
       "teaser": "Combining notebooks, datasets, and cloud for the ultimate automation factory.",
-      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information without direct system interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "OSINT and Reconnaissance Techniques\n\nThis presentation covers open-source intelligence gathering and passive reconnaissance methodologies. The speaker demonstrates tools and techniques for discovering security-relevant information without direct system interaction, including data mining, web scraping, and information synthesis from public sources.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3146
     },
     {
@@ -1138,7 +1138,7 @@
         "community"
       ],
       "teaser": "Protecting Wi-Fi Beacons from Outsider Forgeries (and how to abuse them).",
-      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1210
     },
     {
@@ -1207,7 +1207,7 @@
         "community"
       ],
       "teaser": "Catch Me if You Can.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3616
     },
     {
@@ -1275,7 +1275,7 @@
         "adversary-emulation"
       ],
       "teaser": "Guerrilla Red Team: Decentralize the Adversary.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3278
     },
     {
@@ -1339,7 +1339,7 @@
         "community"
       ],
       "teaser": "How to hack SWIFT, SPID, and SPEI with basic hacking techniques (from a Red Team Perspective).",
-      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1651
     },
     {
@@ -1407,7 +1407,7 @@
         "community"
       ],
       "teaser": "RedTeamOps.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 1497
     },
     {
@@ -1476,7 +1476,7 @@
         "password-cracking"
       ],
       "teaser": "Hashes; Smothered, Covered, and Scattered: Modern Password Cracking as a Methodology- Lee Wangenheim.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2966
     },
     {
@@ -1527,7 +1527,7 @@
         "community"
       ],
       "teaser": "Introducing DropEngine: A Malleable Payload Creation Framework.",
-      "summary": null,
+      "summary": "Gabriel Ryan, lead offensive researcher at SpecterOps, introduces DropEngine, an open-source framework designed to construct modular, highly evasive malware droppers and execution stages for red team engagements [00:00]. Ryan explains that modern Endpoint Detection and Response (EDR) agents have made static payload generation obsolete, necessitating flexible droppers that dynamically combine multiple evasion and execution primitives [09:41].\n\nThe presentation explores DropEngine's pipeline architecture, which decouples payload generation into discrete modules: Encrypters/Crypters, Decrypters, Mutators, and Executors [09:41]. Ryan focuses on environmental keying, demonstrating how payloads can derive cryptographic keys from target host properties—such as the active Active Directory domain name, BIOS serial numbers, or CPU identifiers [19:32]. If an analyst or automated sandbox executes the payload outside the intended target environment, key derivation fails and the underlying shellcode remains encrypted and unrecoverable [19:32].\n\nRyan details the implementation of advanced process execution and memory injection techniques, including early-bird APC queuing, thread hijacking, and direct system calls that bypass userland API hooks [42:33]. He illustrates how mutation engines rename symbols, insert junk instructions, and randomize binary layouts to defeat static signatures [31:21]. The talk provides red teams with an extensible foundation for crafting custom loaders capable of bypassing modern endpoint defenses [53:40].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3226
     },
     {
@@ -1544,7 +1544,7 @@
         "adversary-emulation"
       ],
       "teaser": "What college kids always get wrong, the art of attacking newbies to blueteam.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2965
     },
     {
@@ -1595,7 +1595,7 @@
         "adversary-emulation"
       ],
       "teaser": "All of the threats: Intelligence, modelling and hunting through an ATT&CKers lens.",
-      "summary": null,
+      "summary": "Tim Wadhwa-Brown, Principal Consultant at NCC Group, delivers a comprehensive presentation on operationalizing cyber threat intelligence (CTI), threat modeling, and threat hunting through the lens of the MITRE ATT&CK framework [00:00]. Wadhwa-Brown addresses the practical challenge of translating abstract intelligence feeds and threat actor profiles into actionable defensive detections and red team emulation plans [09:20].\n\nThe talk examines how to structure threat models iteratively, analyzing adversary motivation, capability, and opportunity to anticipate specific tactics, techniques, and procedures (TTPs) [09:20]. Wadhwa-Brown demonstrates how NCC Group links STIX/TAXII threat feeds into internal vulnerability knowledge bases, enabling automated mapping between known vulnerabilities and ATT&CK matrix techniques [19:05]. He evaluates the applicability of ATT&CK to cloud environments, walking through AWS-specific attack paths and mapping IAM privilege escalations, metadata service abuses, and serverless exploitation vectors [29:03].\n\nWadhwa-Brown critically assesses gaps in current threat classification models, highlighting overlooked persistence mechanisms and enterprise UNIX/Linux attack paths that lack standardized ATT&CK coverage [39:55]. He concludes with methodologies for building hypothesis-driven threat hunting queries that search host and network telemetry for subtle adversarial behaviors rather than static IOCs [50:54].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3061
     },
     {
@@ -1612,7 +1612,7 @@
         "community"
       ],
       "teaser": "Y'all Tryna Bypass Python 3.8 Audit Hooks or Nah?.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 2413
     },
     {
@@ -1664,7 +1664,7 @@
         "adversary-emulation"
       ],
       "teaser": "Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 & haydnjohnson.",
-      "summary": null,
+      "summary": "Red team practitioners Ch33r10 and Haydn Johnson present Indicators of Emulation (IOE), a methodology for designing highly authentic, threat-informed adversary emulation scenarios that test blue team detection capabilities without creating artificial testing artifacts [00:00]. The speakers discuss how offensive security testing often relies on generic public scripts that generate unrealistic detection signatures rather than reflecting real-world threat actor behaviors [09:09].\n\nThe presentation demonstrates how to analyze malware execution telemetry from sandboxes like Joe Sandbox and CAPE to extract precise execution sequences, API calls, and persistence mechanisms [18:19, 27:46]. The speakers illustrate this approach using real-world adversary playbooks, showing how threat actors establish persistence using scheduled tasks triggered at logon, manipulate Windows registry Run keys, and execute defense evasion through process hollowing [27:46, 44:56].\n\nCh33r10 and Johnson explain how to construct purple team emulation exercises that systematically test detection engineering pipelines [27:46]. They show how to incorporate pause controls, telemetry logging, and modular staging to give defenders granular feedback on whether specific telemetry events trigger alerts in Endpoint Detection and Response (EDR) and SIEM platforms [36:09].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 2706
     },
     {
@@ -1681,7 +1681,7 @@
         "adversary-emulation"
       ],
       "teaser": "Emulating an Adversary with Imperfect Intelligence.",
-      "summary": "Red Team Operations and Adversary Emulation\n\nThis talk covers techniques for emulating adversary tactics and operations with incomplete information. Discussion includes red team methodologies, hypothesis-driven security testing, and adapting to evolving threat scenarios.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Red Team Operations and Adversary Emulation\n\nThis talk covers techniques for emulating adversary tactics and operations with incomplete information. Discussion includes red team methodologies, hypothesis-driven security testing, and adapting to evolving threat scenarios.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3445
     },
     {
@@ -1723,7 +1723,8 @@
       "slug": "breaking-the-attack-chain-by-corey-ham-matt-eidelberg",
       "title": "Breaking the Attack Chain by Corey Ham & Matt Eidelberg",
       "speakers": [
-        "Corey Ham"
+        "Corey Ham",
+        "Matt Eidelberg"
       ],
       "track": "red-team",
       "topics": [
@@ -1732,7 +1733,7 @@
         "adversary-emulation"
       ],
       "teaser": "Breaking the Attack Chain.",
-      "summary": null,
+      "summary": "Red team operators Corey Ham and Matt Eidelberg dissect a complex enterprise red team engagement, walking through the complete attack lifecycle to identify critical chokepoints where blue teams can successfully disrupt adversary progression [00:00]. The speakers examine the attack chain from initial access through full domain compromise, demonstrating how minor operational security oversights allow attackers to compound initial footholds into complete network takeover [35:25].\n\nThe case study details the offensive progression, starting with targeted external spearphishing to gain initial userland code execution and establishing covert command-and-control channels [35:25]. The speakers illustrate lateral movement techniques, credential harvesting via LSASS memory dumping, and token manipulation across internal subnets [35:25]. In a key operational highlight, they reveal how they maintained resilient out-of-band persistence under tight deadlines by compromising corporate conference room audio/visual telepresence systems when internal workstations were locked down [46:57].\n\nHam and Eidelberg map each offensive action to corresponding defensive mitigations, explaining how organizations can \"break the chain\" [58:13]. They emphasize high-impact defensive architectural controls, including workstation-to-workstation traffic blocking, Local Administrator Password Solution (LAPS) deployment, restricted Kerberos delegation, and proactive egress filtering.\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3502
     },
     {
@@ -1750,7 +1751,7 @@
         "cloud"
       ],
       "teaser": "Knock knock, Who's There? Identifying Assets in the Cloud by  and StaticFlow.",
-      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, phishing techniques, and how attackers exploit human nature to bypass technical defenses in organizations.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, phishing techniques, and how attackers exploit human nature to bypass technical defenses in organizations.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3545
     },
     {
@@ -1801,7 +1802,7 @@
         "community"
       ],
       "teaser": "The Student Roadmap to Becoming A Penetration Tester.",
-      "summary": null,
+      "summary": "Jonathan Helmus, senior penetration tester at Nordstrom headquarters, delivers an inspiring and structured guide for students, career switchers, and junior practitioners aspiring to build a professional career in offensive cybersecurity [00:00]. Helmus emphasizes cultivating a persistent \"student mindset,\" explaining that curiosity, continuous self-education, and adaptability are far more important in long-term cybersecurity careers than static technical credentials [12:12].\n\nThe presentation outlines a step-by-step career development roadmap, detailing the foundational domains required for penetration testing: TCP/IP networking, Linux and Windows system administration, scripting, and web application architectures [24:46]. Helmus reviews essential industry certifications, discussing foundational certificates like CompTIA Security+ and Network+ before progressing to hands-on practical certifications such as the Offensive Security Certified Professional (OSCP) and eLearnSecurity Junior Penetration Tester (eJPT) [36:28].\n\nHelmus provides practical guidance on leveraging online training labs like TryHackMe, Hack The Box, and VulnHub to develop methodical problem-solving habits [48:38]. He emphasizes the critical importance of soft skills, professional report writing, and active participation in local security communities such as BSides and DEF CON groups to establish industry relationships [01:00:43].\n\n(AI summary — Gemini Flash)",
       "durationSeconds": 3645
     },
     {
@@ -1818,7 +1819,7 @@
         "community"
       ],
       "teaser": "The Joy of Coordinating Vulnerability Disclosure.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 3417
     },
     {

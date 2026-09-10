@@ -18,7 +18,7 @@
         "ai-security"
       ],
       "teaser": "An interview exploring WhiteRabbitNeo, an open-source offensive security and red-teaming large language model demonstrated at DEF CON 32.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 723
     },
     {
@@ -36,7 +36,7 @@
         "community"
       ],
       "teaser": "A walkthrough with Daniel exploring wireless and hardware scanning techniques across the DEF CON 32 convention floor.",
-      "summary": "This presentation focuses on reconnaissance and open-source intelligence gathering methodologies.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This presentation focuses on reconnaissance and open-source intelligence gathering methodologies.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 604
     },
     {
@@ -85,7 +85,7 @@
         "culture"
       ],
       "teaser": "An interview with electronic music producer and performer deadmau5 discussing music production technology, tech culture, and DEF CON.",
-      "summary": "DEF CON Documentary and Community Content\n\nBehind-the-scenes footage and supplementary material from the DEF CON documentary. This includes interviews, discussions, and moments capturing hacker culture and convention atmosphere.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Documentary and Community Content\n\nBehind-the-scenes footage and supplementary material from the DEF CON documentary. This includes interviews, discussions, and moments capturing hacker culture and convention atmosphere.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 348
     },
     {
@@ -101,7 +101,7 @@
         "community"
       ],
       "teaser": "A feature on OWASP community initiatives, open-source application security projects, and developer outreach at DEF CON 32.",
-      "summary": "This DEF CON talk covers owasp at def con 32.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers owasp at def con 32.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 576
     },
     {
@@ -155,7 +155,7 @@
         "scanning"
       ],
       "teaser": "Erik provides a detailed walkthrough of the airport security screening simulator and hardware initiatives at DEF CON 32.",
-      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Social Engineering and Human-Oriented Security\n\nThis presentation explores social engineering attacks and human vulnerability in security systems. Topics include psychological manipulation, pretexting, credential harvesting, and how attackers exploit human nature to bypass technical defenses.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 215
     },
     {
@@ -171,7 +171,7 @@
         "privacy"
       ],
       "teaser": "An overview of Women in Security and Privacy (WISP) programs, mentorship opportunities, and events hosted at DEF CON 32.",
-      "summary": "This DEF CON talk covers women in security and privacy (wisp) spotlight.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:00. 760><c> I'm</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers women in security and privacy (wisp) spotlight.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:00. 760><c> I'm</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 80
     },
     {
@@ -219,7 +219,7 @@
         "community"
       ],
       "teaser": "A retrospective on the legendary DEF CON Tin Foil Hat Contest, celebrating absurd RF shielding designs and conference tradition.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research presented at DEF CON. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 26
     },
     {
@@ -237,7 +237,7 @@
         "community"
       ],
       "teaser": "An interview with Marco, winner of the DEF CON 32 Clue Hunt contest, discussing puzzle solving strategies and badge hunting adventures.",
-      "summary": "This DEF CON talk covers clue hunt winner interview: marco.\n\nKey topics discussed include: Kind: captions Language: en Defcon<00:00:02. 280><c> what's</c><00:00:02.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers clue hunt winner interview: marco.\n\nKey topics discussed include: Kind: captions Language: en Defcon<00:00:02. 280><c> what's</c><00:00:02.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 434
     },
     {
@@ -289,7 +289,7 @@
         "social"
       ],
       "teaser": "An introduction to the annual DEF CON Bike Ride tradition, bringing cyclists together across the Las Vegas desert before the conference.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 351
     },
     {
@@ -305,7 +305,7 @@
         "community"
       ],
       "teaser": "A walkthrough of the Soldering Skills Village at DEF CON 32 teaching surface-mount assembly, circuit debugging, and badge assembly.",
-      "summary": "This DEF CON talk covers hardware hacking and soldering skills village.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers hardware hacking and soldering skills village.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 78
     },
     {
@@ -353,7 +353,7 @@
         "community"
       ],
       "teaser": "European crowdsourced security platform Intigriti highlights bug bounty initiatives, researcher engagement, and community events at DEF CON 32.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 36
     },
     {
@@ -369,7 +369,7 @@
         "community"
       ],
       "teaser": "A tour of the Car Hacking Village at DEF CON 32 featuring CAN bus testing benches, instrument cluster fuzzing, and connected vehicle targets.",
-      "summary": "This talk examines automotive cybersecurity vulnerabilities and vehicle systems exploitation.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:00. 359><c> everybody</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This talk examines automotive cybersecurity vulnerabilities and vehicle systems exploitation.\n\nKey topics discussed include: Kind: captions Language: en hello<00:00:00. 359><c> everybody</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 36
     },
     {
@@ -417,7 +417,7 @@
         "community"
       ],
       "teaser": "An overview of live hacking demos, ethical disclosure talks, and hands-on target scopes in the Bug Bounty Village at DEF CON 32.",
-      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "Hardware Hacking and Physical Security\n\nThis talk covers hardware hacking techniques and physical security analysis. Topics include circuit board analysis, side-channel attacks, firmware extraction, and low-level debugging of hardware systems.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 32
     },
     {
@@ -433,7 +433,7 @@
         "community"
       ],
       "teaser": "DEF CON 32 attendees and indie hardware creators showcase custom electronic badges, artistic circuit designs, and #badgelife culture.",
-      "summary": "This DEF CON talk covers badgelife: the art and engineering of custom badges.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:01. 040><c> this</c><00:00:01.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers badgelife: the art and engineering of custom badges.\n\nKey topics discussed include: Kind: captions Language: en hey<00:00:01. 040><c> this</c><00:00:01.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 143
     },
     {
@@ -483,7 +483,7 @@
         "hacker-culture"
       ],
       "teaser": "Organizer Silk outlines bizarre challenges, scavenger hunt item lists, and rules for the longest-running contest at DEF CON.",
-      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "DEF CON Security Research Presentation\n\nThis talk covers technical security topics and vulnerability research. The presentation includes discussion of contemporary security challenges, demonstrations of exploitation techniques, and insights into defensive countermeasures and security best practices.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 93
     },
     {
@@ -499,7 +499,7 @@
         "mentorship"
       ],
       "teaser": "A DEF CON 32 Video Team walkthrough highlighting the Blacks In Cybersecurity (BIC) Village, community mentorship, career tracks, and technical presentations.",
-      "summary": "This DEF CON talk covers blacks in cybersecurity village spotlight.\n\nKey topics discussed include: Kind: captions Language: en hi<00:00:00. 560><c> everybody</c><00:00:00.\n\n(AI summary \u2014 Claude Haiku)",
+      "summary": "This DEF CON talk covers blacks in cybersecurity village spotlight.\n\nKey topics discussed include: Kind: captions Language: en hi<00:00:00. 560><c> everybody</c><00:00:00.\n\n(AI summary — Claude Haiku)",
       "durationSeconds": 36
     }
   ]
