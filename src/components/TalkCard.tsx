@@ -74,6 +74,10 @@ export function TalkCard({ talk }: { talk: TalkIndexEntry | Partial<SearchEntry>
           <p className="text-xs text-mint/65">{(talk.speakers ?? []).join(" · ")}</p>
         ) : null}
 
+        {talk.teaser ? (
+          <p className="text-sm leading-relaxed text-mint/85">{talk.teaser}</p>
+        ) : null}
+
         {(talk as Partial<SearchEntry>).matchedInSummary ? (
           <p className="text-xs text-cyan/75 italic">
             Matched in summary

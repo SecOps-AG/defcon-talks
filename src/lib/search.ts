@@ -78,6 +78,7 @@ export function buildIndexEntry(talk: Talk): TalkIndexEntry {
     id: talk.id,
     slug: talk.slug,
     title: talk.title,
+    teaser: talk.teaser,
     speakers: talk.speakers,
     youtubeId: talk.youtubeId,
     year: talk.year,
@@ -106,6 +107,7 @@ export function withHaystack(entries: TalkIndexEntry[]): SearchEntry[] {
     speakerSlugs: entry.speakers.map(slugifySpeaker),
     haystack: [
       entry.title,
+      entry.teaser ?? "",
       entry.speakers.join(" "),
       entry.villageName,
       entry.eventShortName,
